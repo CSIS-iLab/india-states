@@ -34,7 +34,7 @@ defaults:
     type: sectors
   values:
     layout: sectors
-    subsectors:
+    subsectors: 
 email: jschrag@csis.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
