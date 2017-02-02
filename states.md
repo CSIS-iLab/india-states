@@ -1,7 +1,7 @@
 ---
 title: States
 permalink: "/states/"
-layout: collection-archive
+layout: states-archive
 collection: states
 ---
 

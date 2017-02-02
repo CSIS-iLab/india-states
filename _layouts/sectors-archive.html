@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+
+    {% for item in site[page.collection] %}
+      <h2>
+        <a href='{{ item.id | prepend: site.github.url }}'>{{ item.title }}</a>
+      </h2>
+      <!-- Subsectors -->
+      <ul>
+        {% for subsector in item.subsectors %}
+          <li>
+            <a href='{{ subsector.id | prepend: site.github.url }}'>{{ subsector }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
+
+  </div>
+
+</article>

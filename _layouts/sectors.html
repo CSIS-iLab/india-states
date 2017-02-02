@@ -11,11 +11,33 @@ layout: default
   <div class="post-content">
     {{ content }}
 
-    <ul>
-    	{% for subsector in page.subsectors %}
-      		<li>{{ subsector.title }}: {{ subsector.description }}</li>
-    	{% endfor %}
+    <p>All of the posts that have "{{ page.title }}" in their <code>sectors</code> front matter will be listed below.</p>
+
+    <!-- List Subsectors -->
+    {% if page.subsectors %}
+      <h2>Subsectors</h2>
+      <ul>
+      	{% for subsector in page.subsectors %}
+        	<li>{{ subsector}}</li>
+      	{% endfor %}
+      </ul>
+    {% endif %}
+
+    <!-- Display posts related to this sector -->
+    <ul class="post-list">
+      {% for post in site.posts %}
+        {% if post.sectors contains page.title %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+          </li>
+        {% endif %}
+      {% endfor %}
     </ul>
+
   </div>
 
 </article>

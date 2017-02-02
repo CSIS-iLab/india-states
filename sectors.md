@@ -1,7 +1,7 @@
 ---
 title: Sectors
 permalink: "/sectors/"
-layout: collection-archive
+layout: sectors-archive
 collection: sectors
 ---
 

@@ -11,10 +11,21 @@ layout: default
   <div class="post-content">
     {{ content }}
 
-    <ul>
-    	{% for subsector in page.subsectors %}
-      		<li>{{ subsector.title }}: {{ subsector.description }}</li>
-    	{% endfor %}
+    <p>All of the posts that have "{{ page.title }}" in their <code>states</code> front matter will be listed below.</p>
+
+    <!-- Display posts related to this state -->
+    <ul class="post-list">
+      {% for post in site.posts %}
+        {% if post.states contains page.title %}
+          <li>
+            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+            <h2>
+              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            </h2>
+          </li>
+        {% endif %}
+      {% endfor %}
     </ul>
   </div>
 
