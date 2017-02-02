@@ -13,7 +13,7 @@ layout: default
     <ul>
     	{% for item in site[page.collection] %}
       	<li>
-          <a href='{{item.id}}'>{{ item.title }}</a>
+          <a href='{{ item.id | prepend: site.github.url }}'>{{ item.title }}</a>
         </li>
     	{% endfor %}
     </ul>
