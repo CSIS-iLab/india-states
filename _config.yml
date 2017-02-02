@@ -23,7 +23,14 @@ defaults:
   values:
     layout: post
     states: 
-    sectors: 
+    sectors:
+    subsectors:
+    sources:
+      name:
+      url:
+    details:
+      name:
+      url: 
 - scope:
     path: ''
     type: states

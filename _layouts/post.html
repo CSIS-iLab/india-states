@@ -8,20 +8,7 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 
-    <!-- Display Sectors -->
-    {% if page.sectors %}
-      <strong>Sectors:</strong> 
-      {% for sector in page.sectors %}
-        {% if forloop.last == true %}
-          <a href='{{ sector | slugify | prepend: site.github.url | prepend: "/sectors/" }}'>{{ sector }}</a>
-        {% else %}
-          <a href='{{ sector | slugify | prepend: site.github.url | prepend: "/sectors/" }}'>{{ sector }}</a>,
-        {% endif %}
-      {% endfor %}
-      <br />
-    {% endif %}
-
-    <!-- Display States -->
+    <!-- States -->
     {% if page.states %}
       <strong>States:</strong> 
       {% for state in page.states %}
@@ -34,14 +21,62 @@ layout: default
       <br />
     {% endif %}
 
+    <!-- Sectors -->
+    {% if page.sectors %}
+      <strong>Sectors:</strong> 
+      {% for sector in page.sectors %}
+        {% if forloop.last == true %}
+          <a href='{{ sector | slugify | prepend: site.github.url | prepend: "/sectors/" }}'>{{ sector }}</a>
+        {% else %}
+          <a href='{{ sector | slugify | prepend: site.github.url | prepend: "/sectors/" }}'>{{ sector }}</a>,
+        {% endif %}
+      {% endfor %}
+      <br />
+    {% endif %}
+
+    <!-- Subsectors -->
+    {% if page.subsectors %}
+      <strong>Subsectors:</strong> {{ page.subsectors | join: ', ' }}<br />
+    {% endif %}
+
   </header>
 
   <div class="post-content" itemprop="articleBody">
-    <!-- Display Content -->
+    <!-- Content -->
     {{ content }}
-  </div>
 
-  {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
-  {% endif %}
+
+    <!-- Sources -->
+    {% if page.sources %}
+      <p class="post-meta">
+        {% if page.sources.size > 1 %}
+          Sources:
+        {% else %}
+          Source:
+        {% endif %}
+
+        {% for source in page.sources %}
+          {% if forloop.last == true %}
+            <a href="{{ source.url }}" target="_blank">{{ source.name }}</a>
+          {% else %}
+            <a href="{{ source.url }}" target="_blank">{{ source.name }}</a>,
+          {% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+
+    <!-- Details -->
+    {% if page.details %}
+      <p class="post-meta">Details: 
+        {% for detail in page.details %}
+          {% if forloop.last == true %}
+            <a href="{{ detail.url }}" target="_blank">{{ detail.name }}</a>
+          {% else %}
+            <a href="{{ detail.url }}" target="_blank">{{ detail.name }}</a>,
+          {% endif %}
+        {% endfor %}
+      </p>
+    {% endif %}
+
+  </div>
 </article>
