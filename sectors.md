@@ -1,7 +1,7 @@
 ---
-layout: collection-archive
 title: Sectors
-permalink: /sectors/
+permalink: "/sectors/"
+layout: collection-archive
 collection: sectors
 ---
 

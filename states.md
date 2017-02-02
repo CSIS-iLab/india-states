@@ -1,7 +1,7 @@
 ---
-layout: collection-archive
 title: States
-permalink: /states/
+permalink: "/states/"
+layout: collection-archive
 collection: states
 ---
 
