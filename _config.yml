@@ -23,13 +23,13 @@ defaults:
   values:
     layout: post
     states: 
-    sectors:
-    subsectors:
+    sectors: 
+    subsectors: 
     sources:
-      name:
-      url:
+      name: 
+      url: 
     details:
-      name:
+      name: 
       url: 
 - scope:
     path: ''
