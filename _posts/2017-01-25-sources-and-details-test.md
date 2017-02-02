@@ -8,6 +8,8 @@ sectors:
 subsectors:
 - Coal
 - Nuclear
+- Test
+- 
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/suzlon-bags-105-mw-order-from-axis-energy-group-in-andhra-pradesh/articleshow/56373386.cms
