@@ -13,9 +13,9 @@ layout: default
       <strong>Sectors:</strong> 
       {% for sector in page.sectors %}
         {% if forloop.last == true %}
-          <a href='/sectors/{{ sector | slugify | prepend: site.github.url }}'>{{ sector }}</a>
+          <a href='{{ sector | slugify | prepend: site.github.url | prepend: "/sectors/" }}'>{{ sector }}</a>
         {% else %}
-          <a href='/sectors/{{ sector | slugify | prepend: site.github.url }}'>{{ sector }}</a>,
+          <a href='{{ sector | slugify | prepend: site.github.url | prepend: "/sectors/" }}'>{{ sector }}</a>,
         {% endif %}
       {% endfor %}
       <br />
@@ -26,14 +26,14 @@ layout: default
       <strong>States:</strong> 
       {% for state in page.states %}
         {% if forloop.last == true %}
-          <a href='/states/{{ state | slugify | prepend: site.github.url }}'>{{ state }}</a>
+          <a href='{{ state | slugify | prepend: site.github.url | prepend: "/states/" }}'>{{ state }}</a>
         {% else %}
-          <a href='/states/{{ sector | slugify | prepend: site.github.url }}'>{{ state }}</a>,
+          <a href='{{ sector | slugify | prepend: site.github.url | prepend: "/states/" }}'>{{ state }}</a>,
         {% endif %}
       {% endfor %}
       <br />
     {% endif %}
-    
+
   </header>
 
   <div class="post-content" itemprop="articleBody">
