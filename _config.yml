@@ -13,9 +13,6 @@ collections:
     title: States
     output: true
     path: "/:path/:title/"
-  subsectors:
-    title: Subsectors
-    output: true
   uploads:
     title: Uploads
     output: true
