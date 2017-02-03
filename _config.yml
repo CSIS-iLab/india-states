@@ -13,12 +13,12 @@ collections:
     title: States
     output: true
     path: "/:path/:title/"
-  uploads:
-    title: Uploads
-    output: true
   trackers:
     title: Trackers
     output: false
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
@@ -44,7 +44,7 @@ defaults:
     type: sectors
   values:
     layout: sectors
-    subsectors:
+    subsectors: 
 - scope:
     path: ''
     type: trackers
