@@ -49,10 +49,10 @@ defaults:
     path: ''
     type: trackers
   values:
-    start_date:
-    end_date:
-    sectors:
-    subsectors:
+    start_date: 
+    end_date: 
+    sectors: 
+    subsectors: 
     data_name: 
 email: jschrag@csis.org
 description: Write an awesome description for your new site here. You can edit this
