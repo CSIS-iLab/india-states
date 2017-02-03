@@ -1,0 +1,33 @@
+<!-- Get the Table's Header Rows -->
+{% assign labels = "" | split: "" %}
+{% for row in site.data[include.name] %}
+  {% for item in row %}
+    {% unless labels contains item[0] %}
+      {% assign labels = labels | push: item[0] %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}
+
+<!-- Render the Table -->
+<table style="width:100%;">
+  <!-- Table Header Row -->
+  <thead>
+    <tr>
+      {% for label in labels %}
+      <td style="border-bottom: 1px solid #000;">{{ label | capitalize }}</td>
+      {% endfor %}
+    </tr>
+  </thead>
+  <!-- Table Body Rows -->
+  {% for row in site.data[include.name] %}
+  <tbody>
+    <tr>
+    {% for item in row %}
+      <td>
+        {{ item[1] }}
+      </td>
+    {% endfor %}
+    </tr>
+  </tbody>
+  {% endfor %}
+</table>

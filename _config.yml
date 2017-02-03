@@ -16,6 +16,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  trackers:
+    title: Trackers
+    output: false
 defaults:
 - scope:
     path: ''
@@ -41,7 +44,17 @@ defaults:
     type: sectors
   values:
     layout: sectors
-    subsectors: 
+    subsectors:
+- scope:
+    path: ''
+    type: trackers
+  values:
+    layout: post
+    start_date:
+    end_date:
+    sectors:
+    subsectors:
+    data_name: 
 email: jschrag@csis.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search

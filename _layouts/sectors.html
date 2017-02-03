@@ -24,6 +24,7 @@ layout: default
     {% endif %}
 
     <!-- Display posts related to this sector -->
+    <h2>Related News</h2>
     <ul class="post-list">
       {% for post in site.posts %}
         {% if post.sectors contains page.title %}
@@ -37,6 +38,22 @@ layout: default
         {% endif %}
       {% endfor %}
     </ul>
+
+    <!-- Display trackers related to this sector -->
+    <h2>Related Trackers</h2>
+      {% for tracker in site.trackers %}
+        {% if tracker.sectors contains page.title %}
+            <h3>
+              {{ tracker.title | escape }} <span class="post-meta">({{ tracker.start_date | date: "%b %-d, %Y" }} - {{ tracker.end_date | date: "%b %-d, %Y" }})</span>
+            </h3>
+
+            <!-- Generate Tracker Table -->
+            {% capture trackerName %}{{tracker.data_name}}{% endcapture %}
+            {% include tables-csv.html name=trackerName %} 
+
+            <br />
+        {% endif %}
+      {% endfor %}
 
   </div>
 
