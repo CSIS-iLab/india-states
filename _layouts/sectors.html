@@ -44,7 +44,7 @@ layout: default
       {% for tracker in site.trackers %}
         {% if tracker.sectors contains page.title %}
             <h3>
-              {{ tracker.title | escape }} <span class="post-meta">({{ tracker.start_date | date: "%b %-d, %Y" }} - {{ tracker.end_date | date: "%b %-d, %Y" }})</span>
+              {{ tracker.title | escape }} <span class="post-meta">({{ tracker.start_date | date: "%B %-d, %Y" }} - {{ tracker.end_date | date: "%B %-d, %Y" }})</span>
             </h3>
 
             <!-- Generate Tracker Table -->
