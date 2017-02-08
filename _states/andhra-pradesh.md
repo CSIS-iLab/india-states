@@ -1,11 +1,11 @@
 ---
 title: Andhra Pradesh
-size: 100000
-population: 1000000
+size: '100,000'
+population: '1,000,000'
 party_affiliation: Party A
 legislative_seats: 100
 rajya_seats: 100
-gdp: 1000000
+gdp: '1,000,000'
 development_indicators:
   mortality: 10
   literacy: 10
