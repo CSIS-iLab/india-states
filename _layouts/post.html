@@ -36,7 +36,14 @@ layout: default
 
     <!-- Subsectors -->
     {% if page.subsectors %}
-      <strong>Subsectors:</strong> {{ page.subsectors | join: ', ' }}<br />
+      <strong>Subsectors:</strong> 
+      {% for subsector in page.subsectors %}
+        {% if forloop.last == true %}
+          <a href='{{ subsector | slugify | prepend: site.github.url | prepend: "/subsectors/" }}'>{{ subsector }}</a>
+        {% else %}
+          <a href='{{ subsector | slugify | prepend: site.github.url | prepend: "/subsectors/" }}'>{{ subsector }}</a>,
+        {% endif %}
+      {% endfor %}
     {% endif %}
 
   </header>

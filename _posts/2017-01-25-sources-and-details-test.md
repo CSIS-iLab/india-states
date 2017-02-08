@@ -6,9 +6,7 @@ states:
 sectors:
 - Energy
 subsectors:
-- Coal
-- Nuclear
-- Test
+- Oil and Gas
 sources:
 - name: Business Times
   url: http://google.com

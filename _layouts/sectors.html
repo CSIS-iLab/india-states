@@ -5,7 +5,12 @@ layout: default
 <article class="post">
 
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1 class="post-title">
+      {% if page.parent_sector %}
+        {{ page.parent_sector | escape | append: ": " }}
+      {% endif %}
+      {{ page.title | escape }}
+    </h1>
   </header>
 
   <div class="post-content">
@@ -13,21 +18,27 @@ layout: default
 
     <p>All of the posts that have "{{ page.title }}" in their <code>sectors</code> front matter will be listed below.</p>
 
-    <!-- List Subsectors -->
-    {% if page.subsectors %}
-      <h2>Subsectors</h2>
-      <ul>
-      	{% for subsector in page.subsectors %}
-        	<li>{{ subsector}}</li>
-      	{% endfor %}
-      </ul>
-    {% endif %}
+    <!-- START: List Subsectors -->
+    {% for subsector in site.subsectors %}
+      {% if subsector.parent_sector == page.title %}
+        {% if forloop.first == true %}
+          <h2>Subsectors</h2>
+          <ul>
+        {% endif %}
+            <li><a href='{{ subsector.id | prepend: site.github.url }}'>{{ subsector.title }}</a></li>
+        {% if forloop.last == true %}
+          </ul>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+    <!-- END: List Subsectors -->
+
 
     <!-- Display posts related to this sector -->
     <h2>Related News</h2>
     <ul class="post-list">
       {% for post in site.posts %}
-        {% if post.sectors contains page.title %}
+        {% if post.sectors contains page.title or post.subsectors contains page.title %}
           <li>
             <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -42,7 +53,7 @@ layout: default
     <!-- Display trackers related to this sector -->
     <h2>Related Trackers</h2>
       {% for tracker in site.trackers %}
-        {% if tracker.sectors contains page.title %}
+        {% if tracker.sectors contains page.title or tracker.subsectors contains page.title %}
             <h3>
               {{ tracker.title | escape }} <span class="post-meta">({{ tracker.start_date | date: "%B %-d, %Y" }} - {{ tracker.end_date | date: "%B %-d, %Y" }})</span>
             </h3>

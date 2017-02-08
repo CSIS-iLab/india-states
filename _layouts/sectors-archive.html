@@ -15,14 +15,21 @@ layout: default
       <h2>
         <a href='{{ item.id | prepend: site.github.url }}'>{{ item.title }}</a>
       </h2>
-      <!-- Subsectors -->
-      <ul>
-        {% for subsector in item.subsectors %}
-          <li>
-            <a href='{{ subsector.id | prepend: site.github.url }}'>{{ subsector }}</a>
-          </li>
-        {% endfor %}
-      </ul>
+      
+      <!-- START: List Subsectors -->
+      {% for subsector in site.subsectors %}
+        {% if subsector.parent_sector == item.title %}
+          {% if forloop.first == true %}
+            <ul>
+          {% endif %}
+              <li><a href='{{ subsector.id | prepend: site.github.url }}'>{{ subsector.title }}</a></li>
+          {% if forloop.last == true %}
+            </ul>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      <!-- END: List Subsectors -->
+
     {% endfor %}
 
   </div>
