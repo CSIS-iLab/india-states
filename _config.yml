@@ -9,12 +9,12 @@ collections:
     title: Sectors
     output: true
     path: "/:path/:title/"
-  subsectors:
-    title: Subsectors
-    output: true
-    path: "/:path/:title/"
   states:
     title: States
+    output: true
+    path: "/:path/:title/"
+  subsectors:
+    title: Subsectors
     output: true
     path: "/:path/:title/"
   trackers:
@@ -62,7 +62,7 @@ defaults:
     type: subsectors
   values:
     layout: sectors
-    parent_sector:
+    parent_sector: 
 - scope:
     path: ''
     type: trackers
