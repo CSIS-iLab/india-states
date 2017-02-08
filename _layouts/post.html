@@ -13,9 +13,9 @@ layout: default
       <strong>States:</strong> 
       {% for state in page.states %}
         {% if forloop.last == true %}
-          <a href='{{ state | slugify | prepend: "/states/" }}'>{{ state }}</a>
+          <a href='{{ state | slugify | prepend: "/states/" | prepend: site.github.url }}'>{{ state }}</a>
         {% else %}
-          <a href='{{ sector | slugify | prepend: "/states/" }}'>{{ state }}</a>,
+          <a href='{{ state | slugify | prepend: site.github.url | prepend: "/states/" }}'>{{ state }}</a>,
         {% endif %}
       {% endfor %}
       <br />
@@ -26,9 +26,9 @@ layout: default
       <strong>Sectors:</strong> 
       {% for sector in page.sectors %}
         {% if forloop.last == true %}
-          <a href='{{ sector | slugify | prepend: "/sectors/" }}'>{{ sector }}</a>
+          <a href='{{ sector | slugify | prepend: site.github.url | prepend: "/sectors/" }}'>{{ sector }}</a>
         {% else %}
-          <a href='{{ sector | slugify | prepend: "/sectors/" }}'>{{ sector }}</a>,
+          <a href='{{ sector | slugify | prepend: site.github.url | prepend: "/sectors/" }}'>{{ sector }}</a>,
         {% endif %}
       {% endfor %}
       <br />
@@ -39,9 +39,9 @@ layout: default
       <strong>Subsectors:</strong> 
       {% for subsector in page.subsectors %}
         {% if forloop.last == true %}
-          <a href='{{ subsector | slugify | prepend: "/subsectors/" }}'>{{ subsector }}</a>
+          <a href='{{ subsector | slugify | prepend: site.github.url | prepend: "/subsectors/" }}'>{{ subsector }}</a>
         {% else %}
-          <a href='{{ subsector | slugify | prepend: "/subsectors/" }}'>{{ subsector }}</a>,
+          <a href='{{ subsector | slugify | prepend: site.github.url | prepend: "/subsectors/" }}'>{{ subsector }}</a>,
         {% endif %}
       {% endfor %}
     {% endif %}
