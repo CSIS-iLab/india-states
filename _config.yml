@@ -5,6 +5,8 @@ collections:
   posts:
     title: Posts
     output: true
+    test:
+    - 
   sectors:
     title: Sectors
     output: true
