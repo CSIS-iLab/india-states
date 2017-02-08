@@ -6,8 +6,8 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">
-      {% if page.parent_sector %}
-        {{ page.parent_sector | escape | append: ": " }}
+      {% if page.sector %}
+        {{ page.sector | escape | append: ": " }}
       {% endif %}
       {{ page.title | escape }}
     </h1>
@@ -16,11 +16,11 @@ layout: default
   <div class="post-content">
     {{ content }}
 
-    <p>All of the posts that have "{{ page.title }}" in their <code>sectors</code> front matter will be listed below.</p>
+    <p>All of the posts that have "{{ page.title }}" in their <code>sectors</code> or <code>subsectors</code> front matter will be listed below.</p>
 
     <!-- START: List Subsectors -->
     {% for subsector in site.subsectors %}
-      {% if subsector.parent_sector == page.title %}
+      {% if subsector.sector == page.title %}
         {% if forloop.first == true %}
           <h2>Subsectors</h2>
           <ul>

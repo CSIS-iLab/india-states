@@ -62,7 +62,7 @@ defaults:
     type: subsectors
   values:
     layout: sectors
-    parent_sector: 
+    sector: 
 - scope:
     path: ''
     type: trackers

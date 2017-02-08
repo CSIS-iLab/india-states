@@ -1,6 +1,6 @@
 ---
 title: Nuclear
-parent_sector: Energy
+sector: Energy
 ---
 
 This is the the page for the nuclear subsector. Information about it will go here.

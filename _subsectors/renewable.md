@@ -1,6 +1,6 @@
 ---
 title: Renewable
-parent_sector: Energy
+sector: Energy
 ---
 
 This is the the page for the Renewable subsector. Information about it will go here.

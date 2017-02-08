@@ -1,6 +1,6 @@
 ---
 title: Oil and Gas
-parent_sector: Energy
+sector: Energy
 ---
 
 This is the the page for the Oil and Gas subsector. Information about it will go here.

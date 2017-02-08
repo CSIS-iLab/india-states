@@ -18,7 +18,7 @@ layout: default
       
       <!-- START: List Subsectors -->
       {% for subsector in site.subsectors %}
-        {% if subsector.parent_sector == item.title %}
+        {% if subsector.sector == item.title %}
           {% if forloop.first == true %}
             <ul>
           {% endif %}

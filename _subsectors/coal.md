@@ -1,6 +1,6 @@
 ---
 title: Coal
-parent_sector: Energy
+sector: Energy
 ---
 
 This is the the page for the Coal subsector. Information about it will go here.
