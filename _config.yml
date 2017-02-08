@@ -39,15 +39,15 @@ defaults:
     type: states
   values:
     layout: states
-    size:
-    population:
-    party_affiliation:
-    legislative_seats:
-    rajya_seats:
-    gdp:
+    size: 
+    population: 
+    party_affiliation: 
+    legislative_seats: 
+    rajya_seats: 
+    gdp: 
     development_indicators:
-      mortality:
-      literacy:
+      mortality: 
+      literacy: 
 - scope:
     path: ''
     type: sectors
