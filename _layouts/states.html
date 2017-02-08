@@ -13,6 +13,30 @@ layout: default
 
     <p>All of the posts that have "{{ page.title }}" in their <code>states</code> front matter will be listed below.</p>
 
+    <h3>Overview</h3>
+    <dl class="inline-flex">
+      <dt>Size</dt>
+      <dd>{{ page.size }}</dd>
+      <dt>Population</dt>
+      <dd>{{ page.population }}</dd>
+      <dt>Party Affiliation</dt>
+      <dd>{{ page.party_affiliation }}</dd>
+      <dt>Legislative Assembly Seats</dt>
+      <dd>{{ page.legislative_seats }}</dd>
+      <dt>Rajya Sabha Seats</dt>
+      <dd>{{ page.rajya_seats }}</dd>
+      <dt>State GDP</dt>
+      <dd>{{ page.gdp }}</dd>
+    </dl>
+    <h3>Development Indicators</h3>
+    <dl class="inline-flex">
+      <dt>Mortality Rate</dt>
+      <dd>{{ page.development_indicators.mortality | append: "%" }}</dd>
+      <dt>Literacy Rate</dt>
+      <dd>{{ page.development_indicators.literacy | append: "%" }}</dd>
+    </dl>
+    <br />
+    <h2>Related News</h2>
     <!-- Display posts related to this state -->
     <ul class="post-list">
       {% for post in site.posts %}

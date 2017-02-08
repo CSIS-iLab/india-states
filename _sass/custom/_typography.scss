@@ -1,0 +1,26 @@
+dl.inline-flex {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  width: 65%;      /* set the container width*/
+  overflow: visible;
+
+  dt {
+    flex: 0 0 50%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-weight:bold;
+
+    &::after {
+      content: ": ";
+    }
+  }
+  
+  dd {
+    flex:0 0 50%;
+    margin-left: auto;
+    text-align: left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+}
