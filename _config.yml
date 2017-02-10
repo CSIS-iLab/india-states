@@ -89,15 +89,15 @@ twitter_username: jekyllrb
 github_username: jekyll
 google_analytics: ''
 algolia:
-  application_id: '7UNKAH6RMH'
-  index_name: 'india_states'
+  application_id: 7UNKAH6RMH
+  index_name: india_states
   excluded_files:
-    - index.md
-    - about.md
-    - map.md
-    - states.md
-    - sectors.md
-    - search.md
+  - index.md
+  - about.md
+  - map.md
+  - states.md
+  - sectors.md
+  - search.md
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 markdown: kramdown
 theme: minima
