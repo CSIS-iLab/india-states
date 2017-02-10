@@ -9,6 +9,11 @@
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+  <script src="//code.jquery.com/jquery-3.1.0.min.js"></script>
+  <!-- Include AlgoliaSearch JS Client and autocomplete.js jQuery plugin after the jQuery dependency -->
+  <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
+  <script src="//cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script>
   
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}

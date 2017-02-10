@@ -31,6 +31,7 @@ defaults:
     type: posts
   values:
     layout: post
+    content_type: Post
     states: 
     sectors: 
     subsectors: 
@@ -45,6 +46,7 @@ defaults:
     type: states
   values:
     layout: states
+    content_type: State
     size: 
     population: 
     party_affiliation: 
@@ -59,16 +61,19 @@ defaults:
     type: sectors
   values:
     layout: sectors
+    content_type: Sector
 - scope:
     path: ''
     type: subsectors
   values:
     layout: sectors
+    content_type: Subsector
     sector: 
 - scope:
     path: ''
     type: trackers
   values:
+    content_type: Tracker
     start_date: 
     end_date: 
     sectors: 
@@ -83,11 +88,23 @@ url: ''
 twitter_username: jekyllrb
 github_username: jekyll
 google_analytics: ''
+algolia:
+  application_id: '7UNKAH6RMH'
+  index_name: 'india_states'
+  excluded_files:
+    - index.md
+    - about.md
+    - map.md
+    - states.md
+    - sectors.md
+    - search.md
+algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 markdown: kramdown
 theme: minima
 gems:
 - jekyll-feed
 - jekyll-seo-tag
+- algoliasearch-jekyll
 exclude:
 - Gemfile
 - Gemfile.lock

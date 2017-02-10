@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content">
+  	{{ content }}
+  	<div class="algolia__initial-content"></div>
+  </div>
+
+</article>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	// Get Search Query
+	var hash = window.location.hash.replace("#", "");
+	
+	// If we have a search query, search
+	if(hash) {
+
+		// Search Request
+		var client = algoliasearch("{{ site.algolia.application_id }}", "{{ site.algolia_search_api }}");
+	  	var index = client.initIndex("{{ site.algolia.index_name }}");
+
+		index.search(hash, {
+		  attributesToRetrieve: ['firstname', 'lastname'],
+		  hitsPerPage: 50
+		}, function searchDone(err, content) {
+		  if (err) {
+		    console.error(err);
+		    return;
+		  }
+
+		  for (var h in content.hits) {
+		    console.log(content.hits[h]);
+
+		    $(".algolia__initial-content").append('{% include search-result.html title="'+content.hits[h]._highlightResult.title.value+'" content_type="'+content.hits[h]._highlightResult.content_type.value+'" text="'+content.hits[h]._highlightResult.text.value+'" %}');
+		  }
+		});
+
+		// Update Header Title
+		$(".post-title").text("{{ page.title | escape }} Results for: "+hash);
+	}
+
+});
+</script>
