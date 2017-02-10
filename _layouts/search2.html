@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<!-- IE < 10 support -->
+<!--[if lte IE 9]>
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<![endif]-->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker.min.css" />
+
+  <!-- INTERFACE -->
+  <div class="search-header">
+    {{ page.title | escape }}
+    <div id="search-input"></div>
+    <div id="search-input-icon"></div>
+  </div>
+
+  <main>
+    <div id="left-column">
+      <div id="category" class="facet"></div>
+      <div id="tags" class="facet"></div>
+    </div>
+
+    <div id="right-column">
+      <div id="sort-by-wrapper"><span id="sort-by"></span></div>
+      <div id="stats"></div>
+      <div id="hits"></div>
+      <div id="pagination"></div>
+    </div>
+  </main>
+  <!-- /INTERFACE -->
+
+  <!-- TEMPLATES -->
+  <script type="text/html" id="hit-template">
+    <div class="hit">
+      <div class="hit-content">
+        <h3 class="hit-price">
+        {% raw %}
+          {{{_highlightResult.content_type.value}}}
+        {% endraw %}
+        </h3>
+        <h2 class="hit-name">
+        {% raw %}
+          {{{_highlightResult.title.value}}}
+        {% endraw %}
+        </h2>
+        <p class="hit-description">
+        {% raw %}
+          {{{_highlightResult.excerpt.value}}}
+        {% endraw %}
+        </p>
+      </div>
+    </div>
+  </script>
+
+  <script type="text/html" id="no-results-template">
+    <div id="no-results-message">
+      <p>We didn't find any results for the search <em>"{{query}}"</em>.</p>
+      <a href="." class='clear-all'>Clear search</a>
+    </div>
+  </script>
+  <!-- /TEMPLATES -->
+
+  	<!-- SCRIPTS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
+  	<script src="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
+  	<script src="/assets/js/searchpage.js"></script>
+  	<!-- /SCRIPTS -->
