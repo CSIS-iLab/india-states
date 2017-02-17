@@ -108,3 +108,4 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
+sector_overview_post_limit: 5

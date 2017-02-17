@@ -1,0 +1,38 @@
+<!-- Get the posts first, and then display them according to subsector -->
+{% assign sectorPosts = include.posts | where_exp:"post","post.sectors contains sector.title" %}
+{% assign subsectors = site.subsectors | where_exp:"subsector","subsector.sector == sector.title" %}
+
+<!-- Display Subsector Filtering if we have articles in this sector -->
+{% if sectorPosts %}
+  <ul>
+    <li><button class="subsector-link" data-show-subsector="{{ sector.title | slugify }}-all" data-sector="{{ sector.title | slugify }}">All</button></li>
+    {% for subsector in subsectors %}
+      <li><button class="subsector-link" data-show-subsector="{{ subsector.title | slugify }}" data-sector="{{ sector.title | slugify }}">{{ subsector.title }}</button></li>
+    {% endfor %}
+  </ul>
+  
+  <div class="post-listing" data-sector="{{ sector.title | slugify }}">
+    <!-- Display Overall Top 5 Articles -->
+    <div class="subsectorContainer active" data-subsector="{{ sector.title | slugify }}-all">
+      All<br />
+      {% for post in sectorPosts limit: site.sector_overview_post_limit %}
+        {% include post-listing-post.html %}
+      {% endfor %}
+    </div>
+
+    <!-- Display Top 5 Articles Per Subsector -->
+    {% for subsector in subsectors %}
+    {% assign subsectorPosts = sectorPosts | where_exp:"post","post.subsectors contains subsector.title" %}
+    <div class="subsectorContainer hidden" data-subsector="{{ subsector.title | slugify }}">
+      {{ subsector.title }}<br />
+      {% for post in subsectorPosts limit: site.sector_overview_post_limit %}
+        {% include post-listing-post.html %}
+      {% endfor %}
+    </div>
+    {% endfor %}
+
+  <!-- If there are no articles -->
+  {% else %}
+  <p>There are currently no related articles in this sector.</p>
+  {% endif %}
+</div>

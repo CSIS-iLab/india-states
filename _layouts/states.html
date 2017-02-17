@@ -36,21 +36,23 @@ layout: default
       <dd>{{ page.development_indicators.literacy }}</dd>
     </dl>
     <br />
-    <h2>Related News</h2>
-    <!-- Display posts related to this state -->
-    <ul class="post-list">
-      {% for post in site.posts %}
-        {% if post.states contains page.title %}
-          <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+    <br />
 
-            <h2>
-              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            </h2>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
+    <!-- Display Sectors -->
+    {% for sector in site.sectors %}
+      <h2>
+        <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
+      </h2>
+
+      <!-- Get State Specific Posts -->
+      {% assign statePosts = site.posts | where_exp:"post","post.states contains page.title" %}
+
+      {% include post-subsector-filtering.html posts=statePosts %}
+
+    {% endfor %}
+
+
+    
   </div>
 
 </article>
