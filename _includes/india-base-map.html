@@ -1,0 +1,70 @@
+<div id="chart"></div>
+
+<script src="https://d3js.org/d3.v3.min.js"></script>
+<script type="text/javascript" src="/assets/js/d3.geo.min.js"></script>
+<script type="text/javascript">
+  var w = 600;
+  var h = 600;
+  var proj = d3.geo.mercator();
+  var path = d3.geo.path().projection(proj);
+  var t = proj.translate(); // the projection's default translation
+  var s = proj.scale() // the projection's default scale
+
+  var map = d3.select("#chart").append("svg:svg")
+      .attr("width", w)
+      .attr("height", h)
+      .call(initialize);
+
+// Define linear scale for output
+var color = d3.scale.linear()
+        .range(["rgb(213,222,217)","rgb(69,173,168)","rgb(84,36,55)","rgb(217,91,67)"]);
+
+  var india = map.append("svg:g")
+      .attr("id", "india");
+
+  var json = {{ site.data.india-base-map | jsonify }};
+
+  india.selectAll("path")
+      .data(json.features)
+    .enter().append("path")
+      .attr("id", function(d) { return d.properties.name_1;})
+      .attr("d", path);
+
+  function initialize() {
+    proj.scale(6700);
+    proj.translate([-1240, 720]);
+  }
+
+
+    
+     
+   // This section should allow for zoom & pan.
+   function redraw() {
+      // d3.event.translate stores the current translation from the parent SVG element
+      // t stores the projection's default translation
+      // adding the x and y vales in each array to yields the projection's new translation
+      var tx = t[0] * d3.event.scale + d3.event.translate[0];
+      var ty = t[1] * d3.event.scale + d3.event.translate[1];
+      proj.translate([tx, ty]);
+      // determine the projection's new scale and redraw the map:
+      proj.scale(s * d3.event.scale); 
+      india.selectAll("path").attr("d", path);
+    }
+     // This section should color each state.
+var states = india.append("g")
+    .attr("id", "states")
+    .attr("class", "Blues");
+    // load the GDP data
+    // 
+      // data = {{ site.data.renewable-power-target | jsonify }};
+      
+      states.selectAll("path")
+        .attr("class", quantize);
+    
+    function quantize(d) {
+      return "q" + Math.min(8, ~~(data[d.id] * 9 / 12)) + "-9";
+    }
+
+  
+
+</script>
