@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% if page.sector %}
+  {% assign sector = page.sector %}
+{% else %}
+  {% assign sector = page.title %}
+{% endif %}
+
 <article class="post">
 
   <header class="post-header">
@@ -18,38 +24,10 @@ layout: default
 
     <p>All of the posts that have "{{ page.title }}" in their <code>sectors</code> or <code>subsectors</code> front matter will be listed below.</p>
 
-    <!-- START: List Subsectors -->
-    {% for subsector in site.subsectors %}
-      {% if subsector.sector == page.title %}
-        {% if forloop.first == true %}
-          <h2>Subsectors</h2>
-          <ul>
-        {% endif %}
-            <li><a href='{{ subsector.id | prepend: site.github.url }}'>{{ subsector.title }}</a></li>
-        {% if forloop.last == true %}
-          </ul>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-    <!-- END: List Subsectors -->
+    <!-- Post Listing, Filterable by Subsector -->
+    {% include post-subsector-filtering.html posts=site.posts sector=sector %}
 
-
-    <!-- Display posts related to this sector -->
-    <h2>Related News</h2>
-    <ul class="post-list">
-      {% for post in site.posts %}
-        {% if post.sectors contains page.title or post.subsectors contains page.title %}
-          <li>
-            <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-            <h2>
-              <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-            </h2>
-          </li>
-        {% endif %}
-      {% endfor %}
-    </ul>
-
+    <br /><br /><br /><br />
     <!-- Display trackers related to this sector -->
     <h2>Related Trackers</h2>
       {% for tracker in site.trackers %}

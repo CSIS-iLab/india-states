@@ -1,19 +1,19 @@
 <!-- Get the posts first, and then display them according to subsector -->
-{% assign sectorPosts = include.posts | where_exp:"post","post.sectors contains sector.title" %}
-{% assign subsectors = site.subsectors | where_exp:"subsector","subsector.sector == sector.title" %}
+{% assign sectorPosts = include.posts | where_exp:"post","post.sectors contains include.sector" %}
+{% assign subsectors = site.subsectors | where_exp:"subsector","subsector.sector == include.sector" %}
 
 <!-- Display Subsector Filtering if we have articles in this sector -->
 {% if sectorPosts %}
   <ul>
-    <li><button class="subsector-link" data-show-subsector="{{ sector.title | slugify }}-all" data-sector="{{ sector.title | slugify }}">All</button></li>
+    <li><button class="subsector-link" data-show-subsector="{{ include.sector | slugify }}-all" data-sector="{{ include.sector | slugify }}">All</button></li>
     {% for subsector in subsectors %}
-      <li><button class="subsector-link" data-show-subsector="{{ subsector.title | slugify }}" data-sector="{{ sector.title | slugify }}">{{ subsector.title }}</button></li>
+      <li><button class="subsector-link" data-show-subsector="{{ subsector.title | slugify }}" data-sector="{{ include.sector | slugify }}">{{ subsector.title }}</button></li>
     {% endfor %}
   </ul>
   
-  <div class="post-listing" data-sector="{{ sector.title | slugify }}">
+  <div class="post-listing" data-sector="{{ include.sector | slugify }}">
     <!-- Display Overall Top 5 Articles -->
-    <div class="subsectorContainer active" data-subsector="{{ sector.title | slugify }}-all">
+    <div class="subsectorContainer active" data-subsector="{{ include.sector | slugify }}-all">
       All<br />
       {% for post in sectorPosts limit: site.sector_overview_post_limit %}
         {% include post-listing-post.html %}

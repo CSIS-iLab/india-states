@@ -11,24 +11,13 @@ layout: default
   <div class="post-content">
     {{ content }}
 
-    {% for item in site[page.collection] %}
+    {% for sector in site.sectors %}
       <h2>
-        <a href='{{ item.id | prepend: site.github.url }}'>{{ item.title }}</a>
+        <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
       </h2>
-      
-      <!-- START: List Subsectors -->
-      {% for subsector in site.subsectors %}
-        {% if subsector.sector == item.title %}
-          {% if forloop.first == true %}
-            <ul>
-          {% endif %}
-              <li><a href='{{ subsector.id | prepend: site.github.url }}'>{{ subsector.title }}</a></li>
-          {% if forloop.last == true %}
-            </ul>
-          {% endif %}
-        {% endif %}
-      {% endfor %}
-      <!-- END: List Subsectors -->
+
+      <!-- Post Listing, Filterable by Subsector -->
+      {% include post-subsector-filtering.html posts=site.posts sector=sector.title %}
 
     {% endfor %}
 
