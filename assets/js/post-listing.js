@@ -6,7 +6,6 @@ $(function() {
 	var activeSubsector = window.location.hash.replace("#", "");
 	var path = window.location.pathname.split('/');
 	var activeSector = path[path.length - 1];
-	console.log(activeSector);
 	if(activeSubsector) {
 		switchActiveSubsector(activeSector, activeSubsector); // Switch active subsector to show those posts
 	}

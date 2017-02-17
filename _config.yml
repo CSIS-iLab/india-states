@@ -17,7 +17,7 @@ collections:
     path: "/:path/:title/"
   subsectors:
     title: Subsectors
-    output: true
+    output: false
     path: "/:path/:title/"
   trackers:
     title: Trackers
