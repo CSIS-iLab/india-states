@@ -72,22 +72,48 @@ function app(opts) {
 
   search.addWidget(
     instantsearch.widgets.refinementList({
-      container: '#tags',
-      attributeName: 'tags',
+      container: '#state',
+      attributeName: 'states',
       sortBy: ['isRefined', 'count:desc', 'name:asc'],
       limit: 10,
       operator: 'or',
-      searchForFacetValues: {
-        placeholder: 'Search for tags',
-        templates: {
-          noResults: '<div class="sffv_no-results">No matching tags.</div>'
-        }
-      },
       templates: {
-        header: getHeader('Brand')
+        header: getHeader('State')
       }
     })
   );
+
+  search.addWidget(
+    instantsearch.widgets.refinementList({
+      container: '#sector',
+      attributeName: 'sectors',
+      sortBy: ['isRefined', 'count:desc', 'name:asc'],
+      limit: 10,
+      operator: 'or',
+      templates: {
+        header: getHeader('Sector')
+      }
+    })
+  );
+
+  // search.addWidget(
+  //   instantsearch.widgets.refinementList({
+  //     container: '#tags',
+  //     attributeName: 'tags',
+  //     sortBy: ['isRefined', 'count:desc', 'name:asc'],
+  //     limit: 10,
+  //     operator: 'or',
+  //     searchForFacetValues: {
+  //       placeholder: 'Search for tags',
+  //       templates: {
+  //         noResults: '<div class="sffv_no-results">No matching tags.</div>'
+  //       }
+  //     },
+  //     templates: {
+  //       header: getHeader('Brand')
+  //     }
+  //   })
+  // );
 
 
   // search.addWidget({
