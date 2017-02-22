@@ -47,7 +47,7 @@ layout: default
       <!-- Get State Specific Posts -->
       {% assign statePosts = site.posts | where_exp:"post","post.states contains page.title" %}
 
-      {% include post-subsector-filtering.html posts=statePosts sector=sector.title %}
+      {% include post-subsector-filtering.html posts=statePosts sector=sector.title state=page.title %}
 
     {% endfor %}
 

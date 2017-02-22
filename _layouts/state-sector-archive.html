@@ -2,7 +2,16 @@
 layout: default
 ---
 
-This is a state-sector archive page!
-<br />
-{{ page.state }}<br />
-{{ page.sector }}
+<article class="post">
+
+	<header class="post-header">
+    	<h1 class="post-title">{{ page.state | escape }}: {{ page.sector | escape }}</h1>
+  	</header>
+
+  	<div class="post-content">
+		<!-- Get State Specific Posts -->
+		{% assign statePosts = site.posts | where_exp:"post","post.states contains page.state" %}
+
+		{% include post-subsector-filtering.html posts=statePosts sector=page.sector state=page.state %}
+	</div>
+</article>
