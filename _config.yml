@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  resources:
+    title: Resources
+    output: false
   sectors:
     title: Sectors
     output: true
@@ -23,9 +26,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  resources:
-    title: Resources
-    output: false
 defaults:
 - scope:
     path: ''
@@ -41,9 +41,9 @@ defaults:
       url: 
     details:
       name: 
-      url:
+      url: 
     is_analysis: false
-    author:
+    author: 
     author_image: 
 - scope:
     path: ''
@@ -88,7 +88,7 @@ defaults:
     type: resources
   values:
     content_type: Resource
-    link:
+    link: 
 email: jschrag@csis.org
 description: Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for Google search
