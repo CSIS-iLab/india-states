@@ -40,7 +40,10 @@ defaults:
       url: 
     details:
       name: 
-      url: 
+      url:
+    is_analysis: false
+    author:
+    author_image: 
 - scope:
     path: ''
     type: states
@@ -105,7 +108,18 @@ gems:
 - jekyll-feed
 - jekyll-seo-tag
 - algoliasearch-jekyll
+- jekyll-archives
 exclude:
 - Gemfile
 - Gemfile.lock
 sector_overview_post_limit: 5
+
+jekyll-archives:
+  enabled: all
+  layout: 'archive'
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    day: '/:year/:month/:day/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'

@@ -1,1 +1,1 @@
-<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> {% if post.is_analysis %}ANALYSIS{% endif %}
