@@ -22,7 +22,6 @@ module Jekyll
     safe true
 
     def generate(site)
-      # p site.collections['states']
       if site.layouts.key? 'state-sector-archive'
         dir = 'states'
         # Loop through states
@@ -32,6 +31,10 @@ module Jekyll
             filename = state.data["slug"] + "-" + sector.data["slug"]
             site.pages << ArchivePage.new(site, site.source, File.join(dir), filename, state.data["title"], sector.data["title"])
           end
+
+          # Create an all archive
+          filename = state.data["slug"] + "-all"
+          site.pages << ArchivePage.new(site, site.source, File.join(dir), filename, state.data["title"], "all")
 
         end
       end
