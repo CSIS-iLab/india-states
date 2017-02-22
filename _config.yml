@@ -115,18 +115,10 @@ gems:
 - jekyll-feed
 - jekyll-seo-tag
 - algoliasearch-jekyll
-- jekyll-archives
 exclude:
 - Gemfile
 - Gemfile.lock
 sector_overview_post_limit: 5
-
-jekyll-archives:
-  enabled: all
-  layout: 'archive'
-  permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
+tag_page_layout: tag-archive
+tag_page_dir: tag
+tag_permalink_style: pretty
