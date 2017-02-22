@@ -110,7 +110,6 @@ algolia:
   - search.md
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 markdown: kramdown
-theme: minima
 gems:
 - jekyll-feed
 - jekyll-seo-tag
