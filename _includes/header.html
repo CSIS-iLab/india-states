@@ -14,11 +14,10 @@
       </span>
 
       <div class="trigger">
-          {% assign menu = site.data.navigation.main %}
-          {% for nav in menu %}
-            <a class="page-link" href="{{ nav.href | relative_url }}">{{ nav.title | escape }}</a>
-          {% endfor %}
-
+        {% assign menu = site.data.navigation.main %}
+        {% for nav in menu %}
+          <a class="page-link" href="{{ nav.href | relative_url }}">{{ nav.title | escape }}</a>
+        {% endfor %}
       </div>
     </nav>
 

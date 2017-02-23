@@ -8,40 +8,45 @@ layout: default
   
   {{ content }}
 
-  <!-- States -->
-  <h2>States</h2>
-  <ul>
-    {% for state in site.states %}
-      <li>
-        <a href='{{ state.id | prepend: site.github.url }}'>{{ state.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-
-  <!-- Sectors -->
-  <h2>Sectors</h2>
-  <ul>
-    {% for sector in site.sectors %}
-      <li>
-        <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
-
-        <!-- START: List Subsectors -->
-        {% for subsector in site.subsectors %}
-          {% if subsector.sector == sector.title %}
-            {% if forloop.first == true %}
-              <ul>
-            {% endif %}
-                <li><a href='{{ sector.id | prepend: site.github.url }}#{{ subsector.title | slugify }}'>{{ subsector.title }}</a></li>
-            {% if forloop.last == true %}
-              </ul>
-            {% endif %}
-          {% endif %}
+  <div class="row">
+    <div class="col-xs-12 col-sm-6">
+      <!-- States -->
+      <h2>States</h2>
+      <ul>
+        {% for state in site.states %}
+          <li>
+            <a href='{{ state.id | prepend: site.github.url }}'>{{ state.title }}</a>
+          </li>
         {% endfor %}
-        <!-- END: List Subsectors -->
+      </ul>
+    </div>
+    <div class="col-xs-12 col-sm-6">
+      <!-- Sectors -->
+      <h2>Sectors</h2>
+      <ul>
+        {% for sector in site.sectors %}
+          <li>
+            <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
 
-      </li>
-    {% endfor %}
-  </ul>
+            <!-- START: List Subsectors -->
+            {% for subsector in site.subsectors %}
+              {% if subsector.sector == sector.title %}
+                {% if forloop.first == true %}
+                  <ul>
+                {% endif %}
+                    <li><a href='{{ sector.id | prepend: site.github.url }}#{{ subsector.title | slugify }}'>{{ subsector.title }}</a></li>
+                {% if forloop.last == true %}
+                  </ul>
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+            <!-- END: List Subsectors -->
+
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
 
   <!-- Posts: Remove this after development -->
   <h2>Posts</h2>
