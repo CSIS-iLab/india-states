@@ -231,6 +231,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-tagging!
   json
+  minima (~> 2.0)
   tzinfo-data
 
 RUBY VERSION

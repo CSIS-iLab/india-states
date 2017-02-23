@@ -3,10 +3,7 @@
 {% assign subsectors = site.subsectors | where_exp:"subsector","subsector.sector == include.sector" %}
 
 <!-- Archive Link -->
-{% capture archiveLink %}{% if include.state %}states/{{ include.state | slugify }}-{{ include.sector | slugify }}{% else %}sectors/{{ include.sector | slugify }}{% endif %}{% endcapture %}
-
-{{ include.state }}
-{{ include.sector }}
+{% capture archiveLink %}{% if include.state %}states/{{ include.state | slugify }}/{{ include.sector | slugify }}{% else %}sectors/{{ include.sector | slugify }}{% endif %}{% endcapture %}
 
 <!-- Display Subsector Filtering if we have articles in this sector -->
 {% if sectorPosts %}

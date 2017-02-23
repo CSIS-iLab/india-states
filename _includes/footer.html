@@ -18,6 +18,7 @@
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
         </ul>
+        {% include search-bar.html %}
       </div>
 
       <div class="footer-col footer-col-2">
@@ -44,3 +45,5 @@
   </div>
 
 </footer>
+
+<script src="{{ "/assets/js/post-listing.js" | relative_url }}"></script>
