@@ -1,5 +1,6 @@
 ---
 ---
+
 [
 	{% for post in site.posts %}
 		{% if post.states.size > 1 %}
