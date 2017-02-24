@@ -35,7 +35,7 @@ defaults:
     content_type: Post
     states: 
     sectors: 
-    subsectors:
+    subsectors: 
     feature_image: 
     sources:
       name: 
@@ -53,12 +53,12 @@ defaults:
     layout: state
     content_type: State
     size: 
-    population: 
-      rural:
-      urban:
+    population:
+      rural: 
+      urban: 
     party_affiliation: 
     legislative_seats: 
-    rajya_seats:
+    rajya_seats: 
     lok_seats: 
     gdp: 
 - scope:
@@ -83,10 +83,10 @@ defaults:
     end_date: 
     sectors: 
     subsectors: 
-    data_name:
-    last_updated_at:
+    data_name: 
+    last_updated_at: 
     sources:
-      name:
+      name: 
       url: 
 - scope:
     path: ''
