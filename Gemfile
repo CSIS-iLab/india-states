@@ -28,6 +28,7 @@ gem "minima", "~> 2.0"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
+   gem "jekyll-paginate-v2"
    gem 'jekyll-seo-tag'
    gem 'algoliasearch-jekyll', '~> 0.8.0'
    gem 'jekyll-tagging', :git => 'https://github.com/pattex/jekyll-tagging.git'
