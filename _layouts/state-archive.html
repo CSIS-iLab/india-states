@@ -16,3 +16,24 @@ layout: default
 		{% include post-listing.html posts=statePosts %}
 	</div>
 </article>
+
+<pre id="log">Loading...</pre>
+
+<script src="//unpkg.com/unfetch/dist/unfetch.umd.js"></script>
+<script>
+	unfetch('/posts.json', {
+		method: 'GET',
+		headers: { 'Content-Type': 'application/json' },
+	})
+	.then( r => r.json() )
+	.then( data => {
+		log(data);
+	});
+
+
+
+// for demo purposes
+function log(t) {
+	document.getElementById('log').textContent += '\n\n'+JSON.stringify(t,0,2);
+}
+</script>
