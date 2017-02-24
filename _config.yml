@@ -49,7 +49,7 @@ defaults:
     path: ''
     type: states
   values:
-    layout: states
+    layout: state
     content_type: State
     size: 
     population: 
@@ -64,13 +64,13 @@ defaults:
     path: ''
     type: sectors
   values:
-    layout: sectors
+    layout: sector
     content_type: Sector
 - scope:
     path: ''
     type: subsectors
   values:
-    layout: sectors
+    layout: sector
     content_type: Subsector
     sector: 
 - scope:

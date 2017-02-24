@@ -13,6 +13,6 @@ layout: default
 		<!-- Get State Specific Posts -->
 		{% assign statePosts = site.posts | where_exp:"post","post.states contains page.state" %}
 
-		{% include post-subsector-filtering.html posts=statePosts sector=page.sector state=page.state %}
+		{% include post-listing.html posts=statePosts %}
 	</div>
 </article>
