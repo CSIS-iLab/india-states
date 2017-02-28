@@ -6,11 +6,12 @@
 	<a href="#sort=sector&amp;order=asc" class="sort-attribute">Sector Ascending</a> &middot; 
 	<a href="#sort=sector&amp;order=desc" class="sort-attribute">Sector Descending</a>
 </div>
+<div class="pagination-posts-container"></div>
 <div class="pagination-container"></div>
 
 <script type="text/javascript">
 	// Load all posts JSON for this State / Section
-	var posts = [
+	var postsPaginateMain = [
 		{% for post in posts %}
 			{% capture states %}[{% for state in post.states %}"{{state}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
 			{% capture sectors %}[{% for sector in post.sectors %}"{{sector}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
@@ -26,109 +27,23 @@
 		{% endfor %}
 	];
 
-	var postsBySectors = {};
-	posts.forEach(function(post) {
-	  post.sectors.forEach(function(sector){
-	    if(!postsBySectors[sector]) postsBySectors[sector] = [];
-	    postsBySectors[sector].push(post);
-	  });
+	var postsPaginateSecondary = [];
+	postsPaginateMain.forEach(function(post, pIndex) {
+		post.sectors.forEach(function(sector, index){
+			var newPost = {
+				"title": post.title,
+				"states": post.states,
+				"sectors": post.sectors,
+				"sector": sector,
+				"subsectors": post.subsectors,
+				"url": post.url,
+				"date": post.date,
+				"excerpt": post.excerpt
+			};
+	    	postsPaginateSecondary.push(newPost);
+	    });
 	});
 
-	console.log(postsBySectors);
-
-	$(function() {
-		// On page load check for hash based url settings
-		// if those settings exist, configure page elements based on those, and run pagination / rendering functions
-		function checkHash() {
-			var hash = window.location.hash.replace("#", "");
-			if(hash) {
-				console.log("We have a hash: "+hash);
-				var sort_field = hash.substr(hash.indexOf('sort='))
-                  				.split('&')[0]
-                  				.split('=')[1];
-                console.log("Sort Field: "+sort_field);
-                var sort_order = hash.substr(hash.indexOf('order='))
-                  				.split('&')[0]
-                  				.split('=')[1];
-                console.log("Sort Order: "+sort_order);
-
-                // Configure Page Elements based on hash
-                $(".sort-attribute").removeClass("active");
-                $("a[href^='#"+hash+"']").addClass("active");
-			}
-			paginationCalculation(sort_field, sort_order);
-		}
-
-		window.onhashchange = checkHash;
-		checkHash(); // Initial call to check hash based url settings
-
-		// paginationFunction
-		   // take item to start at (0 by default)
-		   // decide if sorted by date, or section, or state (single source of truth, check settings each time)
-		   // stores settings into hash based url
-		   // sort array based on that request
-		   // pass the ordered array and the index of item to rednering function
-
-			function paginationCalculation(sort_field = "date", sort_order = "desc") {
-				if(sort_order == "desc" && sort_field == "date") {
-					sort_field = "-"+sort_field;
-				}
-
-				if(sort_field == "sector") {
-					if(sort_order == "desc") {
-						Object.keys(postsBySectors).sort( function(keyA, keyB) {
-						  return postsBySectors[keyA] < postsBySectors[keyB];
-						});
-					}
-					else {
-						Object.keys(postsBySectors).sort( function(keyA, keyB) {
-						  return postsBySectors[keyA] > postsBySectors[keyB];
-						});
-					}
-					$.each(postsBySectors, function(sector, posts) {
-						console.log(sector);
-						console.log(posts);
-						postRender(postsBySectors[sector]);
-					});
-				}
-				else {
-					posts.sort(dynamicSort(sort_field));
-					postRender(posts);
-				}
-			}
-
-		// renderingFunction
-		   // takes ordered array
-		   // for each post, render into div
-			
-			function postRender(posts) {
-				// Empty's pagination container
-				$(".pagination-container").empty();
-				$.each(posts, function(index, post) {
-					$(".pagination-container").append("<a class='post-link' href='"+post.url+"'>"+post.title+": "+post.date+"</a>");
-				});
-			}
-
-		// renderPagitionFunction
-		   // take number of items total, and current last item count, and items per page
-		   // number of pages == totalItems / numberPerPage
-		   // Current page ==  lastItemCount / numberPerPage
-		   // render "clickable" links into pagination div
-
-		// Sort Functionality
-		function dynamicSort(property) {
-		    var sortOrder = 1;
-		    if(property[0] === "-") {
-		        sortOrder = -1;
-		        property = property.substr(1);
-		    }
-		    return function (a,b) {
-		        var result = (a[property] < b[property]) ? -1 : (a[property] > b[property]) ? 1 : 0;
-		        return result * sortOrder;
-		    }
-		}
-
-
-		console.log(posts);
-	});
-	</script>
+	var posts_per_page = {{ site.post_archive_posts_per_page }};
+</script>
+<script src="{{ "/assets/js/pagination.js" | relative_url }}"></script>

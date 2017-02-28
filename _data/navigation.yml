@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    href: "/"
   - title: "About"
     href: "/about/"
   - title: "Analysis"
@@ -13,3 +11,5 @@ main:
     href: "/resources/"
   - title: "Map"
     href: "/map/"
+  - title: "Search"
+    href: "/search/"
