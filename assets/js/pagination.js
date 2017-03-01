@@ -6,6 +6,7 @@ $(function() {
 	 function paginationCheckHash() {
 	 	var hash = window.location.hash;
 	 	var current_page = 1;
+	 	console.log("hash: "+hash);
 	 	if(hash) {
 			// Get Hash values
 			var sort_field = hash.substr(hash.indexOf('sort=')).split('&')[0].split('=')[1];
