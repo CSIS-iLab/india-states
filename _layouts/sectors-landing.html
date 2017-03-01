@@ -16,8 +16,9 @@ layout: default
         <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
       </h2>
 
-      <!-- Post Listing, Filterable by Subsector -->
-      {% include post-subsector-filtering.html posts=site.posts sector=sector.title %}
+      <!-- Post Listing-->
+      {% assign sectorPosts = site.posts | where_exp:"post","post.sectors contains sector.title" %}
+      {% include post-listing.html posts=sectorPosts limit=site.sector_overview_post_limit %}
 
     {% endfor %}
 

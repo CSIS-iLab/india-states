@@ -1,6 +1,6 @@
 <!-- Display Posts -->  
 <div class="post-listing">
-  {% for post in include.posts %}
+  {% for post in include.posts limit:include.limit %}
     {% include post-listing-post.html %}
   {% endfor %}
 
