@@ -3,7 +3,8 @@ $(function() {
 	=            Post Listing Filtering            =
 	==============================================*/
 	// Get and Set Active Filter if we have one in the URL
-	var activeSubsector = window.location.hash.replace("#", "");
+	var hash = window.location.hash.replace("#", "");
+	var activeSubsector = hash.substr(hash.indexOf('subsector=')).split('&')[0].split('=')[1];
 	var activeSector = $(".post-listing").data("sector");
 	if(activeSubsector) {
 		switchActiveSubsector(activeSector, activeSubsector); // Switch active subsector to show those posts

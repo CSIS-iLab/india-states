@@ -28,6 +28,7 @@
 	];
 
 	var postsPaginateSecondary = [];
+	var postsPaginateSecondaryTotal = {};
 	postsPaginateMain.forEach(function(post, pIndex) {
 		post.sectors.forEach(function(sector, index){
 			var newPost = {
@@ -41,9 +42,15 @@
 				"excerpt": post.excerpt
 			};
 	    	postsPaginateSecondary.push(newPost);
+
+			// Increment Total
+			postsPaginateSecondaryTotal[sector] = postsPaginateSecondaryTotal[sector] + 1 || 1;
 	    });
 	});
 
+	console.log(postsPaginateSecondaryTotal);
+
 	var posts_per_page = {{ site.post_archive_posts_per_page }};
+	var subsectorFiltering = false;
 </script>
 <script src="{{ "/assets/js/pagination.js" | relative_url }}"></script>

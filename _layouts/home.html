@@ -58,6 +58,9 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+        States: {{ post.states | join: ', ' }}<br />
+        Sectors: {{ post.sectors | join: ', ' }}<br />
+        Subsectors: {{ post.subsectors | join: ", " }}
       </li>
     {% endfor %}
   </ul>

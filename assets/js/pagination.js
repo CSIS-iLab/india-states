@@ -4,18 +4,28 @@ $(function() {
 	 * @return {string} Returns pagination container contents and pagination bar
 	 */
 	 function paginationCheckHash() {
-	 	var hash = window.location.hash;
+	 	var hash = window.location.hash.replace("#", "");
 	 	var current_page = 1;
-	 	console.log("hash: "+hash);
+	 	var subsector, sort_field, sort_order;
+
 	 	if(hash) {
 			// Get Hash values
-			var sort_field = hash.substr(hash.indexOf('sort=')).split('&')[0].split('=')[1];
-			var sort_order = hash.substr(hash.indexOf('order=')).split('&')[0].split('=')[1];
+			subsector = hash.substr(hash.indexOf('subsector=')).split('&')[0].split('=')[1];
+			sort_field = hash.substr(hash.indexOf('sort=')).split('&')[0].split('=')[1];
+			sort_order = hash.substr(hash.indexOf('order=')).split('&')[0].split('=')[1];
 			current_page = hash.substr(hash.indexOf('page=')).split('&')[0].split('=')[1];
 
-            // Set Active Sort Filter
+            // Set Active Sort Filter and replace subsector with hash subsector value
+            if(subsector) {
+            	$("a.sort-attribute").each(function() {
+					var href = $(this).attr("href");
+					var sortType = $(this).data("sort");
+					var newHash = "#subsector="+subsector+"&amp;"+sortType;
+					$(this).attr("href", href.replace(href, newHash));
+				});
+            }
             $(".sort-attribute").removeClass("active");
-            $("a[href^='#"+hash+"']").addClass("active");
+            $("a.sort-attribute[href^='#"+hash+"']").addClass("active");
         }
 
 		// Set Active Page in Pagination Bar based on hash, or default to 1
@@ -23,7 +33,7 @@ $(function() {
 		$('.pagination-container a[data-page="'+current_page+'"]').addClass('active');
 
         // Calculate the pagination settings based on hash values
-        paginationCalculation(sort_field, sort_order, current_page);
+        paginationCalculation(subsector, sort_field, sort_order, current_page);
     }
 
     /**
@@ -39,10 +49,15 @@ $(function() {
 	 * @param  {Number} current_page The current page the user is on
 	 * @return {string}              Renders the posts to be shown on this page and the pagination bar
 	 */
-	function paginationCalculation(sort_field = "date", sort_order = "desc", current_page = 1) {
+	function paginationCalculation(subsector, sort_field = "date", sort_order = "desc", current_page = 1) {
 
 		// Calculate the start/end items based on the total items and the posts per page
 		var total_items = 0;
+
+		// Set Default Subsector Field if applicable
+		if(subsectorFiltering == true && !subsector) {
+			subsector = "all";
+		}
 
 		// Get the start and end indicies of posts to display
 		if(current_page > 1) {
@@ -59,11 +74,21 @@ $(function() {
 
 		// Choose which post object we want to use based on sort_field
 		if(sort_field == "date") {
-			posts = postsPaginateMain;
+			if(subsector) {
+				posts = postsPaginateMainObject[subsector];
+			}
+			else {
+				posts = postsPaginateMain;
+			}
 			showSubheaders = false;
 		}
 		else {
-			posts = postsPaginateSecondary;
+			if(subsector) {
+				posts = postsPaginateSecondaryObject[subsector];
+			}
+			else {
+				posts = postsPaginateSecondary;
+			}
 			showSubheaders = true;
 		}
 
@@ -75,15 +100,15 @@ $(function() {
 			posts.sort(dynamicSort(sort_field));
 		}
 
-		// Render the Posts for this page
-		var postsArray = posts.slice(start_item, (end_item + 1));
-		paginationPostRender(postsArray, showSubheaders);
-
 		// Total Count
 		total_items = posts.length;
 
+		// Render the Posts for this page
+		var postsArray = posts.slice(start_item, (end_item + 1));
+		paginationPostRender(postsArray, showSubheaders, subsector);
+
 		// Render Pagination
-		paginationRender(total_items, end_item, sort_field, sort_order, current_page);
+		paginationRender(total_items, end_item, subsector, sort_field, sort_order, current_page);
 	}
 
 	/**
@@ -92,12 +117,29 @@ $(function() {
 	 * @param  {Boolean} showSubheaders Whether or not to display a subheader above the post (State Names or Sector Names)
 	 * @return {String}                The post template
 	 */
-	function paginationPostRender(posts, showSubheaders) {
+	function paginationPostRender(posts, showSubheaders, subsector) {
 		$.each(posts, function(index, post) {
+			console.log(post);
 			// Check if we want to display subheaders. If we do, we only want to show it once per page
-			if(showSubheaders && $("#"+post.sector).length == 0) {
-				$(".pagination-posts-container").append("<h2 id='"+post.sector+"'>"+post.sector+"</h2>");
+			if(post.state) {
+				var stateID = post.state.replace(" ", "");
+				if(showSubheaders && $("#"+stateID).length == 0) {
+					if(subsectorFiltering) {
+						total = postsPaginateSecondaryTotal[post.state][subsector]
+					}
+					else {
+						total = postsPaginateSecondaryTotal[post.state]
+					}
+					$(".pagination-posts-container").append("<h2 id='"+stateID+"'>"+post.state+"</h2>");
+				}
 			}
+			else if(post.sector) {
+				var sectorID = post.sector.replace(" ", "");
+				if(showSubheaders && $("#"+sectorID).length == 0) {
+					$(".pagination-posts-container").append("<h2 id='"+sectorID+"'>"+post.sector+"</h2>");
+				}
+			}
+
 			// Render post
 			$(".pagination-posts-container").append("<a class='post-link' href='"+post.url+"'>"+post.title+": "+post.date+"</a>");
 		});
@@ -112,34 +154,45 @@ $(function() {
 	 * @param  {Number} current_page The current page the user is on
 	 * @return {string}              The pagination block template
 	 */
-	function paginationRender(total_items, end_item, sort_field, sort_order, current_page) {
+	function paginationRender(total_items, end_item, subsector, sort_field, sort_order, current_page) {
 		var total_pages = Math.ceil(total_items / posts_per_page );
 		$(".pagination-container").empty();
 
-		// Create the hash link based on the sorted field and date
-		var hash = "#sort="+sort_field+"&amp;order="+sort_order+"&amp;page=";
-		current_page = parseInt(current_page);
-
-		// Previous Button
-		if(current_page > 1) {
-			var previousPage = current_page - 1;
-			$(".pagination-container").append("<a href='"+hash+previousPage+"' data-page='"+previousPage+"'>Previous</a>");
-		}
-
-		for (var i = 1; i <= total_pages; i++) {
-			if(i == current_page) {
-				var activeClass = "active";
+		// Only show the pagination bar if we have more than 1 page
+		if(total_pages > 1) {
+			// Create the hash link based on the sorted field and date
+			if(subsector) {
+				var hash = "#subsector="+subsector+"&amp;sort="+sort_field+"&amp;order="+sort_order+"&amp;page=";
 			}
 			else {
-				var activeClass = "";
+				var hash = "#sort="+sort_field+"&amp;order="+sort_order+"&amp;page=";
 			}
-			$(".pagination-container").append("<a href='"+hash+i+"' class='"+activeClass+"' data-page='"+i+"'>"+i+"</a>");
-		}
 
-		// Next Button
-		if(current_page < total_pages) {
-			var nextPage = current_page + 1;
-			$(".pagination-container").append("<a href='"+hash+nextPage+"' data-page='"+nextPage+"'>Next</a>");
+			// Convert current page to integer
+			current_page = parseInt(current_page);
+
+			// Previous Button
+			if(current_page > 1) {
+				var previousPage = current_page - 1;
+				$(".pagination-container").append("<a href='"+hash+previousPage+"' data-page='"+previousPage+"'>Previous</a>");
+			}
+
+			// Render each page button
+			for (var i = 1; i <= total_pages; i++) {
+				if(i == current_page) {
+					var activeClass = "active";
+				}
+				else {
+					var activeClass = "";
+				}
+				$(".pagination-container").append("<a href='"+hash+i+"' class='"+activeClass+"' data-page='"+i+"'>"+i+"</a>");
+			}
+
+			// Next Button
+			if(current_page < total_pages) {
+				var nextPage = current_page + 1;
+				$(".pagination-container").append("<a href='"+hash+nextPage+"' data-page='"+nextPage+"'>Next</a>");
+			}
 		}
 	}
 
