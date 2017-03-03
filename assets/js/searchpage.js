@@ -19,7 +19,7 @@ function app(opts) {
   search.addWidget(
     instantsearch.widgets.searchBox({
       container: '#search-input',
-      placeholder: 'Search for products'
+      placeholder: 'Search'
     })
   );
 
@@ -30,6 +30,12 @@ function app(opts) {
       templates: {
         item: getTemplate('hit'),
         empty: getTemplate('no-results')
+      },
+      transformData: {
+        item: function (data) {
+          console.log(data);
+          return data;
+        }
       }
     })
   );
@@ -59,62 +65,61 @@ function app(opts) {
 
   search.addWidget(
     instantsearch.widgets.refinementList({
-      container: '#category',
+      container: '#content_type',
       attributeName: 'content_type',
       sortBy: ['isRefined', 'count:desc', 'name:asc'],
       limit: 10,
       operator: 'or',
       templates: {
-        header: getHeader('Category')
+        header: getHeader('Type')
       }
     })
   );
 
   search.addWidget(
     instantsearch.widgets.refinementList({
-      container: '#state',
+      container: '#states',
       attributeName: 'states',
       sortBy: ['isRefined', 'count:desc', 'name:asc'],
       limit: 10,
       operator: 'or',
       templates: {
-        header: getHeader('State')
+        header: getHeader('States')
       }
     })
   );
 
   search.addWidget(
     instantsearch.widgets.refinementList({
-      container: '#sector',
+      container: '#sectors',
       attributeName: 'sectors',
       sortBy: ['isRefined', 'count:desc', 'name:asc'],
       limit: 10,
       operator: 'or',
       templates: {
-        header: getHeader('Sector')
+        header: getHeader('Sectors')
       }
     })
   );
 
-  // search.addWidget(
-  //   instantsearch.widgets.refinementList({
-  //     container: '#tags',
-  //     attributeName: 'tags',
-  //     sortBy: ['isRefined', 'count:desc', 'name:asc'],
-  //     limit: 10,
-  //     operator: 'or',
-  //     searchForFacetValues: {
-  //       placeholder: 'Search for tags',
-  //       templates: {
-  //         noResults: '<div class="sffv_no-results">No matching tags.</div>'
-  //       }
-  //     },
-  //     templates: {
-  //       header: getHeader('Brand')
-  //     }
-  //   })
-  // );
-
+  search.addWidget(
+    instantsearch.widgets.refinementList({
+      container: '#tags',
+      attributeName: 'tags',
+      sortBy: ['isRefined', 'count:desc', 'name:asc'],
+      limit: 10,
+      operator: 'or',
+      searchForFacetValues: {
+        placeholder: 'Search for tags',
+        templates: {
+          noResults: '<div class="sffv_no-results">No matching tags.</div>'
+        }
+      },
+      templates: {
+        header: getHeader('Tags')
+      }
+    })
+  );
 
   // search.addWidget({
   //   getConfiguration: function () {
@@ -147,6 +152,7 @@ function app(opts) {
 }
 
 function getTemplate(templateName) {
+  console.log(templateName);
   return document.querySelector('#' + templateName + '-template').innerHTML;
 }
 

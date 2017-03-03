@@ -18,9 +18,10 @@ layout: default
 
   <main>
     <div id="left-column">
-      <div id="category" class="facet"></div>
-      <div id="state" class="facet"></div>
-      <div id="sector" class="facet"></div>
+      <div id="states" class="facet"></div>
+      <div id="sectors" class="facet"></div>
+      <div id="content_type" class="facet"></div>
+      <div id="tags" class="facet"></div>
     </div>
 
     <div id="right-column">
@@ -38,7 +39,7 @@ layout: default
       <div class="hit-content">
         <h3 class="hit-price">
         {% raw %}
-          {{{_highlightResult.content_type.value}}}
+          {{{content_type}}}
         {% endraw %}
         </h3>
         <h2 class="hit-name">
@@ -46,9 +47,9 @@ layout: default
           {{{_highlightResult.title.value}}}
         {% endraw %}
         </h2>
-        <p class="hit-description">
+        <p class="hit-excerpt">
         {% raw %}
-          {{{_highlightResult.excerpt.value}}}
+          {{{excerpt}}}
         {% endraw %}
         </p>
       </div>

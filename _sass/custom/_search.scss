@@ -99,6 +99,21 @@
   @extend .aa-suggestion;
 }
 
+#left-column {
+  float: left;
+  width: 23%;
+}
+#right-column {
+  width: 74%;
+  margin-left: 26%;
+}
+
+.clear:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
 
 /* INPUT */
 .search-header {
@@ -218,7 +233,7 @@
   background: #f5f5f5;
 }
 #pagination li:first-child a {
-  border-top-left-radius: 4px;
+  border-top-cradius: 4px;
   border-bottom-left-radius: 4px;
 }
 #pagination li:last-child a {
