@@ -26,6 +26,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  authors:
+    title: authors
+    output: false
 defaults:
 - scope:
     path: ''
@@ -45,7 +48,6 @@ defaults:
       url: 
     is_analysis: false
     author: 
-    author_image: 
 - scope:
     path: ''
     type: states
@@ -94,6 +96,13 @@ defaults:
   values:
     content_type: Resource
     link: 
+- scope:
+    path: ''
+    type: authors
+  values:
+    author_title:
+    author_image:
+    author_biography:
 permalink: pretty
 email: jschrag@csis.org
 description: Write an awesome description for your new site here. You can edit this
