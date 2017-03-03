@@ -2,6 +2,9 @@
 title: India States
 timezone: UTC
 collections:
+  authors:
+    title: Authors
+    output: false
   posts:
     title: Posts
     output: true
@@ -26,9 +29,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  authors:
-    title: Authors
-    output: false
 defaults:
 - scope:
     path: ''
@@ -39,7 +39,7 @@ defaults:
     states: 
     sectors: 
     subsectors: 
-    feature_image:
+    feature_image: 
     feature_image_credit: 
     sources:
       name: 
@@ -55,8 +55,8 @@ defaults:
   values:
     layout: state
     content_type: State
-    feature_image:
-    feature_image_credit:
+    feature_image: 
+    feature_image_credit: 
     size: 
     population:
       rural: 
