@@ -100,9 +100,9 @@ defaults:
     path: ''
     type: authors
   values:
-    author_title:
-    author_image:
-    author_biography:
+    author_title: 
+    author_image: 
+    author_biography: 
 permalink: pretty
 email: jschrag@csis.org
 description: Write an awesome description for your new site here. You can edit this
