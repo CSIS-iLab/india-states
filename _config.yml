@@ -27,7 +27,7 @@ collections:
     title: Uploads
     output: true
   authors:
-    title: authors
+    title: Authors
     output: false
 defaults:
 - scope:
