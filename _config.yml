@@ -39,7 +39,8 @@ defaults:
     states: 
     sectors: 
     subsectors: 
-    feature_image: 
+    feature_image:
+    feature_image_credit: 
     sources:
       name: 
       url: 
@@ -54,6 +55,8 @@ defaults:
   values:
     layout: state
     content_type: State
+    feature_image:
+    feature_image_credit:
     size: 
     population:
       rural: 
@@ -100,9 +103,8 @@ defaults:
     path: ''
     type: authors
   values:
-    author_title: 
-    author_image: 
-    author_biography: 
+    position: 
+    image: 
 permalink: pretty
 email: jschrag@csis.org
 description: Write an awesome description for your new site here. You can edit this
