@@ -1,0 +1,37 @@
+/*========================================
+=            Custom Variables            =
+========================================*/
+
+/*----------  Colors  ----------*/
+
+$base-blue: #004165;
+$base-orange: #E87415;
+$light-blue: #98B0BC;
+$dark-blue: #205075;
+$light-gray: #F0F0F0;
+$map-gray: #DDDDDD;
+$medium-gray: #A8A8A8;
+$dark-gray: #707079;
+$white: #ffffff;
+$black: #000000;
+$gray: #333333;
+
+
+$color__homepage-map-blue: #205075;
+$color__homepage-map-gray: #E5E5E5;
+
+$color__background-body: $white;
+
+
+$color__text-main: $gray;
+$color__text-screen: $gray;
+
+/*----------  Typography  ----------*/
+$font__MuseoSans: "museo-sans",sans-serif;
+$font__ExpoSerif: "expo-serif-pro",serif;
+$font__main: $font__ExpoSerif;
+$font__code: Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+$font__pre: "Courier 10 Pitch", Courier, monospace;
+$font__line-height-body: 1.5;
+$font__line-height-pre: 1.6;
+$header-img-height: 400px;

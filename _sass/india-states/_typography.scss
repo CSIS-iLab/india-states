@@ -1,0 +1,90 @@
+body {
+  color: $color__text-main;
+  font-family: $font__main;
+  @include em(21);
+}
+
+.main-title {
+  font-family: $font__MuseoSans;
+  @include em(68);
+  line-height: 1em;
+}
+
+.subtitle {
+  font-family: $font__ExpoSerif;
+  @include em(62);
+  line-height: 1em;
+}
+
+
+p {
+  margin-bottom:25px;
+  line-height: 1.8;
+  font-size:18px;
+}
+
+dfn, cite, em, i {
+  font-style: italic;
+}
+
+blockquote, q {
+  quotes: "" "";
+
+  &:before,
+  &:after {
+    content: "";
+  }
+}
+
+/*----------  Links  ----------*/
+a {
+  word-wrap: break-word;
+  font-weight:600;
+  @include transition(all .3s ease-in-out);
+  text-decoration: none;
+
+
+  &:visited {
+  }
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration:none;
+    cursor: pointer !important;
+  }
+  &:focus {
+    outline: thin dotted;
+  }
+  &:hover,
+  &:active {
+    outline: 0;
+    cursor: pointer !important;
+  }
+}
+
+dl.inline-flex {
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  width: 65%;      /* set the container width*/
+  overflow: visible;
+
+  dt {
+    flex: 0 0 50%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    font-weight:bold;
+
+    &::after {
+      content: ": ";
+    }
+  }
+  
+  dd {
+    flex:0 0 50%;
+    margin-left: auto;
+    text-align: left;
+    text-overflow: ellipsis;
+    overflow: hidden;
+  }
+}
