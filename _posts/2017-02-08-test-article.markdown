@@ -1,6 +1,10 @@
 ---
 title: Test Article
 date: 2017-02-08 21:47:00 Z
+tags:
+- tag1
+- tag2
+- tag3
 states:
 - Andhra Pradesh
 - Assam
@@ -14,10 +18,6 @@ sources:
 details:
   name: Google
   url: http://google.com
-tags:
-- tag1
-- tag2
-- tag3
 ---
 
 This is a test article. The program can type whatever content they want here. They can then assign the article to different states, sectors, subsectors, and add sources & details.
