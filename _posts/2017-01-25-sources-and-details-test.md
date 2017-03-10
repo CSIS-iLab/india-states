@@ -17,6 +17,9 @@ details:
   url: http://yahoo.com
 is_analysis: true
 author: Jacque Schrag
+tags:
+- tag2
+- tag3
 ---
 
 Suzlon Group said that it has won an order for a 105 megawatt (MW) wind power plant in Andhra Pradesh. The project consists of 50 towers, each with a capacity of 2.1 MW. The entire plant is scheduled to come online by June 2017.
