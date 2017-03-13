@@ -1,0 +1,51 @@
+/*==============================
+=            Mixins            =
+==============================*/
+$browser-context: 16; // Default Browser Size
+@mixin em($pixels, $context: $browser-context) {
+	font-size: $pixels + px;
+  	font-size: ($pixels/$context) + em;
+}
+
+// Center block
+@mixin center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+// Clearfix
+@mixin clearfix() {
+	content: "";
+	display: table;
+	table-layout: fixed;
+}
+
+// Clear after (not all clearfix need this also)
+@mixin clearfix-after() {
+	clear: both;
+}
+
+// Breakpoints
+@mixin breakpoint($break) {
+	@if $break == large {
+		@media screen and (min-width:1200px) { @content; }
+	}
+	@else if $break == medium {
+		@media screen and (min-width:992px) { @content; }
+	}
+	@else if $break == small {
+		@media screen and (min-width: 768px) { @content; }
+	} @else {
+		@media ($break) { @content; }
+	}
+}
+
+// Transitions
+@mixin transition($args...) {
+  -webkit-transition: $args;
+  -moz-transition: $args;
+  -ms-transition: $args;
+  -o-transition: $args;
+  transition: $args;
+}
