@@ -1,10 +1,20 @@
 /*==============================
 =            Mixins            =
 ==============================*/
-$browser-context: 16; // Default Browser Size
-@mixin em($pixels, $context: $browser-context) {
-	font-size: $pixels + px;
-  	font-size: ($pixels/$context) + em;
+// $browser-context: 16; // Default Browser Size
+// @mixin font-size($pixels, $context: $browser-context) {
+// 	font-size: ($pixels) + px;
+//   	font-size: ($pixels/$context) + em;
+// }
+
+@function calculateRem($size) {
+  $remSize: $size / 16px;
+  @return #{$remSize}rem;
+}
+
+@mixin fontSize($size) {
+  font-size: $size; //Fallback in px
+  font-size: calculateRem($size);
 }
 
 // Center block
@@ -28,14 +38,14 @@ $browser-context: 16; // Default Browser Size
 
 // Breakpoints
 @mixin breakpoint($break) {
-	@if $break == large {
-		@media screen and (min-width:1200px) { @content; }
+	@if $break == xlarge {
+		@media screen and (min-width:1441px) { @content; }
+	}
+	@else if $break == large {
+		@media screen and (min-width:1023px) { @content; }
 	}
 	@else if $break == medium {
-		@media screen and (min-width:992px) { @content; }
-	}
-	@else if $break == small {
-		@media screen and (min-width: 768px) { @content; }
+		@media screen and (min-width: 767px) { @content; }
 	} @else {
 		@media ($break) { @content; }
 	}

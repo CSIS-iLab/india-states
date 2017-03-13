@@ -1,26 +1,25 @@
 body {
   color: $color__text-main;
   font-family: $font__main;
-  @include em(21);
+  @include fontSize(21px);
 }
 
 .main-title {
   font-family: $font__MuseoSans;
-  @include em(68);
+  @include fontSize(68px);
   line-height: 1em;
 }
 
 .subtitle {
   font-family: $font__ExpoSerif;
-  @include em(62);
+  @include fontSize(62px);
   line-height: 1em;
 }
 
 
 p {
-  margin-bottom:25px;
-  line-height: 1.8;
-  font-size:18px;
+  line-height: 1.6;
+  @include fontSize(21px);
 }
 
 dfn, cite, em, i {
@@ -39,7 +38,6 @@ blockquote, q {
 /*----------  Links  ----------*/
 a {
   word-wrap: break-word;
-  font-weight:600;
   @include transition(all .3s ease-in-out);
   text-decoration: none;
 

@@ -1,0 +1,63 @@
+/*==============================
+=            Footer            =
+==============================*/
+
+footer.site-footer {
+  
+  .footer-mainContainer {
+    background-image: url('img/map-footer.svg');
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: $base-blue;
+    padding: 20px 0;
+
+    .footer-tweetsContainer {
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+
+    p {
+      color: $light-blue;
+      font-family: $font__ExpoSerif;
+      @include fontSize(14px);
+    }
+
+    address {
+      color: $white;
+      font-family: $font__ExpoSerif;
+      @include fontSize(14px);
+      font-style: normal;
+      line-height: 1.4;
+    }
+
+    .footer-title {
+      color: $white;
+      font-family: $font__MuseoSans;
+      @include fontSize(20px);
+      margin-top: 0;
+      margin-bottom: 0;
+
+      &.socialMedia {
+        margin-top: 1rem;
+        margin-bottom: 1rem;
+      }
+    }
+
+    .footer-socialIcon {
+      max-width: 30px;
+      height: auto;
+    }
+
+    a {
+      color: $white;
+    }
+  }
+
+  .footer-copyrightContainer {
+    background-color: $darkest-blue;
+    font-family: $font__ExpoSerif;
+    @include fontSize(14px);
+    color: $light-blue;
+    padding: 5px 0;
+  }
+}
