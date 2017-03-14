@@ -2,7 +2,15 @@
 =            State: Individual            =
 =========================================*/
 
+// State Information, Summary, & Map
 .stateInfoContainer {
+	padding-bottom: 2rem;
+
+	.stateInfo {
+		@include breakpoint("medium") {
+			padding-right: 5rem;
+		}
+	}
 	
 	// State Summary
 	.stateInfoContainer-stateSummaryContainer {
@@ -48,5 +56,42 @@
 		    }
 
 		}
+	}
+}
+
+// Feature Images
+.stateFeatureImageContainer {
+	max-height: 300px;
+	overflow: hidden;
+
+	.col-xs-12, .col-md-6 {
+		padding: 0;
+	}
+
+	img {
+		width:100%;
+		height: auto;
+	}
+}
+
+.stateFeatureImageCaptions {
+	float: right;
+	border-left: 2px solid $base-orange;
+	color: $color__text-list-category;
+	font-family: $font__ExpoSerif;
+	@include fontSize(14px);
+	line-height: 1.4rem;
+	margin-top: 0.5rem;
+	padding-left: 0.5rem;
+}
+
+// State Sector Articles
+
+.stateArticlesContainer {
+	padding-bottom: 2rem;
+
+	// Clear the Image Captions
+	.sectorSection:first-of-type {
+		@include clearfix-after();
 	}
 }

@@ -32,6 +32,16 @@ input[type="submit"]
     	}
     }
 
+    &.btn-orange {
+        background-color: $base-orange;
+        color: $white;
+        font-weight: 700;
+
+        &:hover, &:active, &:focus {
+            background-color: darken($base-orange, 10%);
+        }
+    }
+
     &.btn-gray {
     	background-color: $light-gray;
     	color: $base-blue;
