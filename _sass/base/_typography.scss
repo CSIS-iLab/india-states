@@ -8,18 +8,37 @@ body {
   font-family: $font__MuseoSans;
   @include fontSize(68px);
   line-height: 1em;
+  color: $base-blue;
 }
 
 .subtitle {
   font-family: $font__ExpoSerif;
   @include fontSize(62px);
   line-height: 1em;
+  color: $base-blue;
 }
 
+.sectionTitle {
+  color: $base-blue;
+  font-family: $font__MuseoSans;
+  font-weight: 700;
+  character: 0.1rem;
+  @include fontSize(32px);
+  text-transform: uppercase;
+}
+
+.sectionSubtitle {
+  color: $base-blue;
+  font-family: $font__MuseoSans;
+  font-weight: 700;
+  @include fontSize(25px);
+  text-transform: uppercase;
+}
 
 p {
   line-height: 1.6;
   @include fontSize(21px);
+  margin-top: 0;
 }
 
 dfn, cite, em, i {

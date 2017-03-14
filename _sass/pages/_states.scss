@@ -1,0 +1,52 @@
+/*=========================================
+=            State: Individual            =
+=========================================*/
+
+.stateInfoContainer {
+	
+	// State Summary
+	.stateInfoContainer-stateSummaryContainer {
+		margin-top: 3rem;
+
+		.sectionSubtitle {
+			border-bottom: 2px solid $dark-gray;
+			margin: 0;
+		}
+
+		ul.stateInfoContainer-stateSummaryList {
+			list-style-type: none;
+		    -webkit-columns: 2;
+		    -moz-columns: 2;
+		    columns: 2;
+		    margin: 0.5rem 0;
+		    padding: 0;
+
+		    li {
+		    	font-family: $font__MuseoSans;
+		    	@include fontSize(14px);
+		    	color: $black;
+		    	line-height: 1.4rem;
+		    	font-style: italic;
+
+		    	span.category {
+		    		text-transform: uppercase;
+		    		color: $color__text-list-category;
+		    		font-style: normal;
+		    	}
+
+		    	// Population Breakdown Items
+		    	&.populationBreakdown {
+		    		padding-left: 1.5rem;
+		    	}
+
+		    	// Display border for some list items
+		    	&.hasBorder {
+		    		margin-bottom: 0.5rem;
+		    		padding-bottom: 0.5rem;
+		    		border-bottom: 1px dashed $medium-gray;
+		    	}
+		    }
+
+		}
+	}
+}

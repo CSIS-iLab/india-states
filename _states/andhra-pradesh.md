@@ -11,4 +11,4 @@ development_indicators:
   literacy: 14
 ---
 
-This is a paragraph description about this state. You can write whatever you want here.
+Over the last 15 years, Andhra Pradesh has won renown for the extraordinary development of the IT industry in its capital city of Hyderabad. The current state of Andhra Pradesh, however, lost most of the sector when its former territory was divided in two to create the state of Telangana. Under the vigorous and forward-looking leadership of Chief Minister Chandrababu Naidu, Andhra Pradesh is attempting to rebuild by making itself the most business-friendly state in India.

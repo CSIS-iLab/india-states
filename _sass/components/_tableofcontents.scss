@@ -1,0 +1,48 @@
+/*======================================================
+=            Table of Contents: Sticky Menu            =
+======================================================*/
+
+.tableOfContents {
+	background-color: $light-gray;
+	padding: 2rem 3.5rem;
+	font-family: $font__MuseoSans;
+
+	.sectionSubtitle {
+		border-bottom: 2px solid $dark-gray;
+		margin: 0;
+	}
+
+	.tableOfContents-instructions {
+		color: $dark-gray;
+		@include fontSize(14px);
+		line-height: 1.4rem;
+		font-weight: 500;
+	}
+
+	ul.tableOfContents-list {
+		list-style-type:none;
+		padding:0;
+		margin:0.5rem 0;
+
+		li {
+			@include fontSize(14px);
+			font-style: italic;
+			line-height: 1.4rem;
+
+			a {
+				color: $black;
+
+				&:hover {
+					color: $base-blue;
+				}
+			}
+
+			// View All Style
+			&.viewAll {
+				border-top: 1px dashed $medium-gray;
+				margin-top: 0.5rem;
+				padding-top: 0.5rem;
+			}
+		}
+	}
+}

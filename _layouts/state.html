@@ -2,60 +2,89 @@
 layout: default
 ---
 
-<article class="post">
+<div class="row">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
-
-    <p>All of the posts that have "{{ page.title }}" in their <code>states</code> front matter will be listed below.</p>
-
-    <h3>Overview</h3>
-    <dl class="inline-flex">
-      <dt>Size</dt>
-      <dd>{{ page.size }}</dd>
-      <dt>Population</dt>
-      <dd>{{ page.population }}</dd>
-      <dt>Party Affiliation</dt>
-      <dd>{{ page.party_affiliation }}</dd>
-      <dt>Legislative Assembly Seats</dt>
-      <dd>{{ page.legislative_seats }}</dd>
-      <dt>Rajya Sabha Seats</dt>
-      <dd>{{ page.rajya_seats }}</dd>
-      <dt>State GDP</dt>
-      <dd>{{ page.gdp }}</dd>
-    </dl>
-    <h3>Development Indicators</h3>
-    <dl class="inline-flex">
-      <dt>Mortality Rate</dt>
-      <dd>{{ page.development_indicators.mortality }}</dd>
-      <dt>Literacy Rate</dt>
-      <dd>{{ page.development_indicators.literacy }}</dd>
-    </dl>
-    <br />
-    <br />
-
-    <!-- Display Sectors -->
+<aside class="tableOfContents col-xs-12 col-md-3">
+  <h4 class="sectionSubtitle">Sector Menu</h4>
+  <span class="tableOfContents-instructions">Skip to sector content:</span>
+  <ul class="tableOfContents-list">
     {% for sector in site.sectors %}
-      <h2>
-        <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
-      </h2>
-
-      <!-- Get State Specific Posts -->
-      {% assign statePosts = site.posts | where_exp:"post","post.states contains page.title" %}
-      {% assign sectorPosts = statePosts | where_exp:"post","post.sectors contains sector.title" %}
-      {% include post-listing.html posts=sectorPosts limit=site.sector_overview_post_limit %}
-
-      <a class="button" href="{{ page.url | relative_url }}{{ sector.title | slugify }}">See More</a>
-
+      <li><a href="#{{ sector.title | slugify }}">{{ sector.title }}</a></li>
     {% endfor %}
-    <br /><br /><br />
-    <a href="{{ page.url | relative_url }}archive">See All</a>
+      <li class="viewAll"><a href="{{ page.url | relative_url }}archive">View All Articles</a></li>
+  </ul>
+</aside>
 
-    
+<section class="stateInfoContainer col-xs-12 col-md-9">
+  <div class="content-wrapper">
+
+    <h1 class="main-title">{{ page.title | escape }}</h1>
+
+    <div class="row">
+      <div class="col-xs-12 col-md-8">
+        {{ content }}
+
+        <div class="stateInfoContainer-stateSummaryContainer">
+          <h4 class="sectionSubtitle">State Summary</h4>
+          <ul class="stateInfoContainer-stateSummaryList">
+            <li class="hasBorder">
+              <span class="category">Size</span><br />
+                  {{ page.size }}
+            </li>
+            <li class="hasBorder">
+              <span class="category">Population</span><br />
+                  {{ page.population }}
+            </li>
+            <li class="populationBreakdown hasBorder">
+              <span class="category">Rural / Urban</span><br />
+                  {{ page.population.rural }} / {{ page.population.urban }}
+            </li>
+            <li>
+              <span class="category">State GDP</span><br />
+                  {{ page.gdp }}
+            </li>
+            <li class="hasBorder">
+              <span class="category">Party Affiliation</span><br />
+                  {{ page.party_affiliation }}
+            </li>
+            <li class="hasBorder">
+              <span class="category">Legislative Assembly Seats</span><br />
+                  {{ page.legislative_seats }}
+            </li>
+            <li class="hasBorder">
+              <span class="category">Rajya Sabha Seats</span><br />
+                  {{ page.rajya_seats }}
+            </li>
+            <li>
+              <span class="category">Lok Sabha Seats</span><br />
+                  {{ page.lok_seats }}
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="stateMapContainer col-xs-12 col-md-4">
+        Map Goes Here
+      </div>
+    </div>
+
+      <!-- Display Sectors -->
+      {% for sector in site.sectors %}
+        <h2>
+          <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
+        </h2>
+
+        <!-- Get State Specific Posts -->
+        {% assign statePosts = site.posts | where_exp:"post","post.states contains page.title" %}
+        {% assign sectorPosts = statePosts | where_exp:"post","post.sectors contains sector.title" %}
+        {% include post-listing.html posts=sectorPosts limit=site.sector_overview_post_limit %}
+
+        <a class="button" href="{{ page.url | relative_url }}{{ sector.title | slugify }}">See More</a>
+
+      {% endfor %}
+      <br /><br /><br />
+      <a href="{{ page.url | relative_url }}archive">See All</a>
+
+      
   </div>
 
-</article>
+</section>
