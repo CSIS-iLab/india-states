@@ -17,8 +17,7 @@ footer.site-footer {
       padding-bottom: 2rem;
       
       @include breakpoint("medium") {
-        padding-left: 2rem;
-        padding-right: 2rem;
+        padding: 0 2rem;
       }
     }
 
@@ -41,11 +40,10 @@ footer.site-footer {
       font-family: $font__MuseoSans;
       @include fontSize(20px);
       margin-top: 0;
-      margin-bottom: 0;
+      margin-bottom: 1rem;
 
       &.socialMedia {
         margin-top: 1rem;
-        margin-bottom: 1rem;
       }
     }
 
