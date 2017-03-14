@@ -1,0 +1,46 @@
+/*===============================
+=            Buttons            =
+===============================*/
+
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"]
+{
+	color: $color__text-button;
+	@include fontSize(15px);
+	font-family: $font__MuseoSans;
+	font-weight: 700;
+	border-radius: 0px;
+	border: 0px;
+	text-transform: uppercase;
+	@include transition(all .3s);
+	padding: 8px 18px;
+	display: inline-block;
+    text-align: center;
+    line-height: 1.3rem;
+
+    &:hover {
+    	cursor: pointer;
+    }
+
+    &.btn-blue {
+    	background-color: $blue-accent;
+
+    	&:hover, &:active, &:focus {
+    		background-color: $darkest-blue;
+    	}
+    }
+
+    &.btn-gray {
+    	background-color: $light-gray;
+    	color: $base-blue;
+    	font-weight: 500;
+
+    	&:hover, &:active, &:focus {
+    		background-color: $base-orange;
+    		color: $white;
+    		font-weight: 700;
+    	}
+    }
+}

@@ -9,6 +9,7 @@ $base-orange: #E87415;
 $light-blue: #98B0BC;
 $dark-blue: #205075;
 $darkest-blue: #01273C;
+$blue-accent: #255A84;
 $light-gray: #F0F0F0;
 $map-gray: #DDDDDD;
 $medium-gray: #A8A8A8;
@@ -20,13 +21,13 @@ $gray: #333333;
 
 $color__homepage-map-blue: #205075;
 $color__homepage-map-gray: #E5E5E5;
-
 $color__background-body: $white;
 $color__header-breadcrumbs: $darkest-blue;
-$color__header-ss-nav-background: #255A84;
+$color__header-ss-nav-background: $blue-accent;
 $color__header-ss-nav-font: $white;
 $color__header-nav-font: $map-gray;
 $color__header-breadcrumbs-font: $light-blue;
+$color__text-button: $white;
 
 
 $color__text-main: $gray;

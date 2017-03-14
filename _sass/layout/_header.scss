@@ -26,6 +26,7 @@ header.site-header {
 		color: $white;
 		height: 57px;
 		align-items: center;
+		@include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
 
 		@include breakpoint("medium") {
 			height: 100px;
@@ -136,6 +137,7 @@ header.site-header {
 		font-family: $font__MuseoSans;
 		text-transform: uppercase;
 		@include fontSize(15px);
+		@include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
 
 		@include breakpoint("medium") {
 			height: 30px;
