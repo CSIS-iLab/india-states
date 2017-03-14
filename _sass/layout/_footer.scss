@@ -13,8 +13,13 @@ footer.site-footer {
     @include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
 
     .footer-tweetsContainer {
-      padding-left: 2rem;
-      padding-right: 2rem;
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+      
+      @include breakpoint("medium") {
+        padding-left: 2rem;
+        padding-right: 2rem;
+      }
     }
 
     p {
