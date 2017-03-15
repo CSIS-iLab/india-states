@@ -1,0 +1,19 @@
+/*=====================================
+=            Archive Pages            =
+=====================================*/
+
+.archive-container {
+	
+	.archive-header {
+		background-color: $light-gray;
+		padding: 0.2rem 0 1rem 0;
+
+		ul.shareIcons {
+			text-align: right;
+		}
+
+		.subtitle {
+			margin: 1.5rem 0;
+		}
+	}
+}
