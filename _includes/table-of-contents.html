@@ -1,0 +1,14 @@
+<aside class="tableOfContents col-xs-12 col-md-3">
+	{% if include.stickyMenu == true %}<div class="isSticky">{% endif %}
+	<h4 class="sectionSubtitle">Sector Menu</h4>
+	<span class="tableOfContents-instructions">Skip to sector content:</span>
+	<ul class="tableOfContents-list">
+		{% for sector in site.sectors %}
+			<li><a href="#{{ sector.title | slugify }}">{{ sector.title }}</a></li>
+		{% endfor %}
+		{% if include.viewAll == true %}
+			<li class="viewAll"><a href="{{ page.url | relative_url }}archive">View All Articles</a></li>
+		{% endif %}
+	</ul>
+	{% if include.stickyMenu == true %}</div>{% endif %}
+</aside>
