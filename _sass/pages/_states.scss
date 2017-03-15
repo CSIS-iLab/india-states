@@ -6,6 +6,11 @@
 .stateInfoContainer {
 	padding-bottom: 2rem;
 
+	ul.shareIcons:first-of-type {
+		text-align: right;
+		margin-top: 0.5rem;
+	}
+
 	.stateInfo {
 		@include breakpoint("medium") {
 			padding-right: 5rem;
