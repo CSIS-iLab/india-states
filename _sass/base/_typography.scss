@@ -1,7 +1,7 @@
 body {
   color: $color__text-main;
   font-family: $font__main;
-  @include fontSize(21px);
+  @include fontSize(18px);
 }
 
 .main-title {
@@ -37,7 +37,7 @@ body {
 
 p {
   line-height: 1.6;
-  @include fontSize(21px);
+  @include fontSize(18px);
   margin-top: 0;
 }
 
@@ -86,16 +86,35 @@ a {
   font-family: $font__ExpoSerif;
   line-height: 1.8rem;
   margin: 0;
+  font-weight: 600;
 }
 
 .articleMeta {
-  color: $gray;
+  color: $gray-text;
   @include fontSize(14px);
   line-height: 1.4rem;
   font-family: $font__MuseoSans;
 
   .articleDate {
+    color: $gray;
     font-weight: bold;
     font-style: italic;
   }
+}
+
+.listCategory {
+  color: $gray-text;
+  @include fontSize(14px);
+  font-family: $font__MuseoSans;
+  line-height: 1.4rem;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+.listContent {
+  color: $black;
+  @include fontSize(14px);
+  line-height: 1.4rem;
+  font-family: $font__MuseoSans;
+  font-style: italic;
 }

@@ -15,9 +15,85 @@
 
 	.post-articleContent {
 		padding-right: 3rem;
+
+		p {
+			margin: 0.8rem auto;
+		}
+
+		hr {
+			width: 15%;
+			border-style: solid;
+			border-color: $light-gray;
+			margin: 0 0 0.8rem 0;
+		}
+
+		.post-articleSourcesDetails {
+			color: $gray-text;
+			@include fontSize(14px);
+			line-height: 1.4rem;
+			font-family: $font__MuseoSans;
+			text-transform: uppercase;
+
+			a {
+				text-transform: none;
+				color: $gray;
+
+				&:hover {
+					color: $base-orange;
+				}
+			}
+		}
 	}
 
 	.post-articleMetaContainer {
 		
+		hr {
+			border-style: dashed;
+			border-color: $medium-gray;
+		}
+
+		a {
+			color: $gray;
+			@include box-shadow(0px, -2px, 0px, 0, $base-orange, true);
+
+			&:hover {
+				color: $base-blue;
+				@include box-shadow(0px, -2px, 0px, 0, darken($base-orange,10%), true);
+			}
+
+			&.sector {
+				text-transform: uppercase;
+				font-weight: bold;
+				font-style: normal;
+				box-shadow: none;
+			}
+		}
+
+		.post-articleExtraMeta {
+			display: none;
+			margin-left: -0.2em;
+
+			&.sectors {
+				margin-left: 0;
+			}
+		}
+
+		.post-articleShowMoreMeta {
+			text-align: center;
+			margin-top: 0.5rem;
+
+			img {
+				max-width: 20px;
+				height: auto;
+
+				&.showMore {
+					display: inline-block;
+				}
+				&.showLess {
+					display: none;
+				}
+			}
+		}
+
 	}
 }

@@ -113,6 +113,8 @@ description: Write an awesome description for your new site here. You can edit t
 baseurl: 
 url: 
 date_format: "%B %-d, %Y"
+post_meta_limit: 5
+post_meta_sector_limit: 3
 google_analytics: 
 algolia:
   application_id: 7UNKAH6RMH
