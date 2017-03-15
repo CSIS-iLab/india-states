@@ -76,18 +76,6 @@ layout: default
 <div class="row">
   <!-- Table of Contents -->
   {% include table-of-contents.html viewAll="true" stickyMenu="true" %}
-  <aside class="tableOfContents col-xs-12 col-md-3">
-    <div class="isSticky">
-      <h4 class="sectionSubtitle">Sector Menu</h4>
-      <span class="tableOfContents-instructions">Skip to sector content:</span>
-      <ul class="tableOfContents-list">
-        {% for sector in site.sectors %}
-          <li><a href="#{{ sector.title | slugify }}">{{ sector.title }}</a></li>
-        {% endfor %}
-          <li class="viewAll"><a href="{{ page.url | relative_url }}archive">View All Articles</a></li>
-      </ul>
-    </div>
-  </aside>
 
   <!-- State Articles -->
   <section class="stateArticlesContainer col-xs-12 col-md-9">
@@ -100,20 +88,11 @@ layout: default
 
       <!-- Display Sectors -->
       {% for sector in site.sectors %}
-        <section id="{{ sector.title | slugify }}" class="sectorSection">
-          <h2>
-            <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
-          </h2>
-
-          <!-- Get State Specific Posts -->
-          {% assign statePosts = site.posts | where_exp:"post","post.states contains page.title" %}
-          {% assign sectorPosts = statePosts | where_exp:"post","post.sectors contains sector.title" %}
-          {% include post-listing.html posts=sectorPosts limit=site.sector_overview_post_limit %}
-
-          <a class="button" href="{{ page.url | relative_url }}{{ sector.title | slugify }}">See More</a>
-        </section>
+        {% capture viewAllLink %}{{ page.url | relative_url }}{{ sector.title | slugify }}{% endcapture %}
+        {% include sector-recent-articles.html viewAllLink = viewAllLink %}
       {% endfor %}
-      <br /><br /><br />
+
+      <!-- View All Link -->
       <a href="{{ page.url | relative_url }}archive"><button class="btn-orange">View All Articles &gt;</button></a>
     </div>
   </section>

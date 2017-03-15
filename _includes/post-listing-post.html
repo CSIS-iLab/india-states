@@ -1,1 +1,10 @@
-<a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a> {% if post.is_analysis %}ANALYSIS{% endif %}
+<article id="{{ post.title | escape | slugify }}" class="post-articleContainer row">
+	<div class="post-articleContent col-xs-12 col-md-9">
+		<h4 class="articleTitle">{{ post.title | escape }}</h4>
+		<span class="articleMeta">Posted on <span class="articleDate">{{ post.date | date: site.date_format }}</span></span>
+		{{ post.excerpt }}
+	</div>
+	<div class="post-articleMetaContainer col-xs-12 col-md-3">
+		Meta Information Here
+	</div>
+</article>

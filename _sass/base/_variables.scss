@@ -6,6 +6,7 @@
 
 $base-blue: #004165;
 $base-orange: #E87415;
+$base-orange-rgba: rbga(232,116,21,1.0);
 $light-blue: #98B0BC;
 $dark-blue: #205075;
 $darkest-blue: #01273C;
@@ -14,6 +15,7 @@ $light-gray: #F0F0F0;
 $map-gray: #DDDDDD;
 $medium-gray: #A8A8A8;
 $dark-gray: #707079;
+$gray-text: #797979;
 $white: #ffffff;
 $black: #000000;
 $gray: #333333;
@@ -28,7 +30,7 @@ $color__header-ss-nav-font: $white;
 $color__header-nav-font: $map-gray;
 $color__header-breadcrumbs-font: $light-blue;
 $color__text-button: $white;
-$color__text-list-category: #797979;
+$color__text-list-category: $gray-text;
 
 
 $color__text-main: $gray;

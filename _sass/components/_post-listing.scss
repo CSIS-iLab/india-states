@@ -1,5 +1,23 @@
+/*====================================
+=            Post Listing            =
+====================================*/
 .post-listing {
 	.hidden {
 		display:none;
+	}
+}
+
+/*----------  Post Listing: Individual Post  ----------*/
+.post-articleContainer {
+	border-top: 2px solid $gray;
+	margin: 0 0 4rem 0;
+	padding-top: 1rem;
+
+	.post-articleContent {
+		padding-right: 3rem;
+	}
+
+	.post-articleMetaContainer {
+		
 	}
 }

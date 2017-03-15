@@ -79,29 +79,23 @@ a {
   }
 }
 
-dl.inline-flex {
-  display: flex;
-  flex-flow: row;
-  flex-wrap: wrap;
-  width: 65%;      /* set the container width*/
-  overflow: visible;
+/*----------  Articles  ----------*/
+.articleTitle {
+  color: $gray;
+  @include fontSize(22px);
+  font-family: $font__ExpoSerif;
+  line-height: 1.8rem;
+  margin: 0;
+}
 
-  dt {
-    flex: 0 0 50%;
-    text-overflow: ellipsis;
-    overflow: hidden;
-    font-weight:bold;
+.articleMeta {
+  color: $gray;
+  @include fontSize(14px);
+  line-height: 1.4rem;
+  font-family: $font__MuseoSans;
 
-    &::after {
-      content: ": ";
-    }
-  }
-  
-  dd {
-    flex:0 0 50%;
-    margin-left: auto;
-    text-align: left;
-    text-overflow: ellipsis;
-    overflow: hidden;
+  .articleDate {
+    font-weight: bold;
+    font-style: italic;
   }
 }
