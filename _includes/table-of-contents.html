@@ -6,7 +6,7 @@
 		{% for sector in site.sectors %}
 			<li><a href="#{{ sector.title | slugify }}">{{ sector.title }}</a></li>
 		{% endfor %}
-		{% if include.viewAll == true %}
+		{% if include.viewAll == "true" %}
 			<li class="viewAll"><a href="{{ page.url | relative_url }}archive">View All Articles</a></li>
 		{% endif %}
 	</ul>
