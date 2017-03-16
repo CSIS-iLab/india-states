@@ -105,13 +105,13 @@ $(function() {
 		// Render Subsector Info
 		if(subsectorFiltering == true && subsector != "all") {
 			$(".subsectorFiltering-subsectorTitle").html(subsectorInfoObject[subsector].title);
-			$(".subsectorFiltering-subsectorTitle").show();
+			$(".subsectorFiltering-subsectorTitle").show("fast");
 			$(".subsectorFiltering-subsectorInfo span").html($.parseHTML(unescape(subsectorInfoObject[subsector].content)));
-			$(".subsectorFiltering-subsectorInfo").show();
+			$(".subsectorFiltering-subsectorInfo").show("fast");
 		}
 		else if(subsector == "all") {
-			$(".subsectorFiltering-subsectorTitle").hide();
-			$(".subsectorFiltering-subsectorInfo").hide();
+			$(".subsectorFiltering-subsectorTitle").hide("fast");
+			$(".subsectorFiltering-subsectorInfo").hide("fast");
 		}
 
 		// If we have no results, display no results message
