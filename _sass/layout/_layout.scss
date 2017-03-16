@@ -16,11 +16,11 @@ body {
 
 	@include breakpoint("medium") {
 		margin: 0 1.5rem;
-	}
 
-	&.fullWidthContent {
-		margin: 0 auto;
-		max-width: 900px;
+		&.fullWidthContent {
+			margin: 0 auto;
+			max-width: 900px;
+		}
 	}
 }
 

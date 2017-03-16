@@ -11,10 +11,6 @@ states:
 sectors:
 - Energy
 - Aerospace and Defense
-- Infrastructure
-- Foo
-- Bar
-- Health
 subsectors: Renewable
 sources:
   name: NYT

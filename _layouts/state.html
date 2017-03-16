@@ -69,10 +69,10 @@ layout: default
 <!-- Feature Images -->
 <div class="stateFeatureImageContainer row">
   <div class="col-xs-12 col-md-6">
-    <img src="http://www.tbalert.org/wp-content/uploads/2011/05/0029_tap_india_2013.jpg" />
+    <img src="{{ page.feature_images.primary.image }}" />
   </div>
   <div class="hidden-xs col-md-6">
-    <img src="http://www.tbalert.org/wp-content/uploads/2011/05/0029_tap_india_2013.jpg" />
+    <img src="{{ page.feature_images.secondary.image }}" />
   </div>
 </div>
 
@@ -85,8 +85,8 @@ layout: default
     <div class="content-wrapper">
 
       <div class="stateFeatureImageCaptions">
-        <em>Left:</em> Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />
-        <em>Right:</em> Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br />
+        <em>Left:</em> {{ page.feature_images.primary.credit }}<br />
+        <em>Right:</em> {{ page.feature_images.secondary.credit }}<br />
       </div>
 
       <!-- Display Sectors -->

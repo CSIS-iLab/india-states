@@ -54,6 +54,10 @@
 			color: $base-orange;
 			display: none;
 
+			&.isStateArchive {
+				display: inline;
+			}
+
 			&:before {
 				content: ": ";
 				color: $base-blue;

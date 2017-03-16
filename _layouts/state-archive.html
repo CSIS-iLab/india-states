@@ -1,18 +1,28 @@
 ---
 layout: default
 ---
+{% assign state = site.states | where:'title',page.state | first %}
+<section class="archive-container">
+	{% if state.feature_images.primary.image %}
+		<div class="archive-featureImage" style="background-image:url('{{state.feature_images.primary.image}}'"></div>
+	{% endif %}
+	<header class="archive-header">
+		<div class="content-wrapper fullWidthContent">
+			<!-- Share Icons -->
+      		{% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
 
-<article class="post">
+			<h1 class="subtitle">{{ page.state | escape }}</h1>
+		</div>
+	</header>
 
-	<header class="post-header">
-    	<h1 class="post-title">{{ page.state | escape }}: Archive</h1>
-  	</header>
+	<section>
+		<div class="content-wrapper fullWidthContent">
+			<section class="archive-relatedArticlesContainer">
+				<!-- Get State Specific Posts -->
+				{% assign statePosts = site.posts | where_exp:"post","post.states contains page.state" %}
 
-  	<div class="post-content">
-  		<p>Test of the all posts archive system!</p>
-		<!-- Get State Specific Posts -->
-		{% assign statePosts = site.posts | where_exp:"post","post.states contains page.state" %}
-
-		{% include state-archive-pagination.html state=page.state %}
-	</div>
-</article>
+				{% include state-archive-pagination.html state=page.state %}
+			</section>
+		</div>
+	</section>
+</section>

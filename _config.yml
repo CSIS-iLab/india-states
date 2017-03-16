@@ -55,8 +55,13 @@ defaults:
   values:
     layout: state
     content_type: State
-    feature_image: 
-    feature_image_credit: 
+    feature_images:
+      primary:
+        image:
+        credit:
+      secondary:
+        image:
+        credit: 
     size: 
     population:
       rural: 

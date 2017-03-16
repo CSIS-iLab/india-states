@@ -3,6 +3,19 @@
 =====================================*/
 
 .archive-container {
+
+	.archive-featureImage {
+		display: none;
+
+		@include breakpoint("medium") {
+			display: block;
+			width:100%;
+			height: 300px;
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-size: cover; 
+		}
+	}
 	
 	.archive-header {
 		background-color: $light-gray;
