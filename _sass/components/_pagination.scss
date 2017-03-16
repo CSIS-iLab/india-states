@@ -1,0 +1,78 @@
+/*==================================
+=            Pagination            =
+==================================*/
+
+/*----------  Total Results & Sort Order  ----------*/
+.pagination-sortByContainer {
+	color: $light-blue;
+	background-color: $base-blue;
+	font-family: $font__MuseoSans;
+	@include fontSize(15px);
+	line-height: 1.3rem;
+	padding: 0.2rem 0.5rem;
+	margin-bottom: 0.1rem;
+
+	.pagination-totalResults {
+		float: left;
+		width: 50%;
+	}
+
+	.pagination-sortBy {
+		text-align: right;
+		font-style: italic;
+
+		a {
+			color: $light-blue;
+			font-style: normal;
+			margin-left: 0.5rem;
+
+			&.active {
+				color: $white;
+			}
+		}
+	}
+}
+
+/*----------  Results  ----------*/
+.pagination-posts-container {
+	.pagination-sectionTitle {
+		color: $base-orange;
+		margin: 0.5rem 0;
+	}
+
+	p.noResults {
+		margin: 1rem 0;
+	}
+}
+
+/*----------  Page Numbers  ----------*/
+.pagination-pagesContainer {
+	text-align: center;
+	margin: 1.5rem 0;
+	@include fontSize(15px);
+	font-family: $font__MuseoSans;
+
+	a {
+		margin: 0 0.5rem;
+
+		// Currently Selected Page Number
+		&.active {
+			pointer-events: none;
+
+			.btn-gray {
+				background-color: $base-orange;
+				color: $white;
+			}
+		}
+	}
+
+	.next-prev {
+		color: $base-orange;
+		font-style: italic;
+	}
+
+	.btn-gray {
+		padding: 2px 7px;
+	}
+	
+}

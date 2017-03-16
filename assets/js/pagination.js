@@ -20,17 +20,24 @@ $(function() {
             	$("a.sort-attribute").each(function() {
 					var href = $(this).attr("href");
 					var sortType = $(this).data("sort");
-					var newHash = "#subsector="+subsector+"&amp;"+sortType;
+					var newHash = "#subsector="+subsector+"&"+sortType;
 					$(this).attr("href", href.replace(href, newHash));
 				});
+
+				$(".subsector-link").removeClass("active");
+				$(".subsector-link[data-show-subsector='"+subsector+"'").addClass("active");
             }
             $(".sort-attribute").removeClass("active");
             $("a.sort-attribute[href^='#"+hash+"']").addClass("active");
         }
+        else {
+        	// Set "All" button to active
+        	$(".subsector-link[data-show-subsector='all'").addClass("active");
+        }
 
 		// Set Active Page in Pagination Bar based on hash, or default to 1
-		$(".pagination-container a").removeClass("active");
-		$('.pagination-container a[data-page="'+current_page+'"]').addClass('active');
+		$(".pagination-pagesContainer a").removeClass("active");
+		$('.pagination-pagesContainer a[data-page="'+current_page+'"]').addClass('active');
 
         // Calculate the pagination settings based on hash values
         paginationCalculation(subsector, sort_field, sort_order, current_page);
@@ -73,14 +80,17 @@ $(function() {
 		$(".pagination-posts-container").empty();
 
 		// Choose which post object we want to use based on sort_field
+		var posts;
 		if(sort_field == "date") {
 			if(subsector) {
 				posts = postsPaginateMainObject[subsector];
+
 			}
 			else {
 				posts = postsPaginateMain;
 			}
 			showSubheaders = false;
+
 		}
 		else {
 			if(subsector) {
@@ -92,23 +102,42 @@ $(function() {
 			showSubheaders = true;
 		}
 
-		// Reverse the sort_field to pass to our dynamic sorter function
-		if(sort_order == "desc") {
-			posts.sort(dynamicSort("-"+sort_field));
+		// Render Subsector Info
+		if(subsectorFiltering == true && subsector != "all") {
+			$(".subsectorFiltering-subsectorTitle").html(subsectorInfoObject[subsector].title);
+			$(".subsectorFiltering-subsectorTitle").show();
+			$(".subsectorFiltering-subsectorInfo span").html($.parseHTML(unescape(subsectorInfoObject[subsector].content)));
+			$(".subsectorFiltering-subsectorInfo").show();
+		}
+		else if(subsector == "all") {
+			$(".subsectorFiltering-subsectorTitle").hide();
+			$(".subsectorFiltering-subsectorInfo").hide();
+		}
+
+		// If we have no results, display no results message
+		if(posts == undefined) {
+			paginationNoResults();
 		}
 		else {
-			posts.sort(dynamicSort(sort_field));
+
+			// Reverse the sort_field to pass to our dynamic sorter function
+			if(sort_order == "desc") {
+				posts.sort(dynamicSort("-"+sort_field));
+			}
+			else {
+				posts.sort(dynamicSort(sort_field));
+			}
+
+			// Total Count
+			total_items = posts.length;
+
+			// Render the Posts for this page
+			var postsArray = posts.slice(start_item, (end_item + 1));
+			paginationPostRender(postsArray, showSubheaders, subsector);
+
+			// Render Pagination
+			paginationRender(total_items, end_item, subsector, sort_field, sort_order, current_page);
 		}
-
-		// Total Count
-		total_items = posts.length;
-
-		// Render the Posts for this page
-		var postsArray = posts.slice(start_item, (end_item + 1));
-		paginationPostRender(postsArray, showSubheaders, subsector);
-
-		// Render Pagination
-		paginationRender(total_items, end_item, subsector, sort_field, sort_order, current_page);
 	}
 
 	/**
@@ -119,7 +148,6 @@ $(function() {
 	 */
 	function paginationPostRender(posts, showSubheaders, subsector) {
 		$.each(posts, function(index, post) {
-			console.log(post);
 			// Check if we want to display subheaders. If we do, we only want to show it once per page
 			if(post.state) {
 				var stateID = post.state.replace(" ", "");
@@ -130,17 +158,16 @@ $(function() {
 					else {
 						total = postsPaginateSecondaryTotal[post.state]
 					}
-					$(".pagination-posts-container").append("<h2 id='"+stateID+"'>"+post.state+"</h2>");
+					$(".pagination-posts-container").append("<h3 class='sectionTitle pagination-sectionTitle' id='"+stateID+"'>"+post.state+"</h3>");
 				}
 			}
 			else if(post.sector) {
 				var sectorID = post.sector.replace(" ", "");
 				if(showSubheaders && $("#"+sectorID).length == 0) {
-					$(".pagination-posts-container").append("<h2 id='"+sectorID+"'>"+post.sector+"</h2>");
+					$(".pagination-posts-container").append("<h3 class='sectionTitle pagination-sectionTitle' id='"+sectorID+"'>"+post.sector+"</h3>");
 				}
 			}
 
-			
 		    // Render post
 		    $('.pagination-posts-container').append($.parseHTML(unescape(post.postHtml)));
 
@@ -158,7 +185,7 @@ $(function() {
 	 */
 	function paginationRender(total_items, end_item, subsector, sort_field, sort_order, current_page) {
 		var total_pages = Math.ceil(total_items / posts_per_page );
-		$(".pagination-container").empty();
+		$(".pagination-pagesContainer").empty();
 
 		// Only show the pagination bar if we have more than 1 page
 		if(total_pages > 1) {
@@ -176,7 +203,7 @@ $(function() {
 			// Previous Button
 			if(current_page > 1) {
 				var previousPage = current_page - 1;
-				$(".pagination-container").append("<a href='"+hash+previousPage+"' data-page='"+previousPage+"'>Previous</a>");
+				$(".pagination-pagesContainer").append("<a href='"+hash+previousPage+"' data-page='"+previousPage+"' class='next-prev'>&lt; Previous</a>");
 			}
 
 			// Render each page button
@@ -187,15 +214,24 @@ $(function() {
 				else {
 					var activeClass = "";
 				}
-				$(".pagination-container").append("<a href='"+hash+i+"' class='"+activeClass+"' data-page='"+i+"'>"+i+"</a>");
+				$(".pagination-pagesContainer").append("<a href='"+hash+i+"' class='"+activeClass+"' data-page='"+i+"'><button class='btn-gray'>"+i+"</button></a>");
 			}
 
 			// Next Button
 			if(current_page < total_pages) {
 				var nextPage = current_page + 1;
-				$(".pagination-container").append("<a href='"+hash+nextPage+"' data-page='"+nextPage+"'>Next</a>");
+				$(".pagination-pagesContainer").append("<a href='"+hash+nextPage+"' data-page='"+nextPage+"' class='next-prev'>Next &gt;</a>");
 			}
 		}
+
+		// Total Results and Current Page/Total Pages
+		$(".pagination-totalResults").html(total_items+" total results | Page "+current_page+" of "+total_pages);
+	}
+
+	function paginationNoResults() {
+		$(".pagination-totalResults").html("0 total results");
+		$(".pagination-posts-container").html("<p class='noResults'>There are currently no related articles in this subsector.</p>");
+		$(".pagination-pagesContainer").empty();
 	}
 
 	/**

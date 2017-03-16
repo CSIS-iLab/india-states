@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% assign sector = site.sectors | where:"title",page.sector %}
+{% assign sector = site.sectors | where:'title',page.sector | first %}
 <section class="archive-container">
 	<header class="archive-header">
 		<div class="content-wrapper fullWidthContent">
@@ -16,12 +16,7 @@ layout: default
 
 	<section>
 		<div class="content-wrapper fullWidthContent">
-			<div>Filter by subsector</div>
-
-			<section class="archive-relatedArticles">
-				<h3 class="sectionTitle">Related Articles</h3>
-				<div>Pagination Results</div>
-				
+			<section class="archive-relatedArticlesContainer">
 				{% assign statePosts = site.posts | where_exp:"post","post.states contains page.state" %}
 
 				{% include post-subsector-filtering.html posts=statePosts sector=page.sector state=page.state %}
