@@ -25,7 +25,8 @@ $(function() {
 				});
 
 				$(".subsector-link").removeClass("active");
-				$(".subsector-link[data-show-subsector='"+subsector+"'").addClass("active");
+				$(".subsector-link[data-show-subsector='"+subsector+"'").first().addClass("active");
+
             }
             $(".sort-attribute").removeClass("active");
             $("a.sort-attribute[href^='#"+hash+"']").addClass("active");
@@ -33,6 +34,12 @@ $(function() {
         else {
         	// Set "All" button to active
         	$(".subsector-link[data-show-subsector='all'").addClass("active");
+        }
+
+        // Set Date Desc as active by default if nothing else specified
+        if(!sort_field) {
+        	$(".sort-attribute").removeClass("active");
+            $("a.sort-attribute[data-sort='sort=date&order=desc']").addClass("active");
         }
 
 		// Set Active Page in Pagination Bar based on hash, or default to 1

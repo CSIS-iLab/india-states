@@ -141,7 +141,7 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
-sector_overview_post_limit: 5
+sector_overview_post_limit: 2
 post_archive_posts_per_page: 2
 tag_page_layout: tag-archive
 tag_page_dir: tag

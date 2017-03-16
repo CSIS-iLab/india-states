@@ -81,7 +81,7 @@ layout: default
   {% include table-of-contents.html viewAll="true" stickyMenu="true" %}
 
   <!-- State Articles -->
-  <section class="stateArticlesContainer col-xs-12 col-md-9">
+  <section class="sectorsArticlesContainer col-xs-12 col-md-9">
     <div class="content-wrapper">
 
       <div class="stateFeatureImageCaptions">
@@ -92,7 +92,7 @@ layout: default
       <!-- Display Sectors -->
       {% for sector in site.sectors %}
         {% capture viewAllLink %}{{ page.url | relative_url }}{{ sector.title | slugify }}{% endcapture %}
-        {% include sector-recent-articles.html viewAllLink = viewAllLink %}
+        {% include sector-recent-articles.html viewAllLink = viewAllLink useStatePosts="true" %}
       {% endfor %}
 
       <!-- View All Link -->
