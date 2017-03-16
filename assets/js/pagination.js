@@ -140,8 +140,10 @@ $(function() {
 				}
 			}
 
-			// Render post
-			$(".pagination-posts-container").append("<a class='post-link' href='"+post.url+"'>"+post.title+": "+post.date+"</a>");
+			
+		    // Render post
+		    $('.pagination-posts-container').append($.parseHTML(unescape(post.postHtml)));
+
 		});
 	}
 

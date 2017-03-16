@@ -8,18 +8,18 @@
 <!-- Display Subsector Filtering if we have articles in this sector -->
 {% if sectorPosts %}
   <ul>
-    <li><a href="#subsector=all" class="subsector-link" data-show-subsector="{{ include.sector | slugify }}-all" data-sector="{{ include.sector | slugify }}">All</button></li>
+    <li><a href="#subsector=all" class="subsector-link noScroll" data-show-subsector="{{ include.sector | slugify }}-all" data-sector="{{ include.sector | slugify }}">All</button></li>
     {% for subsector in subsectors %}
-      <li><a href="#subsector={{ subsector.title | slugify }}" class="subsector-link" data-show-subsector="{{ subsector.title | slugify }}" data-sector="{{ include.sector | slugify }}">{{ subsector.title }}</button></li>
+      <li><a href="#subsector={{ subsector.title | slugify }}" class="subsector-link  noScroll" data-show-subsector="{{ subsector.title | slugify }}" data-sector="{{ include.sector | slugify }}">{{ subsector.title }}</button></li>
     {% endfor %}
   </ul>
 
   <!-- Post Sorting, Rendering, and Pagination -->
   <div class="sort-attributes-container">
-    <a href="#subsector=all&amp;sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">Date Ascending</a> &middot; 
-    <a href="#subsector=all&amp;sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">Date Descending</a> &middot; 
-    <a href="#subsector=all&amp;sort=state&amp;order=asc" class="sort-attribute" data-sort="sort=state&amp;order=asc">State Ascending</a> &middot; 
-    <a href="#subsector=all&amp;sort=state&amp;order=desc" class="sort-attribute" data-sort="sort=state&amp;order=desc">State Descending</a>
+    <a href="#subsector=all&amp;sort=date&amp;order=asc" class="sort-attribute noScroll" data-sort="sort=date&amp;order=asc">Date Ascending</a> &middot; 
+    <a href="#subsector=all&amp;sort=date&amp;order=desc" class="sort-attribute noScroll active" data-sort="sort=date&amp;order=desc">Date Descending</a> &middot; 
+    <a href="#subsector=all&amp;sort=state&amp;order=asc" class="sort-attribute noScroll" data-sort="sort=state&amp;order=asc">State Ascending</a> &middot; 
+    <a href="#subsector=all&amp;sort=state&amp;order=desc" class="sort-attribute noScroll" data-sort="sort=state&amp;order=desc">State Descending</a>
   </div>
   <div class="pagination-posts-container post-listing" data-sector="{{include.sector | slugify}}" data-subsector="all"></div>
   <div class="pagination-container"></div>
@@ -38,14 +38,18 @@
         {% capture states %}[{% for state in post.states %}"{{state}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
         {% capture sectors %}[{% for sector in post.sectors %}"{{sector}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
         {% capture postSubsectors %}[{% for subsector in post.subsectors %}"{{subsector}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
+        {% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
         {
+          "id": "{{ post.title | escape | slugify }}",
           "title": "{{ post.title }}",
           "states": {{states}},
           "sectors": {{sectors}},
           "subsectors": {{postSubsectors}},
           "url": "{{ post.url | relative_url }}",
           "date": new Date("{{ post.date | date_to_xmlschema }}"),
-          "excerpt": "{{ post.excerpt | replace: '"', '\"' | normalize_whitespace }}"
+          "dateFormatted": "{{ post.date | date: site.date_format }}",
+          "excerpt": "{{ post.excerpt | replace: '"', '\"' | normalize_whitespace }}",
+          "postHtml": {{postHtml | strip_newlines | jsonify}}
         }{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ];
@@ -54,6 +58,7 @@
     postsPaginateMainObject["all"].forEach(function(post, pIndex) {
       post.states.forEach(function(state, index){
         var newPost = {
+          "id": post.id,
           "title": post.title,
           "states": post.states,
           "sectors": post.sectors,
@@ -61,7 +66,9 @@
           "subsectors": post.subsectors,
           "url": post.url,
           "date": post.date,
-          "excerpt": post.excerpt
+          "dateFormatted": post.dateFormatted,
+          "excerpt": post.excerpt,
+          "postHtml": post.postHtml
         };
         postsPaginateSecondaryObject["all"].push(newPost);
 
@@ -86,14 +93,18 @@
             {% capture states %}[{% for state in post.states %}"{{state}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
             {% capture sectors %}[{% for sector in post.sectors %}"{{sector}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
             {% capture subsectors %}[{% for subsector in post.subsectors %}"{{subsector}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
+            {% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
             {
+              "id": "{{ post.title | escape | slugify }}",
               "title": "{{ post.title }}",
               "states": {{states}},
               "sectors": {{sectors}},
               "subsectors": {{subsectors}},
               "url": "{{ post.url | relative_url }}",
               "date": new Date("{{ post.date | date_to_xmlschema }}"),
-              "excerpt": "{{ post.excerpt | replace: '"', '\"' | normalize_whitespace }}"
+              "dateFormatted": "{{ post.date | date: site.date_format }}",
+              "excerpt": "{{ post.excerpt | replace: '"', '\"' | normalize_whitespace }}",
+              "postHtml": {{postHtml | strip_newlines | jsonify}}
             }{% unless forloop.last %},{% endunless %}
           {% endfor %}
         ];
@@ -102,6 +113,7 @@
         postsPaginateMainObject["{{subsectorSlug}}"].forEach(function(post, pIndex) {
           post.states.forEach(function(state, index){
             var newPost = {
+              "id": post.id,
               "title": post.title,
               "states": post.states,
               "sectors": post.sectors,
@@ -109,7 +121,9 @@
               "subsectors": post.subsectors,
               "url": post.url,
               "date": post.date,
-              "excerpt": post.excerpt
+              "dateFormatted": post.dateFormatted,
+              "excerpt": post.excerpt,
+              "postHtml": post.postHtml
             };
             postsPaginateSecondaryObject["{{subsectorSlug}}"].push(newPost);
 
@@ -129,9 +143,9 @@
   {% endif %}
 
 <script>
-console.log(postsPaginateMainObject);
-console.log(postsPaginateSecondaryObject);
-console.log(postsPaginateSecondaryTotal);
-  </script>
+  console.log(postsPaginateMainObject);
+  console.log(postsPaginateSecondaryObject);
+  console.log(postsPaginateSecondaryTotal);
+</script>
 
 <script src="{{ "/assets/js/pagination.js" | relative_url }}"></script>
