@@ -176,7 +176,7 @@ $(function() {
 			// Previous Button
 			if(current_page > 1) {
 				var previousPage = current_page - 1;
-				$(".pagination-container").append("<a href='"+hash+previousPage+"' data-page='"+previousPage+"' class='noScroll'>Previous</a>");
+				$(".pagination-container").append("<a href='"+hash+previousPage+"' data-page='"+previousPage+"'>Previous</a>");
 			}
 
 			// Render each page button
@@ -187,13 +187,13 @@ $(function() {
 				else {
 					var activeClass = "";
 				}
-				$(".pagination-container").append("<a href='"+hash+i+"' class='"+activeClass+" noScroll' data-page='"+i+"'>"+i+"</a>");
+				$(".pagination-container").append("<a href='"+hash+i+"' class='"+activeClass+"' data-page='"+i+"'>"+i+"</a>");
 			}
 
 			// Next Button
 			if(current_page < total_pages) {
 				var nextPage = current_page + 1;
-				$(".pagination-container").append("<a href='"+hash+nextPage+"' class='noScroll' data-page='"+nextPage+"'>Next</a>");
+				$(".pagination-container").append("<a href='"+hash+nextPage+"' data-page='"+nextPage+"'>Next</a>");
 			}
 		}
 	}

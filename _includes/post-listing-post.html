@@ -41,7 +41,7 @@
 
 	      		{% capture postSectorSubsectors %}
 	      		{% for subsector in sectorSubsectors %}
-	      			{% if subsector.sector == sector and post.subsectors contains subsector.title %}<a href='{{ sector | slugify | prepend: "/sectors/" | relative_url }}#{{ subsector.title | slugify }}' class="sectorSection-subsectorsListSubsector noScroll">{{ subsector.title }}</a>,{% endif %}
+	      			{% if subsector.sector == sector and post.subsectors contains subsector.title %}<a href='{{ sector | slugify | prepend: "/sectors/" | relative_url }}#{{ subsector.title | slugify }}' class="sectorSection-subsectorsListSubsector">{{ subsector.title }}</a>,{% endif %}
 	      		{% endfor %}
 	      		{% endcapture %}
 
@@ -61,7 +61,7 @@
 
 			      		{% capture postSectorSubsectors %}
 			      		{% for subsector in sectorSubsectors %}
-			      			{% if subsector.sector == sector and post.subsectors contains subsector.title %}<a href='{{ sector | slugify | prepend: "/sectors/" | relative_url }}#{{ subsector.title | slugify }}' class="sectorSection-subsectorsListSubsector noScroll">{{ subsector.title }}</a>,{% endif %}
+			      			{% if subsector.sector == sector and post.subsectors contains subsector.title %}<a href='{{ sector | slugify | prepend: "/sectors/" | relative_url }}#{{ subsector.title | slugify }}' class="sectorSection-subsectorsListSubsector">{{ subsector.title }}</a>,{% endif %}
 			      		{% endfor %}
 			      		{% endcapture %}
 

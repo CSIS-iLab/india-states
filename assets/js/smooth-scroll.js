@@ -3,7 +3,7 @@
 ========================================*/
 $(function() {
   // Add smooth scrolling to all links
-  $("a").not(".noScroll").on('click', function(event) {
+  $("a.smoothScroll").on('click', function(event) {
 
     // Make sure this.hash has a value before overriding default behavior
     if (this.hash !== "") {

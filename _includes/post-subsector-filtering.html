@@ -8,18 +8,18 @@
 <!-- Display Subsector Filtering if we have articles in this sector -->
 {% if sectorPosts %}
   <ul>
-    <li><a href="#subsector=all" class="subsector-link noScroll" data-show-subsector="{{ include.sector | slugify }}-all" data-sector="{{ include.sector | slugify }}">All</button></li>
+    <li><a href="#subsector=all" class="subsector-link" data-show-subsector="{{ include.sector | slugify }}-all" data-sector="{{ include.sector | slugify }}">All</button></li>
     {% for subsector in subsectors %}
-      <li><a href="#subsector={{ subsector.title | slugify }}" class="subsector-link  noScroll" data-show-subsector="{{ subsector.title | slugify }}" data-sector="{{ include.sector | slugify }}">{{ subsector.title }}</button></li>
+      <li><a href="#subsector={{ subsector.title | slugify }}" class="subsector-link" data-show-subsector="{{ subsector.title | slugify }}" data-sector="{{ include.sector | slugify }}">{{ subsector.title }}</button></li>
     {% endfor %}
   </ul>
 
   <!-- Post Sorting, Rendering, and Pagination -->
   <div class="sort-attributes-container">
-    <a href="#subsector=all&amp;sort=date&amp;order=asc" class="sort-attribute noScroll" data-sort="sort=date&amp;order=asc">Date Ascending</a> &middot; 
-    <a href="#subsector=all&amp;sort=date&amp;order=desc" class="sort-attribute noScroll active" data-sort="sort=date&amp;order=desc">Date Descending</a> &middot; 
-    <a href="#subsector=all&amp;sort=state&amp;order=asc" class="sort-attribute noScroll" data-sort="sort=state&amp;order=asc">State Ascending</a> &middot; 
-    <a href="#subsector=all&amp;sort=state&amp;order=desc" class="sort-attribute noScroll" data-sort="sort=state&amp;order=desc">State Descending</a>
+    <a href="#subsector=all&amp;sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">Date Ascending</a> &middot; 
+    <a href="#subsector=all&amp;sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">Date Descending</a> &middot; 
+    <a href="#subsector=all&amp;sort=state&amp;order=asc" class="sort-attribute" data-sort="sort=state&amp;order=asc">State Ascending</a> &middot; 
+    <a href="#subsector=all&amp;sort=state&amp;order=desc" class="sort-attribute" data-sort="sort=state&amp;order=desc">State Descending</a>
   </div>
   <div class="pagination-posts-container post-listing" data-sector="{{include.sector | slugify}}" data-subsector="all"></div>
   <div class="pagination-container"></div>
