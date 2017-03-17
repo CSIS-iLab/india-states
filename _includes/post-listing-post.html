@@ -1,9 +1,29 @@
 <article id="{{ post.title | escape | slugify }}" class="post-articleContainer row">
 	<!-- Article Title & Content -->
 	<div class="post-articleContent col-xs-12 col-md-9">
-		<h4 class="articleTitle">{{ post.title | escape }}</h4>
+		{% if post.is_analysis %}	
+		<h4 class="articleTitle"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h4>
+		{% else %}
+			<h4 class="articleTitle">{{ post.title | escape }}</h4>
+		{% endif %}
+		{% if post.is_analysis %}
+			<span class="articleMeta">By <span class="articleAuthor">{{ post.author }}</span></span>
+			<br />
+		{% endif %}
 		<span class="articleMeta">Posted on <span class="articleDate">{{ post.date | date: site.date_format }}</span></span>
-		{{ post.excerpt }}
+
+		{% if post.is_analysis %}
+			<div class="row analysis">
+				<div class="analysis-image col-xs-12 col-md-3">
+					<a href="{{ post.url | relative_url }}"><img src="{{ post.feature_image }}" alt="{{ post.title }}" title="{{ post.title }}" /></a>
+				</div>
+				<div class="col-xs-12 col-md-9">
+					{{ post.excerpt }}
+				</div>
+			</div>
+		{% else %}
+			{{ post.excerpt }}
+		{% endif %}
 
 		<hr class="post-articleSourceBreak" />
 

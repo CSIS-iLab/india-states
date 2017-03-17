@@ -59,23 +59,16 @@ a {
   word-wrap: break-word;
   @include transition(all .3s ease-in-out);
   text-decoration: none;
+  color: inherit;
+  @include box-shadow(0px, -2px, 0px, 0, $base-orange, true);
 
-
-  &:visited {
-  }
   &:hover,
   &:focus,
   &:active {
     text-decoration:none;
     cursor: pointer !important;
-  }
-  &:focus {
-    outline: thin dotted;
-  }
-  &:hover,
-  &:active {
-    outline: 0;
-    cursor: pointer !important;
+    color: $base-blue;
+    @include box-shadow(0px, -2px, 0px, 0, darken($base-orange,10%), true);
   }
 }
 
@@ -95,7 +88,7 @@ a {
   line-height: 1.4rem;
   font-family: $font__MuseoSans;
 
-  .articleDate {
+  .articleDate, .articleAuthor {
     color: $gray;
     font-weight: bold;
     font-style: italic;

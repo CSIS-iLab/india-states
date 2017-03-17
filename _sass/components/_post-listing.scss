@@ -16,6 +16,27 @@
 	.post-articleContent {
 		padding-right: 3rem;
 
+		.analysis {
+			margin: 0.8em auto;
+
+			.analysis-image {
+				padding-left: 0;
+
+				a {
+					box-shadow: none;
+				}
+
+				img {
+					width: 100%;
+					height: auto;
+				}
+			}
+
+			p {
+				margin: 0;
+			}
+		}
+
 		p {
 			margin: 0.8rem auto;
 		}

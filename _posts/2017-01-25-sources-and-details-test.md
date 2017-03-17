@@ -17,6 +17,8 @@ details:
   url: http://yahoo.com
 is_analysis: true
 author: Jacque Schrag
+feature_image: /uploads/jacque-headshot-small.jpg
+feature_image_credit: This is Jacque's headshot.
 tags:
 - tag2
 - tag3
