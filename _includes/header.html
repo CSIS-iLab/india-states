@@ -30,10 +30,10 @@
 
   </div>
 
-  <div class="header-breadcrumbsContainer {% if page.extendedBreadcrumbs %}useExtended{% endif %}">
+  <div class="header-breadcrumbsContainer {% if page.extendedBreadcrumbs %}useExtended{% else %}notExtended{% endif %}">
     <div class="content-wrapper">
       <div class="row">
-        <nav class="header-breadcrumbs col-xs-10">Breadcrumbs {{ page.title }} {{ page.layout }}</nav>
+        <nav class="header-breadcrumbs col-xs-10">Breadcrumbs</nav>
         <div class="header-breadcrumbsSearch col-xs-2">
           <img src="{{ "/assets/img/search.svg" | relative_url }}" alt="Search" title="Search" />
         </div>
