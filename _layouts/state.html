@@ -59,7 +59,8 @@ layout: default
           </div>
         </div>
         <div class="stateMapContainer col-xs-12 col-md-4">
-          {% include map-svg.html %}
+          {% assign stateSlug = page.title | slugify %}
+          {% include map-svg.html state=stateSlug %}
         </div>
       </div>
     </div>
