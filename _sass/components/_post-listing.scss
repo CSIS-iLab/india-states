@@ -75,11 +75,9 @@
 
 		a {
 			color: $gray;
-			@include box-shadow(0px, -2px, 0px, 0, $base-orange, true);
 
 			&:hover {
 				color: $base-blue;
-				@include box-shadow(0px, -2px, 0px, 0, darken($base-orange,10%), true);
 			}
 
 			&.sector {

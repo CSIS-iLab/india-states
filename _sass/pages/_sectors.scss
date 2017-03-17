@@ -51,11 +51,9 @@
 				font-family: $font__MuseoSans;
 				@include fontSize(17px);
 				line-height: 2.3rem;
-				@include box-shadow(0px, -2px, 0px, 0, $base-orange, true);
 
 				&:hover {
 					color: $base-blue;
-					@include box-shadow(0px, -2px, 0px, 0, darken($base-orange,10%), true);
 				}
 			}
 		}
@@ -67,6 +65,10 @@
 				border-bottom: 4px solid $base-blue;
 				margin-bottom: 0.2rem;
 				padding-bottom: 0.5rem;
+
+				a {
+					box-shadow: none;
+				}
 			}
 
 			button {

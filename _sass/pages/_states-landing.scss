@@ -37,6 +37,7 @@
 
 		    	a {
 		    		color: $gray;
+		    		box-shadow: none;
 
 		    		&:hover, &:active, &.active {
 		    			color: $base-orange;
