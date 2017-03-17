@@ -1,49 +1,30 @@
 ---
 layout: default
 ---
+{% assign sector = page.title %}
+{% assign sectorSlug = page.title | slugify %}
 
-{% if page.sector %}
-  {% assign sector = page.sector %}
-{% else %}
-  {% assign sector = page.title %}
-{% endif %}
+<section class="archive-container">
+  {% if page.feature_image %}
+    <div class="archive-featureImage" style="background-image:url('{{page.feature_image}}'"></div>
+  {% endif %}
+  <header class="archive-header">
+    <div class="content-wrapper fullWidthContent">
+      <!-- Share Icons -->
+          {% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
 
-<article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">
-      {% if page.sector %}
-        {{ page.sector | escape | append: ": " }}
-      {% endif %}
-      {{ page.title | escape }}
-    </h1>
+      <h1 class="subtitle">
+        <img src="{{ site.data.sector-icons[sectorSlug] | prepend: '/assets/img/sector-icons/' | relative_url }}" title="{{ page.title }}" alt="{{ page.title }}" /> {{ page.title | escape }}
+      </h1>
+      {{ page.content }}
+    </div>
   </header>
 
-  <div class="post-content">
-    {{ content }}
-
-    <p>All of the posts that have "{{ page.title }}" in their <code>sectors</code> or <code>subsectors</code> front matter will be listed below.</p>
-
-    <!-- Post Listing, Filterable by Subsector -->
-    {% include post-subsector-filtering.html posts=site.posts sector=sector %}
-
-    <br /><br /><br /><br />
-    <!-- Display trackers related to this sector -->
-    <h2>Related Trackers</h2>
-      {% for tracker in site.trackers %}
-        {% if tracker.sectors contains page.title or tracker.subsectors contains page.title %}
-            <h3>
-              {{ tracker.title | escape }} <span class="post-meta">({{ tracker.start_date | date: "%B %-d, %Y" }} - {{ tracker.end_date | date: "%B %-d, %Y" }})</span>
-            </h3>
-
-            <!-- Generate Tracker Table -->
-            {% capture trackerName %}{{tracker.data_name}}{% endcapture %}
-            {% include tables-csv.html name=trackerName %} 
-
-            <br />
-        {% endif %}
-      {% endfor %}
-
-  </div>
-
-</article>
+  <section>
+    <div class="content-wrapper fullWidthContent">
+      <section class="archive-relatedArticlesContainer">
+        {% include post-subsector-filtering.html posts=site.posts sector=sector %}
+      </section>
+    </div>
+  </section>
+</section>

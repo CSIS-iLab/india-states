@@ -27,6 +27,13 @@
 
 		.subtitle {
 			margin: 1.5rem 0;
+
+			// Icon for Sector Pages
+			img {
+				display: inline;
+				max-height: 100%;
+				max-width: 50px;
+			}
 		}
 	}
 }
