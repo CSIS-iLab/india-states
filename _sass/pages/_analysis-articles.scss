@@ -8,9 +8,14 @@
 }
 
 article.post-individualContainer {
-	margin: 3rem 0;
+
+	ul.shareIcons {
+		float: right;
+		margin-bottom: 3rem;
+	}
 
 	.post-header {
+		@include clearfix-after();
 		margin-bottom: 2rem;
 
 		.main-title {
