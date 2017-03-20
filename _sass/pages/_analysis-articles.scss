@@ -6,3 +6,82 @@
 	margin-top: 3rem !important;
 	margin-bottom: 3rem !important;
 }
+
+article.post-individualContainer {
+	margin: 3rem 0;
+
+	.post-header {
+		margin-bottom: 2rem;
+
+		.main-title {
+			margin: 0;
+		}
+
+		.sectionSubtitle {
+			margin: 0;
+			color: $base-orange;
+		}
+
+	}
+
+	.post-content {
+		margin-bottom: 3rem;
+
+		// Feature Image
+		.post-featureImage {
+			float: right;
+			max-width: 60%;
+			margin: 0 0 1rem 2rem;
+
+			img {
+				width: 100%;
+				height: auto;
+			}
+
+			.post-featureImageCredit {
+				border-left: 2px solid $base-orange;
+				color: $gray-text;
+				font-family: $font__ExpoSerif;
+				@include fontSize(14px);
+				line-height: 1.4rem;
+				margin-top: 0.5rem;
+				margin-bottom: 4rem;
+				padding-left: 0.5rem;
+
+				em {
+					color: $base-orange;
+				}
+			}
+		}
+
+		// Article Meta
+		.articleMeta {
+			margin-bottom: 1rem;
+		}
+	}
+
+	.post-footer {
+		border-top: 2px solid $map-gray;
+		padding-top: 3rem;
+
+		// Author Information
+		.post-authorInfoContainer {
+			margin-bottom: 2rem;
+			
+			.post-authorName {
+				margin: 0;
+				color: $base-orange;
+				text-transform: none;
+			}
+
+			.post-authorTitle {
+				font-style: italic;
+			}
+
+			.post-authorBio {
+				margin-top: 1rem;
+				margin-bottom: 0;
+			}
+		}
+	}
+}

@@ -65,54 +65,53 @@
 			}
 		}
 	}
+}
 
-	.post-articleMetaContainer {
+.post-articleMetaContainer {
 		
-		hr {
-			border-style: dashed;
-			border-color: $medium-gray;
+	hr {
+		border-style: dashed;
+		border-color: $medium-gray;
+	}
+
+	a {
+		color: $gray;
+
+		&:hover {
+			color: $base-blue;
 		}
 
-		a {
-			color: $gray;
+		&.sector {
+			text-transform: uppercase;
+			font-weight: bold;
+			font-style: normal;
+			box-shadow: none;
+		}
+	}
 
-			&:hover {
-				color: $base-blue;
+	.post-articleExtraMeta {
+		display: none;
+		margin-left: -0.2em;
+
+		&.sectors {
+			margin-left: 0;
+		}
+	}
+
+	.post-articleShowMoreMeta {
+		text-align: center;
+		margin-top: 0.5rem;
+
+		img {
+			max-width: 20px;
+			height: auto;
+
+			&.showMore {
+				display: inline-block;
 			}
-
-			&.sector {
-				text-transform: uppercase;
-				font-weight: bold;
-				font-style: normal;
-				box-shadow: none;
+			&.showLess {
+				display: none;
 			}
 		}
-
-		.post-articleExtraMeta {
-			display: none;
-			margin-left: -0.2em;
-
-			&.sectors {
-				margin-left: 0;
-			}
-		}
-
-		.post-articleShowMoreMeta {
-			text-align: center;
-			margin-top: 0.5rem;
-
-			img {
-				max-width: 20px;
-				height: auto;
-
-				&.showMore {
-					display: inline-block;
-				}
-				&.showLess {
-					display: none;
-				}
-			}
-		}
-
 	}
 }

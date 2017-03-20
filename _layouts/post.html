@@ -2,101 +2,64 @@
 layout: default
 ---
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+<article class="post-individualContainer" itemscope itemtype="http://schema.org/BlogPosting">
 
   <div class="content-wrapper fullWidthContent">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title | escape }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.is_analysis %}{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}{% endif %}</p>
-
-    <!-- States -->
-    {% if page.states %}
-      <strong>States:</strong> 
-      {% for state in page.states %}
-        {% if forloop.last == true %}
-          <a href='{{ state | slugify | prepend: "/states/" | prepend: site.github.url }}'>{{ state }}</a>
-        {% else %}
-          <a href='{{ state | slugify | prepend: "/states/" | prepend: site.github.url }}'>{{ state }}</a>,
-        {% endif %}
-      {% endfor %}
-      <br />
-    {% endif %}
-
-    <!-- Sectors -->
-    {% if page.sectors %}
-      <strong>Sectors:</strong> 
-      {% for sector in page.sectors %}
-        {% if forloop.last == true %}
-          <a href='{{ sector | slugify | prepend: "/sectors/" | prepend: site.github.url }}'>{{ sector }}</a>
-        {% else %}
-          <a href='{{ sector | slugify | prepend: "/sectors/" | prepend: site.github.url }}'>{{ sector }}</a>,
-        {% endif %}
-      {% endfor %}
-      <br />
-    {% endif %}
-
-    <!-- Subsectors -->
-    {% if page.subsectors %}
-      <strong>Subsectors:</strong> 
-      {% for subsector in page.subsectors %}
-        {% if forloop.last == true %}
-          <a href='{{ subsector | slugify | prepend: "/subsectors/" | prepend: site.github.url }}'>{{ subsector }}</a>
-        {% else %}
-          <a href='{{ subsector | slugify | prepend: "/subsectors/" | prepend: site.github.url }}'>{{ subsector }}</a>,
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-
-    <br />
-    <!-- Tags -->
-    Tags: {{ page | tags }}
-
+    <h2 class="sectionSubtitle">Analysis</h2>
+    <h1 class="main-title" itemprop="name headline">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="post-content" itemprop="articleBody">
+  <section class="post-content" itemprop="articleBody">
+    <!-- Feature Image -->
+    {% if page.is_analysis and page.feature_image.size > 0 %}
+      <div class="post-featureImage">
+        <img src="{{ page.feature_image }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+        <span class="post-featureImageCredit"><em>Photo credit:</em> {{ page.feature_image_credit }}</span>
+      </div>
+    {% endif %}
+    <div class="articleMeta">
+      {% if page.is_analysis and page.author.size > 0 %}
+        By 
+        {% for author in page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="articleAuthor">{{ author }}</span></span>{% if forloop.last == false %},{% endif %}
+        {% endfor %}
+        <br />
+      {% endif %}
+      Posted on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ page.date | date: site.date_format }}</time>
+    </div>
+
     <!-- Content -->
     {{ content }}
+  </section>
 
-
-    <!-- Sources -->
-    {% if page.sources and page.sources[0] != null %}
-      <p class="post-meta">
-        {% if page.sources.size > 1 %}
-          Sources:
-        {% else %}
-          Source:
-        {% endif %}
-
-        {% for source in page.sources %}
-          {% if forloop.last == true %}
-            <a href="{{ source.url }}" target="_blank">{{ source.name }}</a>
-          {% else %}
-            <a href="{{ source.url }}" target="_blank">{{ source.name }}</a>,
-          {% endif %}
-        {% endfor %}
-      </p>
+  <footer class="post-footer">
+    {% if page.is_analysis and page.author.size > 0 %}
+      {% for author in page.author %}
+        {% assign authorInfo = site.authors | where:"title",author | first %}
+        <section class="post-authorInfoContainer row" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <div class="post-authorImage col-xs-12 col-md-3">
+            <img src="{{ authorInfo.image }}" />
+          </div>
+          <div class="post-authorInfo col-xs-12 col-md-9">
+            <h3 class="post-authorName sectionSubtitle" itemprop="name">{{ author }}</h3>
+            <span class="post-authorTitle articleMeta">{{ authorInfo.position }}</span>
+            <p class="post-authorBio">{{ authorInfo.content }}</p>
+          </div>
+        </section>
+      {% endfor %}
     {% endif %}
 
-    <!-- Details -->
-    {% if page.details and page.details[0] != null %}
-      <p class="post-meta">Details: 
-        {% for detail in page.details %}
-          {% if forloop.last == true %}
-            <a href="{{ detail.url }}" target="_blank">{{ detail.name }}</a>
-          {% else %}
-            <a href="{{ detail.url }}" target="_blank">{{ detail.name }}</a>,
-          {% endif %}
-        {% endfor %}
-      </p>
-    {% endif %}
+    <section class="post-articleMetaContainer row">
+      <div class="listContent col-xs-12 col-md-4">
+        {% include post-listing-metainfo.html post=page %}
+      </div>
+      <div class="col-xs-12 col-md-8">
+        {% include related-posts.html %}
+      </div>
+    </section>
+  </footer>
 
-    <div class="relatedPosts">
-
-    {% include related-posts.html %}
-
-</div>
-
-  </div>
   </div>
 </article>
