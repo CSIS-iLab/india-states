@@ -1,103 +1,207 @@
-@import 'https://fonts.googleapis.com/css?family=Montserrat:400,700';
-.aa-input-container {
-  display: inline-block;
-  position: relative;
-}
+/*==============================
+=            Search            =
+==============================*/
 
-.aa-input-search {
-  width: 300px;
-  padding: 12px 28px 12px 12px;
-  border: 2px solid #e4e4e4;
-  border-radius: 4px;
-  -webkit-transition: .2s;
-  transition: .2s;
-  font-family: "Montserrat", sans-serif;
-  font-size: 11px;
-  box-sizing: border-box;
-  color: #333;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-  appearance: none;
+/*----------  Search Overlay  ----------*/
 
-  &::-webkit-search-decoration, &::-webkit-search-cancel-button, &::-webkit-search-results-button, &::-webkit-search-results-decoration {
-    display: none;
+.search-overlay {
+  display: none;
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 200;
+  top: 0;
+  left: 0;
+  background-color: transparentize($base-blue, .1);
+  overflow-x: hidden;
+
+  .search-closeIconContainer {
+    text-align: right;
+    padding: 24px 30px;
+
+    .search-closeIcon {
+      position: relative;
+      display: inline-block;
+      width: 50px;
+      height: 50px;
+      overflow: hidden;
+      cursor: pointer;
+
+      &::before, &::after {
+        content: '';
+        position: absolute;
+        height: 2px;
+        width: 100%;
+        top: 50%;
+        left: 0;
+        margin-top: -1px;
+        background: $white;
+      }
+
+      &::before {
+        -webkit-transform: rotate(45deg);
+        -moz-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        -o-transform: rotate(45deg);
+        transform: rotate(45deg);
+      }
+
+      &::after {
+        -webkit-transform: rotate(-45deg);
+        -moz-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        -o-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+      }
+    }
   }
 
-  &:focus {
-    outline: 0;
-    border-color: #3a96cf;
+  .search-barResultsContainer {
+    text-align: center;
+    margin-top: 12% !important;
+
+    .algolia-autocomplete {
+      width: 100% !important;
+    }
+
+    .is-input-container {
+      display: inline-block;
+      position: relative;
+    }
+
+    .is-input-search {
+      width: 100%;
+      padding: 12px 28px 12px 12px;
+      border: none;
+      border-bottom: 1px solid $light-gray;
+      -webkit-transition: .2s;
+      transition: .2s;
+      box-sizing: border-box;
+      color: $white;
+      font-family: $font__MuseoSans;
+      @include fontSize(60px);
+      background-color: transparent;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+      text-transform: capitalize;
+
+      &::-webkit-search-decoration, &::-webkit-search-cancel-button, &::-webkit-search-results-button, &::-webkit-search-results-decoration {
+        display: none;
+      }
+
+      &:focus {
+        outline: 0;
+        border-color: $white;
+      }
+
+    }
+
+    ::-webkit-input-placeholder {
+      color: $light-gray;
+    }
+    ::-moz-placeholder { /* Firefox 19+ */
+      color: $light-gray;
+    }
+    :-ms-input-placeholder { /* IE 10+ */
+      color: $light-gray;
+    }
+    :-moz-placeholder { /* Firefox 18- */
+      color: $light-gray;
+    }
+
+    .is-input-icon {
+      height: 50px;
+      width: 50px;
+      position: absolute;
+      top: 50%;
+      right: 0;
+      -webkit-transform: translateY(-50%);
+              transform: translateY(-50%);
+
+      path {
+        fill: $light-gray;
+      }
+    }
+
+    .is-hint {
+      color: $white;
+    }
+
+    .aa-dropdown-menu {
+      background-color: transparent;
+      border: none;
+      width: 80%;
+      margin: 1rem auto;
+      left: 10% !important;
+      right: 10% !important;
+      @include fontSize(20px);
+      box-sizing: border-box;
+      color: $light-gray;
+    }
+
+    .aa-suggestion {
+      padding: 24px 12px;
+      border-bottom: 1px solid $light-gray;
+      cursor: pointer;
+      -webkit-transition: .2s;
+      transition: .2s;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      -webkit-box-pack: justify;
+          -ms-flex-pack: justify;
+              justify-content: space-between;
+      -webkit-box-align: center;
+          -ms-flex-align: center;
+              align-items: center;
+
+      &:hover, &.is-cursor {
+      }
+
+      & > span:first-child {
+        color: $white;
+      }
+
+      & > span:last-child {
+        text-transform: uppercase;
+        color: $white;
+      }
+
+      & > span:first-child em, & > span:last-child em {
+        font-weight: 700;
+        font-style: normal;
+        background-color: rgba(58, 150, 207, 0.1);
+        padding: 2px 0 2px 2px;
+      }
+
+      .search-contentType {
+        font-family: $font__MuseoSans;
+        color: $light-gray;
+      }
+
+    }
+
+    .is-footer {
+      text-align: right;
+      padding-top: 28px;
+
+      a {
+        background-color: white;
+        padding: 6px 12px;
+        box-shadow: none;
+        text-transform: uppercase;
+        @include fontSize(16px);
+        color: $base-blue;
+        font-family: $font__MuseoSans;
+      }
+    }
   }
-
 }
 
-.aa-input-icon {
-  height: 16px;
-  width: 16px;
-  position: absolute;
-  top: 50%;
-  right: 16px;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
-  fill: #e4e4e4;
-}
 
-.aa-hint {
-  color: #e4e4e4;
-}
 
-.aa-dropdown-menu {
-  background-color: #fff;
-  border: 2px solid rgba(228, 228, 228, 0.6);
-  border-top-width: 1px;
-  font-family: "Montserrat", sans-serif;
-  width: 300px;
-  margin-top: 10px;
-  font-size: 11px;
-  border-radius: 4px;
-  box-sizing: border-box;
-}
 
-.aa-suggestion {
-  padding: 12px;
-  border-top: 1px solid rgba(228, 228, 228, 0.6);
-  cursor: pointer;
-  -webkit-transition: .2s;
-  transition: .2s;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-
-  &:hover, &.aa-cursor {
-    background-color: rgba(241, 241, 241, 0.35);
-  }
-
-  & > span:first-child {
-    color: #333;
-  }
-
-  & > span:last-child {
-    text-transform: uppercase;
-    color: #a9a9a9;
-  }
-
-  & > span:first-child em, & > span:last-child em {
-    font-weight: 700;
-    font-style: normal;
-    background-color: rgba(58, 150, 207, 0.1);
-    padding: 2px 0 2px 2px;
-  }
-
-}
-
-.aa-footer {
-  @extend .aa-suggestion;
-}
 
 #left-column {
   float: left;

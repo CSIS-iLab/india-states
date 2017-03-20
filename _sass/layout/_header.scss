@@ -158,13 +158,15 @@ header.site-header {
 	// Breadcrumbs
 	.header-breadcrumbs {}
 
-	// Search
+	// Search Icon
 	.header-breadcrumbsSearch {
 		text-align: right;
 		padding-right: 15px;
 
 		img {
 			max-width: 15px;
+			padding-top: 5px;
+			cursor: pointer;
 		}
 	}
 }
