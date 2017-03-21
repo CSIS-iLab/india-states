@@ -2,51 +2,51 @@
 layout: default
 ---
 
-<!-- IE < 10 support -->
-<!--[if lte IE 9]>
-<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
-<![endif]-->
-<link rel="stylesheet" href="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/css/bootstrap-datepicker.min.css" />
+<section class="search-container">
+  <div class="row">
 
-  <!-- INTERFACE -->
-  <div class="search-header">
-    {{ page.title | escape }}
-    <div id="search-input"></div>
-    <div id="search-input-icon"></div>
-  </div>
-
-  <main>
-    <div id="left-column">
+    <!-- Sidebar -->
+    <div class="search-options col-xs-12 col-md-3">
       <div id="states" class="facet"></div>
       <div id="sectors" class="facet"></div>
       <div id="content_type" class="facet"></div>
       <div id="tags" class="facet"></div>
     </div>
 
-    <div id="right-column">
-      <div id="sort-by-wrapper"><span id="sort-by"></span></div>
-      <div id="stats"></div>
-      <div id="hits"></div>
-      <div id="pagination"></div>
+    <!-- Search Results -->
+    <div class="col-xs-12 col-md-9">
+      <div class="content-wrapper fullWidthContent">
+        <header class="search-header">
+          <div id="search-input"></div>
+          <div id="search-input-icon"></div>
+        </header>
+
+        <section class="search-results">
+          <div id="sort-by-wrapper"><span id="sort-by"></span></div>
+          <div id="stats"></div>
+          <div id="hits"></div>
+          <div id="pagination"></div>
+        </section>
+      </div>
     </div>
-  </main>
-  <!-- /INTERFACE -->
+  </div>
+</section>
 
   <!-- TEMPLATES -->
   <script type="text/html" id="hit-template">
     <div class="hit">
       <div class="hit-content">
-        <h3 class="hit-price">
+        <h3 class="hit-type">
         {% raw %}
           {{{content_type}}}
         {% endraw %}
         </h3>
-        <h2 class="hit-name">
+        <h2 class="articleTitle hit-name">
         {% raw %}
           {{{_highlightResult.title.value}}}
         {% endraw %}
         </h2>
+        {% raw %}{{{ formattedDate }}}{% endraw %}
         <p class="hit-excerpt">
         {% raw %}
           {{{excerpt}}}
@@ -65,8 +65,11 @@ layout: default
   <!-- /TEMPLATES -->
 
   	<!-- SCRIPTS -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.6.4/js/bootstrap-datepicker.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.17.1/moment.min.js"></script>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css">
+    <!-- IE < 10 support -->
+    <!--[if lte IE 9]>
+    <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+    <![endif]-->
   	<script src="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
   	<script src="{{ "/assets/js/searchpage.js" | prepend: site.github.url }}"></script>
   	<!-- /SCRIPTS -->
