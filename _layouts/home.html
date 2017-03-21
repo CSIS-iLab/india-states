@@ -1,71 +1,68 @@
 ---
-layout: default
 ---
 
-<div class="home">
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  <h1 class="page-heading">Home Page</h1>
-  
-  {{ content }}
+  {% include head.html %}
 
-  <div class="row">
-    <div class="col-xs-12 col-sm-6">
-      <!-- States -->
-      <h2>States</h2>
-      <ul>
-        {% for state in site.states %}
-          <li>
-            <a href='{{ state.id | prepend: site.github.url }}'>{{ state.title }}</a>
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-    <div class="col-xs-12 col-sm-6">
-      <!-- Sectors -->
-      <h2>Sectors</h2>
-      <ul>
-        {% for sector in site.sectors %}
-          <li>
-            <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
+  <body class="home-body">
 
-            <!-- START: List Subsectors -->
-            {% for subsector in site.subsectors %}
-              {% if subsector.sector == sector.title %}
-                {% if forloop.first == true %}
-                  <ul>
-                {% endif %}
-                    <li><a href='{{ sector.id | prepend: site.github.url }}#{{ subsector.title | slugify }}'>{{ subsector.title }}</a></li>
-                {% if forloop.last == true %}
-                  </ul>
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-            <!-- END: List Subsectors -->
+    <!-- {% include header.html %} -->
 
-            <!-- - sector: "{{ sector.title | slugify }}"<br />
-              icon: <br /> -->
+    <main class="home-content" aria-label="Content">
+      <div class="home-orContainer"><div>or</div></div>
+      <div class="home-splitContainer row">
+        <section class="home-stateContainer col-xs-12 col-sm-6">
+          <div class="home-contentWrapper">
+            <!-- States -->
+            <h2 class="main-title">States</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+            <div class="home-dropdownContainer">
+              <button id="state-dropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Select a state <span>&#9662;</span></button>
+              <ul class="home-dropdownMenu" aria-labeledby="state-dropdown">
+                {% for state in site.states %}
+                  <li>
+                    <a href='{{ state.id | relative_url }}'>{{ state.title }}</a>
+                  </li>
+                {% endfor %}
+              </ul>
+            </div>
+            <a href="/states" class="home-viewAllLink"><button class="btn-orange">View All</button></a>
+          </div>
+        </section>
+        <section class="home-sectorContainer col-xs-12 col-sm-6">
+          <div class="home-contentWrapper">
+            <!-- Sectors -->
+            <h2 class="main-title">Sectors</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+            quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
+            <div class="home-dropdownContainer">
+              <button id="sector-dropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Select a sector <span>&#9662;</span></button>
+              <ul class="home-dropdownMenu" aria-labeledby="sector-dropdown">
+                {% for sector in site.sectors %}
+                <li>
+                  <a href='{{ sector.id | relative_url }}'>{{ sector.title }}</a>
 
-          </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
+                  <!-- START: List Subsectors -->
+                  {% for subsector in site.subsectors %}
+                    {% if subsector.sector == sector.title %}
+                      <li class="home-dropdownSubsector"><a href='{{ sector.id | relative_url }}#{{ subsector.title | slugify }}'>{{ subsector.title }}</a></li>
+                    {% endif %}
+                  {% endfor %}
 
-  <!-- Posts: Remove this after development -->
-  <h2>Posts</h2>
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+                </li>
+              {% endfor %}
+            </div>
+            <a href="/sectors"><button class="btn-orange">View All</button></a>
+          </div>
+        </section>
+      </div>
+    </main>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        States: {{ post.states | join: ', ' }}<br />
-        Sectors: {{ post.sectors | join: ', ' }}<br />
-        Subsectors: {{ post.subsectors | join: ", " }}
-      </li>
-    {% endfor %}
-  </ul>
+  </body>
 
-</div>
+</html>

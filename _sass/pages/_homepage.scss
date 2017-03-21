@@ -1,0 +1,212 @@
+/*=================================
+=            Home Page            =
+=================================*/
+
+.home-body {
+	background-image:url('img/map-homepage-full.svg');
+	background-repeat: no-repeat;
+	background-size:cover;
+	background-position: center center;
+	height: 100vh;
+	overflow-x: hidden;
+}
+
+.home-content {
+
+	.home-orContainer {
+		position: absolute;
+		z-index:50;
+		width: 55px;
+		height: 55px;
+		top: 20%;
+		left: calc(50% - 27.5px);
+
+
+		&:after {
+		  display: block;
+		  padding-bottom: 100%;
+		  width: 100%;
+		  height: 0;
+		  border-radius: 50%;
+		  background-color: $white;
+		  content: "";
+		}
+
+		div {
+			float: left;
+		    width: 100%;
+		    padding-top: 50%;
+		    margin-top: -0.6em;
+		    color: $gray-text;
+			@include fontSize(26px);
+			font-family: $font__ExpoSerif;
+			text-transform: lowercase;
+			text-align: center;
+			font-style: italic;
+		}
+	}
+
+	.home-splitContainer.row {
+		width: 100%;
+		position:absolute;
+		top: 20%;
+	}
+
+	.home-stateContainer, .home-sectorContainer {
+		padding: 0 7%;
+
+		.home-contentWrapper {
+			max-width: 500px;
+		}
+
+		.main-title {
+			text-transform: uppercase;
+			letter-spacing: 0.5px;
+			line-height: 1.2rem;
+			margin-top: 1rem;
+		}
+
+		a.home-viewAllLink {
+			clear: both;
+		}
+
+		button.btn-orange {
+			padding: 6px 25px;
+			@include fontSize(18px);
+		}
+	}
+
+	// State Side
+	.home-stateContainer {
+
+		.home-contentWrapper {
+			margin-left: auto;
+		}
+
+		.main-title {
+			color: $white;
+			text-align: right;
+		}
+
+		p {
+			color: $light-blue;
+		}
+
+		a.home-viewAllLink {
+			float:right;
+		}
+	}
+
+	// Sector Side
+	.home-sectorContainer {
+
+		.home-contentWrapper {
+			margin-right: auto;
+		}
+
+		.main-title {
+			color: $base-orange;
+			text-align: left;
+		}
+	}
+
+	// Dropdown Menu
+	.home-stateContainer .home-dropdownContainer {
+	    position: relative;
+	    float: right;
+	    width: 300px;
+	}
+
+	.home-sectorContainer .home-dropdownContainer {
+	    position: relative;
+	    width: 300px;
+	}
+
+	.home-dropdownContainer button {
+	    outline: none;
+	    margin: 0;
+	    border: none;
+	    background-color: $white;
+	    color: $medium-gray;
+	    padding: 10px;
+	    width: 100%;
+	    text-align: left;
+	    border-radius: 0;
+	    text-transform: none;
+	    font-weight: 500;
+
+	    -webkit-transition: background 200ms;
+	    -moz-transition: background 200ms;
+	    -o-transition: background 200ms;
+	    transition: background 200ms;
+	}
+
+	.home-dropdownContainer button span {
+	    position: absolute;
+	    color: $white;
+	    right: 0px;
+	    top: 0px;
+	    margin-top: 0;
+	    display: block;
+	    background-color: $medium-gray;
+	    padding: 10px 12px;
+	    @include fontSize(22px);
+	}
+
+	.home-dropdownContainer button:hover span,
+	.home-dropdownContainer.open button span {
+	    background-color: $base-orange;
+	}
+
+	/* Remove select border in Safari */
+	.home-dropdownContainer:focus,
+	.home-dropdownContainer:active {outline:0;}
+
+	/* Remove select border in Firefox */
+	.home-dropdownContainer:-moz-focusring {
+	    color: transparent;
+	    text-shadow: 0 0 0 #000;
+	}
+
+	.home-dropdownMenu {
+		border-top:1px solid $base-blue;
+	    background-color: $white;
+	    padding: 0;
+	    margin-top: 0px;
+	    list-style-type: none;
+	    height: 20vh;
+    	overflow-y: scroll;
+    	@include fontSize(16px);
+    	font-family: $font__MuseoSans;
+
+	    -webkit-border-radius: 0;
+	    -moz-border-radius: 0;
+	    -o-border-radius: 0;
+	    border-radius: 0;
+
+	    &::-webkit-scrollbar {
+	        -webkit-appearance: none;
+	        width: 7px;
+	    }
+	    &::-webkit-scrollbar-thumb {
+	        background-color: $medium-gray;
+	        -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+	    }
+
+		& > li > a {
+		    padding: 8px 20px;
+		    box-shadow: none;
+		    display: block;
+		}
+
+		& > li.home-dropdownSubsector > a {
+			padding-left: 40px;
+		}
+
+		& > li:hover > a,
+		& > li.selected > a {
+		    color: $base-orange;
+		    @include box-shadow(3px,0px,0px,0, $base-orange, true);
+		}
+	}
+}
