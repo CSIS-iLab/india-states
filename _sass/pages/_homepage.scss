@@ -22,6 +22,7 @@
 		display: none;
 
 		@include breakpoint("medium") {
+			display: block;
 			position: absolute;
 			z-index:50;
 			width: 55px;
