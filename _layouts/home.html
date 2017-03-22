@@ -8,7 +8,7 @@
 
   <body class="home-body">
 
-    <!-- {% include header.html %} -->
+    {% include header.html %}
 
     <main class="home-content" aria-label="Content">
       <div class="home-orContainer"><div>or</div></div>
@@ -22,7 +22,7 @@
             quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
             <div class="home-dropdownContainer">
               <button id="state-dropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Select a state <span>&#9662;</span></button>
-              <ul class="home-dropdownMenu" aria-labeledby="state-dropdown">
+              <ul class="home-dropdownMenu" data-dropdown="state-dropdown" aria-labeledby="state-dropdown">
                 {% for state in site.states %}
                   <li>
                     <a href='{{ state.id | relative_url }}'>{{ state.title }}</a>
@@ -42,7 +42,7 @@
             quis nostrud exercitation ullamco laboris nisi ut aliquip ex.</p>
             <div class="home-dropdownContainer">
               <button id="sector-dropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Select a sector <span>&#9662;</span></button>
-              <ul class="home-dropdownMenu" aria-labeledby="sector-dropdown">
+              <ul class="home-dropdownMenu" data-dropdown="sector-dropdown" aria-labeledby="sector-dropdown">
                 {% for sector in site.sectors %}
                 <li>
                   <a href='{{ sector.id | relative_url }}'>{{ sector.title }}</a>
@@ -62,6 +62,13 @@
         </section>
       </div>
     </main>
+
+    {% include footer-homepage.html %}
+    
+    {% include search-overlay.html %}
+
+    <script src="{{ "/assets/js/homepage.js" | relative_url }}"></script>
+    <script src="{{ "/assets/js/searchpage.js" | relative_url }}"></script>
 
   </body>
 

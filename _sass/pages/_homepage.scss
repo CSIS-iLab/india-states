@@ -111,15 +111,13 @@
 	}
 
 	// Dropdown Menu
-	.home-stateContainer .home-dropdownContainer {
-	    position: relative;
-	    float: right;
-	    width: 300px;
+	.home-dropdownContainer {
+		position: relative;
+		width: 300px;
+		margin-bottom: 1.5rem;
 	}
-
-	.home-sectorContainer .home-dropdownContainer {
-	    position: relative;
-	    width: 300px;
+	.home-stateContainer .home-dropdownContainer {
+	    float: right;
 	}
 
 	.home-dropdownContainer button {
@@ -169,6 +167,7 @@
 	}
 
 	.home-dropdownMenu {
+		display: none;
 		border-top:1px solid $base-blue;
 	    background-color: $white;
 	    padding: 0;

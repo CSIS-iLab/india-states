@@ -1,10 +1,10 @@
-<header class="site-header" role="banner">
+<header class="site-header {% if page.layout == 'home' %}home-header{% endif %}" role="banner">
 
   <div class="header-mainContainer">
 
     <div class="content-wrapper">
 
-      <div class="row">
+      <div class="row flex-center__y">
         <div class="header-logoContainer col-xs-10 col-md-6">
           <a class="header-logo" href="{{ "/" | relative_url}}">{{ site.title | escape }}</a>
         </div>
@@ -16,11 +16,18 @@
             </span>
 
             <div class="header-navListContainer">
-              {% assign menu = site.data.navigation.main %}
+              {% if page.layout == "home" %}
+                {% assign menu = site.data.navigation.home %}
+              {% else %}
+                {% assign menu = site.data.navigation.main %}
+              {% endif %}
               <ul>
               {% for nav in menu %}
                 <li class="{{ nav.class | escape }}"><a href="{{ nav.href | relative_url }}">{{ nav.title | escape }}</a></li>
               {% endfor %}
+              {% if page.layout == 'home' %}
+                <li class="search-icon"><svg id="Search" data-name="Search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 17"><defs><style>.search-1{fill:#fff;}.search-2{mask:url(#mask);}.search-3{fill:#ddd;}.search-4{mask:url(#mask-2);}</style><mask id="mask" x="0" y=".71" width="10.94" height="10.98" maskUnits="userSpaceOnUse"><g id="search-gray-b"><path id="search-gray-a" class="search-1" d="M0 6.2V.71h10.94v10.98H0V6.2z"/></g></mask><mask id="mask-2" x="6.56" y="9.97" width="4.78" height="6.49" maskUnits="userSpaceOnUse"><g id="search-gray-d"><path id="search-gray-c" class="search-1" d="M11.34 16.45H6.56V9.97h4.78v6.48z"/></g></mask></defs><title>search</title><path class="search-2 search-3" d="M5.47 2.83A3.36 3.36 0 1 0 8.82 6.2a3.36 3.36 0 0 0-3.35-3.37m0 8.85a5.49 5.49 0 1 1 5.47-5.48 5.49 5.49 0 0 1-5.47 5.49"/><path class="search-4 search-3" d="M6.72 11.55l2.63 4.4a1.06 1.06 0 0 0 1.83-1.07l-2.63-4.4a1.06 1.06 0 0 0-1.83 1.07"/></svg></li>
+              {% endif %}
               </ul>
             </div>
           </nav>
@@ -30,6 +37,7 @@
 
   </div>
 
+  {% if page.layout != 'home' %}
   <div class="header-breadcrumbsContainer {% if page.extendedBreadcrumbs %}useExtended{% else %}notExtended{% endif %}">
     <div class="content-wrapper">
       <div class="row">
@@ -40,6 +48,7 @@
       </div>
     </div>
   </div>
+  {% endif %}
 
 </header>
 

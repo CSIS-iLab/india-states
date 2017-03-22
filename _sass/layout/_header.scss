@@ -14,13 +14,8 @@ header.site-header {
 		box-shadow: none;
 	}
 
-	.content-wrapper {
+	.content-wrapper, .row {
 		height: 100%;
-	}
-
-	.row {
-		height: 100%;
-		align-items: center;
 	}
 
 	.header-mainContainer {
@@ -29,7 +24,7 @@ header.site-header {
 		background-color: $base-blue;
 		color: $white;
 		height: 57px;
-		align-items: center;
+		// align-items: center;
 		@include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
 
 		@include breakpoint("medium") {
@@ -109,7 +104,7 @@ header.site-header {
 
 						&:hover {
 							color: $white;
-							@include box-shadow(0px, -2px, 0px, 0px, rgba(255,255,255,1), true);
+							@include box-shadow(0px, -2px, 0px, 0px, $white, true);
 						}
 					}
 
@@ -130,6 +125,41 @@ header.site-header {
 				}
 			}
 
+		}
+	}
+
+	/*----------  Homepage Header  ----------*/
+	&.home-header {
+		position: relative;
+
+		.header-mainContainer {
+			background-image: none;
+			background-color: transparent;
+			box-shadow: none;
+		}
+
+		.header-navContainer {
+			align-self: inherit;
+
+			.header-nav ul li a {
+				color: $darkest-blue;
+
+				&:hover {
+					@include box-shadow(0px, -2px, 0px, 0px, $darkest-blue, true);
+				}
+			}
+
+			.header-nav ul li svg {
+				max-width: 9px;
+			    max-height: 14px;
+			    height: 100%;
+			    width: 100%;
+			    cursor: pointer;
+
+				path.search-2, path.search-3, path.search-4 {
+					fill: $base-orange;
+				}
+			}
 		}
 	}
 }

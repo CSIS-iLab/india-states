@@ -66,4 +66,46 @@ footer.site-footer {
     color: $light-blue;
     padding: 5px 0;
   }
+
+  /*----------  Homepage Footer  ----------*/
+  &.home-footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    .footer-mainContainer {
+      background-image: none;
+      background-color: transparent;
+
+      .row {
+        align-items: flex-end;
+      }
+
+      .csis-logo {
+        height: 35px;
+
+        & path {
+          fill: $light-blue;
+        }
+      }
+
+      .footer-socialIcon {
+        margin-left: 5px;
+        margin-right: 0;
+
+        path {
+          fill: $color__homepage-footer-gray;
+        }
+      }
+
+
+      .footer-copyright {
+        text-align: right;
+        color: $color__homepage-footer-gray;
+        @include fontSize(14px);
+      }
+    }
+  }
+
 }

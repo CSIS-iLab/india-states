@@ -11,3 +11,10 @@ main:
     href: "/resources/"
   - title: "About"
     href: "/about/"
+home:
+  - title: "Analysis"
+    href: "/analysis/"
+  - title: "Resources"
+    href: "/resources/"
+  - title: "About"
+    href: "/about/"
