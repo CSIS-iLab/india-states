@@ -130,7 +130,14 @@ header.site-header {
 
 	/*----------  Homepage Header  ----------*/
 	&.home-header {
-		position: relative;
+		position: absolute;
+		z-index: 50;
+		left: 0;
+		right: 0;
+
+		@include breakpoint("medium") {
+			position: relative;
+		}
 
 		.header-mainContainer {
 			background-image: none;

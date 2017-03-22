@@ -3,57 +3,78 @@
 =================================*/
 
 .home-body {
-	background-image:url('img/map-homepage-full.svg');
-	background-repeat: no-repeat;
-	background-size:cover;
-	background-position: center center;
-	height: 100vh;
-	overflow-x: hidden;
+	background-color: $base-blue;
+
+	@include breakpoint("medium") {
+		background-image:url('img/map-homepage-full.svg');
+		background-color: $light-gray;
+		background-repeat: no-repeat;
+		background-size:cover;
+		background-position: center center;
+		height: 100vh;
+		overflow-x: hidden;
+	}
 }
 
 .home-content {
 
 	.home-orContainer {
-		position: absolute;
-		z-index:50;
-		width: 55px;
-		height: 55px;
-		top: 20%;
-		left: calc(50% - 27.5px);
+		display: none;
+
+		@include breakpoint("medium") {
+			position: absolute;
+			z-index:50;
+			width: 55px;
+			height: 55px;
+			top: 20%;
+			left: calc(50% - 27.5px);
 
 
-		&:after {
-		  display: block;
-		  padding-bottom: 100%;
-		  width: 100%;
-		  height: 0;
-		  border-radius: 50%;
-		  background-color: $white;
-		  content: "";
-		}
+			&:after {
+			  display: block;
+			  padding-bottom: 100%;
+			  width: 100%;
+			  height: 0;
+			  border-radius: 50%;
+			  background-color: $white;
+			  content: "";
+			}
 
-		div {
-			float: left;
-		    width: 100%;
-		    padding-top: 50%;
-		    margin-top: -0.6em;
-		    color: $gray-text;
-			@include fontSize(26px);
-			font-family: $font__ExpoSerif;
-			text-transform: lowercase;
-			text-align: center;
-			font-style: italic;
+			div {
+				float: left;
+			    width: 100%;
+			    padding-top: 50%;
+			    margin-top: -0.6em;
+			    color: $gray-text;
+				@include fontSize(26px);
+				font-family: $font__ExpoSerif;
+				text-transform: lowercase;
+				text-align: center;
+				font-style: italic;
+			}
 		}
 	}
 
-	.home-splitContainer.row {
-		width: 100%;
-		position:absolute;
-		top: 20%;
+	@include breakpoint("medium") {
+		.home-splitContainer.row {
+			position:absolute;
+			top: 20%;
+			left: 0;
+			right: 0;
+		}
 	}
 
 	.home-stateContainer, .home-sectorContainer {
-		padding: 0 7%;
+		padding: 2rem;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position-x: 10%;
+
+		@include breakpoint("medium") {
+			padding: 0 7%;
+			background-image: none !important;
+			background-color: transparent !important;
+		}
 
 		.home-contentWrapper {
 			max-width: 500px;
@@ -64,6 +85,7 @@
 			letter-spacing: 0.5px;
 			line-height: 1.2rem;
 			margin-top: 1rem;
+			text-align: center;
 		}
 
 		a.home-viewAllLink {
@@ -78,14 +100,29 @@
 
 	// State Side
 	.home-stateContainer {
+		background-image:url('img/map-homepage-blue-mobile.svg');
+		background-color: $base-blue;
+		margin-top: 3rem;
+
+		@include breakpoint("medium") {
+			margin-top: 0;
+		}
 
 		.home-contentWrapper {
 			margin-left: auto;
+			margin-right: auto;
+
+			@include breakpoint("medium") {
+				margin-right: initial;
+			}
 		}
 
 		.main-title {
 			color: $white;
-			text-align: right;
+
+			@include breakpoint("medium") {
+				text-align: right;
+			}
 		}
 
 		p {
@@ -93,31 +130,62 @@
 		}
 
 		a.home-viewAllLink {
-			float:right;
+			display: block;
+			text-align: center;
+			box-shadow: none;
+			@include breakpoint("medium") {
+				float: right;
+			}
 		}
 	}
 
 	// Sector Side
 	.home-sectorContainer {
+		background-image:url('img/map-homepage-gray-mobile.svg');
+		background-color: $light-gray;
 
 		.home-contentWrapper {
 			margin-right: auto;
+			margin-left: auto;
+
+			@include breakpoint("medium") {
+				margin-left: initial;
+			}
 		}
 
 		.main-title {
 			color: $base-orange;
-			text-align: left;
+
+			@include breakpoint("medium") {
+				text-align: left;
+			}
+		}
+
+		a.home-viewAllLink {
+			display: block;
+			text-align: center;
+			box-shadow: none;
+
+			@include breakpoint("medium") {
+				text-align: left;
+			}
 		}
 	}
 
 	// Dropdown Menu
 	.home-dropdownContainer {
 		position: relative;
-		width: 300px;
+		width: 100%;
 		margin-bottom: 1.5rem;
+
+		@include breakpoint("medium") {
+			width: 300px;
+		}
 	}
 	.home-stateContainer .home-dropdownContainer {
-	    float: right;
+	    @include breakpoint("medium") {
+	    	float: right;
+	    }
 	}
 
 	.home-dropdownContainer button {

@@ -50,7 +50,7 @@ footer.site-footer {
     .footer-socialIcon {
       max-width: 30px;
       height: auto;
-      margin-right: 10px;
+      margin-right: 5px;
     }
 
     a {
@@ -69,14 +69,22 @@ footer.site-footer {
 
   /*----------  Homepage Footer  ----------*/
   &.home-footer {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
+    background-color: $light-gray;
+    width: 100%;
+
+    @include breakpoint("medium") {
+      background-color: transparent;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
 
     .footer-mainContainer {
       background-image: none;
       background-color: transparent;
+      box-shadow: none;
+      margin-top: -1px;
 
       .row {
         align-items: flex-end;
@@ -91,8 +99,10 @@ footer.site-footer {
       }
 
       .footer-socialIcon {
-        margin-left: 5px;
-        margin-right: 0;
+        @include breakpoint("medium") {
+          margin-left: 5px;
+          margin-right: 0;
+        }
 
         path {
           fill: $color__homepage-footer-gray;
@@ -101,9 +111,14 @@ footer.site-footer {
 
 
       .footer-copyright {
-        text-align: right;
         color: $color__homepage-footer-gray;
         @include fontSize(14px);
+        padding-top: 0.5rem;
+
+        @include breakpoint("medium") {
+          padding-top: 0rem;
+          text-align: right;
+        }
       }
     }
   }
