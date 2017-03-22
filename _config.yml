@@ -23,9 +23,10 @@ collections:
     title: Subsectors
     output: false
     path: "/:path/:title/"
-  trackers:
-    title: Trackers
-    output: false
+  national-goals:
+    title: National Goals
+    output: true
+    path: "/:path/:title/"
   uploads:
     title: Uploads
     output: true
@@ -87,14 +88,17 @@ defaults:
     sector: 
 - scope:
     path: ''
-    type: trackers
+    type: national-goals
   values:
-    content_type: Tracker
+    layout: national-goals
+    content_type: National Goal
     start_date: 
     end_date: 
     sectors: 
     subsectors: 
-    data_name: 
+    data_name:
+    data_label:
+    state_text: reaches 
     last_updated_at: 
     sources:
       name: 

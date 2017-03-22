@@ -1,0 +1,96 @@
+/*======================================
+=            National Goals            =
+======================================*/
+
+/*----------  Sector Overview Listing  ----------*/
+
+.sectorSection-goalsContainer {
+	background-color: $light-gray;
+	padding: 1rem;
+
+	.sectionSubtitle {
+		color: $base-orange;
+		margin: 0 0 0.5rem 0;
+	}
+
+	.goal-lastUpdated {
+		color: $gray-text;
+		@include fontSize(15px);
+	}
+}
+
+/*----------  Individual Tracker Page  ----------*/
+
+.goal-container {
+	
+	.goal-header {
+		background-color: $light-gray;
+		padding: 0.2rem 0 1rem 0;
+
+		ul.shareIcons {
+			text-align: right;
+		}
+
+		.goal-nameContainer {
+			@include breakpoint("medium") {
+				padding-right: 3rem;
+			}
+
+			.subtitle {
+				margin: 1.5rem 0;
+				font-family: $font__MuseoSans;
+			}
+		}
+
+		.goalInfo-container {
+			margin-top: 3rem;
+
+			.sectionSubtitle {
+				border-bottom: 2px solid $dark-gray;
+				margin: 0;
+			}
+
+			ul.goalInfo-infoList {
+				list-style-type: none;
+			    margin: 0.5rem 0;
+			    padding: 0;
+
+			    li {
+			    	font-family: $font__MuseoSans;
+			    	@include fontSize(14px);
+			    	color: $black;
+			    	line-height: 1.4rem;
+			    	font-style: italic;
+
+			    	span.category {
+			    		text-transform: uppercase;
+			    		color: $gray-text;
+			    		font-style: normal;
+			    	}
+
+			    	// Display border for some list items
+			    	&.hasBorder {
+			    		margin-bottom: 0.5rem;
+			    		padding-bottom: 0.5rem;
+			    		border-bottom: 1px dashed $medium-gray;
+			    	}
+
+			    	// Sector Text
+			    	a.sector {
+						text-transform: uppercase;
+						font-weight: bold;
+						font-style: normal;
+						box-shadow: none;
+					}
+			    }
+
+			}
+		}
+	}
+
+	/*----------  Interactive  ----------*/
+	.goal-interactiveContainer {
+		padding: 3rem 0;
+	}
+	
+}

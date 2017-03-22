@@ -36,4 +36,10 @@
 		{% endif %}
 		{% include post-listing.html posts=sectorPosts limit=site.sector_overview_post_limit %}
 	</section>
+
+	<!-- Related National Goals -->
+	{% assign sectorGoals = site.national-goals | where_exp:"goal","goal.sectors contains sector.title" %}
+	{% if sectorGoals.size > 0 %}
+		{% include related-goals.html goals=sectorGoals useStateText=include.useStatePosts state=page.title %}
+	{% endif %}
 </section>
