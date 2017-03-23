@@ -37,7 +37,7 @@ defaults:
   values:
     layout: post
     content_type: Post
-    permalink: /:title/
+    permalink: "/:title/"
     states: 
     sectors: 
     subsectors: 
@@ -121,7 +121,8 @@ defaults:
     image: 
 permalink: pretty
 email: 
-description: Engaging Indian States is a comprehensive tool for businesses, researchers, policymakers, & journalists who seek to engage with India’s state governments.
+description: Engaging Indian States is a comprehensive tool for businesses, researchers,
+  policymakers, & journalists who seek to engage with India’s state governments.
 baseurl: 
 url: 
 date_format: "%B %-d, %Y"
@@ -153,4 +154,3 @@ post_archive_posts_per_page: 2
 tag_page_layout: tag-archive
 tag_page_dir: tag
 tag_permalink_style: pretty
-exclude: [vendor]
