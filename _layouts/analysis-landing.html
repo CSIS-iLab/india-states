@@ -2,25 +2,42 @@
 layout: default
 ---
 
-<div>
+<section class="analysisLanding-container content-wrapper fullWidthContent">
 
-  <h1 class="page-heading">{{ page.title | escape }}</h1>
-  
-  {{ content }}
+{% assign posts = site.posts | where:"is_analysis","true" %}
 
-  <ul class="post-list">
-    {% assign posts = site.posts | where:"is_analysis","true" %}
-    {% for post in posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	<!-- Results -->
+	<section class="pagination-sortByContainer sort-attributes-container">
+	<div class="pagination-totalResults"></div>
+	<div class="pagination-sortBy">
+	  Sort by:
+	  <a href="#sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">&darr;Date</a> 
+	  <a href="#sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">&uarr;Date</a>
+	</div>
+	</section>
+	<section class="pagination-posts-container post-listing"></section>
+	<section class="pagination-pagesContainer"></section>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+	<script type="text/javascript">
+		// Load all posts JSON for this State / Section
+		var postsPaginateMain = [
+			{% for post in posts %}
+				{% capture states %}[{% for state in post.states %}"{{state}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
+				{% capture sectors %}[{% for sector in post.sectors %}"{{sector}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
+				{% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
+				{
+					"title": "{{ post.title }}",
+					"states": {{states}},
+					"sectors": {{sectors}},
+					"date": new Date("{{ post.date | date_to_xmlschema }}"),
+					"postHtml": {{postHtml | strip_newlines | jsonify}}
+				}{% unless forloop.last %},{% endunless %}
+			{% endfor %}
+		];
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+		var posts_per_page = {{ site.post_archive_posts_per_page }};
+		var subsectorFiltering = false;
+	</script>
+	<script src="{{ "/assets/js/pagination.js" | relative_url }}"></script>
 
-</div>
+</section>

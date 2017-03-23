@@ -2,60 +2,102 @@
 layout: default
 ---
 
-<article class="post">
+<div class="row">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+  <!-- Table of Contents -->
+  {% include table-of-contents.html viewAll="true" stickyMenu="false" %}
 
-  <div class="post-content">
-    {{ content }}
+  <!-- State Information -->
+  <section class="stateInfoContainer col-xs-12 col-md-9">
+    <div class="content-wrapper">
 
-    <p>All of the posts that have "{{ page.title }}" in their <code>states</code> front matter will be listed below.</p>
+      <!-- Share Icons -->
+      {% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
 
-    <h3>Overview</h3>
-    <dl class="inline-flex">
-      <dt>Size</dt>
-      <dd>{{ page.size }}</dd>
-      <dt>Population</dt>
-      <dd>{{ page.population }}</dd>
-      <dt>Party Affiliation</dt>
-      <dd>{{ page.party_affiliation }}</dd>
-      <dt>Legislative Assembly Seats</dt>
-      <dd>{{ page.legislative_seats }}</dd>
-      <dt>Rajya Sabha Seats</dt>
-      <dd>{{ page.rajya_seats }}</dd>
-      <dt>State GDP</dt>
-      <dd>{{ page.gdp }}</dd>
-    </dl>
-    <h3>Development Indicators</h3>
-    <dl class="inline-flex">
-      <dt>Mortality Rate</dt>
-      <dd>{{ page.development_indicators.mortality }}</dd>
-      <dt>Literacy Rate</dt>
-      <dd>{{ page.development_indicators.literacy }}</dd>
-    </dl>
-    <br />
-    <br />
+      <h1 class="main-title">{{ page.title | escape }}</h1>
 
-    <!-- Display Sectors -->
-    {% for sector in site.sectors %}
-      <h2>
-        <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
-      </h2>
+      <div class="row">
+        <div class="stateInfo col-xs-12 col-md-8">
+          {{ content }}
 
-      <!-- Get State Specific Posts -->
-      {% assign statePosts = site.posts | where_exp:"post","post.states contains page.title" %}
-      {% assign sectorPosts = statePosts | where_exp:"post","post.sectors contains sector.title" %}
-      {% include post-listing.html posts=sectorPosts limit=site.sector_overview_post_limit %}
+          <div class="stateInfoContainer-stateSummaryContainer">
+            <h4 class="sectionSubtitle">State Summary</h4>
+            <ul class="stateInfoContainer-stateSummaryList">
+              <li class="hasBorder">
+                <span class="category">Size</span><br />
+                    {{ page.size }}
+              </li>
+              <li class="hasBorder">
+                <span class="category">Population</span><br />
+                    {{ page.population }}
+              </li>
+              <li class="populationBreakdown hasBorder">
+                <span class="category">Rural / Urban</span><br />
+                    {{ page.population.rural }} / {{ page.population.urban }}
+              </li>
+              <li>
+                <span class="category">State GDP</span><br />
+                    {{ page.gdp }}
+              </li>
+              <li class="hasBorder">
+                <span class="category">Party Affiliation</span><br />
+                    {{ page.party_affiliation }}
+              </li>
+              <li class="hasBorder">
+                <span class="category">Legislative Assembly Seats</span><br />
+                    {{ page.legislative_seats }}
+              </li>
+              <li class="hasBorder">
+                <span class="category">Rajya Sabha Seats</span><br />
+                    {{ page.rajya_seats }}
+              </li>
+              <li>
+                <span class="category">Lok Sabha Seats</span><br />
+                    {{ page.lok_seats }}
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="stateMapContainer col-xs-12 col-md-4">
+          {% assign stateSlug = page.title | slugify %}
+          {% include map-svg.html state=stateSlug %}
+        </div>
+      </div>
+    </div>
+  </section>
+</div>
 
-      <a class="button" href="{{ page.url | relative_url }}{{ sector.title | slugify }}">See More</a>
-
-    {% endfor %}
-    <br /><br /><br />
-    <a href="{{ page.url | relative_url }}archive">See All</a>
-
-    
+<!-- Feature Images -->
+<div class="stateFeatureImageContainer row">
+  <div class="col-xs-12 col-md-6">
+    <img src="{{ page.feature_images.primary.image }}" />
   </div>
+  <div class="hidden-xs col-md-6">
+    <img src="{{ page.feature_images.secondary.image }}" />
+  </div>
+</div>
 
-</article>
+<div class="row">
+  <!-- Table of Contents -->
+  {% include table-of-contents.html viewAll="true" stickyMenu="true" %}
+
+  <!-- State Articles -->
+  <section class="sectorsArticlesContainer col-xs-12 col-md-9">
+    <div class="content-wrapper">
+
+      <div class="stateFeatureImageCaptions">
+        <em>Left:</em> {{ page.feature_images.primary.credit }}<br />
+        <em>Right:</em> {{ page.feature_images.secondary.credit }}<br />
+      </div>
+
+      <!-- Display Sectors -->
+      {% for sector in site.sectors %}
+        {% capture viewAllLink %}{{ page.url | relative_url }}{{ sector.title | slugify }}{% endcapture %}
+        {% include sector-recent-articles.html viewAllLink = viewAllLink useStatePosts="true" %}
+      {% endfor %}
+
+      <!-- View All Link -->
+      <a href="{{ page.url | relative_url }}archive"><button class="btn-orange">View All Articles &gt;</button></a>
+    </div>
+  </section>
+</div>

@@ -1,0 +1,31 @@
+html {
+	font-size: 100%;
+}
+body:not(.home-body) {
+	padding: 82px 0 0 0;
+	margin: 0;
+
+	@include breakpoint("medium") {
+		padding-top: 135px;
+	}
+
+	@include breakpoint("large") {
+		padding-top: 155px;
+	}
+}
+
+.content-wrapper {
+	margin: 0 1rem;
+
+	@include breakpoint("medium") {
+		margin: 0 1.5rem;
+
+		&.fullWidthContent {
+			margin: 0 auto;
+			max-width: 900px;
+		}
+	}
+}
+
+@import "header";
+@import "footer";

@@ -1,0 +1,280 @@
+/*=================================
+=            Home Page            =
+=================================*/
+
+.home-body {
+	background-color: $base-blue;
+
+	@include breakpoint("medium") {
+		background-image:url('img/map-homepage-full.svg');
+		background-color: $light-gray;
+		background-repeat: no-repeat;
+		background-size:cover;
+		background-position: center center;
+		height: 100vh;
+		overflow-x: hidden;
+	}
+}
+
+.home-content {
+
+	.home-orContainer {
+		display: none;
+
+		@include breakpoint("medium") {
+			display: block;
+			position: absolute;
+			z-index:50;
+			width: 55px;
+			height: 55px;
+			top: 20%;
+			left: calc(50% - 27.5px);
+
+
+			&:after {
+			  display: block;
+			  padding-bottom: 100%;
+			  width: 100%;
+			  height: 0;
+			  border-radius: 50%;
+			  background-color: $white;
+			  content: "";
+			}
+
+			div {
+				float: left;
+			    width: 100%;
+			    padding-top: 50%;
+			    margin-top: -0.6em;
+			    color: $gray-text;
+				@include fontSize(26px);
+				font-family: $font__ExpoSerif;
+				text-transform: lowercase;
+				text-align: center;
+				font-style: italic;
+			}
+		}
+	}
+
+	@include breakpoint("medium") {
+		.home-splitContainer.row {
+			position:absolute;
+			top: 20%;
+			left: 0;
+			right: 0;
+		}
+	}
+
+	.home-stateContainer, .home-sectorContainer {
+		padding: 2rem;
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position-x: 10%;
+
+		@include breakpoint("medium") {
+			padding: 0 7%;
+			background-image: none !important;
+			background-color: transparent !important;
+		}
+
+		.home-contentWrapper {
+			max-width: 500px;
+		}
+
+		.main-title {
+			text-transform: uppercase;
+			letter-spacing: 0.5px;
+			line-height: 1.2rem;
+			margin-top: 1rem;
+			text-align: center;
+		}
+
+		a.home-viewAllLink {
+			clear: both;
+		}
+
+		button.btn-orange {
+			padding: 6px 25px;
+			@include fontSize(18px);
+		}
+	}
+
+	// State Side
+	.home-stateContainer {
+		background-image:url('img/map-homepage-blue-mobile.svg');
+		background-color: $base-blue;
+		margin-top: 3rem;
+
+		@include breakpoint("medium") {
+			margin-top: 0;
+		}
+
+		.home-contentWrapper {
+			margin-left: auto;
+			margin-right: auto;
+
+			@include breakpoint("medium") {
+				margin-right: initial;
+			}
+		}
+
+		.main-title {
+			color: $white;
+
+			@include breakpoint("medium") {
+				text-align: right;
+			}
+		}
+
+		p {
+			color: $light-blue;
+		}
+
+		a.home-viewAllLink {
+			display: block;
+			text-align: center;
+			box-shadow: none;
+			@include breakpoint("medium") {
+				float: right;
+			}
+		}
+	}
+
+	// Sector Side
+	.home-sectorContainer {
+		background-image:url('img/map-homepage-gray-mobile.svg');
+		background-color: $light-gray;
+
+		.home-contentWrapper {
+			margin-right: auto;
+			margin-left: auto;
+
+			@include breakpoint("medium") {
+				margin-left: initial;
+			}
+		}
+
+		.main-title {
+			color: $base-orange;
+
+			@include breakpoint("medium") {
+				text-align: left;
+			}
+		}
+
+		a.home-viewAllLink {
+			display: block;
+			text-align: center;
+			box-shadow: none;
+
+			@include breakpoint("medium") {
+				text-align: left;
+			}
+		}
+	}
+
+	// Dropdown Menu
+	.home-dropdownContainer {
+		position: relative;
+		width: 100%;
+		margin-bottom: 1.5rem;
+
+		@include breakpoint("medium") {
+			width: 300px;
+		}
+	}
+	.home-stateContainer .home-dropdownContainer {
+	    @include breakpoint("medium") {
+	    	float: right;
+	    }
+	}
+
+	.home-dropdownContainer button {
+	    outline: none;
+	    margin: 0;
+	    border: none;
+	    background-color: $white;
+	    color: $medium-gray;
+	    padding: 10px;
+	    width: 100%;
+	    text-align: left;
+	    border-radius: 0;
+	    text-transform: none;
+	    font-weight: 500;
+
+	    -webkit-transition: background 200ms;
+	    -moz-transition: background 200ms;
+	    -o-transition: background 200ms;
+	    transition: background 200ms;
+	}
+
+	.home-dropdownContainer button span {
+	    position: absolute;
+	    color: $white;
+	    right: 0px;
+	    top: 0px;
+	    margin-top: 0;
+	    display: block;
+	    background-color: $medium-gray;
+	    padding: 10px 12px;
+	    @include fontSize(22px);
+	}
+
+	.home-dropdownContainer button:hover span,
+	.home-dropdownContainer.open button span {
+	    background-color: $base-orange;
+	}
+
+	/* Remove select border in Safari */
+	.home-dropdownContainer:focus,
+	.home-dropdownContainer:active {outline:0;}
+
+	/* Remove select border in Firefox */
+	.home-dropdownContainer:-moz-focusring {
+	    color: transparent;
+	    text-shadow: 0 0 0 #000;
+	}
+
+	.home-dropdownMenu {
+		display: none;
+		border-top:1px solid $base-blue;
+	    background-color: $white;
+	    padding: 0;
+	    margin-top: 0px;
+	    list-style-type: none;
+	    height: 20vh;
+    	overflow-y: scroll;
+    	@include fontSize(16px);
+    	font-family: $font__MuseoSans;
+
+	    -webkit-border-radius: 0;
+	    -moz-border-radius: 0;
+	    -o-border-radius: 0;
+	    border-radius: 0;
+
+	    &::-webkit-scrollbar {
+	        -webkit-appearance: none;
+	        width: 7px;
+	    }
+	    &::-webkit-scrollbar-thumb {
+	        background-color: $medium-gray;
+	        -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+	    }
+
+		& > li > a {
+		    padding: 8px 20px;
+		    box-shadow: none;
+		    display: block;
+		}
+
+		& > li.home-dropdownSubsector > a {
+			padding-left: 40px;
+		}
+
+		& > li:hover > a,
+		& > li.selected > a {
+		    color: $base-orange;
+		    @include box-shadow(3px,0px,0px,0, $base-orange, true);
+		}
+	}
+}

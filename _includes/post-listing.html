@@ -1,10 +1,11 @@
 <!-- Display Posts -->  
 <div class="post-listing">
+
   {% for post in include.posts limit:include.limit %}
     {% include post-listing-post.html %}
   {% endfor %}
 
-  {% unless include.posts %}
+  {% if include.posts.size == 0 %}
     <p>There are currently no articles available.</p>
-  {% endunless %}
+  {% endif %}
 </div>

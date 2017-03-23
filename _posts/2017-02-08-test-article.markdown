@@ -8,6 +8,10 @@ tags:
 states:
 - Andhra Pradesh
 - Assam
+- Delhi
+- Bihar
+- Goa
+- Kerala
 sectors:
 - Energy
 - Aerospace and Defense
@@ -18,6 +22,14 @@ sources:
 details:
   name: Google
   url: http://google.com
+tags:
+- tag1
+- tag2
+- tag3
+- tag4
+- tag5
+- tag6
+- tag7
 ---
 
 This is a test article. The program can type whatever content they want here. They can then assign the article to different states, sectors, subsectors, and add sources & details.

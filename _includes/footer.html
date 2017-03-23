@@ -1,49 +1,46 @@
 <footer class="site-footer">
 
-  <div class="wrapper">
+  <div class="footer-mainContainer">
+    <div class="content-wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+      <div class="row around-md">
+        <div class="col-xs-12 col-md-4">
+          <a href="https://csis.org" target="_blank"><img src="{{ "/assets/img/csis-logo.svg" | relative_url }}" alt="Center for Strategic and International Studies" title="Center for Strategic and International Studies" /></a>
+          <p>The CSIS Wadhwani Chair in U.S.-India Policy Studies aims to unlock the full potential of the U.S.-India relationship and leads the Center's work on India. The Chair serves as an independent platform to pursue policy changes that strengthen bilateral ties, placing special emphasis on accelerating economic development in India and promoting greater business and economic engagement between the two countries.</p>
+          <address>
+            1616 Rhode Island Avenue, NW<br />
+            Washington, DC 20008
+          </address>
+        </div>
+        <div class="col-xs-12 col-md-4 footer-tweetsContainer">
+          <h3 class="footer-title">Latest Tweets</h3>
+        </div>
+        <div class="col-xs-12 col-md-4">
+          <h3 class="footer-title">Newsletter</h3>
+          <p><a href="">Newsletter One &mdash;</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+            tempor incididunt ut labore et dolore magna aliqua.</p>
+          <a href=""><button class="btn-blue">Sign Up</button></a>
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
-            </li>
-            {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {% endif %}
-        </ul>
-        {% include search-bar.html %}
-      </div>
-
-      <div class="footer-col footer-col-2">
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
-      </div>
-
-      <div class="footer-col footer-col-3">
-        <p>{{ site.description | escape }}</p>
+          <h3 class="footer-title socialMedia">Follow Us</h3>
+          <a href=""><img src="{{ "/assets/img/facebook.svg" | relative_url }}" alt="Facebook" title="Facebook" class="footer-socialIcon" /></a> 
+          <a href=""><img src="{{ "/assets/img/twitter.svg" | relative_url }}" alt="Twitter" title="Twitter" class="footer-socialIcon" /></a>
+        </div>
       </div>
     </div>
+  </div>
 
+  <div class="footer-copyrightContainer">
+    <div class="content-wrapper">
+      &copy; 2017 by the Center for Strategic and International Studies. All rights reserved.
+    </div>
   </div>
 
 </footer>
 
+<script src="{{ "/assets/js/breadcrumbs.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/smooth-scroll.js" | relative_url }}"></script>
 <script src="{{ "/assets/js/post-listing.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/sticky-menu.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/show-more-meta.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/share-icons.js" | relative_url }}"></script>
+<script src="{{ "/assets/js/searchpage.js" | relative_url }}"></script>

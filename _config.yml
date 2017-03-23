@@ -1,5 +1,5 @@
 ---
-title: India States
+title: Engaging Indian States
 timezone: UTC
 collections:
   authors:
@@ -23,9 +23,10 @@ collections:
     title: Subsectors
     output: false
     path: "/:path/:title/"
-  trackers:
-    title: Trackers
-    output: false
+  national-goals:
+    title: National Goals
+    output: true
+    path: "/:path/:title/"
   uploads:
     title: Uploads
     output: true
@@ -55,8 +56,13 @@ defaults:
   values:
     layout: state
     content_type: State
-    feature_image: 
-    feature_image_credit: 
+    feature_images:
+      primary:
+        image:
+        credit:
+      secondary:
+        image:
+        credit: 
     size: 
     population:
       rural: 
@@ -72,6 +78,7 @@ defaults:
   values:
     layout: sector
     content_type: Sector
+    feature_image: 
 - scope:
     path: ''
     type: subsectors
@@ -81,14 +88,17 @@ defaults:
     sector: 
 - scope:
     path: ''
-    type: trackers
+    type: national-goals
   values:
-    content_type: Tracker
+    layout: national-goals
+    content_type: National Goal
     start_date: 
     end_date: 
     sectors: 
     subsectors: 
-    data_name: 
+    data_name:
+    data_label:
+    state_text: reaches 
     last_updated_at: 
     sources:
       name: 
@@ -112,8 +122,9 @@ description: Write an awesome description for your new site here. You can edit t
   results) and in your feed.xml site description.
 baseurl: 
 url: 
-twitter_username: jekyllrb
-github_username: jekyll
+date_format: "%B %-d, %Y"
+post_meta_limit: 5
+post_meta_sector_limit: 3
 google_analytics: 
 algolia:
   application_id: 7UNKAH6RMH
@@ -127,7 +138,7 @@ algolia:
   - search.md
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 markdown: kramdown
-theme: minima
+# theme: minima
 gems:
 - jekyll-feed
 - jekyll-seo-tag
@@ -135,8 +146,11 @@ gems:
 exclude:
 - Gemfile
 - Gemfile.lock
-sector_overview_post_limit: 5
+sector_overview_post_limit: 2
 post_archive_posts_per_page: 2
 tag_page_layout: tag-archive
 tag_page_dir: tag
 tag_permalink_style: pretty
+
+exclude: [vendor]
+

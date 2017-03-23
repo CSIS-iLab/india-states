@@ -2,22 +2,42 @@
 layout: default
 ---
 
-<article class="post">
+{% assign listLimit = site.states.size | divided_by: 2 %}
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+<section class="statesLanding-container">
+  <section class="statesLanding-instructions">
+    <div class="content-wrapper fullWidthContent">
+      <p><em>Instructions</em> - Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore.</p>
+    </div>
+  </section>
 
-  <div class="post-content">
-    {{ content }}
+  <section class="statesLanding-mainContent content-wrapper">
+    <div class="row">
+      <div class="col-xs-6 col-md-3">
+        <ul class="statesLanding-statesList">
+          {% for state in site.states limit: listLimit %}
+            <li>
+              <a href='/states{{ state.title | slugify | relative_url }}' class="stateLink" data-state="{{ state.title | slugify }}">{{ state.title | escape }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="col-xs-6 col-md-3">
+        <ul class="statesLanding-statesList">
+          {% for state in site.states offset: listLimit %}
+            <li>
+              <a href='/states{{ state.title | slugify | relative_url }}' class="stateLink" data-state="{{ state.title | slugify }}">{{ state.title | escape }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="statesLanding-map col-xs-12 col-md-6">
+        {% include map-svg.html %}
+      </div>
+    </div>
+  </section>
+</section>
 
-    <ul>
-    	{% for item in site[page.collection] %}
-      	<li>
-          <a href='{{ item.id | prepend: site.github.url }}'>{{ item.title }}</a>
-        </li>
-    	{% endfor %}
-    </ul>
-  </div>
-
-</article>
+<!-- State Landing JS -->
+<script src="{{ "/assets/js/state-landing.js" | relative_url }}"></script>

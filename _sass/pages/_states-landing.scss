@@ -1,0 +1,68 @@
+/*===========================================
+=            States Landing Page            =
+===========================================*/
+
+.statesLanding-container {
+	
+	.statesLanding-instructions {
+		background-color: $light-gray;
+		padding: 2em 0;
+
+		p {
+			margin-bottom: 0;
+		}
+
+		em {
+			color: $base-orange;
+		}
+	}
+
+	.statesLanding-mainContent {
+		margin: 3rem;
+		font-family: $font__MuseoSans;
+
+		@include breakpoint("medium") {
+			&.content-wrapper {
+				margin: 3rem;
+			}
+		}
+
+		ul.statesLanding-statesList {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+
+		    li {
+		    	margin-bottom: 0.8rem;
+
+		    	a {
+		    		color: $gray;
+		    		box-shadow: none;
+
+		    		&:hover, &:active, &.active {
+		    			color: $base-orange;
+
+		    			@include breakpoint("medium") {
+			    			&:after {
+			    				content: " \003e";
+			    			}
+			    		}
+		    		}
+		    	}
+		    }
+		}
+
+		.statesLanding-map {
+			padding-top: 1.5rem;
+
+			@include breakpoint("medium") {
+				padding-top: 0;
+			}
+
+			.active {
+				fill: $base-orange;
+				cursor: pointer;
+			}
+		}
+	}
+}

@@ -1,0 +1,114 @@
+body {
+  color: $color__text-main;
+  font-family: $font__main;
+  @include fontSize(18px);
+}
+
+.main-title {
+  font-family: $font__MuseoSans;
+  @include fontSize(68px);
+  line-height: 1em;
+  color: $base-blue;
+}
+
+.subtitle {
+  font-family: $font__ExpoSerif;
+  @include fontSize(62px);
+  line-height: 1em;
+  color: $base-blue;
+}
+
+.sectionTitle {
+  color: $base-blue;
+  font-family: $font__MuseoSans;
+  font-weight: 700;
+  character: 0.1rem;
+  @include fontSize(32px);
+  text-transform: uppercase;
+}
+
+.sectionSubtitle {
+  color: $base-blue;
+  font-family: $font__MuseoSans;
+  font-weight: 700;
+  @include fontSize(25px);
+  text-transform: uppercase;
+}
+
+p {
+  line-height: 1.6;
+  @include fontSize(18px);
+  margin-top: 0;
+}
+
+dfn, cite, em, i {
+  font-style: italic;
+}
+
+blockquote, q {
+  quotes: "" "";
+
+  &:before,
+  &:after {
+    content: "";
+  }
+}
+
+/*----------  Links  ----------*/
+a {
+  word-wrap: break-word;
+  @include transition(all .3s ease-in-out);
+  text-decoration: none;
+  color: inherit;
+  @include box-shadow(0px, -2px, 0px, 0, $base-orange, true);
+
+  &:hover,
+  &:focus,
+  &:active {
+    text-decoration:none;
+    cursor: pointer !important;
+    color: $base-blue;
+    @include box-shadow(0px, -2px, 0px, 0, darken($base-orange,10%), true);
+  }
+
+}
+
+/*----------  Articles  ----------*/
+.articleTitle {
+  color: $gray;
+  @include fontSize(22px);
+  font-family: $font__ExpoSerif;
+  line-height: 1.8rem;
+  margin: 0;
+  font-weight: 600;
+}
+
+.articleMeta {
+  color: $gray-text;
+  @include fontSize(14px);
+  line-height: 1.4rem;
+  font-family: $font__MuseoSans;
+
+  .articleDate, .articleAuthor {
+    color: $gray;
+    font-weight: bold;
+    font-style: italic;
+  }
+}
+
+.listCategory {
+  color: $gray-text;
+  @include fontSize(14px);
+  font-family: $font__MuseoSans;
+  line-height: 1.4rem;
+  text-transform: uppercase;
+  font-style: normal;
+}
+
+.listContent {
+  color: $black;
+  @include fontSize(14px);
+  line-height: 1.4rem;
+  font-family: $font__MuseoSans;
+  font-style: italic;
+}

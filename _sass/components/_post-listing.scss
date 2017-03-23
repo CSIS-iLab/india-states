@@ -1,0 +1,117 @@
+/*====================================
+=            Post Listing            =
+====================================*/
+.post-listing {
+	.hidden {
+		display:none;
+	}
+}
+
+/*----------  Post Listing: Individual Post  ----------*/
+.post-articleContainer {
+	border-top: 2px solid $gray;
+	margin: 0 0 4rem 0;
+	padding-top: 1rem;
+
+	.post-articleContent {
+		padding-right: 3rem;
+
+		.analysis {
+			margin: 0.8em auto;
+
+			.analysis-image {
+				padding-left: 0;
+
+				a {
+					box-shadow: none;
+				}
+
+				img {
+					width: 100%;
+					height: auto;
+				}
+			}
+
+			p {
+				margin: 0;
+			}
+		}
+
+		p {
+			margin: 0.8rem auto;
+		}
+
+		hr {
+			width: 15%;
+			border-style: solid;
+			border-color: $light-gray;
+			margin: 0 0 0.8rem 0;
+		}
+
+		.post-articleSourcesDetails {
+			color: $gray-text;
+			@include fontSize(14px);
+			line-height: 1.4rem;
+			font-family: $font__MuseoSans;
+			text-transform: uppercase;
+
+			a {
+				text-transform: none;
+				color: $gray;
+
+				&:hover {
+					color: $base-orange;
+				}
+			}
+		}
+	}
+}
+
+.post-articleMetaContainer {
+		
+	hr {
+		border-style: dashed;
+		border-color: $medium-gray;
+	}
+
+	a {
+		color: $gray;
+
+		&:hover {
+			color: $base-blue;
+		}
+
+		&.sector {
+			text-transform: uppercase;
+			font-weight: bold;
+			font-style: normal;
+			box-shadow: none;
+		}
+	}
+
+	.post-articleExtraMeta {
+		display: none;
+		margin-left: -0.2em;
+
+		&.sectors {
+			margin-left: 0;
+		}
+	}
+
+	.post-articleShowMoreMeta {
+		text-align: center;
+		margin-top: 0.5rem;
+
+		img {
+			max-width: 20px;
+			height: auto;
+
+			&.showMore {
+				display: inline-block;
+			}
+			&.showLess {
+				display: none;
+			}
+		}
+	}
+}

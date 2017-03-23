@@ -1,0 +1,67 @@
+---
+layout: default
+---
+{% assign goal = page.title %}
+
+<section class="goal-container">
+  <header class="goal-header">
+    <div class="content-wrapper fullWidthContent">
+      <!-- Share Icons -->
+          {% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
+
+      <div class="row">
+        <div class="goal-nameContainer col-xs-12 col-md-9">
+          <h1 class="subtitle">
+            {{ page.title | escape }}
+          </h1>
+          {{ page.content }}
+        </div>
+        <div class="col-xs-12 col-md-3">
+          <div class="goalInfo-container">
+            <h4 class="sectionSubtitle">Goal Summary</h4>
+            <ul class="goalInfo-infoList">
+              <li class="hasBorder">
+                <span class="category">Start Date</span><br />
+                    {{ page.start_date | date:site.date_format }}
+              </li>
+              <li class="hasBorder">
+                <span class="category">End</span><br />
+                    {{ page.end_date | date:site.date_format }}
+              </li>
+              <li class="hasBorder">
+                <span class="category">Sectors</span><br />
+                {% for sector in page.sectors %}
+                  <a href='{{ sector | slugify | prepend: "/sectors/" | relative_url }}' class="sector">{{ sector }}</a>
+                  <!-- Subsectors for {{ sector }} -->
+                  {% assign sectorSubsectors = site.subsectors | where:"sector", sector %}
+
+                  {% capture goalSectorSubsectors %}
+                  {% for subsector in sectorSubsectors %}
+                    {% if subsector.sector == sector and page.subsectors contains subsector.title %}<a href='{{ sector | slugify | prepend: "/sectors/" | relative_url }}#{{ subsector.title | slugify }}' class="sectorSection-subsectorsListSubsector">{{ subsector.title }}</a>,{% endif %}
+                  {% endfor %}
+                  {% endcapture %}
+
+                  {% assign subsectors = goalSectorSubsectors | split: "," %}
+                  {% if subsectors.size > 1 %}
+                    {{ subsectors | pop | join: "," | prepend: "&gt;" }}
+                  {% endif %}
+                    <br />
+                {% endfor %}
+              </li>
+              <li>
+                <span class="category">Last Updated</span><br />
+                    {{ page.last_updated_at | date:site.date_format }}
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="goal-interactiveContainer">
+    <div class="content-wrapper fullWidthContent">
+      Interactive will go here!
+    </div>
+  </section>
+</section>

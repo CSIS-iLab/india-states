@@ -2,26 +2,22 @@
 layout: default
 ---
 
-<article class="post">
+<div class="row">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+  <!-- Table of Contents -->
+  {% include table-of-contents.html viewAll="false" stickyMenu="true" %}
 
-  <div class="post-content">
-    {{ content }}
+  <!-- Sector Listing -->
+  <section class="sectorsArticlesContainer col-xs-12 col-md-9">
+    <div class="content-wrapper">
 
-    {% for sector in site.sectors %}
-      <h2>
-        <a href='{{ sector.id | prepend: site.github.url }}'>{{ sector.title }}</a>
-      </h2>
+      {% for sector in site.sectors %}
+        {% capture viewAllLink %}{{ page.url | relative_url }}{{ sector.title | slugify }}{% endcapture %}
+        {% include sector-recent-articles.html viewAllLink = viewAllLink useStatePosts="false" %}
+      {% endfor %}
 
-      <!-- Post Listing-->
-      {% assign sectorPosts = site.posts | where_exp:"post","post.sectors contains sector.title" %}
-      {% include post-listing.html posts=sectorPosts limit=site.sector_overview_post_limit %}
+    </div>
+      
+  </section>
+</div>
 
-    {% endfor %}
-
-  </div>
-
-</article>

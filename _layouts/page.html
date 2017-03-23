@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<article class="post">
+<section class="page-container">
+	<div class="content-wrapper fullWidthContent">
+		<header class="page-header">
+			<h1 class="main-title">{{ page.title | escape }}</h1>
+		</header>
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-
-</article>
+		<article class="post-content">
+			{{ content }}
+		</article>
+	</div>
+</section>

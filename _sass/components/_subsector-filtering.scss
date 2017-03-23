@@ -1,0 +1,78 @@
+/*===========================================
+=            Subsector Filtering            =
+===========================================*/
+
+.subsectorFiltering-container {
+	margin-top: 2rem;
+	
+	.filterInstructions {
+		color: $gray-text;
+		@include fontSize(18px);
+		font-family: $font__MuseoSans;
+		line-height: 2.4rem;
+		font-style: italic;
+		margin-bottom: 0;
+	}
+
+	ul.subsectorFiltering-subsectorButtons {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+
+		li {
+			display: inline-block;
+			margin-right: 0.2rem;
+			margin-bottom: 0.5rem;
+
+			button.btn-subsector {
+		        background-color: $light-gray;
+		        color: $base-blue;
+		        font-weight: 500;
+		        text-transform: none;
+		        padding: 5px 10px;
+
+		        &:hover, &:active, &:focus {
+		            background-color: $base-orange;
+		            color: $white;
+		        }
+		    }
+
+		    a.active .btn-subsector {
+		    	background-color: $base-orange;
+		    	color: $white;
+		    }
+		}
+	}
+}
+
+.subsectorFiltering-articlesInfo {
+	margin: 2.5rem 0 2rem 0;
+
+	.sectionTitle {
+		margin: 0 0 0.5rem 0;
+
+		.subsectorFiltering-subsectorTitle {
+			color: $base-orange;
+			display: none;
+
+			&.isStateArchive {
+				display: inline;
+			}
+
+			&:before {
+				content: ": ";
+				color: $base-blue;
+			}
+		}
+	}
+
+	.subsectorFiltering-subsectorInfo {
+		border-left: 4px solid $map-gray;
+		padding: 0.5rem 0 0.5rem 1rem;
+		display: none;
+
+		em {
+			color: $base-orange;
+		}
+	}
+}

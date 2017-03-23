@@ -1,0 +1,81 @@
+/*===============================
+=            Sectors            =
+===============================*/
+
+.sectorsArticlesContainer {
+	padding-bottom: 2rem;
+
+
+	.sectorSection {
+		margin: 5rem 0;
+
+		// Clear the Image Captions
+		&:first-of-type {
+			@include clearfix-after();
+		}
+
+		/*----------  Sector Title & Icon  ----------*/
+		.subtitle {
+			text-align: center;
+			margin: 1.5rem 0;
+		}
+
+		.sectorSection-iconContainer {
+			text-align: center;
+
+			img {
+				max-width: 50px;
+				height: auto;
+			}
+		}
+
+		/*----------  Sector Information  ----------*/
+		.sectorSection-sectorInfoContainer {
+			margin-bottom: 2rem;
+		}
+
+		.sectorSection-sectorInfo {
+			border-right: 2px solid $light-gray;
+			padding: 1rem 1.5rem 1rem 0;
+		}
+
+		.sectorSection-subsectorsList {
+			padding: 1rem 0rem 1rem 1.5rem;
+
+			.sectionSubtitle {
+				margin: 0;
+			}
+
+			.sectorSection-subsectorsListSubsector {
+				color: $gray-text;
+				font-family: $font__MuseoSans;
+				@include fontSize(17px);
+				line-height: 2.3rem;
+
+				&:hover {
+					color: $base-blue;
+				}
+			}
+		}
+
+		/*----------  Recent Articles  ----------*/
+		.sectorSection-articlesContainer {
+
+			.sectionTitle {
+				border-bottom: 4px solid $base-blue;
+				margin-bottom: 0.2rem;
+				padding-bottom: 0.5rem;
+
+				a {
+					box-shadow: none;
+				}
+			}
+
+			button {
+				vertical-align: text-bottom;
+				margin-left: 0.5rem;
+			}
+		}
+		
+	}
+}

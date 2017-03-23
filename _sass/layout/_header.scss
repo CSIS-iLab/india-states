@@ -1,0 +1,232 @@
+/*==============================
+=            Header            =
+==============================*/
+
+header.site-header {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	z-index: 100;
+
+	a {
+		box-shadow: none;
+	}
+
+	.content-wrapper, .row {
+		height: 100%;
+	}
+
+	.header-mainContainer {
+		background-image: url('img/map-header.svg');
+		background-repeat: no-repeat;
+		background-color: $base-blue;
+		color: $white;
+		height: 57px;
+		// align-items: center;
+		@include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
+
+		@include breakpoint("medium") {
+			height: 100px;
+		}
+
+		@include breakpoint("large") {
+			height: 125px;
+		}
+	}
+
+	.header-logo {
+		font-family: $font__ExpoSerif;
+		@include fontSize(26px);
+		color: $white;
+
+		@include breakpoint("medium") {
+			@include fontSize(50px);
+		}
+
+	}
+
+	.header-navContainer {
+		@include breakpoint("large") {
+			align-self: flex-end;
+			text-align:right;
+		}
+
+		.header-nav {
+			font-family: $font__MuseoSans;
+			@include fontSize(15px);
+			color: $color__header-nav-font;
+			text-transform: uppercase;
+
+			// Mobile Menu
+			.menu-icon {
+				width: auto;
+
+				// Hide on Desktops and larger
+				@include breakpoint("large") {
+					display:none;
+				}
+
+				svg {
+					max-height: 40px;
+					width: auto;
+				}
+			}
+
+			// Menu List Container
+			.header-navListContainer {
+				display: none;
+
+				// Show on Desktops and larger
+				@include breakpoint("large") {
+					display: block;
+				}	
+			}
+
+			// Menu List
+			ul {
+				list-style: none;
+				padding: 0;
+				margin: 0;
+
+				li {
+					text-align:center;
+
+					a {
+						display:block;
+						padding: 8px 10px;
+						color: $color__header-nav-font;
+
+						@include breakpoint("large") {
+							padding: 10px 15px;
+						}
+
+						&:hover {
+							color: $white;
+							@include box-shadow(0px, -2px, 0px, 0px, $white, true);
+						}
+					}
+
+					@include breakpoint("large") {
+						display:inline-block;
+						margin-right: -4px;
+					}
+
+					// State & Sector Look
+					&.ss-nav {
+						color: $color__header-ss-nav-font;
+						background-color: $color__header-ss-nav-background;
+
+						a {
+							color: $color__header-ss-nav-font;
+						}
+					}
+				}
+			}
+
+		}
+	}
+
+	/*----------  Homepage Header  ----------*/
+	&.home-header {
+		position: absolute;
+		z-index: 50;
+		left: 0;
+		right: 0;
+
+		@include breakpoint("medium") {
+			position: relative;
+		}
+
+		.header-mainContainer {
+			background-image: none;
+			background-color: transparent;
+			box-shadow: none;
+		}
+
+		.header-navContainer {
+			align-self: inherit;
+
+			.header-nav ul li a {
+				color: $darkest-blue;
+
+				&:hover {
+					@include box-shadow(0px, -2px, 0px, 0px, $darkest-blue, true);
+				}
+			}
+
+			.header-nav ul li svg {
+				max-width: 9px;
+			    max-height: 14px;
+			    height: 100%;
+			    width: 100%;
+			    cursor: pointer;
+
+				path.search-2, path.search-3, path.search-4 {
+					fill: $base-orange;
+				}
+			}
+		}
+	}
+}
+
+/*----------  Breadcrumbs  ----------*/
+.header-breadcrumbsContainer {
+	background-color: $color__header-breadcrumbs;
+	color: $color__header-breadcrumbs-font;
+	height: 25px;
+	font-family: $font__MuseoSans;
+	text-transform: uppercase;
+	@include fontSize(15px);
+
+	&.useExtended {
+		box-shadow: none;
+	}
+
+	&.notExtended {
+		@include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
+	}
+
+	@include breakpoint("medium") {
+		height: 30px;
+	}
+
+	// Breadcrumbs
+	.header-breadcrumbs {}
+
+	// Search Icon
+	.header-breadcrumbsSearch {
+		text-align: right;
+		padding-right: 15px;
+
+		img {
+			max-width: 15px;
+			padding-top: 5px;
+			cursor: pointer;
+		}
+	}
+}
+
+.breadcrumbs-extended {
+	background-color: $color__header-breadcrumbs;
+	color: $white;
+	@include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
+	padding: 1rem 0 4rem 0;
+	z-index: 50;
+	position: relative;
+
+	.content-wrapper {
+		margin-left: 25%;
+	}
+
+	.main-title {
+		margin: 0 0 1rem 0;
+		color: $white;
+	}
+
+	p {
+		margin: 0 0 1rem 0;
+	}
+}
+

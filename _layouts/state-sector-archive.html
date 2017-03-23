@@ -2,16 +2,25 @@
 layout: default
 ---
 
-<article class="post">
+{% assign sector = site.sectors | where:'title',page.sector | first %}
+<section class="archive-container">
+	<header class="archive-header">
+		<div class="content-wrapper fullWidthContent">
+			<!-- Share Icons -->
+      		{% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
 
-	<header class="post-header">
-    	<h1 class="post-title">{{ page.state | escape }}: {{ page.sector | escape }}</h1>
-  	</header>
+			<h1 class="subtitle">{{ page.state | escape }} &gt; {{ page.sector | escape }}</h1>
+			{{ sector.content }}
+		</div>
+	</header>
 
-  	<div class="post-content">
-		<!-- Get State Specific Posts -->
-		{% assign statePosts = site.posts | where_exp:"post","post.states contains page.state" %}
+	<section>
+		<div class="content-wrapper fullWidthContent">
+			<section class="archive-relatedArticlesContainer">
+				{% assign statePosts = site.posts | where_exp:"post","post.states contains page.state" %}
 
-		{% include post-subsector-filtering.html posts=statePosts sector=page.sector state=page.state %}
-	</div>
-</article>
+				{% include post-subsector-filtering.html posts=statePosts sector=page.sector state=page.state %}
+			</section>
+		</div>
+	</section>
+</section>

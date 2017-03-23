@@ -1,0 +1,45 @@
+{% assign sectorSlug = sector.title | slugify %}
+<section id="{{ sectorSlug }}" class="sectorSection">
+	<div class="sectorSection-iconContainer">
+		<img src="{{ site.data.sector-icons[sectorSlug] | prepend: '/assets/img/sector-icons/' | relative_url }}" title="{{ sector.title }}" alt="{{ sector.title }}" />
+	</div>
+	<h2 class="subtitle">{{ sector.title }}</h2>
+
+	<div class="sectorSection-sectorInfoContainer row">
+		<div class="sectorSection-sectorInfo col-xs-12 col-md-6">
+			{{ sector.content }}
+		</div>
+		<div class="sectorSection-subsectorsList col-xs-12 col-md-6">
+			<h4 class="sectionSubtitle">Subsectors</h4>
+			{% for subsector in site.subsectors %}
+              {% if subsector.sector == sector.title %}
+                <a href='{{ include.viewAllLink }}#subsector={{ subsector.title | slugify }}&sort=date&order=desc' class="sectorSection-subsectorsListSubsector">{{ subsector.title }}</a>
+                {% if forloop.last == false %}
+                &nbsp;&middot;&nbsp;
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+		</div>
+	</div>
+
+	<section class="sectorSection-articlesContainer">
+		<h3 class="sectionTitle">
+			Recent Articles
+			<a href="{{ include.viewAllLink }}"><button class="btn-gray">View All &gt;</button></a>
+		</h3>
+		<!-- Get State or Sector Specific Posts -->
+		{% if include.useStatePosts == "true" %}
+			{% assign statePosts = site.posts | where_exp:"post","post.states contains page.title" %}
+			{% assign sectorPosts = statePosts | where_exp:"post","post.sectors contains sector.title" %}
+		{% else %}
+			{% assign sectorPosts = site.posts | where_exp:"post","post.sectors contains sector.title" %}
+		{% endif %}
+		{% include post-listing.html posts=sectorPosts limit=site.sector_overview_post_limit %}
+	</section>
+
+	<!-- Related National Goals -->
+	{% assign sectorGoals = site.national-goals | where_exp:"goal","goal.sectors contains sector.title" %}
+	{% if sectorGoals.size > 0 %}
+		{% include related-goals.html goals=sectorGoals useStateText=include.useStatePosts state=page.title %}
+	{% endif %}
+</section>

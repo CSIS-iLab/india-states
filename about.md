@@ -4,12 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<h1 class="main-title">Main Title</h1>
+<h2 class="subtitle">Subtitle</h2>
+<h3 class="section-title">Section Title</h3>
+<h4 class="section-subtitle">Section Subtitle</h4>
