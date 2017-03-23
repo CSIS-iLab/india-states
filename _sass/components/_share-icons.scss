@@ -24,5 +24,57 @@ ul.shareIcons {
 				}
 			}
 		}
+
+		&.share-social {
+			padding-bottom:15px;
+
+			&:hover .share-socialContainer {
+				display: block;
+			}
+
+			.share-socialContainer {
+				display: none;
+			    background-color: gray;
+			    padding: 0.5rem 1rem 0.8rem 1rem;
+			    text-align: center;
+			    position: absolute;
+			    z-index: 10;
+			    font-family: $font__MuseoSans;
+			    @include fontSize(15px);
+			    color: $color__homepage-footer-gray;
+			    line-height: 1.5;
+			    margin-left: -41.5px;
+			    margin-top: 10px;
+			    text-transform: none;
+
+			    &:hover {
+			    	display: block;
+			    }
+
+			    a {
+			    	color: $white;
+
+			    	&:hover {
+			    		color: $light-gray;
+			    	}
+			    }
+
+				&:before {
+					bottom: 100%;
+					left: 50%;
+					border: solid transparent;
+					content: " ";
+					height: 0;
+					width: 0;
+					position: absolute;
+					pointer-events: none;
+					border-bottom-color: gray;
+					border-width: 10px;
+					margin-left: -10px;
+				}
+			}
+		}
 	}
 }
+
+

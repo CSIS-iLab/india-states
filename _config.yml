@@ -128,6 +128,7 @@ date_format: "%B %-d, %Y"
 post_meta_limit: 5
 post_meta_sector_limit: 3
 google_analytics: 
+twitter_username: IndiaStatesCSIS
 algolia:
   application_id: 7UNKAH6RMH
   index_name: india_states
@@ -140,7 +141,6 @@ algolia:
   - search.md
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 markdown: kramdown
-# theme: minima
 gems:
 - jekyll-feed
 - jekyll-seo-tag
@@ -154,6 +154,5 @@ post_archive_posts_per_page: 2
 tag_page_layout: tag-archive
 tag_page_dir: tag
 tag_permalink_style: pretty
-
 exclude: [vendor]
 
