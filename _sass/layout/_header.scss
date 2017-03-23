@@ -122,6 +122,10 @@ header.site-header {
 							color: $color__header-ss-nav-font;
 						}
 					}
+
+					&.active {
+						@include box-shadow(0px, -2px, 0px, 0px, $white, true);
+					}
 				}
 			}
 
