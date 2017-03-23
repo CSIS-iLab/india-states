@@ -2,6 +2,7 @@
 title: About
 permalink: "/about/"
 layout: page
+excerpt: "Learn more about the 'Engaging Indian States' project."
 ---
 
 <h1 class="main-title">Main Title</h1>

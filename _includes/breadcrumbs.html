@@ -1,0 +1,18 @@
+<ul class="header-breadcrumbsList">
+	<li><a href="{{ "/" | relative_url }}">Home</a></li>
+	{% if page.breadcrumbs.size > 0 %}
+		{% for breadcrumb in page.breadcrumbs %}
+			{% assign breadcrumbInfo = site.data.breadcrumbs[breadcrumb] %}
+			<li><a href="{{ breadcrumbInfo.href | relative_url }}">{{ breadcrumbInfo.title }}</a></li>
+		{% endfor %}
+	{% endif %}
+	{% if page.is_analysis %}
+		<li><a href="{{ site.data.breadcrumbs.analysis.href | relative_url }}">{{ site.data.breadcrumbs.analysis.title }}</a></li>
+	{% endif %}
+	{% if page.is_state_archive %}
+		<li><a href="{{ page.state | slugify | prepend: '/states/' | relative_url }}">{{ page.state }}</a></li>
+		<li>Archive: {{ page.breadcrumbText | default: page.sector }}</li>
+	{% else %}
+		<li {% if page.layout == "post" %}class="isPost"{% endif %}>{{ page.title }}</li>
+	{% endif %}
+</ul>

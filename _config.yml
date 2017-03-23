@@ -37,6 +37,7 @@ defaults:
   values:
     layout: post
     content_type: Post
+    permalink: /:title/
     states: 
     sectors: 
     subsectors: 
@@ -72,6 +73,7 @@ defaults:
     rajya_seats: 
     lok_seats: 
     gdp: 
+    breadcrumbs: states
 - scope:
     path: ''
     type: sectors
@@ -79,6 +81,7 @@ defaults:
     layout: sector
     content_type: Sector
     feature_image: 
+    breadcrumbs: sectors
 - scope:
     path: ''
     type: subsectors
@@ -103,6 +106,7 @@ defaults:
     sources:
       name: 
       url: 
+    breadcrumbs: goals
 - scope:
     path: ''
     type: resources
@@ -116,16 +120,15 @@ defaults:
     position: 
     image: 
 permalink: pretty
-email: jschrag@csis.org
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+email: 
+description: Engaging Indian States is a comprehensive tool for businesses, researchers, policymakers, & journalists who seek to engage with India’s state governments.
 baseurl: 
 url: 
 date_format: "%B %-d, %Y"
 post_meta_limit: 5
 post_meta_sector_limit: 3
 google_analytics: 
+twitter_username: IndiaStatesCSIS
 algolia:
   application_id: 7UNKAH6RMH
   index_name: india_states
@@ -142,6 +145,7 @@ gems:
 - jekyll-feed
 - jekyll-seo-tag
 - algoliasearch-jekyll
+- jekyll-sitemap
 exclude:
 - vendor
 sector_overview_post_limit: 2
@@ -149,3 +153,4 @@ post_archive_posts_per_page: 2
 tag_page_layout: tag-archive
 tag_page_dir: tag
 tag_permalink_style: pretty
+exclude: [vendor]
