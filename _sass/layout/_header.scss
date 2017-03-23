@@ -47,6 +47,8 @@ header.site-header {
 
 	}
 
+	/*----------  Navigation  ----------*/
+	
 	.header-navContainer {
 		@include breakpoint("large") {
 			align-self: flex-end;
@@ -55,9 +57,13 @@ header.site-header {
 
 		.header-nav {
 			font-family: $font__MuseoSans;
-			@include fontSize(15px);
+			@include fontSize(18px);
 			color: $color__header-nav-font;
 			text-transform: uppercase;
+
+			@include breakpoint("large") {
+				@include fontSize(15px);
+			}
 
 			// Mobile Menu
 			.menu-icon {
@@ -74,13 +80,60 @@ header.site-header {
 				}
 			}
 
+			#toggleMenu { display: none;}
+
+			#toggleMenu:checked ~ .header-navListContainer {
+			  transition: right 300ms ease-in-out;
+			  right: 0;
+			  z-index: 50;
+			  overflow-y: scroll;
+			}
+
+			// Overlay
+			.header-navigationSiteOverlay {
+				@include breakpoint("large") {
+					display: none;
+				}
+			}
+
+			#toggleMenu:checked ~ .header-navigationSiteOverlay {
+			  background-color: transparentize($black, 0.2);
+			  width: 100%;
+			  height: 100vh;
+			  position: absolute;
+			  left: 0;
+			  top: 57px;
+
+				@include breakpoint("medium") {
+			  		top: 100px;
+			  	}
+			}
+
 			// Menu List Container
 			.header-navListContainer {
-				display: none;
+				position: absolute;
+				top: 57px;
+				right: -50%;
+				background-color: $base-blue;
+				width: 50%;
+				width: 50vw;
+				height: 100vh;
+				transition: right 300ms ease-in-out;
+
+				@include breakpoint("medium") {
+					top: 100px;
+				}
 
 				// Show on Desktops and larger
 				@include breakpoint("large") {
 					display: block;
+					position: relative;
+					background-color: transparent;
+					width: inherit;
+				    height: inherit;
+				    top: inherit;
+				    right: inherit;
+				    transition: none;
 				}	
 			}
 
@@ -91,12 +144,20 @@ header.site-header {
 				margin: 0;
 
 				li {
-					text-align:center;
+					text-align:left;
 					position: relative;
+
+					@include breakpoint("large") {
+						text-align: center;
+
+						&.active {
+							@include box-shadow(0px, -2px, 0px, 0px, $white, true);
+						}
+					}
 
 					a {
 						display:block;
-						padding: 8px 10px;
+						padding: 1rem;
 						color: $color__header-nav-font;
 
 						@include breakpoint("large") {
@@ -105,7 +166,9 @@ header.site-header {
 
 						&:hover {
 							color: $white;
-							@include box-shadow(0px, -2px, 0px, 0px, $white, true);
+							@include breakpoint("large") {
+								@include box-shadow(0px, -2px, 0px, 0px, $white, true);
+							}
 						}
 					}
 
@@ -124,24 +187,27 @@ header.site-header {
 						}
 					}
 
-					&.active {
-						@include box-shadow(0px, -2px, 0px, 0px, $white, true);
-					}
 
 					// Dropdown
 					ul {
 						display: none;
-						position: absolute;
+						position: relative;
+						z-index: 100;
 						top: 100%;
 						left: 0;
 						background-color: $light-gray;
-						width: 300px;
+						width: 100%;
 						margin-top: 0px;
 					    list-style-type: none;
-					    height: 20vh;
-				    	overflow-y: scroll;
 				    	@include fontSize(16px);
 				    	font-family: $font__MuseoSans;
+
+				    	@include breakpoint("large") {
+				    		position: absolute;
+				    		width: 300px;
+				    		height: 20vh;
+				    		overflow-y: scroll;
+				    	}
 
 					    &::-webkit-scrollbar {
 					        -webkit-appearance: none;
@@ -158,6 +224,12 @@ header.site-header {
 					    	margin-right: 0;
 					    	text-transform: none;
 					    	@include fontSize(16px);
+
+					    	@include breakpoint("large") {
+					    		&.dropdown-viewAll {
+					    			display: none;
+					    		}
+					    	}
 					    }
 
 						& > li > a {
@@ -178,8 +250,10 @@ header.site-header {
 						}
 					}
 
-					&:hover > ul {
-						display: block;
+					@include breakpoint("large") {
+						&:hover > ul {
+							display: block;
+						}
 					}
 				}
 			}
@@ -315,4 +389,3 @@ header.site-header {
 		margin: 0 0 1rem 0;
 	}
 }
-
