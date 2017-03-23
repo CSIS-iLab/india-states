@@ -37,7 +37,7 @@ defaults:
   values:
     layout: post
     content_type: Post
-    permalink: /articles/:title/
+    permalink: /:title/
     states: 
     sectors: 
     subsectors: 
