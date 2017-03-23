@@ -73,6 +73,7 @@ defaults:
     rajya_seats: 
     lok_seats: 
     gdp: 
+    breadcrumbs: states
 - scope:
     path: ''
     type: sectors
@@ -80,6 +81,7 @@ defaults:
     layout: sector
     content_type: Sector
     feature_image: 
+    breadcrumbs: sectors
 - scope:
     path: ''
     type: subsectors
@@ -104,6 +106,7 @@ defaults:
     sources:
       name: 
       url: 
+    breadcrumbs: goals
 - scope:
     path: ''
     type: resources

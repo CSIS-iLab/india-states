@@ -41,7 +41,9 @@
   <div class="header-breadcrumbsContainer {% if page.extendedBreadcrumbs %}useExtended{% else %}notExtended{% endif %}">
     <div class="content-wrapper">
       <div class="row flex-center__y">
-        <nav class="header-breadcrumbs col-xs-10">Breadcrumbs</nav>
+        <nav class="header-breadcrumbs col-xs-10">
+          {% include breadcrumbs.html %}
+        </nav>
         <div class="header-breadcrumbsSearch col-xs-2">
           <img src="{{ "/assets/img/search.svg" | relative_url }}" alt="Search" title="Search" class="search-icon" />
         </div>

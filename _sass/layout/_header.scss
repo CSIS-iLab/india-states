@@ -193,7 +193,34 @@ header.site-header {
 	}
 
 	// Breadcrumbs
-	.header-breadcrumbs {}
+	.header-breadcrumbs {
+		ul.header-breadcrumbsList {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+
+			li {
+				display: inline-block;
+				margin-right: 0.25rem;
+
+				&:not(:last-child)::after {
+					content: " / ";
+					padding-left: 0.25rem;
+				}
+
+				&.isPost {
+					text-transform: none;
+				}
+
+				a:hover {
+					color: $white;
+					@include box-shadow(0px, -2px, 0px, 0px, $white, true);
+				}
+			}
+
+
+		}
+	}
 
 	// Search Icon
 	.header-breadcrumbsSearch {

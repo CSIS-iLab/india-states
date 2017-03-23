@@ -1,0 +1,12 @@
+states:
+  title: "States"
+  href: "/states/"
+sectors:
+  title: "Sectors"
+  href: "/sectors/"
+goals:
+  title: "National Goals"
+  href: "/national-goals/"
+analysis:
+  title: "Analysis"
+  href: "/analysis/"
