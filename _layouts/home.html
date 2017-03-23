@@ -23,11 +23,7 @@
             <div class="home-dropdownContainer">
               <button id="state-dropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Select a state <span>&#9662;</span></button>
               <ul class="home-dropdownMenu" data-dropdown="state-dropdown" aria-labeledby="state-dropdown">
-                {% for state in site.states %}
-                  <li>
-                    <a href='{{ state.id | relative_url }}'>{{ state.title }}</a>
-                  </li>
-                {% endfor %}
+                {% include states-list.html %}
               </ul>
             </div>
             <a href="/states" class="home-viewAllLink"><button class="btn-orange">View All</button></a>
@@ -43,19 +39,7 @@
             <div class="home-dropdownContainer">
               <button id="sector-dropdown" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Select a sector <span>&#9662;</span></button>
               <ul class="home-dropdownMenu" data-dropdown="sector-dropdown" aria-labeledby="sector-dropdown">
-                {% for sector in site.sectors %}
-                <li>
-                  <a href='{{ sector.id | relative_url }}'>{{ sector.title }}</a>
-
-                  <!-- START: List Subsectors -->
-                  {% for subsector in site.subsectors %}
-                    {% if subsector.sector == sector.title %}
-                      <li class="home-dropdownSubsector"><a href='{{ sector.id | relative_url }}#{{ subsector.title | slugify }}'>{{ subsector.title }}</a></li>
-                    {% endif %}
-                  {% endfor %}
-
-                </li>
-              {% endfor %}
+                {% include sectors-list.html %}
             </div>
             <a href="/sectors" class="home-viewAllLink"><button class="btn-orange">View All</button></a>
           </div>

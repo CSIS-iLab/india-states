@@ -92,6 +92,7 @@ header.site-header {
 
 				li {
 					text-align:center;
+					position: relative;
 
 					a {
 						display:block;
@@ -125,6 +126,60 @@ header.site-header {
 
 					&.active {
 						@include box-shadow(0px, -2px, 0px, 0px, $white, true);
+					}
+
+					// Dropdown
+					ul {
+						display: none;
+						position: absolute;
+						top: 100%;
+						left: 0;
+						background-color: $light-gray;
+						width: 300px;
+						margin-top: 0px;
+					    list-style-type: none;
+					    height: 20vh;
+				    	overflow-y: scroll;
+				    	@include fontSize(16px);
+				    	font-family: $font__MuseoSans;
+
+					    &::-webkit-scrollbar {
+					        -webkit-appearance: none;
+					        width: 7px;
+					    }
+					    &::-webkit-scrollbar-thumb {
+					        background-color: $medium-gray;
+					        -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+					    }
+
+					    li {
+					    	display: block;
+					    	text-align: left;
+					    	margin-right: 0;
+					    	text-transform: none;
+					    	@include fontSize(16px);
+					    }
+
+						& > li > a {
+						    padding: 8px 20px;
+						    box-shadow: none;
+						    display: block;
+						    color: $gray !important;
+						}
+
+						& > li.home-dropdownSubsector > a {
+							padding-left: 40px;
+						}
+
+						& > li:hover > a,
+						& > li.selected > a {
+						    color: $base-orange !important;
+						    @include box-shadow(3px,0px,0px,0, $base-orange, true);
+						}
+					}
+
+					&:hover > ul {
+						display: block;
 					}
 				}
 			}

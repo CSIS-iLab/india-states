@@ -2,9 +2,13 @@ main:
   - title: "States"
     href: "/states/"
     class: "ss-nav"
+    dropdown: true
+    dropdownContent: states-list.html
   - title: "Sectors"
     href: "/sectors/"
     class: "ss-nav"
+    dropdown: true
+    dropdownContent: sectors-list.html
   - title: "Analysis"
     href: "/analysis/"
   - title: "Resources"

@@ -1,0 +1,5 @@
+{% for state in site.states %}
+  <li>
+    <a href='{{ state.id | relative_url }}'>{{ state.title }}</a>
+  </li>
+{% endfor %}
