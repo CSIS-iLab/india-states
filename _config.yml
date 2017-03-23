@@ -5,6 +5,10 @@ collections:
   authors:
     title: Authors
     output: false
+  national-goals:
+    title: National Goals
+    output: true
+    path: "/:path/:title/"
   posts:
     title: Posts
     output: true
@@ -22,10 +26,6 @@ collections:
   subsectors:
     title: Subsectors
     output: false
-    path: "/:path/:title/"
-  national-goals:
-    title: National Goals
-    output: true
     path: "/:path/:title/"
   uploads:
     title: Uploads
@@ -58,10 +58,10 @@ defaults:
     content_type: State
     feature_images:
       primary:
-        image:
-        credit:
+        image: 
+        credit: 
       secondary:
-        image:
+        image: 
         credit: 
     size: 
     population:
@@ -96,9 +96,9 @@ defaults:
     end_date: 
     sectors: 
     subsectors: 
-    data_name:
-    data_label:
-    state_text: reaches 
+    data_name: 
+    data_label: 
+    state_text: reaches
     last_updated_at: 
     sources:
       name: 
@@ -138,19 +138,14 @@ algolia:
   - search.md
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 markdown: kramdown
-# theme: minima
 gems:
 - jekyll-feed
 - jekyll-seo-tag
 - algoliasearch-jekyll
 exclude:
-- Gemfile
-- Gemfile.lock
+- vendor
 sector_overview_post_limit: 2
 post_archive_posts_per_page: 2
 tag_page_layout: tag-archive
 tag_page_dir: tag
 tag_permalink_style: pretty
-
-exclude: [vendor]
-
