@@ -1,6 +1,9 @@
 ---
 title: Sources and Details Test
 date: 2017-01-25 00:00:00 Z
+tags:
+- tag2
+- tag3
 states:
 - Andhra Pradesh
 sectors:
@@ -29,6 +32,7 @@ tags:
 - tag5
 - tag6
 - tag7
+author: Jacque Schrag
 ---
 
 _Politics, capitalism, and energy poverty are combining in strange ways across India. The result looks like progress—sometimes._

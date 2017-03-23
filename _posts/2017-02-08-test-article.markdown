@@ -1,6 +1,10 @@
 ---
 title: Test Article
 date: 2017-02-08 21:47:00 Z
+tags:
+- tag1
+- tag2
+- tag3
 states:
 - Andhra Pradesh
 - Assam
