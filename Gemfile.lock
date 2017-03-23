@@ -227,6 +227,7 @@ DEPENDENCIES
   jekyll
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
+  jekyll-sitemap
   jekyll-tagging!
   json
   tzinfo-data

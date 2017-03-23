@@ -143,6 +143,7 @@ gems:
 - jekyll-feed
 - jekyll-seo-tag
 - algoliasearch-jekyll
+- jekyll-sitemap
 exclude:
 - Gemfile
 - Gemfile.lock
