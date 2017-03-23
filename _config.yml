@@ -37,6 +37,7 @@ defaults:
   values:
     layout: post
     content_type: Post
+    permalink: /articles/:title/
     states: 
     sectors: 
     subsectors: 
@@ -116,10 +117,8 @@ defaults:
     position: 
     image: 
 permalink: pretty
-email: jschrag@csis.org
-description: Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+email: 
+description: Engaging Indian States is a comprehensive tool for businesses, researchers, policymakers, & journalists who seek to engage with India’s state governments.
 baseurl: 
 url: 
 date_format: "%B %-d, %Y"

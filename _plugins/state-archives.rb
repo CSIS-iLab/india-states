@@ -19,9 +19,16 @@ module Jekyll
 
       self.process(@name)
       self.read_yaml(File.join(base, '_layouts'), @layout+'.html')
-      self.data['title'] = filename
       self.data['state'] = state
       self.data['sector'] = sector
+
+      if sector == 'archive'
+        self.data['title'] = state + " Archive"
+        self.data['excerpt'] = 'All articles about activities in ' + state + "."
+      else
+        self.data['title'] = state + " " + sector + " Archive"
+        self.data['excerpt'] = 'Articles related to activities in the ' + sector + ' sector in ' + state + "."
+      end
 
     end
   end
