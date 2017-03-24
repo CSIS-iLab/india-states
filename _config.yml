@@ -142,13 +142,13 @@ algolia:
   - search.md
   settings:
     attributesToIndex:
-      - title
-      - unordered(text)
-      - unordered(tags)
-      - unordered(sectors)
-      - unordered(subsectors)
-      - unordered(states)
-      - unordered(content_type)
+    - title
+    - unordered(text)
+    - unordered(tags)
+    - unordered(sectors)
+    - unordered(subsectors)
+    - unordered(states)
+    - unordered(content_type)
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 markdown: kramdown
 gems:
