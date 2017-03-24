@@ -29,9 +29,9 @@ gem "jekyll"
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem 'jekyll-seo-tag'
-   gem 'algoliasearch-jekyll', '~> 0.8.0'
-   gem 'jekyll-tagging', :git => 'https://github.com/pattex/jekyll-tagging.git'
    gem 'jekyll-sitemap'
+   gem 'jekyll-indiasearch', '0.1.0', :path => '/Users/jschrag/Documents/Projects/India States/jekyll-indiasearch'
+   gem 'algoliasearch-jekyll', '~> 0.8.0'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

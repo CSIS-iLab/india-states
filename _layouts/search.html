@@ -2,50 +2,76 @@
 layout: default
 ---
 
-<article class="post">
+<section class="search-container">
+	<div class="row">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
+		<!-- Sidebar -->
+		<div class="search-options col-xs-12 col-md-3">
+			<div id="states" class="facet"></div>
+			<div id="sectors" class="facet"></div>
+			<div id="content_type" class="facet"></div>
+			<div id="tags" class="facet"></div>
+		</div>
 
-  <div class="post-content">
-  	{{ content }}
-  	<div class="algolia__initial-content"></div>
-  </div>
+		<!-- Search Results -->
+		<div class="col-xs-12 col-md-9">
+			<div class="content-wrapper fullWidthContent">
+				<header class="search-header">
+					<div id="search-input"></div>
+					<div id="search-input-icon"></div>
+				</header>
 
-</article>
+				<section class="search-results">
+					<div id="sort-by-wrapper"><span id="sort-by"></span></div>
+					<div id="stats"></div>
+					<div id="hits"></div>
+					<div id="pagination"></div>
+				</section>
+			</div>
+		</div>
+	</div>
+</section>
 
-<script type="text/javascript">
-$(document).ready(function() {
-	// Get Search Query
-	var hash = window.location.hash.replace("#", "");
-	
-	// If we have a search query, search
-	if(hash) {
-
-		// Search Request
-		var client = algoliasearch("{{ site.algolia.application_id }}", "{{ site.algolia_search_api }}");
-	  	var index = client.initIndex("{{ site.algolia.index_name }}");
-
-		index.search(hash, {
-		  attributesToRetrieve: ['firstname', 'lastname'],
-		  hitsPerPage: 50
-		}, function searchDone(err, content) {
-		  if (err) {
-		    console.error(err);
-		    return;
-		  }
-
-		  for (var h in content.hits) {
-		    console.log(content.hits[h]);
-
-		    $(".algolia__initial-content").append('{% include search-result.html title="'+content.hits[h]._highlightResult.title.value+'" content_type="'+content.hits[h]._highlightResult.content_type.value+'" text="'+content.hits[h]._highlightResult.text.value+'" %}');
-		  }
-		});
-
-		// Update Header Title
-		$(".post-title").text("{{ page.title | escape }} Results for: "+hash);
-	}
-
-});
+<!-- TEMPLATES -->
+<script type="text/html" id="hit-template">
+	<div class="hit">
+		<div class="hit-content">
+			<h3 class="hit-type">
+				{% raw %}
+				{{{content_type}}}
+				{% endraw %}
+			</h3>
+			<h2 class="articleTitle hit-name">
+				<a href="{% raw %}{{{url}}}{% endraw %}">
+					{% raw %}
+					{{{_highlightResult.title.value}}}
+					{% endraw %}
+				</a>
+			</h2>
+			{% raw %}{{{ formattedDate }}}{% endraw %}
+			<p class="hit-excerpt">
+				{% raw %}
+				{{{excerpt}}}
+				{% endraw %}
+			</p>
+		</div>
+	</div>
 </script>
+
+<script type="text/html" id="no-results-template">
+	<div id="no-results-message">
+		<p>We didn't find any results for the search <em>"{{query}}"</em>.</p>
+		<a href="." class='clear-all'>Clear search</a>
+	</div>
+</script>
+<!-- /TEMPLATES -->
+
+<!-- SCRIPTS -->
+<link rel="stylesheet" href="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.css">
+<!-- IE < 10 support -->
+<!--[if lte IE 9]>
+<script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
+<![endif]-->
+<script src="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
+<script src="{{ "/assets/js/searchpage.js" | prepend: site.github.url }}"></script>
+<!-- /SCRIPTS -->

@@ -25,7 +25,7 @@ $(function() {
 				});
 
 				$(".subsector-link").removeClass("active");
-				$(".subsector-link[data-show-subsector='"+subsector+"'").first().addClass("active");
+				$(".subsector-link[data-show-subsector='"+subsector+"']").first().addClass("active");
 
             }
             $(".sort-attribute").removeClass("active");
@@ -33,7 +33,7 @@ $(function() {
         }
         else {
         	// Set "All" button to active
-        	$(".subsector-link[data-show-subsector='all'").addClass("active");
+        	$(".subsector-link[data-show-subsector='all']").addClass("active");
         }
 
         // Set Date Desc as active by default if nothing else specified

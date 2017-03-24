@@ -13,6 +13,6 @@
 		<li><a href="{{ page.state | slugify | prepend: '/states/' | relative_url }}">{{ page.state }}</a></li>
 		<li>Archive: {{ page.breadcrumbText | default: page.sector }}</li>
 	{% else %}
-		<li {% if page.layout == "post" %}class="isPost"{% endif %}>{{ page.title }}</li>
+		<li {% if page.layout == "post" or page.layout == "national-goals" %}class="isPost"{% endif %}>{{ page.title }}</li>
 	{% endif %}
 </ul>

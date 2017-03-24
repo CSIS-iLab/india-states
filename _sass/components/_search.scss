@@ -141,7 +141,6 @@
     }
 
     .aa-suggestion {
-      padding: 24px 12px;
       border-bottom: 1px solid $light-gray;
       cursor: pointer;
       -webkit-transition: .2s;
@@ -155,6 +154,19 @@
       -webkit-box-align: center;
           -ms-flex-align: center;
               align-items: center;
+      clear: right;
+
+      a {
+        padding: 24px 12px;
+        display: block;
+        width: 100%;
+        text-align: left;
+        box-shadow: none;
+
+        &:hover {
+          color: $base-orange;
+        }
+      }
 
       &:hover, &.is-cursor {
       }
@@ -178,6 +190,7 @@
       .search-contentType {
         font-family: $font__MuseoSans;
         color: $light-gray;
+        float: right;
       }
 
     }
@@ -328,6 +341,9 @@
   .hit-content .hit-type, .hit-content .hit-name {
     font-weight: normal;
     margin-top: 0;
+  }
+  .hit-content .hit-name a:hover {
+    color: $base-orange;
   }
   .hit-content em {
     font-style: normal;

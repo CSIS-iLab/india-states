@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+<section class="goals-landingContainer content-wrapper fullWidthContent">
+
+{% for goal in site.national-goals %}
+	<article class="goals-goalContainer">
+		<div class="row">
+			<div class="goal-summary col-xs-12 col-md-9">
+				<h2 class="sectionSubtitle"><a href="{{ goal.url | relative_url }}">{{ goal.title | escape }}</a></h2>
+				{{ goal.excerpt }}
+			</div>
+			<div class="col-xs-12 col-md-3">
+				<div class="goalInfo-container">
+	            <ul class="goalInfo-infoList">
+	              <li class="hasBorder">
+	                <span class="category">Start Date</span><br />
+	                    {{ goal.start_date | date:site.date_format }}
+	              </li>
+	              <li class="hasBorder">
+	                <span class="category">End</span><br />
+	                    {{ goal.end_date | date:site.date_format }}
+	              </li>
+	              <li class="hasBorder">
+	                <span class="category">Sectors</span><br />
+	                {% for sector in goal.sectors %}
+	                  <a href='{{ sector | slugify | prepend: "/sectors/" | relative_url }}' class="sector">{{ sector }}</a>
+	                  <!-- Subsectors for {{ sector }} -->
+	                  {% assign sectorSubsectors = site.subsectors | where:"sector", sector %}
+
+	                  {% capture goalSectorSubsectors %}
+	                  {% for subsector in sectorSubsectors %}
+	                    {% if subsector.sector == sector and goal.subsectors contains subsector.title %}<a href='{{ sector | slugify | prepend: "/sectors/" | relative_url }}#{{ subsector.title | slugify }}' class="sectorSection-subsectorsListSubsector">{{ subsector.title }}</a>,{% endif %}
+	                  {% endfor %}
+	                  {% endcapture %}
+
+	                  {% assign subsectors = goalSectorSubsectors | split: "," %}
+	                  {% if subsectors.size > 1 %}
+	                    {{ subsectors | pop | join: "," | prepend: "&gt;" }}
+	                  {% endif %}
+	                    <br />
+	                {% endfor %}
+	              </li>
+	              <li>
+	                <span class="category">Last Updated</span><br />
+	                    {{ goal.last_updated_at | date:site.date_format }}
+	              </li>
+	            </ul>
+	          </div>
+			</div>
+		</div>
+	</article>
+{% endfor %}
+</section>

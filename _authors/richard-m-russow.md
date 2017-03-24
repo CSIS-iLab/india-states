@@ -1,6 +1,6 @@
 ---
 title: Richard M. Rossow
-position: Senior Adviser and Wadhwani Chair in U.S.-India Policy Studies
+position: 0
 image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_portrait/public/contributor/5Rossow.jpg?itok=IT3354te
 ---
 

@@ -2,8 +2,13 @@
 title: Sources and Details Test
 date: 2017-01-25 00:00:00 Z
 tags:
+- tag1
 - tag2
 - tag3
+- tag4
+- tag5
+- tag6
+- tag7
 states:
 - Andhra Pradesh
 sectors:
@@ -19,20 +24,9 @@ details:
 - name: Yahoo
   url: http://yahoo.com
 is_analysis: true
-author: 
-- Jacque Schrag
-- Richard M. Rossow
-feature_image: /uploads/jacque-headshot-small.jpg
-feature_image_credit: This is Jacque's headshot.
-tags:
-- tag1
-- tag2
-- tag3
-- tag4
-- tag5
-- tag6
-- tag7
 author: Jacque Schrag
+feature_image: "/uploads/jacque-headshot-small.jpg"
+feature_image_credit: This is Jacque's headshot.
 ---
 
 _Politics, capitalism, and energy poverty are combining in strange ways across India. The result looks like progress—sometimes._
