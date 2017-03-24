@@ -147,7 +147,6 @@ gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 - algoliasearch-jekyll
-exclude:
-- vendor
+exclude: [vendor]
 sector_overview_post_limit: 2
 post_archive_posts_per_page: 2
