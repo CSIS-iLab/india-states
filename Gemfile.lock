@@ -1,5 +1,6 @@
-PATH
-  remote: /Users/jschrag/Documents/Projects/India States/jekyll-indiasearch
+GIT
+  remote: https://github.com/CSIS-iLab/jekyll-indiasearch.git
+  revision: 55ad9a739efb3fed9c34e1649087e24a65012fa0
   specs:
     jekyll-indiasearch (0.1.0)
       algoliasearch
