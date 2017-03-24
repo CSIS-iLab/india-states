@@ -1,3 +1,9 @@
+PATH
+  remote: /Users/jschrag/Documents/Projects/India States/jekyll-indiasearch
+  specs:
+    jekyll-indiasearch (0.1.0)
+      algoliasearch
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -218,6 +224,7 @@ DEPENDENCIES
   github-pages (= 129)
   jekyll
   jekyll-feed (~> 0.6)
+  jekyll-indiasearch (= 0.1.0)!
   jekyll-seo-tag
   jekyll-sitemap
   json
