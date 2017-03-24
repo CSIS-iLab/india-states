@@ -1,10 +1,3 @@
-GIT
-  remote: https://github.com/pattex/jekyll-tagging.git
-  revision: 76fbc51bc644c660144ed9f6a1b0a854b23ee0f8
-  specs:
-    jekyll-tagging (1.1.0)
-      nuggets
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -191,7 +184,6 @@ GEM
     net-dns (0.8.0)
     nokogiri (1.6.8.1)
       mini_portile2 (~> 2.1.0)
-    nuggets (1.5.0)
     octokit (4.6.2)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.14.0)
@@ -228,7 +220,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-tagging!
   json
   tzinfo-data
 

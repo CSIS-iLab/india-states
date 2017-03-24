@@ -30,7 +30,6 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem 'jekyll-seo-tag'
    gem 'algoliasearch-jekyll', '~> 0.8.0'
-   gem 'jekyll-tagging', :git => 'https://github.com/pattex/jekyll-tagging.git'
    gem 'jekyll-sitemap'
 end
 
