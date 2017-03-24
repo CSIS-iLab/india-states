@@ -1,4 +1,4 @@
-<h4>You May Also Enjoy</h4> 
+<h4 class="sectionSubtitle">Related Posts</h4>
 
 {% assign maxRelated = 4 %}
 {% assign minCommonTags =  2 %}
@@ -7,22 +7,22 @@
 {% for post in site.posts %}
 
   {% assign sameTagCount = 0 %}
-  {% assign commonTags = '' %}
 
   {% for tag in post.tags %}
     {% if post.url != page.url %}
       {% if page.tags contains tag %}
         {% assign sameTagCount = sameTagCount | plus: 1 %}
-        {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-        {% assign commonTags = commonTags | append: tagmarkup %}
       {% endif %}
     {% endif %}
   {% endfor %}
 
   {% if sameTagCount >= minCommonTags %}
-    <div>
-    <h5><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}{{ commonTags }}</a></h5>
-    </div>
+    <article>
+      <h5 class="articleTitle">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a> 
+        <span class="articleMeta">Posted on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ page.date | date: site.date_format }}</time></span>
+    </h5>
+    </article>
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= maxRelated %}
       {% break %}

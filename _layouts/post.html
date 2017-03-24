@@ -54,10 +54,11 @@ layout: default
     {% endif %}
 
     <section class="post-articleMetaContainer row">
-      <div class="listContent col-xs-12 col-md-4">
+      <div class="listContent col-xs-12 col-md-3">
+        <h4 class="sectionSubtitle">Article Info</h4>
         {% include post-listing-metainfo.html post=page %}
       </div>
-      <div class="col-xs-12 col-md-8">
+      <div class="post-relatedPosts col-xs-12 col-md-9">
         {% include related-posts.html %}
       </div>
     </section>
