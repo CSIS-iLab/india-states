@@ -67,11 +67,17 @@ article.post-individualContainer {
 
 	.post-footer {
 		border-top: 2px solid $map-gray;
-		padding-top: 3rem;
+		padding: 3rem 0;
 
 		// Author Information
 		.post-authorInfoContainer {
 			margin-bottom: 2rem;
+
+			.post-authorInfo {
+				@include breakpoint("medium") {
+					padding-left: 2rem;
+				}
+			}
 			
 			.post-authorName {
 				margin: 0;
@@ -86,6 +92,34 @@ article.post-individualContainer {
 			.post-authorBio {
 				margin-top: 1rem;
 				margin-bottom: 0;
+			}
+		}
+
+		.post-articleMetaContainer {
+			margin-top: 3rem;
+		}
+
+		// Article Meta
+		.listContent .sectionSubtitle {
+			margin: 0 0 0.5rem 0;
+			border-bottom: 2px solid $gray;
+			font-style: normal;
+			line-height: 1.15;
+		}
+
+		// Related Posts
+		.post-relatedPosts {
+			@include breakpoint("medium") {
+				padding-left: 2rem;
+			}
+
+			.sectionSubtitle {
+				margin: 0 0 0.5rem 0;
+				border-bottom: 2px solid $gray;
+			}
+
+			.articleTitle {
+				margin-bottom: 1rem;
 			}
 		}
 	}

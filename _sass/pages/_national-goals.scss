@@ -54,14 +54,14 @@
 			text-align: right;
 		}
 
+		.subtitle {
+			margin: 1.5rem 0;
+			font-family: $font__MuseoSans;
+		}
+
 		.goal-nameContainer {
 			@include breakpoint("medium") {
 				padding-right: 3rem;
-			}
-
-			.subtitle {
-				margin: 1.5rem 0;
-				font-family: $font__MuseoSans;
 			}
 		}
 	}
@@ -75,7 +75,6 @@
 
 /*----------  Goal Meta Information  ----------*/
 .goalInfo-container {
-	margin-top: 3rem;
 
 	.sectionSubtitle {
 		border-bottom: 2px solid $dark-gray;

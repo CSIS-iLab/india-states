@@ -13,9 +13,4 @@ sources:
   url: http://google.com
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+In 2014, Prime Minister Narendra Modi set a goal of reaching 100 MW of solar power generation capacity by 2022. In order to achieve this ambitious target, state governments must increase their rate of solar capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each state a solar capacity target. The Indian States Solar Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.
