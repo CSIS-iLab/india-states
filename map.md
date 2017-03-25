@@ -6,6 +6,8 @@ layout: page
 
 Testing integrating Jekyll & D3.js to create an interactive map of India.
 
+test
+
 <!-- {% include india-base-map.html %} -->
 
 {% include map-highcharts.html %}
