@@ -33,14 +33,14 @@
 		          Source:
 		        {% endif %}
 		        {% for source in post.sources %}
-		            <a href="{{ source.url }}" target="_blank">{{ source.name }}</a>{% if forloop.last == false %},{% endif %}
+		            <a href="{{ source.url }}" target="_blank">{{ source.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
 		        {% endfor %}
 		        <br />
 		    {% endif %}
 		    {% if post.details and post.details[0] != null %}
 				In Detail: 
 				{% for detail in post.details %}
-				    <a href="{{ detail.url }}" target="_blank">{{ detail.name }}</a>{% if forloop.last == false %},{% endif %}
+				    <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
 				{% endfor %}
 			{% endif %}
 
