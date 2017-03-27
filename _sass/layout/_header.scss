@@ -195,7 +195,10 @@ header.site-header {
 								border-color: $white transparent transparent transparent;
 								margin-left: 0.5rem;
 								position: relative;
-								top: 10px;
+								top: 12px;
+								@include breakpoint("large") {
+									top: 10px;
+								}
 							}
 					}
 
