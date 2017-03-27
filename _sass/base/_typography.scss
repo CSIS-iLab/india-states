@@ -16,6 +16,7 @@ body {
   @include fontSize(62px);
   line-height: 1em;
   color: $base-blue;
+  font-weight: 600;
 }
 
 .sectionTitle {
@@ -67,8 +68,8 @@ a {
   &:active {
     text-decoration:none;
     cursor: pointer !important;
-    color: $base-blue;
-    @include box-shadow(0px, -2px, 0px, 0, darken($base-orange,10%), true);
+    color: $base-orange;
+    box-shadow: none;
   }
 
 }
@@ -78,8 +79,8 @@ a {
   color: $gray;
   @include fontSize(22px);
   font-family: $font__ExpoSerif;
-  line-height: 1.8rem;
-  margin: 0;
+  line-height: 1.8;
+  margin: 0 0 0.2rem 0;
   font-weight: 600;
 }
 

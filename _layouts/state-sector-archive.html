@@ -4,6 +4,9 @@ layout: default
 
 {% assign sector = site.sectors | where:'title',page.sector | first %}
 <section class="archive-container">
+	{% if sector.feature_image %}
+    <div class="archive-featureImage" style="background-image:url('{{sector.feature_image}}'"></div>
+  {% endif %}
 	<header class="archive-header">
 		<div class="content-wrapper fullWidthContent">
 			<!-- Share Icons -->

@@ -120,7 +120,7 @@ defaults:
     path: ''
     type: authors
   values:
-    position: 
+    job_title: 
     image: 
 permalink: pretty
 email: 

@@ -41,6 +41,11 @@
 			margin: 0.8rem auto;
 		}
 
+		span.post-readMore {
+			@include fontSize(14px);
+			font-family: $font__MuseoSans;
+		}
+
 		hr {
 			width: 15%;
 			border-style: solid;
