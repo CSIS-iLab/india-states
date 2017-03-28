@@ -6,7 +6,7 @@ require 'json'
 require 'open-uri'
 versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 
-gem 'github-pages', versions['github-pages']
+# gem 'github-pages', versions['github-pages']
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -30,7 +30,7 @@ group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
    gem 'jekyll-seo-tag'
    gem 'jekyll-sitemap'
-   gem 'jekyll-indiasearch', '0.1.0', :git => 'https://github.com/CSIS-iLab/jekyll-indiasearch.git'
+   # gem 'jekyll-indiasearch', '0.1.0', :git => 'https://github.com/CSIS-iLab/jekyll-indiasearch.git'
    gem 'algoliasearch-jekyll', '~> 0.8.0'
 end
 

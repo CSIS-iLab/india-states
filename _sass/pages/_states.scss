@@ -11,6 +11,10 @@
 		margin-top: 0.5rem;
 	}
 
+	.main-title {
+		margin-bottom: 0.5rem;
+	}
+
 	.stateInfo {
 		@include breakpoint("medium") {
 			padding-right: 5rem;
@@ -89,4 +93,12 @@
 	margin-top: 0.5rem;
 	margin-bottom: 4rem;
 	padding-left: 0.5rem;
+}
+
+// Content Wrapper
+@include breakpoint("xlarge") {
+	.stateInfoContainer .content-wrapper, .sectorsArticlesContainer .content-wrapper {
+		max-width: 75%;
+		margin: 0 auto;
+	}
 }

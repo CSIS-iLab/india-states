@@ -10,6 +10,8 @@
 	.sectionSubtitle {
 		border-bottom: 2px solid $dark-gray;
 		margin: 0;
+		font-weight: 300;
+		@include fontSize(20px);
 	}
 
 	.tableOfContents-instructions {

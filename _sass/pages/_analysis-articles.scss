@@ -20,6 +20,7 @@ article.post-individualContainer {
 
 		.main-title {
 			margin: 0;
+			@include fontSize(56px);
 		}
 
 		.sectionSubtitle {
@@ -105,6 +106,8 @@ article.post-individualContainer {
 			border-bottom: 2px solid $gray;
 			font-style: normal;
 			line-height: 1.15;
+			font-weight: 300;
+			@include fontSize(20px);
 		}
 
 		// Related Posts
@@ -116,6 +119,8 @@ article.post-individualContainer {
 			.sectionSubtitle {
 				margin: 0 0 0.5rem 0;
 				border-bottom: 2px solid $gray;
+				font-weight: 300;
+				@include fontSize(20px);
 			}
 
 			.articleTitle {
