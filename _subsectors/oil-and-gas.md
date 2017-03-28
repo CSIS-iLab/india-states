@@ -3,11 +3,4 @@ title: Oil and Gas
 sector: Energy
 ---
 
-This is the the page for the Oil and Gas subsector. Information about it will go here.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Primarily the domain of central government authorities, the expansion of India’s oil and gas sector is influenced by international trade agreements, investments in upstream and downstream infrastructure, licensing for exploration and development of oil and gas fields, subsidies to end users, and regulations on fuel efficiency. In this section we highlight states that are seeing the greatest level of activity and examine how programs like the Pradhan Mantri Ujjwala Yojana are affecting the growth of the sector.

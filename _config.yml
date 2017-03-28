@@ -2,6 +2,10 @@
 title: Engaging Indian States
 timezone: UTC
 collections:
+  analysis:
+    title: Analysis
+    output: true
+    path: "/:path/:title/"
   authors:
     title: Authors
     output: false
@@ -10,7 +14,7 @@ collections:
     output: true
     path: "/:path/:title/"
   posts:
-    title: Posts
+    title: Articles
     output: true
   resources:
     title: Resources
@@ -36,8 +40,24 @@ defaults:
     type: posts
   values:
     layout: post
-    content_type: Post
-    permalink: "/:title/"
+    content_type: Articles
+    permalink: "/articles/:title/"
+    states: 
+    sectors: 
+    subsectors:  
+    sources:
+      name: 
+      url: 
+    details:
+      name: 
+      url: 
+    is_analysis: false
+- scope:
+    path: ''
+    type: analysis
+  values:
+    layout: post
+    content_type: Analysis
     states: 
     sectors: 
     subsectors: 
