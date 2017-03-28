@@ -18,7 +18,9 @@ layout: default
     {% if page.is_analysis and page.feature_image.size > 0 %}
       <div class="post-featureImage">
         <img src="{{ page.feature_image }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
-        <span class="post-featureImageCredit"><em>Photo credit:</em> {{ page.feature_image_credit }}</span>
+        {% if page.feature_image_credit %}
+          <span class="post-featureImageCredit"><em>Photo credit:</em> {{ page.feature_image_credit }}</span>
+        {% endif %}
       </div>
     {% endif %}
     <div class="articleMeta">

@@ -41,6 +41,7 @@ defaults:
     layout: post
     content_type: Articles
     permalink: "/articles/:title/"
+    excerpt:
     states: 
     sectors: 
     subsectors:  
@@ -57,6 +58,7 @@ defaults:
   values:
     layout: post
     content_type: Analysis
+    excerpt:
     states: 
     sectors: 
     subsectors: 
