@@ -42,7 +42,7 @@ layout: default
         {% assign authorInfo = site.authors | where:"title",author | first %}
         <section class="post-authorInfoContainer row" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <div class="post-authorImage col-xs-12 col-md-3">
-            <img src="{{ authorInfo.image }}" />
+            {% if authorInfo.image %}<img src="{{ authorInfo.image }}" />{% endif %}
           </div>
           <div class="post-authorInfo col-xs-12 col-md-9">
             <h3 class="post-authorName sectionSubtitle" itemprop="name">{{ author }}</h3>
