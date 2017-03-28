@@ -1,6 +1,6 @@
 ---
 title: Jacque Schrag
-position: 0
+job_title: Web Developer
 image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_portrait/public/contributor/5Rossow.jpg?itok=IT3354te
 ---
 

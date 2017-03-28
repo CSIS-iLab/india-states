@@ -36,13 +36,14 @@ module Jekyll
     end
   end
 
-  class ArchivePageGenerator < Jekyll::Generator
+  class ArchivePageGenerator < Generator
     safe true
 
     def generate(site)
       if site.layouts.key? 'state-sector-archive'
         dir = 'states'
         # Loop through states
+        # print site.collections['states']
         site.collections['states'].docs.each do |state|
           # Loop through categories and create a new archive page for each state-sector combo
           site.collections['sectors'].docs.each do |sector|

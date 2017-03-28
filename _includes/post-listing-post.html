@@ -1,11 +1,7 @@
 <article id="{{ post.title | escape | slugify }}" class="post-articleContainer row">
 	<!-- Article Title & Content -->
 	<div class="post-articleContent col-xs-12 col-md-9">
-		{% if post.is_analysis %}	
 		<h4 class="articleTitle"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h4>
-		{% else %}
-			<h4 class="articleTitle">{{ post.title | escape }}</h4>
-		{% endif %}
 		{% if post.is_analysis %}
 			<span class="articleMeta">By <span class="articleAuthor">{{ post.author | join: ", " }}</span></span>
 			<br />
@@ -18,11 +14,12 @@
 					<a href="{{ post.url | relative_url }}"><img src="{{ post.feature_image }}" alt="{{ post.title }}" title="{{ post.title }}" /></a>
 				</div>
 				<div class="col-xs-12 col-md-9">
-					{{ post.excerpt }}
+					{% capture readMore %} <span class="post-readMore"><a href="{{ post.url | relative_url }}">Read More &gt;</a>{% endcapture %}
+					{{ post.excerpt | remove: '</p>' | append: readMore | add: '</p>' }}
 				</div>
 			</div>
 		{% else %}
-			{{ post.excerpt }}
+			{{ post.content }}
 		{% endif %}
 
 		<hr class="post-articleSourceBreak" />
@@ -36,14 +33,14 @@
 		          Source:
 		        {% endif %}
 		        {% for source in post.sources %}
-		            <a href="{{ source.url }}" target="_blank">{{ source.name }}</a>{% if forloop.last == false %},{% endif %}
+		            <a href="{{ source.url }}" target="_blank">{{ source.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
 		        {% endfor %}
 		        <br />
 		    {% endif %}
 		    {% if post.details and post.details[0] != null %}
 				In Detail: 
 				{% for detail in post.details %}
-				    <a href="{{ detail.url }}" target="_blank">{{ detail.name }}</a>{% if forloop.last == false %},{% endif %}
+				    <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
 				{% endfor %}
 			{% endif %}
 

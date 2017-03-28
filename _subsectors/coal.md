@@ -3,11 +3,4 @@ title: Coal
 sector: Energy
 ---
 
-This is the the page for the Coal subsector. Information about it will go here.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The coal sector in India has had a dramatic turnaround; from an era of mismanagement and opacity, to one of greater transparency in allocation of coal blocks and improvements in management and technologies used to mine and process raw material. These reforms have boosted domestic production to the point that India is nearly self-sufficient in coal. Despite this turnaround, however, weak power demand, the central government’s commitment to renewable energy, and political meddling in electricity tariffs continues to threaten the sector. This section examines the coal sector in terms of renewable energy expansion, commitment to super critical technologies, the commissioning of new plants in some states, and economic hurdles in other states.
