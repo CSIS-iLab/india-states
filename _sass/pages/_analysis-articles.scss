@@ -70,6 +70,34 @@ article.post-individualContainer {
 			margin: 0.5rem 0;
 			line-height: 1.6;
 		}
+
+		hr {
+			width: 15%;
+			border-style: solid;
+			border-color: $light-gray;
+			margin: 0 0 0.8rem 0;
+		}
+
+		.post-articleSourcesDetails {
+			color: $gray-text;
+			@include fontSize(14px);
+			line-height: 1.4rem;
+			font-family: $font__MuseoSans;
+			text-transform: uppercase;
+
+			a {
+				text-transform: none;
+				color: $gray;
+
+				&:hover {
+					color: $base-orange;
+				}
+
+				img {
+					max-width: 10px;
+				}
+			}
+		}
 	}
 
 	.post-footer {

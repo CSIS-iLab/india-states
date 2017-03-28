@@ -41,7 +41,6 @@ defaults:
     layout: post
     content_type: Articles
     permalink: "/articles/:title/"
-    excerpt:
     states: 
     sectors: 
     subsectors:  
@@ -52,6 +51,7 @@ defaults:
       name: 
       url: 
     is_analysis: false
+    breadcrumbs: articles
 - scope:
     path: ''
     type: analysis
@@ -72,6 +72,7 @@ defaults:
       url: 
     is_analysis: true
     author: 
+    breadcrumbs: analysis
 - scope:
     path: ''
     type: states
@@ -171,5 +172,5 @@ gems:
 include: ["_config.yml", ".travis.yml", "Gemfile"]
 exclude:
 - vendor
-sector_overview_post_limit: 2
-post_archive_posts_per_page: 2
+sector_overview_post_limit: 4
+post_archive_posts_per_page: 15
