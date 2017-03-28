@@ -206,6 +206,7 @@
 	    border-radius: 0;
 	    text-transform: none;
 	    font-weight: 500;
+	    @include fontSize(15px);
 
 	    -webkit-transition: background 200ms;
 	    -moz-transition: background 200ms;
@@ -222,7 +223,7 @@
 	    display: block;
 	    background-color: $medium-gray;
 	    padding: 10px 12px;
-	    @include fontSize(22px);
+	    @include fontSize(15px);
 	}
 
 	.home-dropdownContainer button:hover span,

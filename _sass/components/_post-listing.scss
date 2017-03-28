@@ -14,7 +14,9 @@
 	padding-top: 1rem;
 
 	.post-articleContent {
-		padding-right: 3rem;
+		@include breakpoint("large") {
+			padding-right: 3rem;
+		}
 
 		.analysis {
 			margin: 0.8em auto;

@@ -240,11 +240,13 @@ header.site-header {
 					    	text-transform: none;
 					    	@include fontSize(16px);
 
-					    	@include breakpoint("large") {
-					    		&.dropdown-viewAll {
-					    			display: none;
-					    		}
-					    	}
+					    	&.dropdown-viewAll {
+				    			font-style: italic;
+
+				    			@include breakpoint("large") {
+				    				display: none;
+				    			}
+				    		}
 					    }
 
 						& > li > a {
@@ -323,7 +325,7 @@ header.site-header {
 .header-breadcrumbsContainer {
 	background-color: $color__header-breadcrumbs;
 	color: $color__header-breadcrumbs-font;
-	height: 25px;
+	height: 35px;
 	font-family: $font__MuseoSans;
 	text-transform: uppercase;
 	@include fontSize(15px);
@@ -334,10 +336,6 @@ header.site-header {
 
 	&.notExtended {
 		@include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
-	}
-
-	@include breakpoint("medium") {
-		height: 30px;
 	}
 
 	// Breadcrumbs
@@ -390,8 +388,10 @@ header.site-header {
 	z-index: 50;
 	position: relative;
 
-	.content-wrapper {
-		margin-left: 25%;
+	@include breakpoint("medium") {
+		.content-wrapper {
+			margin-left: 25%;
+		}
 	}
 
 	.main-title {

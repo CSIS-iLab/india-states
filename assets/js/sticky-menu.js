@@ -7,8 +7,6 @@ $(function() {
 		var stopFollowPos = $(".isSticky").parent(".tableOfContents").height();
 		var stickyWidth = $(".isSticky").width();
 
-		console.log("stopFollowPos: "+stopFollowPos);
-
 		$.fn.followTo = function ( pos ) {
 		    var $this = this,
 		        $window = $(windw);
@@ -38,5 +36,13 @@ $(function() {
 		};
 
 		$('.isSticky').followTo(followToPos);
+
+		// Increase body padding if we have a fixedMenu
+		// if($('.tableOfContents.fixedMobile').length) {
+		// 	var tocHeight = $('.tableOfContents.fixedMobile').outerHeight();
+		// 	var newPadding = tocHeight + headerHeight;
+		// 	$("body").css("padding-top",newPadding+"px");
+		// 	$(".tableOfContents.fixedMobile").css("top",headerHeight+"px");
+		// }
 	}
 });

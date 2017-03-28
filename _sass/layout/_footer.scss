@@ -121,9 +121,17 @@ footer.site-footer {
         @include fontSize(14px);
         padding-top: 0.5rem;
 
+        div {
+          margin-top: 0.5rem;
+        }
+
         @include breakpoint("medium") {
           padding-top: 0rem;
           text-align: right;
+
+          div {
+            margin-top: 0;
+          }
         }
       }
     }
