@@ -1,16 +1,16 @@
 ---
-title: "Delhi government introduces new solar policy, incentives for residential producers"
-date: 2016-06-15
+title: Delhi government introduces new solar policy, incentives for residential producers
+date: 2016-06-15 00:00:00 Z
+tags:
+- Solar Policy
+- VAT
+- Net Metering
 states:
 - Delhi
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Solar Policy
-- VAT
-- Net Metering
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/government-announces-policy-to-make-delhi-solar-city/articleshow/52625910.cms

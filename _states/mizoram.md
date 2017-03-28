@@ -1,12 +1,12 @@
 ---
 title: Mizoram
-size: "8,139"
+size: '8,139'
 population: 1.1
 party_affiliation: Indian National Congress (INC)
 legislative_seats: 40
 rajya_seats: 1
 lok_seats: 1
-gdp: $156
+gdp: "$156"
 feature_images:
   primary:
     image: 

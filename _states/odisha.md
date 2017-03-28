@@ -1,12 +1,12 @@
 ---
 title: Odisha
-size: "60,119"
+size: '60,119'
 population: 42
 party_affiliation: Biju Janata Dal (BJD)
 legislative_seats: 147
 rajya_seats: 10
 lok_seats: 21
-gdp: $4,136
+gdp: "$4,136"
 feature_images:
   primary:
     image: 

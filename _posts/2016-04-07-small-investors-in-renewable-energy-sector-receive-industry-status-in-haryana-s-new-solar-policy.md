@@ -1,14 +1,15 @@
 ---
-title: "Small investors in renewable energy sector receive industry status in Haryana's new solar policy"
-date: 2016-04-07
+title: Small investors in renewable energy sector receive industry status in Haryana's
+  new solar policy
+date: 2016-04-07 00:00:00 Z
+tags:
+- Solar Policy
 states:
 - Haryana
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Solar Policy
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/haryana-makes-solar-plants-mandatory-for-housing-societies-industry/articleshow/51672675.cms

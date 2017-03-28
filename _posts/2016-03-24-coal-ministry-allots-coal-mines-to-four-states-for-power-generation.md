@@ -1,6 +1,8 @@
 ---
-title: "Coal ministry allots coal mines to four states for power generation"
-date: 2016-03-24
+title: Coal ministry allots coal mines to four states for power generation
+date: 2016-03-24 00:00:00 Z
+tags:
+- Generation
 states:
 - Center-State Relations
 - Tamil Nadu
@@ -11,12 +13,10 @@ sectors:
 - Energy
 subsectors:
 - Coal
-tags:
-- Generation
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/electricity-bills-of-delhiites-to-come-down/articleshow/51443950.cms
-details:
+details: 
 ---
 
 The Coal Ministry has allotted four captive coal mines to provide fuel for state power generation utilities in Tamil Nadu, Maharashtra, Andhra Pradesh, and Haryana.

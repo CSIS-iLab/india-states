@@ -1,6 +1,9 @@
 ---
-title: "UDAY inducts Andhra Pradesh as it thirteenth participating state"
-date: 2016-07-01
+title: UDAY inducts Andhra Pradesh as it thirteenth participating state
+date: 2016-07-01 00:00:00 Z
+tags:
+- UDAY
+- Distribution
 states:
 - Andhra Pradesh
 - Center-State Relations
@@ -8,9 +11,6 @@ sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- UDAY
-- Distribution
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/news/economy/policy/andhra-pradesh-joins-uday-to-derive-rs-4400-crore-benefits/articleshow/52907682.cms

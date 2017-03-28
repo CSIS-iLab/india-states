@@ -1,15 +1,16 @@
 ---
-title: "Rajasthan receives $250 million in support from World Bank to reform its power sector"
-date: 2016-04-07
+title: Rajasthan receives $250 million in support from World Bank to reform its power
+  sector
+date: 2016-04-07 00:00:00 Z
+tags:
+- Reform
+- World Bank
 states:
 - Rajasthan
 sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- Reform
-- World Bank
 sources:
 - name: Money Control
   url: http://www.moneycontrol.com/news/business/rajasthan-power-project-gets-36250-mn-loanworld-bank_6085561.html

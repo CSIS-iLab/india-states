@@ -1,15 +1,15 @@
 ---
-title: "World Bank provides $105 million to lay underground power cables in Vizag"
-date: 2016-09-21
+title: World Bank provides $105 million to lay underground power cables in Vizag
+date: 2016-09-21 00:00:00 Z
+tags:
+- World Bank
+- Vishakapatnam
 states:
 - Andhra Pradesh
 sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- World Bank
-- Vishakapatnam
 sources:
 - name: Hindu Business Line
   url: http://www.thehindubusinessline.com/news/national/ap-gets-rs-700cr-loan-from-world-bank-for-underground-cable-project/article9115290.ece

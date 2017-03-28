@@ -1,18 +1,18 @@
 ---
-title: "New tariff order for renewable energy, drastic reduction for solar PV"
-date: 2016-04-07
-states:
-- Tamil Nadu
-sectors:
-- Energy
-subsectors:
-- Renewables
+title: New tariff order for renewable energy, drastic reduction for solar PV
+date: 2016-04-07 00:00:00 Z
 tags:
 - Wind
 - Solar
 - Tariff
 - Regulatory Commission
 - TNERC
+states:
+- Tamil Nadu
+sectors:
+- Energy
+subsectors:
+- Renewables
 sources:
 - name: Business Standard
   url: http://www.business-standard.com/article/economy-policy/tamil-nadu-hikes-tariff-for-wind-power-slashes-it-for-solar-power-116040400225_1.html

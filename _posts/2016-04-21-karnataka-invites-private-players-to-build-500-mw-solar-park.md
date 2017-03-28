@@ -1,12 +1,6 @@
 ---
-title: "Karnataka invites private players to build 500 MW solar park"
-date: 2016-04-21
-states:
-- Karnataka
-sectors:
-- Energy
-subsectors:
-- Renewables
+title: Karnataka invites private players to build 500 MW solar park
+date: 2016-04-21 00:00:00 Z
 tags:
 - Solar
 - Yarrow
@@ -15,6 +9,12 @@ tags:
 - Tata Power
 - Finland
 - Fortum
+states:
+- Karnataka
+sectors:
+- Energy
+subsectors:
+- Renewables
 sources:
 - name: Business Standard
   url: http://www.business-standard.com/article/companies/domestic-companies-take-lead-in-solar-park-tender-in-karnataka-116041300376_1.html

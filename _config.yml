@@ -1,3 +1,7 @@
+---
+---
+
+---
 title: Engaging Indian States
 timezone: UTC
 collections:
@@ -51,14 +55,12 @@ defaults:
       name: 
       url: 
     is_analysis: false
-    breadcrumbs: articles
 - scope:
     path: ''
     type: analysis
   values:
     layout: post
     content_type: Analysis
-    excerpt:
     states: 
     sectors: 
     subsectors: 
@@ -70,9 +72,8 @@ defaults:
     details:
       name: 
       url: 
-    is_analysis: true
+    is_analysis: false
     author: 
-    breadcrumbs: analysis
 - scope:
     path: ''
     type: states
@@ -88,6 +89,8 @@ defaults:
         credit: 
     size: 
     population:
+      rural: 
+      urban: 
     party_affiliation: 
     legislative_seats: 
     rajya_seats: 
@@ -170,5 +173,5 @@ gems:
 include: ["_config.yml", ".travis.yml", "Gemfile"]
 exclude:
 - vendor
-sector_overview_post_limit: 4
-post_archive_posts_per_page: 15
+sector_overview_post_limit: 2
+post_archive_posts_per_page: 2

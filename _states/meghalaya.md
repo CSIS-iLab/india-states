@@ -1,12 +1,12 @@
 ---
 title: Meghalaya
-size: "8,660"
+size: '8,660'
 population: 3
 party_affiliation: Indian National Congress (INC)
 legislative_seats: 60
 rajya_seats: 1
 lok_seats: 2
-gdp: $332
+gdp: "$332"
 feature_images:
   primary:
     image: 

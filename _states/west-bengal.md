@@ -1,12 +1,12 @@
 ---
 title: West bengal
-size: "34,267"
+size: '34,267'
 population: 91.3
 party_affiliation: All India Trinamool Congress (Trinamool)
 legislative_seats: 294
 rajya_seats: 16
 lok_seats: 42
-gdp: $10,705
+gdp: "$10,705"
 feature_images:
   primary:
     image: 

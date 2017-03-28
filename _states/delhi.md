@@ -1,12 +1,12 @@
 ---
 title: Delhi
-size: "575"
+size: '575'
 population: 16.8
 party_affiliation: Aam Aadmi Party (AAP)
 legislative_seats: 70
 rajya_seats: 3 for the National Capital Territory of Delhi
 lok_seats: 7
-gdp: $5,074
+gdp: "$5,074"
 feature_images:
   primary:
     image: 

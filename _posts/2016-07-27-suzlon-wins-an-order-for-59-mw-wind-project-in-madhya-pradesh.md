@@ -1,15 +1,15 @@
 ---
-title: "Suzlon wins an order for 59 MW wind project in Madhya Pradesh"
-date: 2016-07-27
+title: Suzlon wins an order for 59 MW wind project in Madhya Pradesh
+date: 2016-07-27 00:00:00 Z
+tags:
+- Wind
+- Dewas
 states:
 - Madhya Pradesh
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Wind
-- Dewas
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/suzlon-bags-58-8-mw-project-in-madhya-pradesh/articleshow/53314593.cms

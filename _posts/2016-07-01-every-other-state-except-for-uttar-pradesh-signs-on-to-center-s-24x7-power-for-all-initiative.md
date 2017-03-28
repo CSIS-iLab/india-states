@@ -1,6 +1,10 @@
 ---
-title: "Every other state except for Uttar Pradesh signs on to center's '24X7 Power for All' initiative"
-date: 2016-07-01
+title: Every other state except for Uttar Pradesh signs on to center's '24X7 Power
+  for All' initiative
+date: 2016-07-01 00:00:00 Z
+tags:
+- Power for All
+- Electricity
 states:
 - Uttar Pradesh
 - Center-State Relations
@@ -8,9 +12,6 @@ sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- Power for All
-- Electricity
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/all-states/uts-barring-up-sign-24x7-power-for-all-plan/articleshow/52905425.cms

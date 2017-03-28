@@ -1,14 +1,14 @@
 ---
-title: "Haryana introduces new incentives for solar rooftop implementation"
-date: 2016-05-05
+title: Haryana introduces new incentives for solar rooftop implementation
+date: 2016-05-05 00:00:00 Z
+tags:
+- Solar rooftop
 states:
 - Haryana
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Solar rooftop
 sources:
 - name: Times of India
   url: http://timesofindia.indiatimes.com/city/gurgaon/State-govt-allows-rooftop-solar-plants-under-net-metering-system/articleshow/52017329.cms

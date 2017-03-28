@@ -1,12 +1,13 @@
 ---
 title: Jammu and Kashmir
-size: "85,806"
+size: '85,806'
 population: 12.5
-party_affiliation: Jammu and Kashmir People's Democratic Party (JKPDP) & Bharatiya Janata Party (BJP)
+party_affiliation: Jammu and Kashmir People's Democratic Party (JKPDP) & Bharatiya
+  Janata Party (BJP)
 legislative_seats: 87
 rajya_seats: 4
 lok_seats: 6
-gdp: $1,327
+gdp: "$1,327"
 feature_images:
   primary:
     image: 

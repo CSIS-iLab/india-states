@@ -1,16 +1,16 @@
 ---
-title: "New subsidies introduced by Gujarat to boost solar rooftop installations"
-date: 2016-04-07
+title: New subsidies introduced by Gujarat to boost solar rooftop installations
+date: 2016-04-07 00:00:00 Z
+tags:
+- Solar rooftop
+- subsidy
 states:
 - Gujarat
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Solar rooftop
-- subsidy
-sources:
+sources: 
 details:
 - name: Subsidy for Residential Rooftop Solar Plants
   url: http://guj-epd.gov.in/pdf/gr_Subsidy-for-Res-Rooftop-Solar-plants.pdf
