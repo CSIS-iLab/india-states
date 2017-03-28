@@ -51,7 +51,9 @@
 		padding: 0.2rem 0 1rem 0;
 
 		ul.shareIcons {
-			text-align: right;
+			@include breakpoint("medium") {
+				text-align: right;
+			}
 		}
 
 		.subtitle {

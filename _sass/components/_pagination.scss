@@ -12,14 +12,13 @@
 	padding: 0.2rem 0.5rem;
 	margin-bottom: 0.1rem;
 
-	.pagination-totalResults {
-		float: left;
-		width: 50%;
-	}
 
 	.pagination-sortBy {
-		text-align: right;
 		font-style: italic;
+
+		@include breakpoint("medium") {
+			text-align: right;
+		}
 
 		a {
 			color: $light-blue;
