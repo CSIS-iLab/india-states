@@ -88,8 +88,6 @@ defaults:
         credit: 
     size: 
     population:
-      rural: 
-      urban: 
     party_affiliation: 
     legislative_seats: 
     rajya_seats: 
