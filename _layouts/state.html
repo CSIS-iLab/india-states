@@ -25,25 +25,17 @@ layout: default
             <ul class="stateInfoContainer-stateSummaryList">
               <li class="hasBorder">
                 <span class="category">Size</span><br />
-                    {{ page.size }}
+                    {{ page.size | append: ' sq. miles' }}
               </li>
               <li class="hasBorder">
                 <span class="category">Population</span><br />
-                    {{ page.population }}
+                    {{ page.population | append: ' million'}}
               </li>
-              <li class="populationBreakdown hasBorder">
-                <span class="category">Rural / Urban</span><br />
-                    {{ page.population.rural }} / {{ page.population.urban }}
+              <li class="hasBorder">
+                <span class="category">State GDP</span><br />
+                    {{ page.gdp | append: ' million (USD)'}}
               </li>
               <li>
-                <span class="category">State GDP</span><br />
-                    {{ page.gdp }}
-              </li>
-              <li class="hasBorder">
-                <span class="category">Party Affiliation</span><br />
-                    {{ page.party_affiliation }}
-              </li>
-              <li class="hasBorder">
                 <span class="category">Legislative Assembly Seats</span><br />
                     {{ page.legislative_seats }}
               </li>
@@ -51,9 +43,16 @@ layout: default
                 <span class="category">Rajya Sabha Seats</span><br />
                     {{ page.rajya_seats }}
               </li>
-              <li>
+              <li class="hasBorder">
                 <span class="category">Lok Sabha Seats</span><br />
                     {{ page.lok_seats }}
+              </li>
+              <li>
+                <span class="category">Party Affiliation</span><br />
+                  {% assign party_affiliate = page.party_affiliation | split: " & " %}
+                  {% for pa in party_affiliate %}
+                    {{ pa }}<br />
+                  {% endfor %}
               </li>
             </ul>
           </div>
