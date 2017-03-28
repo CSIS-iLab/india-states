@@ -19,7 +19,7 @@
 				</div>
 			</div>
 		{% else %}
-			{{ post.content }}
+		{{ post.content | prepend: "<p>" | append: "</p>" }}
 		{% endif %}
 
 		<hr class="post-articleSourceBreak" />

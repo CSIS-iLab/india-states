@@ -10,3 +10,6 @@ goals:
 analysis:
   title: "Analysis"
   href: "/analysis/"
+articles:
+  title: "Articles"
+  href: "/articles/"

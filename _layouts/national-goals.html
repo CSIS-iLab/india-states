@@ -57,4 +57,18 @@ layout: default
       Interactive will go here!
     </div>
   </section>
+
+  {% if page.sources and page.sources[0] != null %}
+  <section class="goal-sourcesContainer">
+    <div class="content-wrapper fullWidthContent">
+    <hr />
+    
+    <span class="articleMeta">Sources:</span><br />
+      {% for source in page.sources %}
+          <a href="{{ source.url }}" target="_blank">{{ source.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a><br />
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
 </section>
