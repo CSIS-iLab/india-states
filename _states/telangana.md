@@ -1,12 +1,12 @@
 ---
 title: Telangana
-size: "43,273"
+size: '43,273'
 population: 35.3
 party_affiliation: Telangana Rashtra Samithi (TRS)
 legislative_seats: 119
 rajya_seats: 7
 lok_seats: 17
-gdp: $5,936
+gdp: "$5,936"
 feature_images:
   primary:
     image: 

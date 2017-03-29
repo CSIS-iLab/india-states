@@ -1,12 +1,12 @@
 ---
 title: Chattisgarh
-size: "52,198"
+size: '52,198'
 population: 25.5
 party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 90
 rajya_seats: 5
 lok_seats: 14
-gdp: $2,813
+gdp: "$2,813"
 feature_images:
   primary:
     image: 

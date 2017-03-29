@@ -1,12 +1,12 @@
 ---
 title: Uttar Pradesh
-size: "93,023"
+size: '93,023'
 population: 199.6
 party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 403
 rajya_seats: 31
 lok_seats: 80
-gdp: $13,072
+gdp: "$13,072"
 feature_images:
   primary:
     image: 

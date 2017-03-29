@@ -1,12 +1,12 @@
 ---
 title: Haryana
-size: "17,070"
+size: '17,070'
 population: 25.4
 party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 90
 rajya_seats: 5
 lok_seats: 10
-gdp: $5,893
+gdp: "$5,893"
 feature_images:
   primary:
     image: 

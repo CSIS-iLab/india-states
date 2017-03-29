@@ -1,12 +1,12 @@
 ---
 title: Puducherry
-size: "190"
+size: '190'
 population: 1.2
 party_affiliation: Indian National Congress (INC) and Dravida Munnetra Kazhagam (DMK)
 legislative_seats: 30
 rajya_seats: 1
 lok_seats: 1
-gdp: $254
+gdp: "$254"
 feature_images:
   primary:
     image: 

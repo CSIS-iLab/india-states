@@ -1,12 +1,12 @@
 ---
 title: Uttarakhand
-size: "20,650"
+size: '20,650'
 population: 10.1
 party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 70
 rajya_seats: 3
 lok_seats: 5
-gdp: $1,862
+gdp: "$1,862"
 feature_images:
   primary:
     image: 

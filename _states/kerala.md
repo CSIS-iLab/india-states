@@ -1,12 +1,12 @@
 ---
 title: Kerala
-size: "15,005"
+size: '15,005'
 population: 33.4
 party_affiliation: Left Democratic Front (LDF)
 legislative_seats: 140
 rajya_seats: 9
 lok_seats: 29
-gdp: $6,004
+gdp: "$6,004"
 feature_images:
   primary:
     image: 
