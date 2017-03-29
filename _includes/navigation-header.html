@@ -1,23 +1,17 @@
 <nav class="header-nav">
   <input type="checkbox" name="toggleMenu" id="toggleMenu" />
   <label for="toggleMenu">
-    <span class="menu-icon">
-      <svg id="mobile-menu" data-name="mobile-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 29"><defs><style>.cls-1{fill:#004165;}.cls-2{fill:#fff;}</style></defs><title>mobile-menu</title><path class="cls-1" d="M36.67 0H1.33A1.31 1.31 0 0 0 0 1.29v26.42A1.31 1.31 0 0 0 1.33 29h35.34A1.31 1.31 0 0 0 38 27.71V1.29A1.31 1.31 0 0 0 36.67 0"/><path class="cls-2" d="M29.58 7H8.47a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09V7.09a1.87 1.87 0 0 0-.8-.09m0 6H8.47a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09v-1.82a1.87 1.87 0 0 0-.8-.09M8.47 19a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09v-1.82a1.87 1.87 0 0 0-.8-.09z"/><path class="cls-1" d="M36.67 0H1.33A1.31 1.31 0 0 0 0 1.29v26.42A1.31 1.31 0 0 0 1.33 29h35.34A1.31 1.31 0 0 0 38 27.71V1.29A1.31 1.31 0 0 0 36.67 0"/><path class="cls-2" d="M29.58 7H8.47a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09V7.09a1.87 1.87 0 0 0-.8-.09m0 6H8.47a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09v-1.82a1.87 1.87 0 0 0-.8-.09M8.47 19a1.87 1.87 0 0 0-.8.09v1.82a1.87 1.87 0 0 0 .8.09h21.11a1.87 1.87 0 0 0 .8-.09v-1.82a1.87 1.87 0 0 0-.8-.09z"/></svg>
-    </span>
+    <div id="nav-toggle"><span></span></div>
   </label>
 
   <div class="header-navListContainer">
-    {% if page.layout == "home" %}
-    {% assign menu = site.data.navigation.home %}
-    {% else %}
-    {% assign menu = site.data.navigation.main %}
-    {% endif %}
     {% if page.breadcrumbs %}
-    {% assign breadcrumbComparison = page.breadcrumbs | prepend: '/' | append: '/' %}
+      {% assign breadcrumbComparison = page.breadcrumbs | prepend: '/' | append: '/' %}
     {% endif %}
     {% if page.is_analysis %}
-    {% assign breadcrumbComparison = '/analysis/' %}
+      {% assign breadcrumbComparison = '/analysis/' %}
     {% endif %}
+    {% assign menu = site.data.navigation.main %}
     <ul>
       {% for nav in menu %}
       <li class="{{ nav.class | escape }} {% if nav.href == page.url or nav.href == breadcrumbComparison %}active{% endif %}">

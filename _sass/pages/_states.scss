@@ -74,7 +74,7 @@
 	.stateMapContainer {
 		margin-top: 3rem;
 
-		@include breakpoint("medium") {
+		@include breakpoint("large") {
 			margin-top: 0;
 		}
 	}
