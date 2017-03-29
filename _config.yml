@@ -1,7 +1,3 @@
----
----
-
----
 title: Engaging Indian States
 timezone: UTC
 collections:
@@ -170,7 +166,6 @@ gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 - algoliasearch-jekyll
-include: ["_config.yml", ".travis.yml", "Gemfile"]
 exclude:
 - vendor
 sector_overview_post_limit: 2
