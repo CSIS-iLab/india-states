@@ -6,6 +6,9 @@ collections:
     title: Analysis
     output: true
     path: "/:path/:title/"
+  posts:
+    title: Articles
+    output: true
   authors:
     title: Authors
     output: false
@@ -13,9 +16,6 @@ collections:
     title: National Goals
     output: true
     path: "/:path/:title/"
-  posts:
-    title: Articles
-    output: true
   resources:
     title: Resources
     output: false
@@ -44,7 +44,7 @@ defaults:
     permalink: "/articles/:title/"
     states: 
     sectors: 
-    subsectors:  
+    subsectors: 
     sources:
       name: 
       url: 
