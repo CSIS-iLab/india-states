@@ -1,12 +1,12 @@
 ---
 title: Rajasthan
-size: "132,139"
+size: '132,139'
 population: 68.6
 party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 200
 rajya_seats: 10
 lok_seats: 25
-gdp: $7,843
+gdp: "$7,843"
 feature_images:
   primary:
     image: 

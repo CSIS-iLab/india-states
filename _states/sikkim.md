@@ -1,12 +1,12 @@
 ---
 title: Sikkim
-size: "2,740"
+size: '2,740'
 population: 0.6
 party_affiliation: Sikkim Democractic Front (SDF) & Bharatiya Janata Party (BJP)
 legislative_seats: 32
 rajya_seats: 1
 lok_seats: 1
-gdp: $188
+gdp: "$188"
 feature_images:
   primary:
     image: 

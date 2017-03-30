@@ -1,12 +1,12 @@
 ---
 title: Jharkhand
-size: "30,778"
+size: '30,778'
 population: 33
 party_affiliation: Bharatiya Janata Party (BJP) & All Jharkand Students Union (AJSU)
 legislative_seats: 81
 rajya_seats: 6
 lok_seats: 28
-gdp: $2,618
+gdp: "$2,618"
 feature_images:
   primary:
     image: 

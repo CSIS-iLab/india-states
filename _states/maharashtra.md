@@ -1,12 +1,12 @@
 ---
 title: Maharashtra
-size: "118,809"
+size: '118,809'
 population: 112.4
 party_affiliation: Bharatiya Janata Party (BJP) & Shiv Sena (SS)
 legislative_seats: 288
 rajya_seats: 19
 lok_seats: 48
-gdp: $22,881
+gdp: "$22,881"
 feature_images:
   primary:
     image: 

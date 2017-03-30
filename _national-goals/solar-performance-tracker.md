@@ -7,9 +7,11 @@ data_label: MW
 state_text: reaches
 last_updated_at: 2017-31-01
 sources:
-- name: "Ministry of New and Renewable Energy: State-wise breakup of solar targets to be achieved by 2022"
+- name: 'Ministry of New and Renewable Energy: State-wise breakup of solar targets
+    to be achieved by 2022'
   url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
-- name: "Ministry of New and Renewable Energy: State-wise commissioning of solar power projects"
+- name: 'Ministry of New and Renewable Energy: State-wise commissioning of solar power
+    projects'
   url: http://mnre.gov.in/file-manager/UserFiles/grid-connected-solar-power-project-installed-capacity.pdf
 ---
 

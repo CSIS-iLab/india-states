@@ -1,12 +1,12 @@
 ---
 title: Madhya Pradesh
-size: "119,014"
+size: '119,014'
 population: 72.6
 party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 230
 rajya_seats: 11
 lok_seats: 11
-gdp: $6,587
+gdp: "$6,587"
 feature_images:
   primary:
     image: 

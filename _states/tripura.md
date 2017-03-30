@@ -1,12 +1,13 @@
 ---
 title: Tripura
-size: "4,049"
+size: '4,049'
 population: 3.7
-party_affiliation: Left Front [Communist Party of India (Marxist) (CPI(M)) & Communist Party of India (CPI)
+party_affiliation: Left Front [Communist Party of India (Marxist) (CPI(M)) & Communist
+  Party of India (CPI)
 legislative_seats: 60
 rajya_seats: 1
 lok_seats: 2
-gdp: $406
+gdp: "$406"
 feature_images:
   primary:
     image: 
