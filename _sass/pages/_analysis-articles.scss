@@ -113,6 +113,10 @@ article.post-individualContainer {
 		padding: 3rem 0;
 		clear: both;
 
+		.post-authorImage img {
+			max-width: 200px;
+			padding-bottom: 10px;
+		}
 		// Author Information
 		.post-authorInfoContainer {
 			margin-bottom: 2rem;

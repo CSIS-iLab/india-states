@@ -1,29 +1,89 @@
-/*=========================================
+    /*=========================================
 =            Print Stylesheets            =
 =========================================*/
+    
+    @media print {
+        *,
+        *:before,
+        *:after {
+            background: transparent !important;
+            color: #000 !important; // Black prints faster: h5bp.com/s
+            box-shadow: none !important;
+            text-shadow: none !important;
+            filter: none !important;
+            -ms-filter: none !important;
+        }
+        body {
+            font-size: 12pt;
 
-@media print {
-	*,
-    *:before,
-    *:after {
-        background: transparent !important;
-        color: #000 !important; // Black prints faster: h5bp.com/s
-        box-shadow: none !important;
-        text-shadow: none !important;
+            &:after {
+
+            	content: 'Printed from Engaging India States, ©2017 by the Center for Strategic and International Studies. All rights reserved.';
+            	margin-top: 1cm;
+            	font-size: 12pt;
+            }
+        }
+        .printable,
+        .printable * {
+            visibility: visible;
+        }
+        article.printable {
+            position: absolute;
+        }
+        @page :left {
+            margin-left: 1cm;
+        }
+        @page :right {
+            margin-left: 1cm;
+        }
+        h2,
+        h3 {
+            page-break-after: avoid;
+        }
+        article {
+            page-break-inside: avoid;
+        }
+        ul,
+        img {
+            page-break-inside: avoid;
+        }
+
+        h1 {
+        	font-size: 40pt !important;
+        }
+        .site-header,
+        .footer-mainContainer,
+        .tableOfContent,
+        .stateFeatureImageContainer,
+        .stateFeatureImageCaptions,
+        .pagination-sortBy,
+        .shareIcons,
+        .archive-featureImage,
+        .post-articleExtraMetaIndicator,
+        .footer-copyrightContainer,
+        button.btn-orange.btn-center,
+        .post-articleMetaContainer,
+        .post-featureImage,
+        .post-featureImageCredit,
+        aside {
+            display: none !important;
+        }
+        .stateMapContainer svg {
+            max-width: 200px;
+        }
+        article a[href^=http].sourceLink:after {
+            content: " <" attr(href) "> ";
+        }
+        .archive-header {
+            margin-bottom: 0px;
+        }
+        .post-articleExtraMeta {
+        	display: inline !important;
+        }
+
+        .post-content img {
+        	max-width: 500px;
+        	max-height: 400px;
+        }
+
     }
-
-    html, body { height: auto; }
-
-	body * {
-		visibility: hidden;
-		height: 0;
-	}
-	.printable, .printable * {
-		visibility: visible;
-	}
-	article.printable {
-		position: absolute;
-		left: 0;
-		top: 0;
-	}
-}

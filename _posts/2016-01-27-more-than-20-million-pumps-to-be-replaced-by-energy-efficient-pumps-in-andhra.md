@@ -4,6 +4,12 @@ date: 2016-01-27 00:00:00 Z
 tags:
 - irrigation
 - pumps
+- Jacque
+- Tucker
+- CSIS
+- kewlio
+- iDeas Lab is neat
+- India States
 states:
 - Andhra Pradesh
 - Center-State Relations

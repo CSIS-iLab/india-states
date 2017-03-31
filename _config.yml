@@ -69,7 +69,7 @@ defaults:
     details:
       name: 
       url: 
-    is_analysis: false
+    is_analysis: true
     author: 
 - scope:
     path: ''
