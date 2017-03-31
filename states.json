@@ -1,0 +1,13 @@
+---
+---
+[
+	{% for state in site.states %}
+		{
+			"title": "{{ state.title | escape }}",
+			"url": "{{ state.url }}",
+			"content_type": "{{ state.content_type }}",
+			"states": "{{ state.title | escape }}",
+			"excerpt": {{state.excerpt | jsonify | normalize_whitespace }}
+		}{% unless forloop.last %},{% endunless %}
+	{% endfor %}
+]
