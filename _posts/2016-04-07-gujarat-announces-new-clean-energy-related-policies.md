@@ -1,15 +1,15 @@
 ---
-title: "Gujarat announces new clean energy related policies"
-date: 2016-04-07
+title: Gujarat announces new clean energy related policies
+date: 2016-04-07 00:00:00 Z
+tags:
+- Hydro
+- Waste to Energy
 states:
 - Gujarat
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Hydro
-- Waste to Energy
 sources:
 - name: Desh Gujarat
   url: http://deshgujarat.com/2016/03/30/gujarat-govt-announces-waste-to-power-and-small-hydel-policy-2016/

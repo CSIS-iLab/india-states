@@ -1,14 +1,15 @@
 ---
-title: "Karnataka sets the amount of power a solar rooftop owner can sell back to the grid"
-date: 2016-05-18
+title: Karnataka sets the amount of power a solar rooftop owner can sell back to the
+  grid
+date: 2016-05-18 00:00:00 Z
+tags:
+- Solar rooftop
 states:
 - Karnataka
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Solar rooftop
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/news/politics-and-nation/karnataka-sweetens-its-rooftop-solar-deal-to-woo-consumers/articleshow/52233994.cms

@@ -1,6 +1,9 @@
 ---
-title: "Six nuclear reactors to be developed in Maharashtra"
-date: 2016-05-05
+title: Six nuclear reactors to be developed in Maharashtra
+date: 2016-05-05 00:00:00 Z
+tags:
+- NPCL
+- Electricite De France
 states:
 - Maharashtra
 - Center-State Relations
@@ -8,9 +11,6 @@ sectors:
 - Energy
 subsectors:
 - Nuclear
-tags:
-- NPCL
-- Electricite De France
 sources:
 - name: Business Standard
   url: http://www.business-standard.com/article/government-press-release/mou-with-france-on-jaitapur-nuclear-reactor-116042800734_1.html

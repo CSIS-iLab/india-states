@@ -1,16 +1,16 @@
 ---
-title: "ACME receives largest share of solar energy projects in Andhra"
-date: 2016-05-12
+title: ACME receives largest share of solar energy projects in Andhra
+date: 2016-05-12 00:00:00 Z
+tags:
+- Solar
+- ACME
+- Fotowatio
 states:
 - Andhra Pradesh
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Solar
-- ACME
-- Fotowatio
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/acme-to-supply-power-at-rs-4-43-per-unit-in-andhra-pradesh/articleshow/52153164.cms

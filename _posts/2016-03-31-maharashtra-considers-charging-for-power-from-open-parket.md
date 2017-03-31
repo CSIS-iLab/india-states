@@ -1,15 +1,15 @@
 ---
-title: "Maharashtra considers charging for power from open parket"
-date: 2016-03-31
+title: Maharashtra considers charging for power from open parket
+date: 2016-03-31 00:00:00 Z
+tags:
+- MSEDCL
+- tariff
 states:
 - Maharashtra
 sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- MSEDCL
-- tariff
 sources:
 - name: Business Standard
   url: http://www.business-standard.com/article/economy-policy/maharashtra-for-levy-on-open-access-power-purchase-116032700345_1.html

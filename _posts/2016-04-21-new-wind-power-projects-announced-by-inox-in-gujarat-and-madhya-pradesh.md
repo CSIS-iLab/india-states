@@ -1,6 +1,9 @@
 ---
-title: "New wind power projects announced by Inox in Gujarat and Madhya Pradesh"
-date: 2016-04-21
+title: New wind power projects announced by Inox in Gujarat and Madhya Pradesh
+date: 2016-04-21 00:00:00 Z
+tags:
+- Inox
+- Wind
 states:
 - Gujarat
 - Madhya Pradesh
@@ -8,9 +11,6 @@ sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Inox
-- Wind
 sources:
 - name: Business Standard
   url: http://wap.business-standard.com/article/companies/inox-wind-bags-2-orders-of-50-mw-capacity-each-in-mp-gujarat-116041800401_1.html
