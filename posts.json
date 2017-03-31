@@ -20,8 +20,8 @@
 			"sectors": {{sectors}},
 			"subsectors": {{subsectors}},
 			"tags": {{ tags }},
-			"date": new Date("{{ post.date | date_to_xmlschema }}"),
-			"posted_at": "{{ post.posted_at }}",
+			"date": "{{ post.date | date: site.date_format }}",
+			"posted_at": "{{ post.date | date: '%s' }}",
 			"excerpt": {{post.excerpt | jsonify | normalize_whitespace }}
 		}{% unless forloop.last %},{% endunless %}
 	{% endfor %}
