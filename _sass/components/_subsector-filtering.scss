@@ -30,6 +30,7 @@
 		        font-weight: 500;
 		        text-transform: none;
 		        padding: 5px 10px;
+		        letter-spacing: .5px;
 
 		        &:hover, &:active, &:focus {
 		            background-color: $base-orange;
@@ -46,7 +47,7 @@
 }
 
 .subsectorFiltering-articlesInfo {
-	margin: 2.5rem 0 2rem 0;
+	margin: 2.5rem 0 .5rem 0;
 
 	.sectionTitle {
 		margin: 0 0 0.5rem 0;
@@ -70,9 +71,14 @@
 		border-left: 4px solid $map-gray;
 		padding: 0.5rem 0 0.5rem 1rem;
 		display: none;
+		margin-bottom: 1rem;
 
 		em {
 			color: $base-orange;
+		}
+
+		p {
+			margin-bottom: 0px;
 		}
 	}
 }

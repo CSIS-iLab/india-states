@@ -1,6 +1,6 @@
 $(function() {
 	// Show More Meta
-	$(".post-listing").on("click", ".post-articleShowMoreMeta img", function() {
+	$("body").on("click", ".post-articleShowMoreMeta img", function() {
 		var postID = $(this).parent(".post-articleShowMoreMeta").data("post");
 
 		// Hide More Icon & Show Less Icon

@@ -37,10 +37,16 @@
 	}
 
 	.sectionSubtitle {
-		border-bottom: 2px solid $dark-gray;
+		border-bottom: 0px solid transparent;
 		margin: 0;
 		font-weight: 300;
-		@include fontSize(20px);
+		@include fontSize(15px);
+
+
+		@include breakpoint("medium") {
+			border-bottom: 2px solid $dark-gray;
+		}
+
 	}
 
 	.tableOfContents-instructions {

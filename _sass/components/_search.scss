@@ -14,6 +14,7 @@
   left: 0;
   background-color: transparentize($base-blue, .05);
   overflow-x: hidden;
+  transition: all 0.5s;   
 
   .search-closeIconContainer {
     text-align: right;
@@ -73,7 +74,7 @@
       width: 100%;
       padding: 12px 28px 12px 12px;
       border: none;
-      border-bottom: 1px solid $light-gray;
+      border-bottom: 1px solid #879DA8;
       -webkit-transition: .2s;
       transition: .2s;
       box-sizing: border-box;
@@ -141,7 +142,7 @@
     }
 
     .aa-suggestion {
-      border-bottom: 1px solid $light-gray;
+      border-bottom: 1px solid #869AA4;
       cursor: pointer;
       -webkit-transition: .2s;
       transition: .2s;

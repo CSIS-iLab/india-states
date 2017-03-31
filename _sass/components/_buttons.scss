@@ -11,7 +11,7 @@ input[type="submit"]
 	@include fontSize(13px);
 	font-family: $font__MuseoSans;
 	font-weight: 300;
-	border-radius: 0px;
+	border-radius: 2px;
 	border: 0px;
 	text-transform: uppercase;
 	@include transition(all .3s);
@@ -25,6 +25,15 @@ input[type="submit"]
     	cursor: pointer;
     }
 
+    &.btn-center {
+        margin: 0px auto;
+        display: block;
+    }
+
+    &.btn-recent {
+        padding: 6px 9px 4px;
+    }
+
     &.btn-blue {
     	background-color: $blue-accent;
 
@@ -36,7 +45,8 @@ input[type="submit"]
     &.btn-orange {
         background-color: $base-orange;
         color: $white;
-        font-weight: 700;
+        font-weight: 500;
+        letter-spacing: .5px;
 
         &:hover, &:active, &:focus {
             background-color: darken($base-orange, 10%);

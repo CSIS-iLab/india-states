@@ -42,7 +42,7 @@ header.site-header {
 		color: $white;
 
 		@include breakpoint("medium") {
-			@include fontSize(50px);
+			@include fontSize(45px);
 		}
 
 	}
@@ -201,13 +201,18 @@ header.site-header {
 
 					@include breakpoint("large") {
 						display:inline-block;
-						margin-right: -4px;
+						margin-right: 0px;
 					}
 
 					// State & Sector Look
 					&.ss-nav {
 						color: $color__header-ss-nav-font;
 						background-color: $color__header-ss-nav-background;
+						margin-right: -4px;
+
+						@include breakpoint("large") {
+							padding: 2px 5px 0px;
+						}
 
 						a {
 							color: $color__header-ss-nav-font;
@@ -445,7 +450,8 @@ header.site-header {
 
 	@include breakpoint("medium") {
 		.content-wrapper {
-			margin-left: 25%;
+			//margin-left: 25%;
+			max-width: 900px;
 		}
 	}
 
@@ -456,5 +462,10 @@ header.site-header {
 
 	p {
 		margin: 0 0 1rem 0;
+		color: #C1CBD1;
+	}
+
+	p:last-of-type {
+    	margin: 0 0 0 0;
 	}
 }
