@@ -1,10 +1,6 @@
 ---
-title: India's largest floating solar power plant starts generation of power
-date: 2017-03-15 00:00:00 Z
-tags:
-- Solar
-- NTPC
-- Kayamkulam
+title: "India's largest floating solar power plant starts generation of power"
+date: 2017-03-15
 states:
 - Kerala
 - Center-State Relations
@@ -12,10 +8,14 @@ sectors:
 - Energy
 subsectors:
 - Renewables
+tags:
+- Solar
+- NTPC
+- Kayamkulam
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/ntpc-installs-indias-largest-floating-solar-pv-plant-in-kerala/articleshow/57577004.cms
-details: 
+details:
 ---
 
 The National Thermal Power Corporation began power generation from India’s largest floating solar power plant at Kayamkulam. The 100 kilowatt peak floating solar generation plant was indigenously developed at the Rajiv Gandhi Combined Cycle Power Plant in Kerala’s Kayamkulam district, the company said.

@@ -1,9 +1,6 @@
 ---
-title: Tamil Nadu, Telangana and Assam join UDAY, bring total to 21
-date: 2017-01-12 00:00:00 Z
-tags:
-- UDAY
-- Distribution
+title: "Tamil Nadu, Telangana and Assam join UDAY, bring total to 21"
+date: 2017-01-12
 states:
 - Center-State Relations
 - Assam
@@ -13,6 +10,9 @@ sectors:
 - Energy
 subsectors:
 - Power
+tags:
+- UDAY
+- Distribution
 sources:
 - name: Hindu Business Line
   url: http://www.thehindubusinessline.com/news/telangana-assam-join-uday/article9459609.ece

@@ -1,20 +1,20 @@
 ---
-title: 50 MW wind afrm to come up at Amba in Madhya Pradesh
-date: 2017-03-15 00:00:00 Z
-tags:
-- Wind
-- Gamesa
-- IL&FS
+title: "50 MW wind afrm to come up at Amba in Madhya Pradesh"
+date: 2017-03-15
 states:
 - Madhya Pradesh
 sectors:
 - Energy
 subsectors:
 - Renewables
+tags:
+- Wind
+- Gamesa
+- IL&FS
 sources:
 - name: Economic Times
   url: http://energy.economictimes.indiatimes.com/news/renewable/gamesa-bags-order-for-50mw-wind-plant-from-il-fs/57528281
-details: 
+details:
 ---
 
 Renewable energy firm Gamesa announced that it has secured an order from Infrastructure Leasing & Financial Services for a 50 MW wind farm project at Amba, Madhya Pradesh.

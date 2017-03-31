@@ -1,21 +1,21 @@
 ---
-title: MSEDCL disconnects nonpaying consumers and recovers $350,000
-date: 2017-02-15 00:00:00 Z
-tags:
-- MSEDCL
-- Jalna
-- Aurangabad
-- payments
+title: "MSEDCL disconnects nonpaying consumers and recovers $350,000"
+date: 2017-02-15
 states:
 - Maharashtra
 sectors:
 - Energy
 subsectors:
 - Power
+tags:
+- MSEDCL
+- Jalna
+- Aurangabad
+- payments
 sources:
 - name: Economic Times
   url: http://energy.economictimes.indiatimes.com/news/power/maharashtra-power-discom-msedcl-disconnects-5000-connections/57092401
-details: 
+details:
 ---
 
 Since February 1, the Maharashtra State Electricity Distribution Company Ltd (MSEDCL) has disconnected power supply to a total of 5,525 consumers in both Jalna and Aurangabad districts while managing to recover $350,000 in unpaid bills from 52,582 defaulters.
