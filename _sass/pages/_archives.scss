@@ -19,7 +19,11 @@
 	
 	.archive-header {
 		background-color: $light-gray;
-		padding: 0.2rem 0 1rem 0;
+		padding: 0.2rem 0 1.5rem 0;
+
+		@include breakpoint("medium") {
+			padding: 0.2rem 0 3rem 0;
+			}
 
 		ul.shareIcons {
 			@include breakpoint("medium") {
@@ -28,13 +32,20 @@
 		}
 
 		.subtitle {
-			margin: 1.5rem 0;
+			margin: 0rem 0 1.5rem;
 
 			// Icon for Sector Pages
 			img {
 				display: inline;
 				max-height: 100%;
+				position: relative;
+				max-width: 40px;
+				top: 5px;
+
+				@include breakpoint("medium") {
 				max-width: 50px;
+				top: 0px;
+				}
 			}
 		}
 	}

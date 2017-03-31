@@ -15,7 +15,11 @@
 	}
 
 	.main-title {
-		margin-bottom: 0.5rem;
+		margin: 1rem 0;
+
+		@include breakpoint("medium") {
+			margin: 0 0 1rem;
+		}
 	}
 
 	.stateInfo {
@@ -72,10 +76,11 @@
 
 	// Map
 	.stateMapContainer {
-		margin-top: 3rem;
+		margin: 3rem auto 0;
+		max-width: 400px;
 
 		@include breakpoint("large") {
-			margin-top: 0;
+			margin: 0rem auto 0;
 		}
 	}
 }

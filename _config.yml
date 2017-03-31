@@ -1,7 +1,4 @@
 ---
----
-
----
 title: Engaging Indian States
 timezone: UTC
 collections:
@@ -9,6 +6,9 @@ collections:
     title: Analysis
     output: true
     path: "/:path/:title/"
+  posts:
+    title: Articles
+    output: true
   authors:
     title: Authors
     output: false
@@ -16,9 +16,6 @@ collections:
     title: National Goals
     output: true
     path: "/:path/:title/"
-  posts:
-    title: Articles
-    output: true
   resources:
     title: Resources
     output: false
@@ -47,7 +44,7 @@ defaults:
     permalink: "/articles/:title/"
     states: 
     sectors: 
-    subsectors:  
+    subsectors: 
     sources:
       name: 
       url: 
@@ -72,7 +69,7 @@ defaults:
     details:
       name: 
       url: 
-    is_analysis: false
+    is_analysis: true
     author: 
 - scope:
     path: ''
@@ -170,7 +167,6 @@ gems:
 - jekyll-seo-tag
 - jekyll-sitemap
 - algoliasearch-jekyll
-include: ["_config.yml", ".travis.yml", "Gemfile"]
 exclude:
 - vendor
 sector_overview_post_limit: 2

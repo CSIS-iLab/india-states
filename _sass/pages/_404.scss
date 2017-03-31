@@ -1,0 +1,39 @@
+/*===========================================
+=           	 404Page       			    =
+===========================================*/
+
+
+.content404 {
+	margin-bottom: 4rem;
+
+    h1 {
+        text-align: center;
+        color: #0071BC;
+    }
+    p {
+        @include fontSize(20px);
+    }
+    
+    a {
+    	display: block;
+    	text-align: center;
+
+        background-color: $light-gray;
+        font-family: $font__MuseoSans;
+        @include fontSize(24px);
+        padding: 10px 20px;
+        color: $base-blue;
+        font-weight: 500;
+        text-transform: uppercase;
+        @include transition(all .3s);
+        box-shadow: none;
+        margin: 1rem auto;
+
+        &:hover,
+        &:active,
+        &:focus {
+            background-color: $base-blue;
+            color: $white;
+        }
+    }
+}
