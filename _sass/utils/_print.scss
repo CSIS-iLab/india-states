@@ -14,7 +14,16 @@
             -ms-filter: none !important;
         }
         body {
+        	padding: 0px !important;
             font-size: 12pt;
+            margin: 25mm 25mm 25mm 25mm;
+
+            &:before {
+            	content: 'Engaging India States';
+            	margin-bottom: 1cm;
+            	font-size: 24pt;
+            	display: block;
+            }
 
             &:after {
 
@@ -30,12 +39,6 @@
         article.printable {
             position: absolute;
         }
-        @page :left {
-            margin-left: 1cm;
-        }
-        @page :right {
-            margin-left: 1cm;
-        }
         h2,
         h3 {
             page-break-after: avoid;
@@ -48,9 +51,10 @@
             page-break-inside: avoid;
         }
 
-        h1 {
-        	font-size: 40pt !important;
+        h1.main-title {
+        	font-size: 30px !important;
         }
+
         .site-header,
         .footer-mainContainer,
         .tableOfContent,
@@ -58,6 +62,7 @@
         .stateFeatureImageCaptions,
         .pagination-sortBy,
         .shareIcons,
+        .showMore,
         .archive-featureImage,
         .post-articleExtraMetaIndicator,
         .footer-copyrightContainer,
@@ -65,6 +70,7 @@
         .post-articleMetaContainer,
         .post-featureImage,
         .post-featureImageCredit,
+        svg#map,
         aside {
             display: none !important;
         }
@@ -80,10 +86,21 @@
         .post-articleExtraMeta {
         	display: inline !important;
         }
-
+        .subtitle {
+        	font-size: 25px !important;
+        }
         .post-content img {
         	max-width: 500px;
         	max-height: 400px;
         }
+        .sectorSection-goalsContainer {
+        	padding: 5px 0px !important;
+        	margin: 0 !important;
+        }
+        .sectorSection-subsectorsList {
+        	border: none;
+        }
+
+
 
     }
