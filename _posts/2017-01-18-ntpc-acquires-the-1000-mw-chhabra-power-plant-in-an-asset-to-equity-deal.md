@@ -1,6 +1,9 @@
 ---
-title: "NTPC acquires the 1000 MW Chhabra power plant in an asset-to-equity deal"
-date: 2017-01-18
+title: NTPC acquires the 1000 MW Chhabra power plant in an asset-to-equity deal
+date: 2017-01-18 00:00:00 Z
+tags:
+- NTPC
+- Chhabra
 states:
 - Rajasthan
 - Center-State Relations
@@ -8,9 +11,6 @@ sectors:
 - Energy
 subsectors:
 - Coal
-tags:
-- NTPC
-- Chhabra
 sources:
 - name: Livemint
   url: http://www.livemint.com/Companies/3IKSrIIBRIz83vsaabfTiI/NTPC-to-pay-Rs700-cr-to-Rajasthan-govt-for-stake-in-Chhabra.html

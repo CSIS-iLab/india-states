@@ -159,7 +159,9 @@ gems:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-sitemap
-include: ['.travis.yml', 'Gemfile']
+include:
+- ".travis.yml"
+- Gemfile
 exclude:
 - vendor
 sector_overview_post_limit: 2
