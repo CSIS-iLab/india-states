@@ -153,23 +153,12 @@ twitter_username: IndiaStatesCSIS
 algolia:
   application_id: 7UNKAH6RMH
   index_name: india_states
-  indicies:
-    - name: india_states_posts_desc
-      json: posts.json
-  excluded_files:
-  - index.md
-  - about.md
-  - map.md
-  - states.md
-  - sectors.md
-  - search.md
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 markdown: kramdown
 gems:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-sitemap
-- algoliasearch-jekyll
 include: ['.travis.yml', 'Gemfile']
 exclude:
 - vendor

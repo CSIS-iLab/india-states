@@ -48,10 +48,10 @@ layout: default
 					{% endraw %}
 				</a>
 			</h2>
-			{% raw %}{{{ formattedDate }}}{% endraw %}
+			{% raw %}{{{ date }}}{% endraw %}
 			<p class="hit-excerpt">
 				{% raw %}
-				{{{excerpt}}}
+				{{{_snippetResult.excerpt.value}}}...
 				{% endraw %}
 			</p>
 		</div>
