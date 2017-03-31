@@ -68,7 +68,8 @@ if($(".search-container").length) {
         },
         transformData: {
           item: function (data) {
-            if(data.content_type == 'Articles' || 'Analysis') {
+            console.log(data);
+            if(data.content_type == 'Articles' || data.content_type == 'Analysis') {
               data.formattedDate = '<span class="articleMeta hit-date">Posted on <span class="articleDate">'+data.date+'</span></span>';
             }
             else {
