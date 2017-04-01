@@ -211,14 +211,34 @@ $(function() {
 			// Convert current page to integer
 			current_page = parseInt(current_page);
 
-			// Previous Button
+			// First & Previous Button
 			if(current_page > 1) {
+				$(".pagination-pagesContainer").append("<a href='"+hash+"1' data-page='1' class='next-prev'>«</a>");
+
 				var previousPage = current_page - 1;
-				$(".pagination-pagesContainer").append("<a href='"+hash+previousPage+"' data-page='"+previousPage+"' class='next-prev'>&lt; Previous</a>");
+				$(".pagination-pagesContainer").append("<a href='"+hash+previousPage+"' data-page='"+previousPage+"' class='next-prev'>&#8249; Previous</a>");
 			}
 
 			// Render each page button
-			for (var i = 1; i <= total_pages; i++) {
+			if(total_pages > 5 && current_page >= 4 ) {
+				var startPoint = current_page - 2;
+				if(current_page + 2 > total_pages){
+					var endPoint = total_pages;
+				}
+				else {
+					var endPoint = current_page + 2;
+				}
+			}
+			else if (total_pages > 5 && current_page < 4) {
+				var startPoint = 1;
+				var endPoint = 5;
+			}
+			else {
+				var startPoint = 1;
+				var endPoint = total_pages;
+			}
+
+			for (var i = startPoint; i <= endPoint; i++) {
 				if(i == current_page) {
 					var activeClass = "active";
 				}
@@ -228,10 +248,11 @@ $(function() {
 				$(".pagination-pagesContainer").append("<a href='"+hash+i+"' class='"+activeClass+"' data-page='"+i+"'><button class='btn-gray'>"+i+"</button></a>");
 			}
 
-			// Next Button
+			// Last & Next Button
 			if(current_page < total_pages) {
 				var nextPage = current_page + 1;
-				$(".pagination-pagesContainer").append("<a href='"+hash+nextPage+"' data-page='"+nextPage+"' class='next-prev'>Next &gt;</a>");
+				$(".pagination-pagesContainer").append("<a href='"+hash+nextPage+"' data-page='"+nextPage+"' class='next-prev'>Next &#8250;</a>");
+				$(".pagination-pagesContainer").append("<a href='"+hash+total_pages+"' data-page='"+total_pages+"' class='next-prev'>»</a>");
 			}
 		}
 

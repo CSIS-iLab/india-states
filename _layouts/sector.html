@@ -15,7 +15,7 @@ layout: default
           {% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
 
       <h1 class="subtitle">
-        <img src="{{ site.cloudinary_url }}{{ site.data.sector-icons[sectorSlug] | prepend: '/assets/img/sector-icons/' | relative_url }}" title="{{ page.title }}" alt="{{ page.title }}" /> {{ page.title | escape }}
+        <img src="{{ site.data.sector-icons[sectorSlug] | prepend: '/assets/img/sector-icons/' | relative_url }}" title="{{ page.title }}" alt="{{ page.title }}" /> {{ page.title | escape }}
       </h1>
       {{ page.content }}
     </div>
