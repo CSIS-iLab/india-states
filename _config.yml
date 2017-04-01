@@ -154,6 +154,7 @@ algolia:
   application_id: 7UNKAH6RMH
   index_name: india_states
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
+cloudinary_url: http://res.cloudinary.com/csisilab/image/fetch/
 markdown: kramdown
 gems:
 - jekyll-feed
