@@ -61,6 +61,14 @@ $(function() {
     window.onhashchange = paginationCheckHash;
 	paginationCheckHash();
 
+	// Drop down menu for mobile
+	if($(".sort-dropdown").length) {
+		$('.sort-dropdown').on('change', function () {
+	        var url = $(this).val(); // get selected value
+			window.location = url; // redirect
+	    });
+	}
+
 	/**
 	 * Calculates the total items, start item, end item, and sorts the chosen post array
 	 * @param  {String} sort_field   The field to sort the post array by

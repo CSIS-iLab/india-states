@@ -7,13 +7,21 @@
 <!-- Results -->
 <section class="pagination-sortByContainer sort-attributes-container">
 	<div class="row">
-		<div class="col-xs-12 col-md-6 pagination-totalResults"></div>
-		<div class="col-xs-12 col-md-6 pagination-sortBy">
-		  Sort by:
-		  <a href="#sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">&darr;Date</a> 
-		  <a href="#sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">&uarr;Date</a>
-		  <a href="#sort=sector&amp;order=desc" class="sort-attribute" data-sort="sort=sector&amp;order=desc">&darr;Sector</a>
-		  <a href="#sort=sector&amp;order=asc" class="sort-attribute" data-sort="sort=sector&amp;order=asc">&uarr;Sector</a>
+		<div class="col-xs-8 pagination-totalResults"></div>
+		<div class="col-xs-4 pagination-sortBy">
+			<div class="hidden-xs">
+			  Sort by:
+			  <a href="#sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">&darr;Date</a> 
+			  <a href="#sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">&uarr;Date</a>
+			  <a href="#sort=sector&amp;order=desc" class="sort-attribute" data-sort="sort=sector&amp;order=desc">&darr;Sector</a>
+			  <a href="#sort=sector&amp;order=asc" class="sort-attribute" data-sort="sort=sector&amp;order=asc">&uarr;Sector</a>
+			</div>
+			<select class="sort-dropdown">
+				<option value="#sort=date&amp;order=desc">&darr;Date</option>
+				<option value="#sort=date&amp;order=asc">&uarr;Date</option>
+				<option value="#sort=sector&amp;order=desc">&darr;Sector</option>
+				<option value="#sort=sector&amp;order=asc">&uarr;Sector</option>
+			</select>
 		</div>
 	</div>
 </section>
