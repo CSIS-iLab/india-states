@@ -3,7 +3,7 @@ title: Analysis
 permalink: "/analysis/"
 layout: analysis-landing
 extendedBreadcrumbs: true
-excerpt: This is the landing page for the analysis posts.
+excerpt: "<em>Engaging Indian States</em> features expert opinions and commentaries, which dive deeper in to examining matters pertaining to different sectors across various Indian States."
 ---
 
-This is the landing page for the analysis posts. All posts marked as "Analysis" will show here.
+<em>Engaging Indian States</em> features expert opinions and commentaries, which dive deeper in to examining matters pertaining to different sectors across various Indian States.

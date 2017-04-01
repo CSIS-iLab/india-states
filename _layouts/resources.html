@@ -4,20 +4,17 @@ layout: default
 
 <section class="page-container">
   <div class="content-wrapper fullWidthContent">
-    <header class="page-header">
-      <h1 class="main-title">{{ page.title | escape }}</h1>
-    </header>
-
     <article class="post-content">
-      {{ content }}
+      {% assign resources = site.resources | group_by:"type" %}
 
-      <ul>
-        {% for resource in site.resources %}
-          <li>
-            <a href='{{ resource.link }}' target="_blank">{{ resource.title }}</a>: {{ resource.content }}
-          </li>
+      {% for resource in resources %}
+      <h2 class="sectionSubtitle">{{ resource.name }}</h2>
+      <ul class="resource-listing">
+        {% for item in resource.items %}
+          <li><a href="{{ item.link }}" target="_blank" rel="nofollow">{{ item.title }} {% if resource.name == "Websites" %}<img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ item.title }}" alt="Go to" />{% endif %}</a></li>
         {% endfor %}
       </ul>
+      {% endfor %}
     </article>
   </div>
 </section>

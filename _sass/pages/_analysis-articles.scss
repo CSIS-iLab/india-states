@@ -141,10 +141,10 @@ article.post-individualContainer {
 				margin-top: 1rem;
 				margin-bottom: 0;
 			}
-		}
 
-		.post-articleMetaContainer {
-			margin-top: 3rem;
+			&:last-of-type {
+				margin-bottom: 3rem;
+			}
 		}
 
 		// Article Meta

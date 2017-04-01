@@ -48,7 +48,7 @@ layout: default
               Source:
             {% endif %}
             {% for source in page.sources %}
-                <a href="{{ source.url }}" target="_blank">{{ source.name }} <img src="{{ site.cloudinary_url }}{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
+                <a href="{{ source.url }}" target="_blank">{{ source.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
             {% endfor %}
             <br />
         {% endif %}
