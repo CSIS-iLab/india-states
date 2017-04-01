@@ -36,6 +36,13 @@ header.site-header {
 		}
 	}
 
+	.header-logoContainer.col-md-6 {
+		padding-left: 0;
+		padding-right: 0;
+		flex-basis: 45%;
+		max-width:45%;
+	}
+
 	.header-logo {
 		font-family: $font__ExpoSerif;
 		@include fontSize(26px);
@@ -50,6 +57,13 @@ header.site-header {
 	/*----------  Navigation  ----------*/
 	
 	.header-navContainer {
+		&.col-md-6 {
+			flex-basis:55%;
+			max-width:55%;
+			padding-left:0;
+			padding-right:0;
+		}
+
 		@include breakpoint("large") {
 			align-self: flex-end;
 			text-align:right;
@@ -61,8 +75,13 @@ header.site-header {
 			color: $color__header-nav-font;
 			text-transform: uppercase;
 
+			@include breakpoint("medium") {
+				background-color:red;
+			}
+
 			@include breakpoint("large") {
 				@include fontSize(15px);
+				background-color: transparent;
 			}
 
 			// Mobile Menu
