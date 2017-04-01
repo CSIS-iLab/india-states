@@ -15,7 +15,11 @@ subsectors:
 - Renewables
 feature_image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/pu…15_india_bi_index_image.jpg?eiYowiNPRCDW7eWb7Qqro8axnUfaFlxc&itok=hkjET-8d
 feature_image_credit: NARINDER NANU/AFP/Getty Images
-excerpt: "In September 2016, Madhya Pradesh became the latest state to encourage consumers to install solar rooftop panels. But despite the vogue for such sources of renewable energy, state policies vary widely. Andhra Pradesh was awarded the Breakthrough status for a policy that offers generous incentives to producers and consumers, including ambitious purchase targets and net-metering policies."
+excerpt: In September 2016, Madhya Pradesh became the latest state to encourage consumers
+  to install solar rooftop panels. But despite the vogue for such sources of renewable
+  energy, state policies vary widely. Andhra Pradesh was awarded the Breakthrough
+  status for a policy that offers generous incentives to producers and consumers,
+  including ambitious purchase targets and net-metering policies.
 ---
 
 <strong>This issue: </strong>In September 2016, <a href="http://www.mprenewable.nic.in/Decentralized%20RE%20Policy%20in%20English%2024.09.2016.pdf">Madhya Pradesh</a> became the latest state to encourage consumers to install solar rooftop panels. But despite the vogue for such sources of renewable energy, state policies vary widely. We awarded Andhra Pradesh Breakthrough status for a policy that offers generous incentives to producers and consumers, including ambitious purchase targets and net-metering policies.<br>

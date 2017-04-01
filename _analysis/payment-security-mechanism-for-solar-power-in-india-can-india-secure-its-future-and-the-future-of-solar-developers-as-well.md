@@ -15,7 +15,12 @@ subsectors:
 - Renewables
 feature_image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/pu…0210_ENS_Fact_Opinion_0.jpg?I0._RZrUYiCOaSuyyHt17oEhkbEUrGft&itok=-Qwa75si
 feature_image_credit: 
-excerpt: "India has set a target of 175 GW of power from renewable sources by 2022, of which 100 GW is set to come from solar energy. India’s renewable energy plans are predominantly financed by the central government or by debt financing through banks. The role of institutional investors in developing and financing renewable energy projects in India is crucial. Therefore, having a good investment environment is important to maintain investor involvement."
+excerpt: India has set a target of 175 GW of power from renewable sources by 2022,
+  of which 100 GW is set to come from solar energy. India’s renewable energy plans
+  are predominantly financed by the central government or by debt financing through
+  banks. The role of institutional investors in developing and financing renewable
+  energy projects in India is crucial. Therefore, having a good investment environment
+  is important to maintain investor involvement.
 ---
 
 <p><strong>FACTS:</strong>
