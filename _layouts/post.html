@@ -17,7 +17,7 @@ layout: default
     <!-- Feature Image -->
     {% if page.is_analysis and page.feature_image.size > 0 %}
       <div class="post-featureImage">
-        <img src="{{ page.feature_image }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+        <img src="{{ page.feature_image | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
         {% if page.feature_image_credit %}
           <span class="post-featureImageCredit"><em>Photo credit:</em> {{ page.feature_image_credit }}</span>
         {% endif %}
@@ -48,14 +48,14 @@ layout: default
               Source:
             {% endif %}
             {% for source in page.sources %}
-                <a href="{{ source.url }}" target="_blank">{{ source.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
+                <a href="{{ source.url }}" target="_blank">{{ source.name }} <img src="{{ site.cloudinary_url }}{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
             {% endfor %}
             <br />
         {% endif %}
         {% if page.details and page.details[0] != null %}
         In Detail: 
         {% for detail in page.details %}
-            <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
+            <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ site.cloudinary_url }}{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
         {% endfor %}
       {% endif %}
     </div>
@@ -68,7 +68,7 @@ layout: default
         {% assign authorInfo = site.authors | where:"title",author | first %}
         <section class="post-authorInfoContainer row" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <div class="post-authorImage col-xs-12 col-md-3">
-            <img src="{{ authorInfo.image | default:'/assets/img/anon-author.svg' }}" alt='{{ author }} Image'/>
+            <img src="{{ site.cloudinary_url }}{{ authorInfo.image | default:'/assets/img/anon-author.svg' }}" alt='{{ author }} Image'/>
           </div>
           <div class="post-authorInfo col-xs-12 col-md-9">
             <h3 class="post-authorName sectionSubtitle" itemprop="name">{{ author }}</h3>
