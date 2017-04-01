@@ -15,7 +15,7 @@
 				</div>
 				<div class="col-xs-12 col-md-9">
 					{% capture readMore %} <span class="post-readMore"><a href="{{ post.url | relative_url }}">Read More &gt;</a>{% endcapture %}
-					{{ post.excerpt | remove: '</p>' | append: readMore | add: '</p>' }}
+					<p>{{ post.excerpt | truncatewords: 40 | append: readMore }}</p>
 				</div>
 			</div>
 		{% else %}
