@@ -251,9 +251,6 @@
     float: left;
     max-width: 23%;
   }
-  .ais-search-box:first-of-type {
-    display: none;
-  }
 
   #search-input input {
     @include fontSize(60px);

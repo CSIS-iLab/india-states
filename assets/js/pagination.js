@@ -32,8 +32,9 @@ $(function() {
 				$(".subsector-link[data-show-subsector='"+subsector+"']").first().addClass("active");
 
             }
-            $(".sort-attribute").removeClass("active");
-            $("a.sort-attribute[href^='#"+hash+"']").addClass("active");
+
+            $("a.sort-attribute").removeClass("active");
+            $("a.sort-attribute[data-sort='sort="+sort_field+"&order="+sort_order+"']").addClass("active");
         }
         else {
         	// Set "All" button to active
@@ -126,7 +127,7 @@ $(function() {
 		}
 
 		// If we have no results, display no results message
-		if(posts == undefined) {
+		if(posts == undefined || posts.length == 0) {
 			paginationNoResults();
 		}
 		else {
