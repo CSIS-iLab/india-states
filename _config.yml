@@ -150,7 +150,7 @@ url: http://india-states.siteleaf.net
 date_format: "%B %-d, %Y"
 post_meta_limit: 5
 post_meta_sector_limit: 3
-google_analytics:
+google_analytics: 
 facebook: CsisIndiaChair
 twitter_username: IndiaStatesCSIS
 algolia:
@@ -171,4 +171,7 @@ exclude:
 sector_overview_post_limit: 2
 post_archive_posts_per_page: 2
 newsletter_link: 
-newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India Policy Studies publishes the “Update on India’s States”, a newsletter featuring the most significant socioeconomic and political developments from thirteen of India’s very powerful states, including the national capital and union territory of New Delhi.  
+newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India Policy
+  Studies publishes the “Update on India’s States”, a newsletter featuring the most
+  significant socioeconomic and political developments from thirteen of India’s very
+  powerful states, including the national capital and union territory of New Delhi.
