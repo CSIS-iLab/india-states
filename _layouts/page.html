@@ -10,6 +10,10 @@ layout: default
 
 		<article class="post-content">
 			{{ content }}
+
+			{% if page.permalink == "/about/" %}
+				{% include about-team.html %}
+			{% endif %}
 		</article>
 	</div>
 </section>

@@ -144,7 +144,7 @@ email: jschrag@csis.org
 description: Engaging Indian States is a comprehensive tool for businesses, researchers,
   policymakers, & journalists who seek to engage with India’s state governments.
 baseurl: 
-url: 
+url: http://india-states.siteleaf.net
 date_format: "%B %-d, %Y"
 post_meta_limit: 5
 post_meta_sector_limit: 3
