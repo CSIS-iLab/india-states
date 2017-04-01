@@ -1,12 +1,12 @@
 ---
 title: Assam
-size: "30,285"
+size: '30,285'
 population: 31.2
 party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 126
 rajya_seats: 7
 lok_seats: 14
-gdp: $2,416
+gdp: "$2,416"
 feature_images:
   primary:
     image: 

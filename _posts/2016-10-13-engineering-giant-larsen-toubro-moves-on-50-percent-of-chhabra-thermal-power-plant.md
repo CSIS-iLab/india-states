@@ -1,16 +1,17 @@
 ---
-title: "Engineering giant Larsen & Toubro moves on 50 percent of Chhabra thermal power plant"
-date: 2016-10-13
+title: Engineering giant Larsen & Toubro moves on 50 percent of Chhabra thermal power
+  plant
+date: 2016-10-13 00:00:00 Z
+tags:
+- Larsen & Toubro
+- Chhabra
+- RRVUNL
 states:
 - Rajasthan
 sectors:
 - Energy
 subsectors:
 - Coal
-tags:
-- Larsen & Toubro
-- Chhabra
-- RRVUNL
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/lt-synchronises-660-mw-unit-at-rajasthan-project/articleshow/54676237.cms

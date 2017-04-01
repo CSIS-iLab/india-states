@@ -1,12 +1,13 @@
 ---
 title: Bihar
-size: "36,357"
+size: '36,357'
 population: 103.8
-party_affiliation: Rashtriya Janata Dal (RJD) & Janata Dal (United) (JD(U)) & Indian National Congress (INC)
+party_affiliation: Rashtriya Janata Dal (RJD) & Janata Dal (United) (JD(U)) & Indian
+  National Congress (INC)
 legislative_seats: 243
 rajya_seats: 16
 lok_seats: 40
-gdp: $5,207
+gdp: "$5,207"
 feature_images:
   primary:
     image: 

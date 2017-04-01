@@ -8,18 +8,37 @@
 	background-color: $base-blue;
 	font-family: $font__MuseoSans;
 	@include fontSize(15px);
-	line-height: 1.3rem;
+	line-height: 1.4rem;
 	padding: 0.2rem 0.5rem;
 	margin-bottom: 0.1rem;
+	width: calc(100% - 1rem);
+	position: relative;
+	display: block;
+	height: 45px;
 
-	.pagination-totalResults {
-		float: left;
-		width: 50%;
+	@include breakpoint("large") {
+		height: 100%;
 	}
 
+	.pagination-totalResults {
+		display: block;
+
+		@include breakpoint("large") {
+			display: inline;
+		}
+	}
+
+
 	.pagination-sortBy {
-		text-align: right;
 		font-style: italic;
+		display: block;
+		float: left;
+
+		@include breakpoint("large") {
+			text-align: right;
+			float: right;
+			display: inline;
+		}
 
 		a {
 			color: $light-blue;
@@ -38,18 +57,24 @@
 .pagination-posts-container {
 	.pagination-sectionTitle {
 		color: $base-orange;
-		margin: 0.5rem 0;
+		margin: 0.8rem 0 0.2rem;
+		font-weight: 300;
+		@include fontSize(20px);
 	}
 
-	p.noResults {
-		margin: 1rem 0 3rem 0;
-	}
+}
+
+p.noResults {
+	margin: 2rem 0 4rem 0;
+	color: $dark-gray;
+	text-align: center;
+	font-style: italic;
 }
 
 /*----------  Page Numbers  ----------*/
 .pagination-pagesContainer {
 	text-align: center;
-	margin: 1.5rem 0;
+	margin: 1.5rem 0 4rem;
 	@include fontSize(15px);
 	font-family: $font__MuseoSans;
 

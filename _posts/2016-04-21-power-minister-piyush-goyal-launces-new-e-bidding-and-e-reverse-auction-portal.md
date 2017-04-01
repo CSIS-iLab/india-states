@@ -1,6 +1,11 @@
 ---
-title: "Power Minister Piyush Goyal launces new e-bidding and e-reverse auction portal"
-date: 2016-04-21
+title: Power Minister Piyush Goyal launces new e-bidding and e-reverse auction portal
+date: 2016-04-21 00:00:00 Z
+tags:
+- Piyush Goyal
+- DEEP
+- Distribution
+- Electricity
 states:
 - Center-State Relations
 sectors:
@@ -8,11 +13,6 @@ sectors:
 subsectors:
 - Renewables
 - Coal
-tags:
-- Piyush Goyal
-- DEEP
-- Distribution
-- Electricity
 sources:
 - name: Livemint
   url: http://www.livemint.com/Industry/9gG3o4lUfQ1eiOvExJe6IO/Power-purchase-tender-process-replaced-by-ebidding-platfor.html

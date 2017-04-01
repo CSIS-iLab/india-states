@@ -1,20 +1,20 @@
 ---
-title: "Maharashtra joins the center's UDAY power bailout initaitive"
-date: 2016-10-13
+title: Maharashtra joins the center's UDAY power bailout initaitive
+date: 2016-10-13 00:00:00 Z
+tags:
+- Distribution
+- MSEDCL
+- UDAY
 states:
 - Maharashtra
 sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- Distribution
-- MSEDCL
-- UDAY
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/maharashtra-joins-uday-discom-scheme-to-get-rs-9725-cr-benefits/articleshow/54735515.cms
-details:
+details: 
 ---
 
 Maharashtra and its power distribution utility signed an MoU with the Union Ministry of Power to join the Ujwal Discom Assurance Yojna (UDAY).

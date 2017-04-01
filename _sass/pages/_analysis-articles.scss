@@ -10,8 +10,11 @@
 article.post-individualContainer {
 
 	ul.shareIcons {
-		float: right;
-		margin-bottom: 3rem;
+		//margin-bottom: 3rem;
+
+		@include breakpoint("medium") {
+			float: right;
+		}
 	}
 
 	.post-header {
@@ -35,9 +38,13 @@ article.post-individualContainer {
 
 		// Feature Image
 		.post-featureImage {
-			float: right;
-			max-width: 60%;
-			margin: 0 0 1rem 2rem;
+			margin-bottom: 1rem;
+
+			@include breakpoint("medium") {
+				float: right;
+				max-width: 60%;
+				margin: 0 0 1rem 2rem;
+			}
 
 			img {
 				width: 100%;
@@ -95,6 +102,7 @@ article.post-individualContainer {
 
 				img {
 					max-width: 10px;
+					
 				}
 			}
 		}
@@ -105,6 +113,10 @@ article.post-individualContainer {
 		padding: 3rem 0;
 		clear: both;
 
+		.post-authorImage img {
+			max-width: 200px;
+			padding-bottom: 10px;
+		}
 		// Author Information
 		.post-authorInfoContainer {
 			margin-bottom: 2rem;
@@ -147,8 +159,11 @@ article.post-individualContainer {
 
 		// Related Posts
 		.post-relatedPosts {
+			margin-top: 2rem;
+
 			@include breakpoint("medium") {
 				padding-left: 2rem;
+				margin-top: 0;
 			}
 
 			.sectionSubtitle {

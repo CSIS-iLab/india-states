@@ -1,14 +1,15 @@
 ---
-title: "Haryana makes energy conservation building code mandatory for some government departments"
-date: 2016-12-30
+title: Haryana makes energy conservation building code mandatory for some government
+  departments
+date: 2016-12-30 00:00:00 Z
+tags:
+- Building Code
 states:
 - Haryana
 sectors:
 - Energy
 subsectors:
 - Energy Efficiency
-tags:
-- Building Code
 sources:
 - name: Outlook India
   url: http://www.outlookindia.com/newswire/story/haryana-govt-makes-ecbc-implementation-mandatory/962849

@@ -1,16 +1,16 @@
 ---
-title: "Tata Power wins two solar projects in Karnataka"
-date: 2016-05-25
+title: Tata Power wins two solar projects in Karnataka
+date: 2016-05-25 00:00:00 Z
+tags:
+- Tata Power
+- Solar
+- Pavagada
 states:
 - Karnataka
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Tata Power
-- Solar
-- Pavagada
 sources:
 - name: Hindu Business Line
   url: http://www.thehindubusinessline.com/companies/tata-power-arm-bags-2-projects-in-karnataka/article8620302.ece

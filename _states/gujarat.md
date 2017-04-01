@@ -1,12 +1,12 @@
 ---
 title: Gujarat
-size: "75,685"
+size: '75,685'
 population: 60.4
 party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 182
 rajya_seats: 11
 lok_seats: 26
-gdp: $11,601
+gdp: "$11,601"
 feature_images:
   primary:
     image: 

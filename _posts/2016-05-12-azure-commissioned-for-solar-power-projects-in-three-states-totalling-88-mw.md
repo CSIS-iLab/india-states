@@ -1,6 +1,9 @@
 ---
-title: "Azure commissioned for solar power projects in three states, totalling 88 MW"
-date: 2016-05-12
+title: Azure commissioned for solar power projects in three states, totalling 88 MW
+date: 2016-05-12 00:00:00 Z
+tags:
+- Solar
+- Azure
 states:
 - Andhra Pradesh
 - Punjab
@@ -9,9 +12,6 @@ sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Solar
-- Azure
 sources:
 - name: Hindu Business Line
   url: http://www.thehindubusinessline.com/companies/azure-power-commissions-projects-in-three-states/article8560744.ece

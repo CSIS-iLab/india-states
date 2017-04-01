@@ -1,15 +1,15 @@
 ---
-title: "Gujarat to launch solar rooftop project"
-date: 2016-05-12
+title: Gujarat to launch solar rooftop project
+date: 2016-05-12 00:00:00 Z
+tags:
+- GEDA
+- Solar Rooftop
 states:
 - Gujarat
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- GEDA
-- Solar Rooftop
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/gujarat-government-to-kick-start-solar-rooftop-project-for-citizens/articleshow/52183146.cms

@@ -1,6 +1,6 @@
 ---
 title: Center-State Relations
-size: ""
+size: ''
 population: 
 party_affiliation: 
 legislative_seats: 

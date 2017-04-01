@@ -7,10 +7,13 @@ footer.site-footer {
   .footer-mainContainer {
     background-image: url('img/map-footer.svg');
     background-repeat: no-repeat;
-    background-position: right;
     background-color: $base-blue;
     padding: 2rem 0;
     @include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
+
+    @include breakpoint("medium") {
+        background-position: right;
+      }
 
     .footer-logoContainer {
       p {
@@ -24,6 +27,26 @@ footer.site-footer {
       
       @include breakpoint("medium") {
         padding: 0 2rem;
+      }
+
+      /*----------  Twitter Widget  ----------*/
+      a.twitter-timeline {
+        /* Text */
+        font: normal 12px/18px Helvetica, Arial, sans-serif;
+        color: #333;
+        white-space: nowrap;
+      }
+
+      a.twitter-timeline:hover,
+      a.twitter-timeline:focus {
+        background-color: #dedede;
+      }
+
+      /* Color Highlight for keyboard navigation */
+
+      a.twitter-timeline:focus {
+        outline: none;
+        border-color: #0089cb;
       }
     }
 
@@ -121,9 +144,17 @@ footer.site-footer {
         @include fontSize(14px);
         padding-top: 0.5rem;
 
+        div {
+          margin-top: 0.5rem;
+        }
+
         @include breakpoint("medium") {
           padding-top: 0rem;
           text-align: right;
+
+          div {
+            margin-top: 0;
+          }
         }
       }
     }

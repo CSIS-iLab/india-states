@@ -5,16 +5,30 @@
 	.hidden {
 		display:none;
 	}
+
 }
+
 
 /*----------  Post Listing: Individual Post  ----------*/
 .post-articleContainer {
 	border-top: 2px solid $gray;
 	margin: 0 0 4rem 0;
-	padding-top: 1rem;
+	padding-top: .8rem;
+
+	@include breakpoint("large") {
+		margin: 0 0 3rem 0;
+	}
 
 	.post-articleContent {
-		padding-right: 3rem;
+		padding-left: 0px;
+		padding-right: 0px;
+
+
+		@include breakpoint("large") {
+			padding-right: 3rem;
+			padding-left: .5rem;
+			padding-right: 3rem;
+		}
 
 		.analysis {
 			margin: 0.8em auto;
@@ -49,7 +63,7 @@
 		hr {
 			width: 15%;
 			border-style: solid;
-			border-color: $light-gray;
+			border-color: $map-gray;
 			margin: 0 0 0.8rem 0;
 		}
 
@@ -72,11 +86,25 @@
 					max-width: 10px;
 				}
 			}
+
+			.externalLink {
+				border-style: none;
+				box-shadow: none;
+			}
 		}
 	}
 }
 
 .post-articleMetaContainer {
+	padding-left: 0px;
+	padding-right: 0px;
+
+
+	@include breakpoint("large") {
+		padding-right: 3rem;
+		padding-left: .5rem;
+		padding-right: .5rem;
+	}
 		
 	hr {
 		border-style: dashed;

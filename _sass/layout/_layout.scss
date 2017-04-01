@@ -2,7 +2,7 @@ html {
 	font-size: 100%;
 }
 body:not(.home-body) {
-	padding: 82px 0 0 0;
+	padding: 92px 0 0 0;
 	margin: 0;
 
 	@include breakpoint("medium") {
@@ -10,7 +10,7 @@ body:not(.home-body) {
 	}
 
 	@include breakpoint("large") {
-		padding-top: 155px;
+		padding-top: 160px;
 	}
 }
 
@@ -23,6 +23,9 @@ body:not(.home-body) {
 		&.fullWidthContent {
 			margin: 0 auto;
 			max-width: 900px;
+			@media (max-width: 900px) {
+				margin: 0 1.5rem;
+			}
 		}
 	}
 }

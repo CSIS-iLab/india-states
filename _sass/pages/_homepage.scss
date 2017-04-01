@@ -4,6 +4,7 @@
 
 .home-body {
 	background-color: $base-blue;
+	overflow-x: hidden;
 
 	@include breakpoint("medium") {
 		background-image:url('img/map-homepage-full.svg');
@@ -24,7 +25,7 @@
 		@include breakpoint("medium") {
 			display: block;
 			position: absolute;
-			z-index:50;
+			z-index:30;
 			width: 55px;
 			height: 55px;
 			top: 20%;
@@ -45,7 +46,7 @@
 				float: left;
 			    width: 100%;
 			    padding-top: 50%;
-			    margin-top: -0.6em;
+			    margin-top: -0.65em;
 			    color: $gray-text;
 				@include fontSize(26px);
 				font-family: $font__ExpoSerif;
@@ -68,26 +69,33 @@
 	.home-stateContainer, .home-sectorContainer {
 		padding: 2rem;
 		background-repeat: no-repeat;
-		background-size: cover;
+		background-size: 100% auto;
 		background-position-x: 10%;
 
 		@include breakpoint("medium") {
 			padding: 0 7%;
 			background-image: none !important;
 			background-color: transparent !important;
+			background-size: cover;
+			background-position-x: 10%;
 		}
 
 		.home-contentWrapper {
 			max-width: 500px;
+
 		}
 
 		.main-title {
 			text-transform: uppercase;
 			letter-spacing: 0.5px;
 			line-height: 1.2rem;
-			margin-top: 1rem;
+			margin-top: 3.5rem;
 			margin-bottom: 3rem;
 			text-align: center;
+
+			@include breakpoint("medium") {
+			margin-top: 1rem;
+			}
 		}
 
 		p {
@@ -99,8 +107,11 @@
 		}
 
 		button.btn-orange {
-			padding: 6px 25px;
-			@include fontSize(18px);
+			padding: 8px 25px 6px;
+			margin-bottom: 3rem;
+			@include fontSize(16px);
+			border-radius: 2px;
+
 		}
 	}
 
@@ -109,9 +120,11 @@
 		background-image:url('img/map-homepage-blue-mobile.svg');
 		background-color: $base-blue;
 		margin-top: 3rem;
+		background-position-y: 100%;
 
 		@include breakpoint("medium") {
 			margin-top: 0;
+			background-position-y: auto;
 		}
 
 		.home-contentWrapper {
@@ -198,6 +211,7 @@
 	    outline: none;
 	    margin: 0;
 	    border: none;
+	    letter-spacing: .5px;
 	    background-color: $white;
 	    color: $medium-gray;
 	    padding: 10px;
@@ -205,7 +219,8 @@
 	    text-align: left;
 	    border-radius: 0;
 	    text-transform: none;
-	    font-weight: 500;
+	    font-weight: 300;
+	    @include fontSize(16px);
 
 	    -webkit-transition: background 200ms;
 	    -moz-transition: background 200ms;
@@ -222,7 +237,7 @@
 	    display: block;
 	    background-color: $medium-gray;
 	    padding: 10px 12px;
-	    @include fontSize(22px);
+	    @include fontSize(15px);
 	}
 
 	.home-dropdownContainer button:hover span,

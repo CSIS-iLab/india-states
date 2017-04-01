@@ -11,7 +11,7 @@
 		{% if post.is_analysis %}
 			<div class="row analysis">
 				<div class="analysis-image col-xs-12 col-md-3">
-					<a href="{{ post.url | relative_url }}"><img src="{{ post.feature_image }}" alt="{{ post.title }}" title="{{ post.title }}" /></a>
+					<a href="{{ post.url | relative_url }}"><img src="{{ post.feature_image  | prepend: site.cloudinary_url }}" alt="{{ post.title }}" title="{{ post.title }}" /></a>
 				</div>
 				<div class="col-xs-12 col-md-9">
 					{% capture readMore %} <span class="post-readMore"><a href="{{ post.url | relative_url }}">Read More &gt;</a>{% endcapture %}
@@ -33,7 +33,7 @@
 		          Source:
 		        {% endif %}
 		        {% for source in post.sources %}
-		            <a href="{{ source.url }}" target="_blank">{{ source.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
+		            <a href="{{ source.url }}" class="sourceLink" target="_blank">{{ source.name }}</a> <a class="externalLink" href="{{ source.url }}" target="_blank"><img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
 		        {% endfor %}
 		        <br />
 		    {% endif %}
@@ -43,8 +43,8 @@
 				    <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
 				{% endfor %}
 			{% endif %}
-
-			{% include share-icons.html shareTitle=post.title shareLink=post.url individual="true" %}
+			{% assign pageID = post.title | escape | slugify %}
+			{% include share-icons.html shareTitle=post.title shareLink=post.url individual="true" pageID=pageID %}
 		</div>
 	</div>
 	<!-- Article Meta -->

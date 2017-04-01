@@ -4,14 +4,49 @@
 
 .tableOfContents {
 	background-color: $light-gray;
-	padding: 2rem 3.5rem;
 	font-family: $font__MuseoSans;
+	padding: 0.5rem 1rem;
+
+	@include breakpoint("medium") {
+		padding: 2rem 3.5rem;
+	}
+
+	&.fixedMobile {
+		position:fixed;
+		left: 0;
+		right: 0;
+
+		.tableOfContents-instructions, .tableOfContents-list {
+			display: none;
+		}
+
+		.sectionSubtitle {
+			display: inline-block;
+		}
+
+		@include breakpoint("medium") {
+			position: relative;
+			left: initial;
+			right: initial;
+
+			.tableOfContents-instructions, .tableOfContents-list, .sectionSubtitle {
+				display: block;
+			}
+		}
+
+	}
 
 	.sectionSubtitle {
-		border-bottom: 2px solid $dark-gray;
+		border-bottom: 0px solid transparent;
 		margin: 0;
 		font-weight: 300;
-		@include fontSize(20px);
+		@include fontSize(15px);
+
+
+		@include breakpoint("medium") {
+			border-bottom: 2px solid $dark-gray;
+		}
+
 	}
 
 	.tableOfContents-instructions {
@@ -51,5 +86,13 @@
 
 	.isSticky {
 		z-index: 25;
+	}
+
+	// Dropdown for mobile
+	.tableOfContents-dropdown {
+
+		@include breakpoint("medium") {
+			display: none;
+		}
 	}
 }

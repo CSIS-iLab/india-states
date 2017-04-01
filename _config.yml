@@ -1,3 +1,4 @@
+---
 title: Engaging Indian States
 timezone: UTC
 collections:
@@ -5,6 +6,9 @@ collections:
     title: Analysis
     output: true
     path: "/:path/:title/"
+  posts:
+    title: Articles
+    output: true
   authors:
     title: Authors
     output: false
@@ -12,9 +16,6 @@ collections:
     title: National Goals
     output: true
     path: "/:path/:title/"
-  posts:
-    title: Articles
-    output: true
   resources:
     title: Resources
     output: false
@@ -43,7 +44,7 @@ defaults:
     permalink: "/articles/:title/"
     states: 
     sectors: 
-    subsectors:  
+    subsectors: 
     sources:
       name: 
       url: 
@@ -51,14 +52,12 @@ defaults:
       name: 
       url: 
     is_analysis: false
-    breadcrumbs: articles
 - scope:
     path: ''
     type: analysis
   values:
     layout: post
     content_type: Analysis
-    excerpt:
     states: 
     sectors: 
     subsectors: 
@@ -72,7 +71,6 @@ defaults:
       url: 
     is_analysis: true
     author: 
-    breadcrumbs: analysis
 - scope:
     path: ''
     type: states
@@ -88,6 +86,8 @@ defaults:
         credit: 
     size: 
     population:
+      rural: 
+      urban: 
     party_affiliation: 
     legislative_seats: 
     rajya_seats: 
@@ -140,7 +140,7 @@ defaults:
     job_title: 
     image: 
 permalink: pretty
-email: 
+email: jschrag@csis.org
 description: Engaging Indian States is a comprehensive tool for businesses, researchers,
   policymakers, & journalists who seek to engage with India’s state governments.
 baseurl: 
@@ -153,22 +153,17 @@ twitter_username: IndiaStatesCSIS
 algolia:
   application_id: 7UNKAH6RMH
   index_name: india_states
-  excluded_files:
-  - index.md
-  - about.md
-  - map.md
-  - states.md
-  - sectors.md
-  - search.md
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
+cloudinary_url: http://res.cloudinary.com/csisilab/image/fetch/
 markdown: kramdown
 gems:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-sitemap
-- algoliasearch-jekyll
-include: ["_config.yml", ".travis.yml", "Gemfile"]
+include:
+- ".travis.yml"
+- Gemfile
 exclude:
 - vendor
-sector_overview_post_limit: 4
-post_archive_posts_per_page: 15
+sector_overview_post_limit: 2
+post_archive_posts_per_page: 2

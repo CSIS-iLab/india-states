@@ -1,12 +1,12 @@
 ---
 title: Karnataka
-size: "74,051"
+size: '74,051'
 population: 61.1
 party_affiliation: Indian National Congress (INC)
 legislative_seats: 224
 rajya_seats: 12
 lok_seats: 20
-gdp: $9,312
+gdp: "$9,312"
 feature_images:
   primary:
     image: 

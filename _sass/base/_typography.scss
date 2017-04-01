@@ -6,17 +6,25 @@ body {
 
 .main-title {
   font-family: $font__MuseoSans;
-  @include fontSize(68px);
+  @include fontSize(45px);
   line-height: 1em;
   color: $base-blue;
+
+    @include breakpoint("medium") {
+    @include fontSize(68px);
+  }
 }
 
 .subtitle {
   font-family: $font__ExpoSerif;
-  @include fontSize(62px);
+  @include fontSize(45px);
   line-height: 1em;
   color: $base-blue;
   font-weight: 600;
+      
+    @include breakpoint("medium") {
+    @include fontSize(68px);
+  }
 }
 
 .sectionTitle {
@@ -24,16 +32,21 @@ body {
   font-family: $font__MuseoSans;
   font-weight: 700;
   character: 0.1rem;
-  @include fontSize(32px);
+  @include fontSize(20px);
   text-transform: uppercase;
+    
+    @include breakpoint("medium") {
+    @include fontSize(25px);
+  }
 }
 
 .sectionSubtitle {
   color: $base-blue;
   font-family: $font__MuseoSans;
   font-weight: 700;
-  @include fontSize(25px);
+  @include fontSize(20px);
   text-transform: uppercase;
+
 }
 
 p {
@@ -77,17 +90,28 @@ a {
 /*----------  Articles  ----------*/
 .articleTitle {
   color: $gray;
-  @include fontSize(22px);
+  @include fontSize(20px);
   font-family: $font__ExpoSerif;
-  line-height: 1.8;
+  line-height: 1.4;
   margin: 0 0 0.2rem 0;
   font-weight: 600;
+
+    @include breakpoint("medium") {
+    @include fontSize(22px);
+    font-family: $font__ExpoSerif;
+    line-height: 1.4;
+  }
+ 
+  a {
+        box-shadow: inset 0px -2px 0px 0 transparent;
+  }
 }
 
 .articleMeta {
   color: $gray-text;
   @include fontSize(14px);
   line-height: 1.4rem;
+  padding-top: .1rem;
   font-family: $font__MuseoSans;
 
   .articleDate, .articleAuthor {

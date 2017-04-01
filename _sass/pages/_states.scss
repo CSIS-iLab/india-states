@@ -7,12 +7,19 @@
 	padding-bottom: 2rem;
 
 	ul.shareIcons:first-of-type {
-		text-align: right;
 		margin-top: 0.5rem;
+
+		@include breakpoint("medium") {
+			text-align: right;
+		}
 	}
 
 	.main-title {
-		margin-bottom: 0.5rem;
+		margin: 1rem 0;
+
+		@include breakpoint("medium") {
+			margin: 0 0 1rem;
+		}
 	}
 
 	.stateInfo {
@@ -64,6 +71,16 @@
 		    	}
 		    }
 
+		}
+	}
+
+	// Map
+	.stateMapContainer {
+		margin: 3rem auto 0;
+		max-width: 400px;
+
+		@include breakpoint("large") {
+			margin: 0rem auto 0;
 		}
 	}
 }

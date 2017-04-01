@@ -5,7 +5,7 @@ layout: default
 <div class="row">
 
   <!-- Table of Contents -->
-  {% include table-of-contents.html viewAll="true" stickyMenu="false" %}
+  {% include table-of-contents.html viewAll="true" stickyMenu="false" mobileHide="false" %}
 
   <!-- State Information -->
   <section class="stateInfoContainer col-xs-12 col-md-9">
@@ -69,16 +69,16 @@ layout: default
 <!-- Feature Images -->
 <div class="stateFeatureImageContainer row">
   <div class="col-xs-12 col-md-6">
-    <img src="{{ page.feature_images.primary.image }}" />
+    <img src="{{ page.feature_images.primary.image | prepend: site.cloudinary_url }}" alt="{{ page.feature_images.primary.credit }}" title="{{ page.feature_images.primary.credit }}" />
   </div>
   <div class="hidden-xs col-md-6">
-    <img src="{{ page.feature_images.secondary.image }}" />
+    <img src="{{ page.feature_images.secondary.image  | prepend: site.cloudinary_url }}" alt="{{ page.feature_images.secondary.credit }}" title="{{ page.feature_images.secondary.credit }}" />
   </div>
 </div>
 
 <div class="row">
   <!-- Table of Contents -->
-  {% include table-of-contents.html viewAll="true" stickyMenu="true" %}
+  {% include table-of-contents.html viewAll="true" stickyMenu="true" mobileHide="true" %}
 
   <!-- State Articles -->
   <section class="sectorsArticlesContainer col-xs-12 col-md-9">
@@ -96,7 +96,7 @@ layout: default
       {% endfor %}
 
       <!-- View All Link -->
-      <a href="{{ page.url | relative_url }}archive"><button class="btn-orange">View All Articles &gt;</button></a>
+      <a href="{{ page.url | relative_url }}archive"><button class="btn-orange btn-center">View All Articles &rsaquo;</button></a>
     </div>
   </section>
 </div>

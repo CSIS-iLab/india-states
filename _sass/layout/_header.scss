@@ -42,7 +42,7 @@ header.site-header {
 		color: $white;
 
 		@include breakpoint("medium") {
-			@include fontSize(50px);
+			@include fontSize(45px);
 		}
 
 	}
@@ -66,18 +66,45 @@ header.site-header {
 			}
 
 			// Mobile Menu
-			.menu-icon {
-				width: auto;
-
-				// Hide on Desktops and larger
+			#nav-toggle {
+				cursor: pointer;
+				position: absolute;
+				right: 3.5rem;
 				@include breakpoint("large") {
-					display:none;
+					display: none;
 				}
+			}
+			#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
+			  cursor: pointer;
+			  border-radius: 1px;
+			  height: 5px;
+			  width: 35px;
+			  background: white;
+			  position: absolute;
+			  display: block;
+			  content: '';
+			}
+			#nav-toggle span:before {
+			  top: -10px; 
+			}
+			#nav-toggle span:after {
+			  bottom: -10px;
+			}
 
-				svg {
-					max-height: 40px;
-					width: auto;
-				}
+			#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
+			  transition: all 500ms ease-in-out;
+			}
+			#nav-toggle.active span {
+			  background-color: transparent;
+			}
+			#nav-toggle.active span:before, #nav-toggle.active span:after {
+			  top: 0;
+			}
+			#nav-toggle.active span:before {
+			  transform: rotate(45deg);
+			}
+			#nav-toggle.active span:after {
+			  transform: rotate(-45deg);
 			}
 
 			#toggleMenu { display: none;}
@@ -174,13 +201,18 @@ header.site-header {
 
 					@include breakpoint("large") {
 						display:inline-block;
-						margin-right: -4px;
+						margin-right: 0px;
 					}
 
 					// State & Sector Look
 					&.ss-nav {
 						color: $color__header-ss-nav-font;
 						background-color: $color__header-ss-nav-background;
+						margin-right: -4px;
+
+						@include breakpoint("large") {
+							padding: 2px 5px 0px;
+						}
 
 						a {
 							color: $color__header-ss-nav-font;
@@ -240,11 +272,13 @@ header.site-header {
 					    	text-transform: none;
 					    	@include fontSize(16px);
 
-					    	@include breakpoint("large") {
-					    		&.dropdown-viewAll {
-					    			display: none;
-					    		}
-					    	}
+					    	&.dropdown-viewAll {
+				    			font-style: italic;
+
+				    			@include breakpoint("large") {
+				    				display: none;
+				    			}
+				    		}
 					    }
 
 						& > li > a {
@@ -296,11 +330,39 @@ header.site-header {
 		.header-navContainer {
 			align-self: inherit;
 
+			// Hide State & Sector on desktop
+			@include breakpoint("large") {
+				.ss-nav {
+					display: none;
+				}
+			}
+
 			.header-nav ul li a {
 				color: $darkest-blue;
 
 				&:hover {
 					@include box-shadow(0px, -2px, 0px, 0px, $darkest-blue, true);
+				}
+			}
+
+			#toggleMenu:checked ~ .header-navListContainer a {
+				color: $white;
+
+				&:hover {
+					box-shadow: none;
+				}
+			}
+
+			#toggleMenu:checked ~ .header-navListContainer .search-icon {
+				padding-left: 1rem;
+
+				svg {
+					max-width:20px;
+					max-height: 20px;
+
+					path.search-2, path.search-3, path.search-4 {
+						fill: $white;
+					}
 				}
 			}
 
@@ -323,7 +385,7 @@ header.site-header {
 .header-breadcrumbsContainer {
 	background-color: $color__header-breadcrumbs;
 	color: $color__header-breadcrumbs-font;
-	height: 25px;
+	height: 35px;
 	font-family: $font__MuseoSans;
 	text-transform: uppercase;
 	@include fontSize(15px);
@@ -334,10 +396,6 @@ header.site-header {
 
 	&.notExtended {
 		@include box-shadow(0px,5px,4px,0, rgba(0,0,0,0.2), false);
-	}
-
-	@include breakpoint("medium") {
-		height: 30px;
 	}
 
 	// Breadcrumbs
@@ -390,8 +448,11 @@ header.site-header {
 	z-index: 50;
 	position: relative;
 
-	.content-wrapper {
-		margin-left: 25%;
+	@include breakpoint("medium") {
+		.content-wrapper {
+			//margin-left: 25%;
+			max-width: 900px;
+		}
 	}
 
 	.main-title {
@@ -401,5 +462,10 @@ header.site-header {
 
 	p {
 		margin: 0 0 1rem 0;
+		color: #C1CBD1;
+	}
+
+	p:last-of-type {
+    	margin: 0 0 0 0;
 	}
 }

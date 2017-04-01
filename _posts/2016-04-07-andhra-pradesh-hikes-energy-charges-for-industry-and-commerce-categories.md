@@ -1,16 +1,16 @@
 ---
-title: "Andhra Pradesh hikes energy charges for industry and commerce categories"
-date: 2016-04-07
+title: Andhra Pradesh hikes energy charges for industry and commerce categories
+date: 2016-04-07 00:00:00 Z
+tags:
+- Regulatory Commission
+- APERC
+- Tariff
 states:
 - Andhra Pradesh
 sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- Regulatory Commission
-- APERC
-- Tariff
 sources:
 - name: Sakshipost
   url: http://www.sakshipost.com/index.php/news/state/78109-power-charges-hiked-in-ap,-rs-216-crore-burden-on-industry.html?psource=Home-Latest
