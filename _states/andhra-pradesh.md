@@ -9,10 +9,10 @@ lok_seats: 25
 gdp: "$7,033"
 feature_images:
   primary:
-    image: http://www.tbalert.org/wp-content/uploads/2011/05/0029_tap_india_2013.jpg
+    image: /uploads/andhra-pradesh-visakhapatnam-port-half.jpg
     credit: First Image credit
   secondary:
-    image: http://www.tbalert.org/wp-content/uploads/2011/05/0029_tap_india_2013.jpg
+    image: /uploads/andhra-pradesh-women-fishing-half.jpg
     credit: Second image credit
 ---
 
