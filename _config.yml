@@ -52,6 +52,7 @@ defaults:
       name: 
       url: 
     is_analysis: false
+    breadcrumbs: articles
 - scope:
     path: ''
     type: analysis
@@ -71,6 +72,7 @@ defaults:
       url: 
     is_analysis: true
     author: 
+    breadcrumbs: analysis
 - scope:
     path: ''
     type: states
@@ -144,30 +146,29 @@ email: jschrag@csis.org
 description: Engaging Indian States is a comprehensive tool for businesses, researchers,
   policymakers, & journalists who seek to engage with India’s state governments.
 baseurl: 
-url: 
+url: http://india-states.siteleaf.net
 date_format: "%B %-d, %Y"
 post_meta_limit: 5
 post_meta_sector_limit: 3
-google_analytics: 
+google_analytics:
+facebook: CsisIndiaChair
 twitter_username: IndiaStatesCSIS
 algolia:
   application_id: 7UNKAH6RMH
   index_name: india_states
-  excluded_files:
-  - index.md
-  - about.md
-  - map.md
-  - states.md
-  - sectors.md
-  - search.md
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
+cloudinary_url: http://res.cloudinary.com/csisilab/image/fetch/
 markdown: kramdown
 gems:
 - jekyll-feed
 - jekyll-seo-tag
 - jekyll-sitemap
-- algoliasearch-jekyll
+include:
+- ".travis.yml"
+- Gemfile
 exclude:
 - vendor
 sector_overview_post_limit: 2
 post_archive_posts_per_page: 2
+newsletter_link: 
+newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India Policy Studies publishes the “Update on India’s States”, a newsletter featuring the most significant socioeconomic and political developments from thirteen of India’s very powerful states, including the national capital and union territory of New Delhi.  

@@ -1,0 +1,31 @@
+/*======================================
+=            Resrouces Page            =
+======================================*/
+
+.page-container {
+	margin: 3rem 0;
+
+	.page-header {
+		margin: 0 0 1rem 0;
+
+		.main-title {
+			margin: 0;
+		}
+	}
+
+	ul.resource-listing {
+		margin-bottom: 2.5rem;
+
+		li {
+			margin: 1rem 0;
+
+			a {
+				box-shadow: none;
+
+				img {
+					max-width:10px;
+				}
+			}
+		}
+	}
+}

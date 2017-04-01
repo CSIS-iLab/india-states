@@ -15,6 +15,12 @@ subsectors:
 - Renewables
 feature_image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/pu…0210_ENS_Fact_Opinion_0.jpg?I0._RZrUYiCOaSuyyHt17oEhkbEUrGft&itok=-Qwa75si
 feature_image_credit: 
+excerpt: India has set a target of 175 GW of power from renewable sources by 2022,
+  of which 100 GW is set to come from solar energy. India’s renewable energy plans
+  are predominantly financed by the central government or by debt financing through
+  banks. The role of institutional investors in developing and financing renewable
+  energy projects in India is crucial. Therefore, having a good investment environment
+  is important to maintain investor involvement.
 ---
 
 <p><strong>FACTS:</strong>
@@ -28,4 +34,4 @@ feature_image_credit:
 </ul>
 <p> <strong>OPINION:</strong><br> India has set a <a href="http://www4.unfccc.int/submissions/INDC/Published%20Documents/India/1/INDIA%20INDC%20TO%20UNFCCC.pdf">target</a> of 175 gigawatts (GW) of power from renewable sources by 2022, of which 100 GW is set to come from solar energy. India’s renewable energy plans are <a href="https://climatepolicyinitiative.org/wp-content/uploads/2016/11/Reaching-Indias-Renewable-Energy-Targets-The-Role-of-Institutional-Investors_conference-draft.pdf">predominantly financed</a> by the central government or by debt financing through banks. The <a href="https://climatepolicyinitiative.org/wp-content/uploads/2016/11/Reaching-Indias-Renewable-Energy-Targets-The-Role-of-Institutional-Investors_conference-draft.pdf">role</a> of institutional investors in developing and financing renewable energy projects in India is crucial. Therefore, having a good investment environment is important to maintain investor involvement.</p>
 <p> Solar project developers in India are faced with off-taker risks that stem from nonpayment for power purchased by distribution utilities or the refusal of utilities to off-take power. Poor financial health and credit worthiness of the DISCOMs exacerbates this off-taker risk. India is no newcomer to infrastructure project–related problems because of institutional and payment delays. This has earned it a low rank of 130 among 190 countries in the <em>Ease of Doing Business</em> <a href="http://www.doingbusiness.org/data/exploreeconomies/india">rankings</a> by the World Bank (India ranks a low 178 in <em>Enforcing Contracts</em>). In this environment, solar project developers require a safety net.</p>
-	<p> The Payment Security Fund envisaged by the Ministry of New and Renewable Energy essentially makes the Indian government a guarantor for the investment by solar project developers. By making SECI the implementation agency for the fund, the government know-how of the financial health of DISCOMs (which are public companies) can be leveraged to ensure that payments are made to project developers. Government underwriting of solar project investment and the built-in mechanism to ensure that the DISCOMs honor their contracts reduce investor risk. This could in turn create a lower-risk investment atmosphere for solar project development.</p>
+<p> The Payment Security Fund envisaged by the Ministry of New and Renewable Energy essentially makes the Indian government a guarantor for the investment by solar project developers. By making SECI the implementation agency for the fund, the government know-how of the financial health of DISCOMs (which are public companies) can be leveraged to ensure that payments are made to project developers. Government underwriting of solar project investment and the built-in mechanism to ensure that the DISCOMs honor their contracts reduce investor risk. This could in turn create a lower-risk investment atmosphere for solar project development.</p>

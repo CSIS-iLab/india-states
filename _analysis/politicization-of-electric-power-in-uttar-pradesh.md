@@ -14,6 +14,12 @@ subsectors:
 feature_image: https://63qmu69ykmn5o2p2een0g1cx-wpengine.netdna-ssl.com/wp-content/uploads/2017/02/349247165_04dd93e92a_m.jpg
 feature_image_credit: 'Skyline in Varanasi, Uttar Pradesh. Source: Bobulix’s flickr
   photostream, used under a creative commons license.'
+excerpt: HELP marks the biggest transition from an era of government control to government
+  support for upstream E&P in India. OALP removes restrictions on exploration by giving
+  companies both the data and the discretion to explore areas of their choice. India’s
+  upstream oil and gas E&P policy has been subject to criticism, with protectionism
+  and government red tape being blamed for lackluster development of oil and gas upstream.
+is_analysis: true
 ---
 
 <p>While caste and communal politics will likely play a major role in determining the political fortunes of Uttar Pradesh (UP), a broad set of issues will drive the electorate in the state’s ongoing legislative assembly elections. Election results on March 11 will determine who will govern the state – which has a population of over 200 million, or nearly 2.7 percent of the world’s population – for the next five years. It will also set the stage for the state’s energy future: will the winning party seek to provide electric power to all groups equally or will electric power distribution be swayed by political dictates?</p>

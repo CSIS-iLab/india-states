@@ -4,6 +4,10 @@ $(function() {
 	 * @return {string} Returns pagination container contents and pagination bar
 	 */
 	 function paginationCheckHash() {
+	 	if($(".pagination-posts-container").length == 0) {
+	 		return;
+	 	}
+	 	
 	 	var hash = window.location.hash.replace("#", "");
 	 	var current_page = 1;
 	 	var subsector, sort_field, sort_order;
@@ -69,7 +73,7 @@ $(function() {
 		var total_items = 0;
 
 		// Set Default Subsector Field if applicable
-		if(subsectorFiltering == true && !subsector) {
+		if(subsectorFiltering !== 'undefined' && subsectorFiltering == true && !subsector) {
 			subsector = "all";
 		}
 

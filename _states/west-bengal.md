@@ -1,5 +1,5 @@
 ---
-title: West bengal
+title: West Bengal
 size: '34,267'
 population: 91.3
 party_affiliation: All India Trinamool Congress (Trinamool)

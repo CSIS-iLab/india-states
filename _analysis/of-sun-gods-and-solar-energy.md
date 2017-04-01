@@ -16,6 +16,14 @@ subsectors:
 - Renewables
 feature_image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/publication/170109_energy_India_1.jpg?itok=AfN4oT0n
 feature_image_credit: SANJAY KANOJIA/AFP/Getty Images
+excerpt: Politics, capitalism, and energy poverty are combining in strange ways across
+  India. The result looks like progress—sometimes. Solar energy in India is not a
+  story of a battle between decentralized, renewable energy technologies and centralized
+  grid distribution. Both approaches to providing energy in a nation as diverse and
+  complex as India offer valuable lessons and opportunities. More important is India’s
+  need to get its people access to energy to maximize their ability to thrive in the
+  changing climate of the future. How this energy is delivered will take many forms
+  and, perhaps, require the assistance of many gods.
 ---
 
 <p><em>Politics, capitalism, and energy poverty are combining in strange ways across India. The result looks like progress—sometimes.</em></p>

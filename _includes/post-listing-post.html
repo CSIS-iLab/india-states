@@ -11,11 +11,11 @@
 		{% if post.is_analysis %}
 			<div class="row analysis">
 				<div class="analysis-image col-xs-12 col-md-3">
-					<a href="{{ post.url | relative_url }}"><img src="{{ post.feature_image }}" alt="{{ post.title }}" title="{{ post.title }}" /></a>
+					<a href="{{ post.url | relative_url }}"><img src="{{ post.feature_image  | prepend: site.cloudinary_url }}" alt="{{ post.title }}" title="{{ post.title }}" /></a>
 				</div>
 				<div class="col-xs-12 col-md-9">
 					{% capture readMore %} <span class="post-readMore"><a href="{{ post.url | relative_url }}">Read More &gt;</a>{% endcapture %}
-					{{ post.excerpt | remove: '</p>' | append: readMore | add: '</p>' }}
+					<p>{{ post.excerpt | truncatewords: 40 | append: readMore }}</p>
 				</div>
 			</div>
 		{% else %}

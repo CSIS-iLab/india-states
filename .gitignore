@@ -2,5 +2,3 @@ _site
 vendor
 .sass-cache
 .jekyll-metadata
-_posts
-_drafts
