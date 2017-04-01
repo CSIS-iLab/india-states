@@ -27,8 +27,8 @@
 			{% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
 			{
 				"title": "{{ post.title }}",
-				"states": {{ post.states | jsonify }},,
-				"sectors": {{ post.sectors | jsonify }},,
+				"states": {{ post.states | jsonify }},
+				"sectors": {{ post.sectors | jsonify }},
 				"date": new Date("{{ post.date | date_to_xmlschema }}"),
 				"postHtml": {{postHtml | strip_newlines | jsonify}}
 			}{% unless forloop.last %},{% endunless %}
@@ -57,4 +57,3 @@
 	var posts_per_page = {{ site.post_archive_posts_per_page }};
 	var subsectorFiltering = false;
 </script>
-<script src="{{ "/assets/js/pagination.js" | relative_url }}"></script>
