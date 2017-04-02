@@ -1,5 +1,5 @@
 <aside class="tableOfContents col-xs-12 col-md-3 {% if include.mobileHide == 'true' %}hidden-xs{% else %}fixedMobile{% endif %}">
-	{% if include.stickyMenu == "true" and include.mobileHide != "true" %}<div class="isSticky">{% endif %}
+	{% if include.stickyMenu == "true" and include.mobileHide == "true" %}<div class="isSticky">{% endif %}
 	<h4 class="sectionSubtitle">Sector Menu</h4>
 	<span class="tableOfContents-instructions">Skip to sector content:</span>
 	<ul class="tableOfContents-list">
@@ -10,7 +10,7 @@
 			<li class="viewAll"><a href="{{ page.url | relative_url }}archive">View All Articles</a></li>
 		{% endif %}
 	</ul>
-	{% if include.stickyMenu == "true" and include.mobileHide != "true" %}</div>{% endif %}
+	{% if include.stickyMenu == "true" and include.mobileHide == "true" %}</div>{% endif %}
 	{% if include.mobileHide == 'false' %}
 		<select class="tableOfContents-dropdown">
 			<option value="#">Skip to sector content:</option>
