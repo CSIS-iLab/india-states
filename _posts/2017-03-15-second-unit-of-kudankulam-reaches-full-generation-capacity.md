@@ -3,9 +3,20 @@ title: Second unit of Kudankulam reaches full generation capacity
 date: 2017-03-15 00:00:00 Z
 tags:
 - Kudankulam
+- Solar
+- NTPC
+- Bhandla
+- Jacque
+- Tucker
+- Carrie
 states:
 - Tamil Nadu
 - Center-State Relations
+- Rajasthan
+- Center-State Relations
+- Adhra Pradesh
+- Assam
+- Delhi
 sectors:
 - Energy
 subsectors:
