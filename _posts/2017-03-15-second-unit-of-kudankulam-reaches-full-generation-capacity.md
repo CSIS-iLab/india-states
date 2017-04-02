@@ -4,7 +4,6 @@ date: 2017-03-15 00:00:00 Z
 tags:
 - Kudankulam
 - Distribution
-- NHPC
 states:
 - Tamil Nadu
 - Center-State Relations
