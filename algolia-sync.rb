@@ -20,6 +20,14 @@ current_hash.each do |id, record|
   end
 end
 
+old_hash.each do |id, record|
+  if !current_hash.include?(id)
+    puts "ALGOLIA DELETE: \"#{record['title']}\""
+    delete_records.push(id)
+  end
+end
+
 Algolia.init :application_id => ENV['ALGOLIA_APP_KEY'], :api_key => ENV['ALGOLIA_API_KEY']
 index = Algolia::Index.new(ENV['ALGOLIA_INDEX'])
 index.add_objects(update_records)
+index.delete_objects(delete_records)
