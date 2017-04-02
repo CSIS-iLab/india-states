@@ -167,7 +167,6 @@ gems:
 - jekyll-sitemap
 include:
 - ".travis.yml"
-- Gemfile
 exclude:
 - vendor
 sector_overview_post_limit: 4
