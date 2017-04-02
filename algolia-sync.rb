@@ -22,4 +22,4 @@ end
 
 Algolia.init :application_id => ENV['ALGOLIA_APP_KEY'], :api_key => ENV['ALGOLIA_API_KEY']
 index = Algolia::Index.new(ENV['ALGOLIA_INDEX'])
-index.add_objects(batch)
+index.add_objects(update_records)
