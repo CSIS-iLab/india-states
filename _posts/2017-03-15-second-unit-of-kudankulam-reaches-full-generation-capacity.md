@@ -4,6 +4,7 @@ date: 2017-03-15 00:00:00 Z
 tags:
 - Kudankulam
 - Distribution
+- EV
 states:
 - Tamil Nadu
 - Center-State Relations
