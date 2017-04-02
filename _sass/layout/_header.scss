@@ -36,11 +36,19 @@ header.site-header {
 		}
 	}
 
-	.header-logoContainer.col-md-6 {
-		padding-left: 0;
-		padding-right: 0;
-		flex-basis: 45%;
-		max-width:45%;
+	.header-logoContainer {
+		@include breakpoint("medium") {
+			padding-left: 0;
+			padding-right: 0;
+			flex-basis: 45%;
+			max-width:45%;
+		}
+		@include breakpoint("large") {
+			padding-right: .5rem;
+    		padding-left: .5rem;
+			flex-basis: 50%;
+			max-width: 50%;
+		}
 	}
 
 	.header-logo {
@@ -49,6 +57,10 @@ header.site-header {
 		color: $white;
 
 		@include breakpoint("medium") {
+			@include fontSize(32px)
+		}
+
+		@include breakpoint("large") {
 			@include fontSize(45px);
 		}
 
@@ -57,14 +69,17 @@ header.site-header {
 	/*----------  Navigation  ----------*/
 	
 	.header-navContainer {
-		&.col-md-6 {
-			flex-basis:55%;
+		@include breakpoint("medium") {
+			padding-left: 0;
+			padding-right: 0;
+			flex-basis: 55%;
 			max-width:55%;
-			padding-left:0;
-			padding-right:0;
 		}
-
 		@include breakpoint("large") {
+			padding-right: .5rem;
+    		padding-left: .5rem;
+			flex-basis: 50%;
+			max-width: 50%;
 			align-self: flex-end;
 			text-align:right;
 		}
@@ -75,13 +90,8 @@ header.site-header {
 			color: $color__header-nav-font;
 			text-transform: uppercase;
 
-			@include breakpoint("medium") {
-				background-color:red;
-			}
-
 			@include breakpoint("large") {
 				@include fontSize(15px);
-				background-color: transparent;
 			}
 
 			// Mobile Menu
@@ -129,10 +139,11 @@ header.site-header {
 			#toggleMenu { display: none;}
 
 			#toggleMenu:checked ~ .header-navListContainer {
-			  transition: right 300ms ease-in-out;
+			  transition: right 300ms ease-in-out, display 300ms ease-in-out;
 			  right: 0;
 			  z-index: 50;
 			  overflow-y: scroll;
+			  display:block;
 			}
 
 			// Overlay
@@ -164,7 +175,9 @@ header.site-header {
 				width: 50%;
 				width: 50vw;
 				height: 100vh;
-				transition: right 300ms ease-in-out;
+				display:none;
+				transition: right 300ms ease-in-out, display 300ms ease-in-out;
+
 
 				@include breakpoint("medium") {
 					top: 100px;
