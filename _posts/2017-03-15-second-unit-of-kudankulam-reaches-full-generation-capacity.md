@@ -6,11 +6,6 @@ tags:
 states:
 - Tamil Nadu
 - Center-State Relations
-- 
-- 
-- 
-- 
-- 
 sectors:
 - Energy
 subsectors:
