@@ -1,11 +1,12 @@
 ---
 title: Solar Performance Tracker
+published: false
 sectors: Energy
 subsectors: Renewable
 data_name: renewable-power-target
 data_label: MW
 state_text: reaches
-last_updated_at: 2017-31-01
+last_updated_at: 2017-01-01 00:00:00 Z
 sources:
 - name: 'Ministry of New and Renewable Energy: State-wise breakup of solar targets
     to be achieved by 2022'
