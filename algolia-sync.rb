@@ -20,6 +20,7 @@ current_hash.each do |id, record|
   end
 end
 
+delete_records = []
 old_hash.each do |id, record|
   if !current_hash.include?(id)
     puts "ALGOLIA DELETE: \"#{record['title']}\""
