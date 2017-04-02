@@ -8,9 +8,6 @@ tags:
 states:
 - Rajasthan
 - Center-State Relations
-- 
-- 
-- 
 sectors:
 - Energy
 subsectors:
