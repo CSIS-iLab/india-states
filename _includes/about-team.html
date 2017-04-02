@@ -1,7 +1,7 @@
 <h2 class="sectionTitle">Engaging Indian States Team</h2>
 <section class="team-container row">
 	{% for person in site.data.team %}
-		<div class="team-personContainer col-xs-6 col-md-4">
+		<div class="team-personContainer col-xs-12 col-md-4">
 			<img src="{{ site.cloudinary_url }}{{ person.image | default:'/assets/img/anon-author.svg' | relative_url | prepend: site.url }}" alt='{{ person.name }} Image'/><br />
 			<strong class="team-name">{{ person.name }}</strong><br />
 			<span class="team-title">{{ person.title | escape }}</span>

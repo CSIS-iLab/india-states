@@ -17,7 +17,11 @@ layout: default
     <!-- Feature Image -->
     {% if page.is_analysis and page.feature_image.size > 0 %}
       <div class="post-featureImage">
-        <img src="{{ page.feature_image | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+        {% if jekyll.environment == 'production' and site.cloudinary_url %}
+          <img src="{{ page.feature_image | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+        {% else %}
+          <img src="{{ page.feature_image }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+        {% endif %}
         {% if page.feature_image_credit %}
           <span class="post-featureImageCredit"><em>Photo credit:</em> {{ page.feature_image_credit }}</span>
         {% endif %}
@@ -55,7 +59,7 @@ layout: default
         {% if page.details and page.details[0] != null %}
         In Detail: 
         {% for detail in page.details %}
-            <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ site.cloudinary_url }}{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
+            <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
         {% endfor %}
       {% endif %}
     </div>
