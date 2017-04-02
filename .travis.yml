@@ -4,7 +4,7 @@ branches:
   only:
     - gh-pages
 script: 
-  - echo 'gem "agoliasearch"' > Gemfile
+  - echo 'gem "algoliasearch"' > Gemfile
   - bundle install
   - wget https://raw.githubusercontent.com/CSIS-iLab/india-states/master/algolia-sync.rb
   - chmod +x algolia-sync.rb
