@@ -4,6 +4,10 @@ branches:
   only:
     - gh-pages
 script: 
-#  - bundle exec jekyll indiasearch
+  - echo 'gem "agoliasearch"' > Gemfile
+  - bundle install
+  - wget https://raw.githubusercontent.com/CSIS-iLab/india-states/master/algolia-sync.rb
+  - chmod +x algolia-sync.rb
+  - ruby algolia-sync.rb
 rvm:
  - 2.2
