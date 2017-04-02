@@ -5,9 +5,15 @@ tags:
 - Solar
 - NTPC
 - Bhandla
+- Jacque
+- Tucker
+- Carrie
 states:
 - Rajasthan
 - Center-State Relations
+- Adhra Pradesh
+- Assam
+- Delhi
 sectors:
 - Energy
 subsectors:

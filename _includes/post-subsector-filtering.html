@@ -39,13 +39,23 @@
 
   <!-- Results -->
   <section class="pagination-sortByContainer sort-attributes-container">
-    <div class="pagination-totalResults"></div>
-    <div class="pagination-sortBy">
-      Sort by:
-      <a href="#subsector=all&amp;sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">&darr;Date</a> 
-      <a href="#subsector=all&amp;sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">&uarr;Date</a>
-      <a href="#subsector=all&amp;sort=state&amp;order=desc" class="sort-attribute" data-sort="sort=state&amp;order=desc">&darr;State</a>
-      <a href="#subsector=all&amp;sort=state&amp;order=asc" class="sort-attribute" data-sort="sort=state&amp;order=asc">&uarr;State</a>
+    <div class="row">
+      <div class="col-xs-8 pagination-totalResults"></div>
+      <div class="col-xs-4 pagination-sortBy">
+        <div class="hidden-xs">
+          Sort by:
+        <a href="#subsector=all&amp;sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">&darr;Date</a> 
+        <a href="#subsector=all&amp;sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">&uarr;Date</a>
+        <a href="#subsector=all&amp;sort=state&amp;order=desc" class="sort-attribute" data-sort="sort=state&amp;order=desc">&darr;State</a>
+        <a href="#subsector=all&amp;sort=state&amp;order=asc" class="sort-attribute" data-sort="sort=state&amp;order=asc">&uarr;State</a>
+        </div>
+        <select class="sort-dropdown">
+          <option value="#sort=date&amp;order=desc">&darr;Date</option>
+          <option value="#sort=date&amp;order=asc">&uarr;Date</option>
+          <option value="#sort=state&amp;order=desc">&darr;State</option>
+          <option value="#sort=state&amp;order=asc">&uarr;State</option>
+        </select>
+      </div>
     </div>
   </section>
   <section class="pagination-posts-container post-listing" data-sector="{{include.sector | slugify}}" data-subsector="all"></section>

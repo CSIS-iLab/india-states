@@ -33,9 +33,13 @@ $(function() {
     });
 
     // Share on Social Media
-    $(".share-social").hover(function() {
-        $(this).children(".share-socialContainer").show();
-    });
+    $(".share-social").hover(
+        function() {
+            $(this).children(".share-socialContainer").show();
+        }, function() {
+            $(this).children(".share-socialContainer").hide();
+        }
+    );
 
 
 });

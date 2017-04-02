@@ -45,11 +45,9 @@
 
     {% include footer-homepage.html %}
 
-    {% include search-overlay.html %}
+    {% include scripts.html %}
 
-    <script src="{{ "/assets/js/homepage.js" | relative_url }}"></script>
-    <script src="{{ "/assets/js/searchpage.js" | relative_url }}"></script>
-    <script src="{{ "/assets/js/navigation.js" | relative_url }}"></script>
+    {% include search-overlay.html %}
 
   </body>
 

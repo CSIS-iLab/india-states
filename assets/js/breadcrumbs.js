@@ -22,4 +22,12 @@ $(function() {
 	        }
 	    });
 	}
+
+	// Make Breadcrumbs fluid height if necessary
+	if($(".header-breadcrumbs").height() > $(".header-breadcrumbsContainer").height()) {
+
+		$(".header-breadcrumbsContainer").css({"height":"initial", "padding-top":"0.2rem", "padding-bottom":"0.2rem"});
+		var newHeight = $(".site-header").outerHeight();
+		$("body").css("padding-top",newHeight);
+	}
 });

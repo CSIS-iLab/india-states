@@ -251,9 +251,6 @@
     float: left;
     max-width: 23%;
   }
-  .ais-search-box:first-of-type {
-    display: none;
-  }
 
   #search-input input {
     @include fontSize(60px);
@@ -390,15 +387,11 @@
   }
 
   // Next & Previous Links
-  .ais-pagination--item__next a, .ais-pagination--item__previous a {
+  .ais-pagination--item__next a, .ais-pagination--item__previous a, .ais-pagination--item__first a, .ais-pagination--item__last a {
     background-color: transparent !important;
     color: $base-orange !important;
     font-style: italic;
-  }
-
-  .ais-pagination--item__first, .ais-pagination--item__last {
-    display: none !important;;
-  }  
+  } 
 
   /* SORT BY */
   #sort-by-wrapper {

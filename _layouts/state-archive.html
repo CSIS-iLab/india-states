@@ -4,8 +4,8 @@ layout: default
 
 {% assign state = site.states | where:'title',page.state | first %}
 <section class="archive-container">
-	{% if state.feature_images.primary.image %}
-		<div class="archive-featureImage" style="background-image:url('{{state.feature_images.primary.image | prepend: site.cloudinary_url}}'"></div>
+	{% if state.feature_images.primary.image_full %}
+		<div class="archive-featureImage" style="background-image:url('{{state.feature_images.primary.image_full | prepend: site.cloudinary_url}}'"></div>
 	{% endif %}
 	<header class="archive-header">
 		<div class="content-wrapper fullWidthContent">

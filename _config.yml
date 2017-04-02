@@ -81,10 +81,12 @@ defaults:
     content_type: State
     feature_images:
       primary:
-        image: 
+        image_full:
+        image_half: 
         credit: 
       secondary:
-        image: 
+        image_full:
+        image_half:  
         credit: 
     size: 
     population:
@@ -168,8 +170,8 @@ include:
 - Gemfile
 exclude:
 - vendor
-sector_overview_post_limit: 2
-post_archive_posts_per_page: 2
+sector_overview_post_limit: 4
+post_archive_posts_per_page: 10
 newsletter_link: 
 newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India Policy
   Studies publishes the “Update on India’s States”, a newsletter featuring the most

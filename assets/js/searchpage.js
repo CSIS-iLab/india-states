@@ -108,8 +108,8 @@ if($(".search-container").length) {
         container: '#pagination',
         scrollTo: '#search-input',
         labels: {
-          previous: "&lt; Previous",
-          next: "Next &gt;"
+          previous: "&#8249; Previous",
+          next: "Next &#8250;"
         }
       })
     );
