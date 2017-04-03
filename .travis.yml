@@ -6,7 +6,7 @@ branches:
 script: 
   - wget https://raw.githubusercontent.com/CSIS-iLab/india-states/master/algolia-sync.rb
   - chmod +x algolia-sync.rb
-  - echo 'gem "algoliasearch"' > Gemfile
+  - echo 'source \'https://rubygems.org\'\ngem "algoliasearch"' > Gemfile
   - bundle install
   - bundle exec ruby algolia-sync.rb
 rvm:
