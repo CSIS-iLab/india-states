@@ -1,70 +1,72 @@
-<div id="chart"></div>
 
-<script src="https://d3js.org/d3.v3.min.js"></script>
-<script type="text/javascript" src="/assets/js/d3.geo.min.js"></script>
-<script type="text/javascript">
-  var w = 600;
-  var h = 600;
-  var proj = d3.geo.mercator();
-  var path = d3.geo.path().projection(proj);
-  var t = proj.translate(); // the projection's default translation
-  var s = proj.scale() // the projection's default scale
+<div class="row">
+  <div class="col-xs-12 col-md-6">
+    State Names Here
+  </div>
+  <div class="col-xs-12 col-md-6">
+    <div id="container" style="height:600px">
+      <div class="loading">
+        <i class="icon-spinner icon-spin icon-large"></i>
+        Loading data from Google Spreadsheets...
+      </div>
+    </div>
+  </div>
+</div>
 
-  var map = d3.select("#chart").append("svg:svg")
-      .attr("width", w)
-      .attr("height", h)
-      .call(initialize);
+<script src="//code.jquery.com/jquery-3.1.0.min.js"></script>
+<script>
+$(function () {
 
-// Define linear scale for output
-var color = d3.scale.linear()
-        .range(["rgb(213,222,217)","rgb(69,173,168)","rgb(84,36,55)","rgb(217,91,67)"]);
+// Initiate the chart
+            $('#container').highcharts('Map', {
+                 tooltip: {
+                     formatter: function(){
+                         var s = this.key + '<br/>';
+                         s += 'Value:' + this.point.value + '<br/>';
+                         return s;
+                     },
+                 },
+                
+                
+                chart : {
+                    borderWidth : 0,
+                },
 
-  var india = map.append("svg:g")
-      .attr("id", "india");
+                colors: ['rgba(19,64,117,0.05)', 'rgba(19,64,117,0.2)', 'rgba(19,64,117,0.4)',
+                    'rgba(19,64,117,0.5)', 'rgba(19,64,117,0.6)', 'rgba(19,64,117,0.8)', 'rgba(19,64,117,1)'],
 
-  var json = {{ site.data.india-base-map | jsonify }};
+                title : {
+                    text : null
+                },
 
-  india.selectAll("path")
-      .data(json.features)
-    .enter().append("path")
-      .attr("id", function(d) { return d.properties.name_1;})
-      .attr("d", path);
+                legend: {
+                    title: {
+                        text: 'Legend Title',
+                    },
+                    align: 'right',
+                    verticalAlign: 'bottom',
+                    floating: true,
+                    layout: 'vertical',
+                    valueDecimals: 0,
+                    symbolRadius: 0,
+                    symbolHeight: 14
+                },
 
-  function initialize() {
-    proj.scale(6700);
-    proj.translate([-1240, 720]);
-  }
+                series : [{
+                    data : [{"name":"Andhra_Pradesh","value":100}],
+                    mapData: {{ site.data.hc-map | jsonify }},
+                    joinBy: ['name','name'],
+                    animation: true,
+                    name: 'Diyaliz Verileri',
+                    nullColor: '#DDDDDD',
+                    borderColor: '#fff',
+                    states: {
+                        hover: {
+                            color: '#E87415'
+                        }
+                    }
+                }]
+            });
 
-
-    
-     
-   // This section should allow for zoom & pan.
-   function redraw() {
-      // d3.event.translate stores the current translation from the parent SVG element
-      // t stores the projection's default translation
-      // adding the x and y vales in each array to yields the projection's new translation
-      var tx = t[0] * d3.event.scale + d3.event.translate[0];
-      var ty = t[1] * d3.event.scale + d3.event.translate[1];
-      proj.translate([tx, ty]);
-      // determine the projection's new scale and redraw the map:
-      proj.scale(s * d3.event.scale); 
-      india.selectAll("path").attr("d", path);
-    }
-     // This section should color each state.
-var states = india.append("g")
-    .attr("id", "states")
-    .attr("class", "Blues");
-    // load the GDP data
-    // 
-      // data = {{ site.data.renewable-power-target | jsonify }};
-      
-      states.selectAll("path")
-        .attr("class", quantize);
-    
-    function quantize(d) {
-      return "q" + Math.min(8, ~~(data[d.id] * 9 / 12)) + "-9";
-    }
-
-  
-
+});
 </script>
