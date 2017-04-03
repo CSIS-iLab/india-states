@@ -98,6 +98,71 @@
 	
 }
 
+/*----------  Progress Bars  ----------*/
+.progress-container {
+	.progress-stateContainer {
+		@include breakpoint("large") {
+			text-align: right;
+		}
+
+		.progress-stateName {
+			@include fontSize(16px);
+			font-family: $font__MuseoSans;
+			line-height: 1.4;
+			text-transform: uppercase;
+			font-style: normal;
+		}
+	}
+	.progress-barContainer {
+		position: relative;
+
+		.progress {
+		  width: 100%;
+		  height: 18px;
+		  padding: 0.2rem 0.5rem;
+		}
+		.progress-wrap {
+			background: $base-orange;
+			margin: 0.5rem 0;
+			overflow: hidden;
+			position: relative;
+
+			.progress-bar {
+				background: $light-gray;
+				left: 0;
+				position: absolute;
+				top: 0;
+				color: $base-orange;
+				font-family: $font__MuseoSans;
+			}
+		}
+
+		.tip-content {
+	        display:none;
+	        padding:10px;
+	        background: $white;
+	        border:1px solid $dark-blue;
+	        font-family: $font__MuseoSans;
+	        @include fontSize(14px);
+	        -webkit-box-shadow:2px 2px 5px $medium-gray;
+	           -moz-box-shadow:2px 2px 5px $medium-gray;
+	                box-shadow:2px 2px 5px $medium-gray;
+
+	        span {
+	        	font-weight:bold;
+	        	text-decoration: underline;
+	        	text-align: center;
+	        }
+	    }
+	    
+	    .progress-wrap:hover ~ .tip-content {
+	        display: block;
+	        position: fixed;
+	        z-index: 10;
+	    }
+	}
+}
+
 /*----------  Goal Meta Information  ----------*/
 .goalInfo-container {
 
