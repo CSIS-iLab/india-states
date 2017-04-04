@@ -17,7 +17,7 @@ $(function() {
             // on page load, animate percentage bar to data percentage length
             // .stop() used to prevent animation queueing
             $(this).children('.progress-bar').stop().animate({
-                left: progressTotal
+                width: progressTotal
             }, animationLength);
         });
     }

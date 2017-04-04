@@ -54,25 +54,19 @@ layout: default
 
   <section class="goal-interactiveContainer">
     <div class="content-wrapper fullWidthContent">
-      <h2 class="sectionTitle">National Target Contribution</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+    {% if page.show_map %}
+      <h2 class="sectionTitle">{{ page.map.title | escape }}</h2>
+      {{ page.map.description | prepend: "<p>" | append: "</p>"  }}
 
-      {% include india-base-map.html dataset=page.data_name %}
+      {% include india-base-map.html dataset=page.data_source %}
+    {% endif %}
 
+    {% if page.show_progressbars %}
       <h2 class="sectionTitle">Individual State Targets</h2>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-      consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-      cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-      proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      {{ page.progressbars.description | prepend: "<p>" | append: "</p>" }}
 
-      {% include progress-bars.html name=page.data_name data_label=page.data_label %}
+      {% include progress-bars.html data_source=page.data_source data_label=page.data_label %}
+    {% endif %}
     </div>
   </section>
 

@@ -11,7 +11,7 @@ layout: default
       <h2 class="sectionSubtitle">{{ resource.name }}</h2>
       <ul class="resource-listing">
         {% for item in resource.items %}
-          <li><a href="{{ item.link }}" target="_blank" rel="nofollow">{{ item.title }} {% if resource.name == "Websites" %}<img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ item.title }}" alt="Go to" />{% endif %}</a></li>
+          <li><a href="{{ item.link }}" target="_blank" rel="nofollow">{{ item.title }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ item.title }}" alt="Go to" /></a></li>
         {% endfor %}
       </ul>
       {% endfor %}
