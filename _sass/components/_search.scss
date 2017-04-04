@@ -59,7 +59,10 @@
 
   .search-barResultsContainer {
     text-align: center;
-    margin-top: 12% !important;
+
+    @include breakpoint("large") {
+      margin-top: 6% !important;
+    }
 
     .algolia-autocomplete {
       width: 100% !important;
@@ -132,13 +135,19 @@
     .aa-dropdown-menu {
       background-color: transparent;
       border: none;
-      width: 80%;
+      width: 100%;
       margin: 1rem auto;
-      left: 10% !important;
-      right: 10% !important;
+      left: 0% !important;
+      right: 0% !important;
       @include fontSize(20px);
       box-sizing: border-box;
       color: $light-gray;
+
+      @include breakpoint("large") {
+        left: 10% !important;
+        right: 10% !important;
+        width: 80%;
+      }
     }
 
     .aa-suggestion {
@@ -167,19 +176,17 @@
         &:hover {
           color: $base-orange;
         }
+
+        span {
+          display: inline-block;
+        }
+
+        .search-resultTitle {
+          padding-right: 1rem;
+        }
       }
 
-      &:hover, &.is-cursor {
-      }
-
-      & > span:first-child {
-        color: $white;
-      }
-
-      & > span:last-child {
-        text-transform: uppercase;
-        color: $white;
-      }
+      
 
       & > span:first-child em, & > span:last-child em {
         font-weight: 700;
@@ -192,6 +199,7 @@
         font-family: $font__MuseoSans;
         color: $light-gray;
         float: right;
+        padding: 0;
       }
 
     }

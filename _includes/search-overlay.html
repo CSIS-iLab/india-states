@@ -27,16 +27,10 @@
 	      templates: {
 	        //'suggestion' templating function used to render a single suggestion
 	        suggestion: function(suggestion) {
-	        	if(suggestion.content_type) {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	            suggestion._highlightResult.title.value + '</span><span class="search-contentType">' +
+	        	return '<a href="'+suggestion.url+'" class="row flex-center__y"><span class="col-xs-8 col-md-9 search-resultTitle">' +
+	            suggestion._highlightResult.title.value + '</span><span class="search-contentType col-xs-4 col-md-3">' +
 	            suggestion.content_type + '</span></a>';
-	        	}
-	        	else {
-	        		return '<a href="'+suggestion.url+'"><span>' +
-	        		suggestion._highlightResult.title.value + '</span></a>';
-	        	}
-	          
+	       
 	        },
 	        // Show "See More Search Results"
 	        footer: function({ query, isEmpty }) {
