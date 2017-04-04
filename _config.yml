@@ -120,19 +120,19 @@ defaults:
     layout: national-goals
     content_type: National Goal
     sectors: 
-    subsectors:
-    data_source:
-    data_label:
+    subsectors: 
+    data_source: 
+    data_label: 
     show_map: true
     show_progressbars: true
     map:
-      title: "National Target Contribution"
-      description:
-      legend_title: "Contribution to National Target"
-      value_suffix: '%'
+      title: National Target Contribution
+      description: 
+      legend_title: Contribution to National Target
+      value_suffix: "%"
     progressbars:
-      title: "Individual State Targets"
-      description:
+      title: Individual State Targets
+      description: 
     state_text: achieves
     last_updated_at: 
     sources:
