@@ -18,6 +18,11 @@
   <!-- Typekit -->
   <script src="https://use.typekit.net/xxu0xvd.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+  <!-- jQuery Shim -->
+  <script>
+(function(){"use strict";var c=[],f={},a,e,d,b;if(!window.jQuery){a=function(g){c.push(g)};f.ready=function(g){a(g)};e=window.jQuery=window.$=function(g){if(typeof g=="function"){a(g)}return f};window.checkJQ=function(){if(!d()){b=setTimeout(checkJQ,100)}};b=setTimeout(checkJQ,100);d=function(){if(window.jQuery!==e){clearTimeout(b);var g=c.shift();while(g){jQuery(g);g=c.shift()}b=f=a=e=d=window.checkJQ=null;return true}return false}}})();
+  </script>
   
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
