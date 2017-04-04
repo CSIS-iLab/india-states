@@ -70,7 +70,7 @@
 
 	/*----------  Interactive  ----------*/
 	.goal-interactiveContainer {
-		margin: 3rem 0;
+		margin: 4rem 0;
 
 		ul.map-statesList {
 			list-style-type: none;
@@ -116,7 +116,12 @@
 }
 
 /*----------  Progress Bars  ----------*/
+.progressbars-container {
+	margin-top:2rem;
+}
+
 .progress-container {
+
 	.progress-stateContainer {
 		@include breakpoint("large") {
 			text-align: right;
@@ -156,19 +161,19 @@
 
 		.tip-content {
 	        display:none;
-	        padding:10px;
-	        background: $white;
-	        border:1px solid $dark-blue;
+	        padding:8px;
+	        background-color: rgb(247,247,247);
+	        border:1px solid $base-orange;
 	        font-family: $font__MuseoSans;
-	        @include fontSize(14px);
-	        -webkit-box-shadow:2px 2px 5px $medium-gray;
-	           -moz-box-shadow:2px 2px 5px $medium-gray;
-	                box-shadow:2px 2px 5px $medium-gray;
+	        opacity: 0.85;
+	        border-radius:2px;
+	        @include fontSize(12px);
+	        -webkit-box-shadow:1px 1px 2px $medium-gray;
+	        -moz-box-shadow:1px 1px 2px $medium-gray;
+	        box-shadow:1px 1px 2px $medium-gray;
 
 	        span {
 	        	font-weight:bold;
-	        	text-decoration: underline;
-	        	text-align: center;
 	        }
 	    }
 	    

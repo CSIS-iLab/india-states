@@ -119,13 +119,21 @@ defaults:
   values:
     layout: national-goals
     content_type: National Goal
-    start_date: 
-    end_date: 
     sectors: 
-    subsectors: 
-    data_name: 
-    data_label: 
-    state_text: reaches
+    subsectors:
+    data_source:
+    data_label:
+    show_map: true
+    show_progressbars: true
+    map:
+      title: "National Target Contribution"
+      description:
+      legend_title: "Contribution to National Target"
+      value_suffix: '%'
+    progressbars:
+      title: "Individual State Targets"
+      description:
+    state_text: achieves
     last_updated_at: 
     sources:
       name: 
@@ -176,3 +184,4 @@ newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India 
   Studies publishes the “Update on India’s States”, a newsletter featuring the most
   significant socioeconomic and political developments from thirteen of India’s very
   powerful states, including the national capital and union territory of New Delhi.
+national_goals_data_dir: national-goals
