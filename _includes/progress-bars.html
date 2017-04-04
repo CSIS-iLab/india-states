@@ -4,10 +4,13 @@
   <div class="progress-container row flex-center__y">
     <div class="progress-stateContainer col-xs-12 col-md-3">
       <span class="progress-stateName">{{ row.state }}</span>
+      <span class="progress-achieved">achieved {{ row.state_achieved }} of {{ row.state_target | append: include.data_label }}
     </div>
     <div class="progress-barContainer col-xs-12 col-md-9">
       <div class="progress-wrap progress" data-progress-percent="{{ row.state_percentage }}">
-        <div class="progress-bar progress">{{ row.state_percentage | append: '%' }}</div>
+        <div class="progress-bar progress"></div>
+        <span class="progress-percentage">{{ row.state_percentage | append: '%' }}</span>
+        <span class="progress-target">{{ row.state_target | append: include.data_label }}</span>
       </div>
       <div class="tip-content">
         <span>{{ row.state }}</span><br />
