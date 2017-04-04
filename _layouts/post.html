@@ -30,7 +30,8 @@ layout: default
     <div class="articleMeta">
       {% if page.is_analysis and page.author.size > 0 %}
         By 
-        {% for author in page.author %}
+        {% assign authors = page.author | sort:'position' %}
+        {% for author in authors %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="articleAuthor">{{ author }}</span></span>{% if forloop.last == false %},{% endif %}
         {% endfor %}
         <br />
@@ -68,7 +69,8 @@ layout: default
 
   <footer class="post-footer">
     {% if page.is_analysis and page.author.size > 0 %}
-      {% for author in page.author %}
+      {% assign authors = page.author | sort:'position' %}
+      {% for author in authors %}
         {% assign authorInfo = site.authors | where:"title",author | first %}
         <section class="post-authorInfoContainer row" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <div class="post-authorImage col-xs-12 col-md-3">
