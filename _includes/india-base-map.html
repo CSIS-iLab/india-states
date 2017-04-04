@@ -1,72 +1,132 @@
+{% assign dataset = site.data[include.dataset] %}
+{% assign listLimit = dataset.size | divided_by: 2 %}
+{% assign currentRow = 0 %}
 
-<div class="row">
-  <div class="col-xs-12 col-md-6">
-    State Names Here
+<div class="goal-interactiveContainer row">
+  <div class="col-xs-6 col-md-3">
+    <ul class="map-statesList">
+      {% for row in dataset limit: listLimit %}
+        <li data-map-id="{{ row.state | replace: ' ', '_' | downcase }}" data-map-index="{{ currentRow }}">
+          {{ row.state | escape }}
+        </li>
+        {% assign currentRow = currentRow | plus: 1 %}
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-xs-6 col-md-3">
+    <ul class="map-statesList">
+      {% for row in dataset offset: listLimit %}
+        <li data-map-id="{{ row.state | replace: ' ', '_' | downcase }}" data-map-index="{{ currentRow }}">
+          {{ row.state | escape }}
+        </li>
+        {% assign currentRow = currentRow | plus: 1 %}
+      {% endfor %}
+    </ul>
   </div>
   <div class="col-xs-12 col-md-6">
-    <div id="container" style="height:600px">
+    <div id="map-container" style="height:600px">
       <div class="loading">
         <i class="icon-spinner icon-spin icon-large"></i>
-        Loading data from Google Spreadsheets...
+        Loading data...
       </div>
     </div>
   </div>
 </div>
 
-<script src="//code.jquery.com/jquery-3.1.0.min.js"></script>
 <script>
 $(function () {
+  // Data Array
+  var mapData = [
+    {% for row in dataset %}
+      {
+        "nameNormal": "{{ row.state }}",
+        "id": "{{ row.state | replace: ' ', '_' }}",
+        "value": "{{ row.national_contribution }}"
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
 
-// Initiate the chart
-            $('#container').highcharts('Map', {
-                 tooltip: {
-                     formatter: function(){
-                         var s = this.key + '<br/>';
-                         s += 'Value:' + this.point.value + '<br/>';
-                         return s;
-                     },
-                 },
-                
-                
-                chart : {
-                    borderWidth : 0,
-                },
-
-                colors: ['rgba(19,64,117,0.05)', 'rgba(19,64,117,0.2)', 'rgba(19,64,117,0.4)',
-                    'rgba(19,64,117,0.5)', 'rgba(19,64,117,0.6)', 'rgba(19,64,117,0.8)', 'rgba(19,64,117,1)'],
-
-                title : {
-                    text : null
-                },
-
-                legend: {
-                    title: {
-                        text: 'Legend Title',
-                    },
-                    align: 'right',
-                    verticalAlign: 'bottom',
-                    floating: true,
-                    layout: 'vertical',
-                    valueDecimals: 0,
-                    symbolRadius: 0,
-                    symbolHeight: 14
-                },
-
-                series : [{
-                    data : [{"name":"Andhra_Pradesh","value":100}],
-                    mapData: {{ site.data.hc-map | jsonify }},
-                    joinBy: ['name','name'],
-                    animation: true,
-                    name: 'Diyaliz Verileri',
-                    nullColor: '#DDDDDD',
-                    borderColor: '#fff',
-                    states: {
-                        hover: {
-                            color: '#E87415'
-                        }
-                    }
-                }]
-            });
-
+  // Initiate the chart
+  var chartOptions = {
+    chart: {
+      borderWidth : 0,
+      spacing: [0, 0, 15, 0],
+      style: {
+        fontFamily: "\"museo-sans\",sans-serif"
+      }
+    },
+    title: {
+      text: null
+    },
+    credits: {
+      enabled: false
+    },
+    legend: {
+      title: {
+        text: 'Contribution to National Target',
+      },
+      align: 'right',
+      verticalAlign: 'bottom',
+      floating: false,
+      layout: 'horizontal',
+      symbolRadius: 0,
+      symbolHeight: 14
+    },
+    colorAxis: {
+      minColor: '#ffdec3',
+      maxColor: '#E87415',
+      type: 'linear',
+      min: .00000001,
+      max: 2,
+      labels: {
+        format: "{value}%"
+      }
+    },
+    series: [{
+      data: mapData,
+      mapData: {{ site.data.hc-map | jsonify }},
+      joinBy: ['name','id'],
+      animation: true,
+      name: 'Diyaliz Verileri',
+      nullColor: '#DDDDDD',
+      borderColor: 'transparent',
+      states: {
+        hover: {
+          color: '#E87415'
+        }
+      },
+      point: {
+        events: {
+          mouseOver: function(e) {
+            $(".map-statesList li").removeClass("active");
+            $(".map-statesList li[data-map-index="+this.index+"]").addClass("active");
+          },
+          mouseOut: function(e) {
+            $(".map-statesList li[data-map-index="+this.index+"]").removeClass("active");
+          }
+        }
+      }
+    }],
+    tooltip: {
+      formatter: function(){
+        var s = "<strong>"+this.point.nameNormal + '</strong><br/>';
+        s += 'Value: ' + this.point.value + '%<br/>';
+        return s;
+      },
+    }
+  };
+  var chart = Highcharts.Map('map-container', chartOptions);
+  // Hover over State Name to Highlight on Map
+  $( ".map-statesList li" ).hover(
+    function(e) {
+      var mapIndex = $(this).data('map-index');
+      chart.series[0].data[mapIndex].setState('hover');
+      chart.tooltip.refresh(chart.series[0].data[mapIndex]);
+    }, function() {
+      var mapIndex = $(this).data('map-index');
+      chart.series[0].data[mapIndex].setState();
+      chart.tooltip.hide('fast');
+    }
+  );
 });
 </script>

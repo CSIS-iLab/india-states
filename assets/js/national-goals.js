@@ -32,4 +32,5 @@ $(function() {
             tooltips[i].style.left = x;
         }
     };
+
 });

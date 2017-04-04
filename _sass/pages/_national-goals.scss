@@ -70,7 +70,24 @@
 
 	/*----------  Interactive  ----------*/
 	.goal-interactiveContainer {
-		padding: 3rem 0;
+		margin: 3rem 0;
+
+		ul.map-statesList {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+
+		    li {
+		    	margin-bottom: 0.8rem;
+		    	color: $gray;
+		    	font-family: $font__MuseoSans;
+		    	@include fontSize(16px);
+
+	    		&:hover, &:active, &.active {
+	    			color: $base-orange;
+	    		}
+		    }
+		}
 	}
 
 	/*----------  Sources  ----------*/
