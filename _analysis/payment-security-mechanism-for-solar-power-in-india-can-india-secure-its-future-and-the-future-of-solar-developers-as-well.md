@@ -4,9 +4,6 @@ title: 'Payment Security Mechanism for Solar Power in India: Can India Secure it
 date: 2017-02-10 00:00:00 Z
 tags:
 - Solar
-author:
-- Sarah Ladislaw
-- Sharmila Bellur
 states:
 - 
 sectors:
@@ -15,6 +12,9 @@ subsectors:
 - Renewables
 feature_image: "/uploads/analysis/payment-security-mechanism-solar-power-india.jpg"
 feature_image_credit: 
+author:
+- Sharmila Bellur
+- Sarah Ladislaw
 excerpt: India has set a target of 175 GW of power from renewable sources by 2022,
   of which 100 GW is set to come from solar energy. India’s renewable energy plans
   are predominantly financed by the central government or by debt financing through
