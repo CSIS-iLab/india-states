@@ -13,7 +13,7 @@ sectors:
 - Energy
 subsectors:
 - Renewables
-feature_image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/pu…0210_ENS_Fact_Opinion_0.jpg?I0._RZrUYiCOaSuyyHt17oEhkbEUrGft&itok=-Qwa75si
+feature_image: "/uploads/analysis/payment-security-mechanism-solar-power-india.jpg"
 feature_image_credit: 
 excerpt: India has set a target of 175 GW of power from renewable sources by 2022,
   of which 100 GW is set to come from solar energy. India’s renewable energy plans
