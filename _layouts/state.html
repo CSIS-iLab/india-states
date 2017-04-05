@@ -79,12 +79,28 @@ layout: default
 </div>
 
 <!-- Feature Images -->
+{% if jekyll.environment == 'production' and site.cloudinary_url %}
+  {% assign primaryFull = page.feature_images.primary.image_full | prepend: site.url | prepend: site.cloudinary_url %}
+  {% assign primaryHalf = page.feature_images.primary.image_half | prepend: site.url | prepend: site.cloudinary_url %}
+  {% assign secondaryFull = page.feature_images.secondary.image_full | prepend: site.url | prepend: site.cloudinary_url %}
+  {% assign secondaryHalf = page.feature_images.secondary.image_half | prepend: site.url | prepend: site.cloudinary_url %}
+{% else %}
+  {% assign primaryFull = page.feature_images.primary.image_full %}
+  {% assign primaryHalf = page.feature_images.primary.image_half %}
+  {% assign secondaryFull = page.feature_images.secondary.image_full %}
+  {% assign secondaryHalf = page.feature_images.secondary.image_half %}
+{% endif %}
 <div class="stateFeatureImageContainer row">
   <div class="col-xs-12 col-md-6">
-    <img src="{{ page.feature_images.primary.image_half }}" sizes="(min-width: 40em) 100vw, 50vw" srcset="{{ page.feature_images.primary.image_half }} 700w, {{ page.feature_images.primary.image_full }} 1500w" alt="{{ page.feature_images.primary.credit }}" title="{{ page.feature_images.primary.credit }}" />
+    <img src="{{ primaryHalf }}"
+    sizes="100vw"
+    srcset="{{ primaryFull }} 1500w,
+            {{ primaryHalf }} 1400w" alt="{{ page.feature_images.primary.credit }}" 
+            title="{{ page.feature_images.primary.credit }}" />
   </div>
   <div class="hidden-xs col-md-6">
-    <img src="{{ page.feature_images.secondary.image_half }}" srcset="{{ page.feature_images.secondary.image_half }} 700w, {{ page.feature_images.secondary.image_full }} 1500w" alt="{{ page.feature_images.secondary.credit }}" title="{{ page.feature_images.secondary.credit }}" />
+    <img src="{{ secondaryHalf }}"
+    sizes="100vw" srcset="{{ secondaryFull }} 1500w, {{ secondaryHalf }} 1400w" alt="{{ page.feature_images.secondary.credit }}" title="{{ page.feature_images.secondary.credit }}" />
   </div>
 </div>
 

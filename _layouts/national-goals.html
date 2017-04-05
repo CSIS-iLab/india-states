@@ -54,7 +54,19 @@ layout: default
 
   <section class="goal-interactiveContainer">
     <div class="content-wrapper fullWidthContent">
-      Interactive will go here!
+    {% if page.show_map %}
+      <h2 class="sectionTitle">{{ page.map.title | escape }}</h2>
+      {{ page.map.description | prepend: "<p>" | append: "</p>"  }}
+
+      {% include india-base-map.html dataset=page.data_source %}
+    {% endif %}
+
+    {% if page.show_progressbars %}
+      <h2 class="sectionTitle">Individual State Targets</h2>
+      {{ page.progressbars.description | prepend: "<p>" | append: "</p>" }}
+
+      {% include progress-bars.html data_source=page.data_source data_label=page.data_label %}
+    {% endif %}
     </div>
   </section>
 

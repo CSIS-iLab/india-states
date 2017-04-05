@@ -11,7 +11,7 @@ sectors:
 - Energy
 subsectors:
 - Power
-feature_image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/publication/12389695735_4ecf9b08fb_o.jpg?itok=5KOc05gZ
+feature_image: "/uploads/analysis/a-lot-rides-on-uday.jpg"
 feature_image_credit: 
 excerpt: The central government has a limited set of tools to reform India’s broken
   state electricity utilities. But, fixing these utilities will help the states get

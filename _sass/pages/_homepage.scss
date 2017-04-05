@@ -18,7 +18,8 @@
 }
 
 .home-content {
-
+	overflow-x: hidden;
+	
 	.home-orContainer {
 		display: none;
 
@@ -267,6 +268,7 @@
     	overflow-y: scroll;
     	@include fontSize(16px);
     	font-family: $font__MuseoSans;
+    	text-align: left;
 
 	    &::-webkit-scrollbar {
 	        -webkit-appearance: none;

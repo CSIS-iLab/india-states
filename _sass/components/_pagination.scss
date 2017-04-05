@@ -43,6 +43,8 @@
 			font-style: normal;
 			margin-left: 0.5rem;
 			box-shadow: none;
+			background-color: $base-blue;
+			border: none;
 
 			@include breakpoint("medium") {
 				display: none;

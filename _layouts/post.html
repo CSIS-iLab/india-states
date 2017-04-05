@@ -17,7 +17,11 @@ layout: default
     <!-- Feature Image -->
     {% if page.is_analysis and page.feature_image.size > 0 %}
       <div class="post-featureImage">
-        <img src="{{ page.feature_image | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+        {% if jekyll.environment == 'production' and site.cloudinary_url %}
+          <img src="{{ page.feature_image | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+        {% else %}
+          <img src="{{ page.feature_image }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+        {% endif %}
         {% if page.feature_image_credit %}
           <span class="post-featureImageCredit"><em>Photo credit:</em> {{ page.feature_image_credit }}</span>
         {% endif %}
@@ -26,7 +30,8 @@ layout: default
     <div class="articleMeta">
       {% if page.is_analysis and page.author.size > 0 %}
         By 
-        {% for author in page.author %}
+        {% assign authors = page.author | sort:'position' %}
+        {% for author in authors %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name" class="articleAuthor">{{ author }}</span></span>{% if forloop.last == false %},{% endif %}
         {% endfor %}
         <br />
@@ -55,7 +60,7 @@ layout: default
         {% if page.details and page.details[0] != null %}
         In Detail: 
         {% for detail in page.details %}
-            <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ site.cloudinary_url }}{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
+            <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
         {% endfor %}
       {% endif %}
     </div>
@@ -64,7 +69,8 @@ layout: default
 
   <footer class="post-footer">
     {% if page.is_analysis and page.author.size > 0 %}
-      {% for author in page.author %}
+      {% assign authors = page.author | sort:'position' %}
+      {% for author in authors %}
         {% assign authorInfo = site.authors | where:"title",author | first %}
         <section class="post-authorInfoContainer row" itemprop="author" itemscope itemtype="http://schema.org/Person">
           <div class="post-authorImage col-xs-12 col-md-3">

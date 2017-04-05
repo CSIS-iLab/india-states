@@ -12,3 +12,5 @@ layout: page
 
 
 The website has two ways to sort the information: by state, or by sector. If you wish to see all data on an individual state, please select that state from the drop-down menu. If you are interested to learn about all developments in an individual sector across all 29 states, select that sector from the menu.
+
+<h2 class="sectionTitle">Engaging Indian States Team</h2>

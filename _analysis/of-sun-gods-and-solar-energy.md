@@ -14,7 +14,7 @@ sectors:
 - Energy
 subsectors:
 - Renewables
-feature_image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/publication/170109_energy_India_1.jpg?itok=AfN4oT0n
+feature_image: "/uploads/analysis/of-sun-gods-and-solar-energy.jpg"
 feature_image_credit: SANJAY KANOJIA/AFP/Getty Images
 excerpt: Politics, capitalism, and energy poverty are combining in strange ways across
   India. The result looks like progress—sometimes. Solar energy in India is not a

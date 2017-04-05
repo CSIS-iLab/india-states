@@ -4,4 +4,3 @@ type: Websites
 link: http://powermin.nic.in/en/content/power-all
 ---
 
-
