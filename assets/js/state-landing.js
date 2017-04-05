@@ -21,7 +21,7 @@ $(function() {
 		);
 
 		// Hover on map
-		$("#map path, #map g").hover(
+		$("#map path, #map g").not($(".nolink")).hover(
 			function() {
 			  	var stateID = $(this).attr("id");
 			    highlightList(stateID, "highlight");
@@ -33,8 +33,22 @@ $(function() {
 			}
 		);
 
+		// Inactive States
+		$("#map path.nolink, #map g.nolink").hover(
+			function(e) {
+				var x = (e.clientX + 20) + 'px',
+            		y = (e.clientY + 20) + 'px';
+			  	var stateID = $(this).attr("id");
+			  	state = stateID.replace(/-/g, " ");
+			  	state = state.toUpperCase();
+			  	$(".statesLanding-map").append("<div class='tooltip' style='top: "+y+"; left: "+x+"'><span>"+state+"</span><br /> No data available.</div>");
+			}, function() {
+			    $(".statesLanding-map .tooltip").remove();
+			}
+		);
+
 		// Click on map and go to state page
-		$("#map path, #map g").click(function(){
+		$("#map path, #map g").not($(".nolink")).click(function(){
 			var stateID = $(this).attr("id");
 			location.href = "/states/"+stateID;
 		});
