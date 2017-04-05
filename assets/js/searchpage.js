@@ -9,7 +9,13 @@
 $(function() {
   // Open Overlay
   $(".site-header .search-icon").click(function() {
-    $(".search-overlay").show();
+    if(navigator.userAgent.indexOf('MSIE')!==-1
+    || navigator.appVersion.indexOf('Trident/') > 0){
+      location.href = "/search/";
+    }
+    else {
+      $(".search-overlay").show();
+    }
   });
 
   // Close Overlay
