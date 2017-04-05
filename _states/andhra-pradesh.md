@@ -9,11 +9,15 @@ lok_seats: 25
 gdp: "$7,033"
 feature_images:
   primary:
-    image: http://www.tbalert.org/wp-content/uploads/2011/05/0029_tap_india_2013.jpg
-    credit: First Image credit
+    image_full: "/uploads/andhra-pradesh-visakhapatnam-port-full.jpg"
+    image_half: "/uploads/andhra-pradesh-visakhapatnam-port-half.jpg"
+    credit: 'Fishing boats are moored at a harbor in the city of Visakhapatnam. (Photo
+      credit: SAJJAD HUSSAIN/AFP/Getty Images)'
   secondary:
-    image: http://www.tbalert.org/wp-content/uploads/2011/05/0029_tap_india_2013.jpg
-    credit: Second image credit
+    image_full: "/uploads/andhra-pradesh-women-fishing-full.jpg"
+    image_half: "/uploads/andhra-pradesh-women-fishing-half.jpg"
+    credit: 'Fisherwomen sort through a catch of fish on a beach in Andhra Pradesh.
+      (Photo credit: NOAH SEELAM/AFP/Getty Images)'
 ---
 
 Over the last 15 years, Andhra Pradesh has won renown for the extraordinary development of the IT industry in its capital city of Hyderabad. The current state of Andhra Pradesh, however, lost most of the sector when its former territory was divided in two to create the state of Telangana. Under the vigorous and forward-looking leadership of Chief Minister Chandrababu Naidu, Andhra Pradesh is attempting to rebuild by making itself the most business-friendly state in India.

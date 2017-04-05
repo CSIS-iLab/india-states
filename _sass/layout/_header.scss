@@ -36,12 +36,31 @@ header.site-header {
 		}
 	}
 
+	.header-logoContainer {
+		@include breakpoint("medium") {
+			padding-left: 0;
+			padding-right: 0;
+			flex-basis: 45%;
+			max-width:45%;
+		}
+		@include breakpoint("large") {
+			padding-right: .5rem;
+    		padding-left: .5rem;
+			flex-basis: 50%;
+			max-width: 50%;
+		}
+	}
+
 	.header-logo {
 		font-family: $font__ExpoSerif;
 		@include fontSize(26px);
 		color: $white;
 
 		@include breakpoint("medium") {
+			@include fontSize(32px)
+		}
+
+		@include breakpoint("large") {
 			@include fontSize(45px);
 		}
 
@@ -50,7 +69,17 @@ header.site-header {
 	/*----------  Navigation  ----------*/
 	
 	.header-navContainer {
+		@include breakpoint("medium") {
+			padding-left: 0;
+			padding-right: 0;
+			flex-basis: 55%;
+			max-width:55%;
+		}
 		@include breakpoint("large") {
+			padding-right: .5rem;
+    		padding-left: .5rem;
+			flex-basis: 50%;
+			max-width: 50%;
 			align-self: flex-end;
 			text-align:right;
 		}
@@ -110,10 +139,11 @@ header.site-header {
 			#toggleMenu { display: none;}
 
 			#toggleMenu:checked ~ .header-navListContainer {
-			  transition: right 300ms ease-in-out;
+			  transition: right 300ms ease-in-out, display 300ms ease-in-out;
 			  right: 0;
 			  z-index: 50;
 			  overflow-y: scroll;
+			  display:block;
 			}
 
 			// Overlay
@@ -145,7 +175,9 @@ header.site-header {
 				width: 50%;
 				width: 50vw;
 				height: 100vh;
-				transition: right 300ms ease-in-out;
+				display:none;
+				transition: right 300ms ease-in-out, display 300ms ease-in-out;
+
 
 				@include breakpoint("medium") {
 					top: 100px;

@@ -21,8 +21,15 @@ ul.shareIcons {
 
 				&:hover path {
 					fill: $base-orange;
+					mask: none;
 				}
+
 			}
+
+			// &:hover svg path {
+			// 	fill: $base-orange;
+			// 	mask: none;
+			// }
 		}
 
 		&.share-social {

@@ -7,7 +7,11 @@ layout: default
 
 <section class="archive-container">
   {% if page.feature_image %}
-    <div class="archive-featureImage" style="background-image:url('{{page.feature_image | prepend: site.cloudinary_url}}'"></div>
+      {% if jekyll.environment == 'production' and site.cloudinary_url %}
+        <div class="archive-featureImage" style="background-image:url('{{page.feature_image | prepend: site.url | prepend: site.cloudinary_url}}'"></div>
+      {% else %}
+        <div class="archive-featureImage" style="background-image:url('{{page.feature_image}}'"></div>
+      {% endif %}
   {% endif %}
   <header class="archive-header">
     <div class="content-wrapper fullWidthContent">
@@ -15,7 +19,7 @@ layout: default
           {% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
 
       <h1 class="subtitle">
-        <img src="{{ site.cloudinary_url }}{{ site.data.sector-icons[sectorSlug] | prepend: '/assets/img/sector-icons/' | relative_url }}" title="{{ page.title }}" alt="{{ page.title }}" /> {{ page.title | escape }}
+        <img src="{{ site.data.sector-icons[sectorSlug] | prepend: '/assets/img/sector-icons/' | relative_url }}" title="{{ page.title }}" alt="{{ page.title }}" /> {{ page.title | escape }}
       </h1>
       {{ page.content }}
     </div>
