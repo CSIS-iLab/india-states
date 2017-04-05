@@ -79,8 +79,12 @@ p.noResults {
 	font-family: $font__MuseoSans;
 
 	a {
-		margin: 0 0.5rem;
+		margin: 0 0.2rem;
 		box-shadow: none;
+
+		@include breakpoint("medium") {
+			margin: 0 0.5rem;
+		}
 
 		// Currently Selected Page Number
 		&.active {

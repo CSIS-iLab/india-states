@@ -4,7 +4,7 @@ require "jekyll"
 module Jekyll
 
   class ArchivePage < Page
-    def initialize(site, base, dir, filename, state, sector)
+    def initialize(site, base, dir, filename, state, sector, image)
       @site = site
       @base = base
       @dir = dir
@@ -23,6 +23,7 @@ module Jekyll
       self.data['sector'] = sector
       self.data['breadcrumbs'] = "states"
       self.data['is_state_archive'] = true
+      self.data['image'] = image
 
       if sector == 'archive'
         self.data['title'] = state + " Archive"
@@ -48,12 +49,14 @@ module Jekyll
           # Loop through categories and create a new archive page for each state-sector combo
           site.collections['sectors'].docs.each do |sector|
             filename = state.data["slug"] + "-" + sector.data["slug"]
-            site.pages << ArchivePage.new(site, site.source, File.join(dir, state.data["slug"], sector.data["slug"]), filename, state.data["title"], sector.data["title"])
+            image = sector.data["feature_image"]
+            site.pages << ArchivePage.new(site, site.source, File.join(dir, state.data["slug"], sector.data["slug"]), filename, state.data["title"], sector.data["title"], image)
           end
 
           # Create an all archive
           filename = state.data["slug"] + "-archive"
-          site.pages << ArchivePage.new(site, site.source, File.join(dir, state.data["slug"], "archive"), filename, state.data["title"], "archive")
+          image = state.data["feature_images"]["primary"]["image_full"]
+          site.pages << ArchivePage.new(site, site.source, File.join(dir, state.data["slug"], "archive"), filename, state.data["title"], "archive", image)
 
         end
       end

@@ -152,7 +152,7 @@ defaults:
     job_title: 
     image: 
 permalink: pretty
-email: jschrag@csis.org
+email: IndiaStates@csis.org
 description: Engaging Indian States is a comprehensive tool for businesses, researchers,
   policymakers, & journalists who seek to engage with India’s state governments.
 baseurl: 
@@ -160,9 +160,12 @@ url: http://india-states.siteleaf.net
 date_format: "%B %-d, %Y"
 post_meta_limit: 5
 post_meta_sector_limit: 3
-google_analytics: 
+google_analytics: UA-70098597-2
 facebook: CsisIndiaChair
-twitter_username: IndiaStatesCSIS
+facebook_default_image: /assets/img/facebook-standard-image-min.jpg
+twitter_default_image: /assets/img/twitter-standard-image-min.jpg
+twitter:
+  username: IndiaStatesCSIS
 algolia:
   application_id: 7UNKAH6RMH
   index_name: india_states
@@ -179,7 +182,7 @@ exclude:
 - vendor
 sector_overview_post_limit: 4
 post_archive_posts_per_page: 10
-newsletter_link: 
+newsletter_link: https://www.tfaforms.com/4601801
 newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India Policy
   Studies publishes the “Update on India’s States”, a newsletter featuring the most
   significant socioeconomic and political developments from thirteen of India’s very

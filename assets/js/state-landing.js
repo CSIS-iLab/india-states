@@ -34,7 +34,7 @@ $(function() {
 		);
 
 		// Inactive States
-		$("#map path.nolink, #map g.nolink").hover(
+		$("#map path.nolink, #map g.nolink, #map polygon").hover(
 			function(e) {
 				var x = (e.clientX + 20) + 'px',
             		y = (e.clientY + 20) + 'px';
