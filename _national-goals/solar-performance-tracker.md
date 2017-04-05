@@ -1,7 +1,7 @@
 ---
 title: Solar Performance Tracker
 sectors: Energy
-subsectors: Renewable
+subsectors: Renewables
 data_source: solar-performance-tracker
 data_label: MW
 map:
