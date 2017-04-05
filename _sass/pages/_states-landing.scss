@@ -64,6 +64,25 @@
 				fill: $base-orange;
 				cursor: pointer;
 			}
+
+			.tooltip {
+				padding:8px;
+		        background-color: rgb(247,247,247);
+		        border:1px solid $base-orange;
+		        font-family: $font__MuseoSans;
+		        opacity: 0.85;
+		        border-radius:2px;
+		        @include fontSize(12px);
+		        -webkit-box-shadow:1px 1px 2px $medium-gray;
+		        -moz-box-shadow:1px 1px 2px $medium-gray;
+		        box-shadow:1px 1px 2px $medium-gray;
+		        display:inline-block;
+		        position:fixed;
+
+		        span {
+		        	font-weight:bold;
+		        }
+			}
 		}
 	}
 }

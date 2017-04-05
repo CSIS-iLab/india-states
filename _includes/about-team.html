@@ -2,7 +2,7 @@
 	{% for person in site.data.team %}
 		<div class="team-personContainer col-xs-12 col-md-4">
 			{% if jekyll.environment == 'production' and site.cloudinary_url %}
-	          <img src="{{ person.image | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+	          <img src="{{ person.image | prepend: site.url | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
 	        {% else %}
 	          <img src="{{ person.image | default:'/assets/img/anon-author.svg' | relative_url }}" alt='{{ person.name }} Image'/>
 	        {% endif %}
