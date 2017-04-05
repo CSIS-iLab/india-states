@@ -74,10 +74,13 @@
 	// Map
 	.stateMapContainer {
 		margin: 3rem auto 0;
-		max-width: 400px;
 
 		@include breakpoint("large") {
 			margin: 0rem auto 0;
+		}
+
+		svg {
+			max-width: 400px;
 		}
 	}
 }
