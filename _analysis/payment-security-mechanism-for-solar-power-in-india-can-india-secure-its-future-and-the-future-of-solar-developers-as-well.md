@@ -10,7 +10,8 @@ sectors:
 - Energy
 subsectors:
 - Renewables
-feature_image: https://csis-prod.s3.amazonaws.com/s3fs-public/styles/csis_banner/public/pu…0210_ENS_Fact_Opinion_0.jpg?I0._RZrUYiCOaSuyyHt17oEhkbEUrGft&itok=-Qwa75si
+feature_image: "/uploads/analysis/payment-security-mechanism-solar-power-india.jpg"
+feature_image_credit: 
 author:
 - Sharmila Bellur
 - Sarah Ladislaw

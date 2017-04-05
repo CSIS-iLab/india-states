@@ -9,13 +9,13 @@ lok_seats: 25
 gdp: "$7,033"
 feature_images:
   primary:
-    image_full: "/uploads/andhra-pradesh-visakhapatnam-port-full.jpg"
-    image_half: "/uploads/andhra-pradesh-visakhapatnam-port-half.jpg"
+    image_full: "/uploads/states/andhra-pradesh-visakhapatnam-port-full.jpg"
+    image_half: "/uploads/states/andhra-pradesh-visakhapatnam-port-half.jpg"
     credit: 'Fishing boats are moored at a harbor in the city of Visakhapatnam. (Photo
       credit: SAJJAD HUSSAIN/AFP/Getty Images)'
   secondary:
-    image_full: "/uploads/andhra-pradesh-women-fishing-full.jpg"
-    image_half: "/uploads/andhra-pradesh-women-fishing-half.jpg"
+    image_full: "/uploads/states/andhra-pradesh-women-fishing-full.jpg"
+    image_half: "/uploads/states/andhra-pradesh-women-fishing-half.jpg"
     credit: 'Fisherwomen sort through a catch of fish on a beach in Andhra Pradesh.
       (Photo credit: NOAH SEELAM/AFP/Getty Images)'
 ---
