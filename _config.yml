@@ -162,8 +162,8 @@ post_meta_limit: 5
 post_meta_sector_limit: 3
 google_analytics: UA-70098597-2
 facebook: CsisIndiaChair
-facebook_default_image: /assets/img/facebook-standard-image-min.jpg
-twitter_default_image: /assets/img/twitter-standard-image-min.jpg
+facebook_default_image: "/assets/img/facebook-standard-image-min.jpg"
+twitter_default_image: "/assets/img/twitter-standard-image-min.jpg"
 twitter:
   username: IndiaStatesCSIS
 algolia:
