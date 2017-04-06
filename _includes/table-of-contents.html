@@ -13,11 +13,12 @@
 	{% if include.stickyMenu == "true" %}</div>{% endif %}
 	{% if include.mobileHide == 'false' %}
 		<select class="tableOfContents-dropdown">
+			<option value="#">Skip to sector content:</option>
 			{% for sector in site.sectors %}
-				<option><a href="#{{ sector.title | slugify }}" class="smoothScroll">{{ sector.title }}</a></option>
+				<option value="#{{ sector.title | slugify }}">{{ sector.title }}</option>
 			{% endfor %}
 			{% if include.viewAll == "true" %}
-				<option class="viewAll"><a href="{{ page.url | relative_url }}archive">View All Articles</a></option>
+				<option class="viewAll" value="{{ page.url | relative_url }}archive">View All Articles</option>
 			{% endif %}
 		</select>
 	{% endif %}

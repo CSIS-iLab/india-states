@@ -39,13 +39,23 @@
 
   <!-- Results -->
   <section class="pagination-sortByContainer sort-attributes-container">
-    <div class="pagination-totalResults"></div>
-    <div class="pagination-sortBy">
-      Sort by:
-      <a href="#subsector=all&amp;sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">&darr;Date</a> 
-      <a href="#subsector=all&amp;sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">&uarr;Date</a>
-      <a href="#subsector=all&amp;sort=state&amp;order=desc" class="sort-attribute" data-sort="sort=state&amp;order=desc">&darr;State</a>
-      <a href="#subsector=all&amp;sort=state&amp;order=asc" class="sort-attribute" data-sort="sort=state&amp;order=asc">&uarr;State</a>
+    <div class="row">
+      <div class="col-xs-8 col-md-6 pagination-totalResults"></div>
+      <div class="col-xs-4 col-md-6 pagination-sortBy">
+        <div class="hidden-xs">
+          Sort by:
+        <a href="#subsector=all&amp;sort=date&amp;order=desc" class="sort-attribute active" data-sort="sort=date&amp;order=desc">&darr;Date</a> 
+        <a href="#subsector=all&amp;sort=date&amp;order=asc" class="sort-attribute" data-sort="sort=date&amp;order=asc">&uarr;Date</a>
+        <a href="#subsector=all&amp;sort=state&amp;order=desc" class="sort-attribute" data-sort="sort=state&amp;order=desc">&darr;State</a>
+        <a href="#subsector=all&amp;sort=state&amp;order=asc" class="sort-attribute" data-sort="sort=state&amp;order=asc">&uarr;State</a>
+        </div>
+        <select class="sort-dropdown">
+          <option value="#sort=date&amp;order=desc">&darr;Date</option>
+          <option value="#sort=date&amp;order=asc">&uarr;Date</option>
+          <option value="#sort=state&amp;order=desc">&darr;State</option>
+          <option value="#sort=state&amp;order=asc">&uarr;State</option>
+        </select>
+      </div>
     </div>
   </section>
   <section class="pagination-posts-container post-listing" data-sector="{{include.sector | slugify}}" data-subsector="all"></section>
@@ -62,12 +72,11 @@
     // Load all posts JSON for this State / Sector
     postsPaginateMainObject["all"] = [
       {% for post in sectorPosts %}
-        {% capture states %}[{% for state in post.states %}"{{state}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
         {% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
         {
           "id": "{{ post.title | escape | slugify }}",
           "title": "{{ post.title }}",
-          "states": {{states}},
+          "states": {{ post.states | jsonify }},
           "date": new Date("{{ post.date | date_to_xmlschema }}"),
           "postHtml": {{postHtml | strip_newlines | jsonify}}
         }{% unless forloop.last %},{% endunless %}
@@ -100,17 +109,16 @@
     {% assign subsectorPosts = sectorPosts | where_exp:"post","post.subsectors contains subsector.title" %}
     {% assign subsectorSlug = subsector.title | slugify %}
 
-    {% for post in subsectorPosts %}
+
       <script type="text/javascript">
         // Load all posts JSON grouped by subsector
         postsPaginateMainObject["{{subsectorSlug}}"] = [
           {% for post in subsectorPosts %}
-            {% capture states %}[{% for state in post.states %}"{{state}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
             {% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
             {
               "id": "{{ post.title | escape | slugify }}",
               "title": "{{ post.title }}",
-              "states": {{states}},
+              "states": {{ post.states | jsonify }},
               "date": new Date("{{ post.date | date_to_xmlschema }}"),
               "postHtml": {{postHtml | strip_newlines | jsonify}}
             }{% unless forloop.last %},{% endunless %}
@@ -135,7 +143,7 @@
           });
         });
       </script>
-    {% endfor %}
+
   {% endfor %}
 
 
@@ -144,5 +152,3 @@
   {% else %}
   <p>There are currently no related articles in this sector.</p>
   {% endif %}
-
-<script src="{{ "/assets/js/pagination.js" | relative_url }}"></script>

@@ -18,7 +18,8 @@
 }
 
 .home-content {
-
+	overflow-x: hidden;
+	
 	.home-orContainer {
 		display: none;
 
@@ -71,6 +72,7 @@
 		background-repeat: no-repeat;
 		background-size: 100% auto;
 		background-position-x: 10%;
+		text-align: center;
 
 		@include breakpoint("medium") {
 			padding: 0 7%;
@@ -78,6 +80,7 @@
 			background-color: transparent !important;
 			background-size: cover;
 			background-position-x: 10%;
+			text-align: left;
 		}
 
 		.home-contentWrapper {
@@ -100,6 +103,7 @@
 
 		p {
 			margin-bottom: 3rem;
+			text-align: left;
 		}
 
 		a.home-viewAllLink {
@@ -149,7 +153,6 @@
 		}
 
 		a.home-viewAllLink {
-			display: block;
 			text-align: center;
 			box-shadow: none;
 			@include breakpoint("medium") {
@@ -181,7 +184,6 @@
 		}
 
 		a.home-viewAllLink {
-			display: block;
 			text-align: center;
 			box-shadow: none;
 
@@ -237,7 +239,7 @@
 	    display: block;
 	    background-color: $medium-gray;
 	    padding: 10px 12px;
-	    @include fontSize(15px);
+	    @include fontSize(16px);
 	}
 
 	.home-dropdownContainer button:hover span,
@@ -266,6 +268,7 @@
     	overflow-y: scroll;
     	@include fontSize(16px);
     	font-family: $font__MuseoSans;
+    	text-align: left;
 
 	    &::-webkit-scrollbar {
 	        -webkit-appearance: none;

@@ -4,8 +4,12 @@ layout: default
 
 {% assign state = site.states | where:'title',page.state | first %}
 <section class="archive-container">
-	{% if state.feature_images.primary.image %}
-		<div class="archive-featureImage" style="background-image:url('{{state.feature_images.primary.image}}'"></div>
+	{% if state.feature_images.primary.image_full %}
+		{% if jekyll.environment == 'production' and site.cloudinary_url %}
+        <div class="archive-featureImage" style="background-image:url('{{state.feature_images.primary.image_full | prepend: site.url | prepend: site.cloudinary_url}}'"></div>
+      {% else %}
+        <div class="archive-featureImage" style="background-image:url('{{state.feature_images.primary.image_full}}'"></div>
+      {% endif %}
 	{% endif %}
 	<header class="archive-header">
 		<div class="content-wrapper fullWidthContent">

@@ -3,6 +3,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
+  <link rel="icon" sizes="192x192" href="{{ '/assets/img/android-chrome-192x192.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/img/favicon-32x32.png' | relative_url }}" sizes="32x32">
+  <link rel="icon" type="image/png" href="{{ '/assets/img/favicon-16x16.png' | relative_url }}" sizes="16x16">
+  <link rel="manifest" href="{{ '/assets/img/manifest.json' | relative_url }}">
+
   <!-- CSS -->
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css" type="text/css" >
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
@@ -13,13 +19,27 @@
   <script src="https://use.typekit.net/xxu0xvd.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>
 
-  <script src="//code.jquery.com/jquery-3.1.0.min.js"></script>
-  <script src="//cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js"></script>
-  <script src="//cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script>
+  <!-- jQuery Shim -->
+  <script>
+(function(){"use strict";var c=[],f={},a,e,d,b;if(!window.jQuery){a=function(g){c.push(g)};f.ready=function(g){a(g)};e=window.jQuery=window.$=function(g){if(typeof g=="function"){a(g)}return f};window.checkJQ=function(){if(!d()){b=setTimeout(checkJQ,100)}};b=setTimeout(checkJQ,100);d=function(){if(window.jQuery!==e){clearTimeout(b);var g=c.shift();while(g){jQuery(g);g=c.shift()}b=f=a=e=d=window.checkJQ=null;return true}return false}}})();
+  </script>
   
   {% if jekyll.environment == 'production' and site.google_analytics %}
   {% include google-analytics.html %}
   {% endif %}
 
   {% seo %}
+  {% if page.feature_image %}
+    <meta property="og:image" content="{{ page.feature_image | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ page.feature_image | prepend: site.url }}" />
+  {% elsif page.feature_images.primary.image_full %}
+    <meta property="og:image" content="{{ page.feature_images.primary.image_full | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ page.feature_images.primary.image_full | prepend: site.url }}" />
+  {% elsif page.image %}
+    <meta property="og:image" content="{{ page.image | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ page.image | prepend: site.url }}" />
+  {% else %}
+    <meta property="og:image" content="{{ site.facebook_default_image | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ site.twitter_default_image | prepend: site.url }}" />
+  {% endif %}
 </head>

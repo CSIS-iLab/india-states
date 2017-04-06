@@ -9,7 +9,7 @@
           <p>The CSIS Wadhwani Chair in U.S.-India Policy Studies aims to unlock the full potential of the U.S.-India relationship and leads the Center's work on India. The Chair serves as an independent platform to pursue policy changes that strengthen bilateral ties, placing special emphasis on accelerating economic development in India and promoting greater business and economic engagement between the two countries.</p>
           <address>
             1616 Rhode Island Avenue, NW<br />
-            Washington, DC 20008
+            Washington, DC 20036
           </address>
         </div>
         <div class="col-xs-12 col-md-4 footer-tweetsContainer">
@@ -19,13 +19,12 @@
         </div>
         <div class="col-xs-12 col-md-4">
           <h3 class="footer-title">Newsletter</h3>
-          <p><a href="">Newsletter One &mdash;</a> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-            tempor incididunt ut labore et dolore magna aliqua.</p>
-          <a href=""><button class="btn-blue">Sign Up</button></a>
+          <p>{{ site.newsletter_description }}</p>
+          <a href="{{ site.newsletter_link }}"><button class="btn-blue">Sign Up</button></a>
 
           <h3 class="footer-title socialMedia">Follow Us</h3>
-          <a href=""><img src="{{ "/assets/img/facebook.svg" | relative_url }}" alt="Facebook" title="Facebook" class="footer-socialIcon" /></a> 
-          <a href=""><img src="{{ "/assets/img/twitter.svg" | relative_url }}" alt="Twitter" title="Twitter" class="footer-socialIcon" /></a>
+          <a href="https://www.facebook.com/{{ site.facebook }}" target="_blank" rel="nofollow"><img src="{{ "/assets/img/facebook.svg" | relative_url }}" alt="Facebook" title="Facebook" class="footer-socialIcon" /></a> 
+          <a href="http://twitter.com/{{ site.twitter.username }}" target="_blank" rel="nofollow"><img src="{{ "/assets/img/twitter.svg" | relative_url }}" alt="Twitter" title="Twitter" class="footer-socialIcon" /></a>
         </div>
       </div>
     </div>
@@ -38,12 +37,3 @@
   </div>
 
 </footer>
-
-<script src="{{ "/assets/js/breadcrumbs.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/smooth-scroll.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/post-listing.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/sticky-menu.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/show-more-meta.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/share-icons.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/searchpage.js" | relative_url }}"></script>
-<script src="{{ "/assets/js/navigation.js" | relative_url }}"></script>

@@ -9,7 +9,13 @@
 $(function() {
   // Open Overlay
   $(".site-header .search-icon").click(function() {
-    $(".search-overlay").show();
+    if(navigator.userAgent.indexOf('MSIE')!==-1
+    || navigator.appVersion.indexOf('Trident/') > 0){
+      location.href = "/search/";
+    }
+    else {
+      $(".search-overlay").show();
+    }
   });
 
   // Close Overlay
@@ -68,11 +74,8 @@ if($(".search-container").length) {
         },
         transformData: {
           item: function (data) {
-            var d = new Date(data.date),
-            local = "en-us",
-            formattedDate = d.toLocaleString(local, {month: "long", year: "numeric", day: "numeric"});
-            if(data.content_type != "Sector" && data.content_type != "State" && data.content_type != "Subsector") {
-              data.formattedDate = '<span class="articleMeta hit-date">Posted on <span class="articleDate">'+formattedDate+'</span></span>';
+            if(data.content_type == 'Articles' || data.content_type == 'Analysis') {
+              data.formattedDate = '<span class="articleMeta hit-date">Posted on <span class="articleDate">'+data.date+'</span></span>';
             }
             else {
               data.formattedDate = null;
@@ -111,8 +114,8 @@ if($(".search-container").length) {
         container: '#pagination',
         scrollTo: '#search-input',
         labels: {
-          previous: "&lt; Previous",
-          next: "Next &gt;"
+          previous: "&#8249; Previous",
+          next: "Next &#8250;"
         }
       })
     );
@@ -139,7 +142,13 @@ if($(".search-container").length) {
         operator: 'or',
         templates: {
           header: getHeader('States')
-        }
+        },
+        searchForFacetValues: {
+          placeholder: 'Search for states',
+          templates: {
+            noResults: '<div class="sffv_no-results">No matching states.</div>'
+          }
+        },
       })
     );
 

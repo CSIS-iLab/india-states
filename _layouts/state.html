@@ -17,62 +17,90 @@ layout: default
       <h1 class="main-title">{{ page.title | escape }}</h1>
 
       <div class="row">
-        <div class="stateInfo col-xs-12 col-md-8">
+        <div class="stateInfo col-xs-12 {% if page.title != 'Center-State Relations' %}col-md-8{% endif %}">
           {{ content }}
 
+          {% if page.title != "Center-State Relations" %}
           <div class="stateInfoContainer-stateSummaryContainer">
             <h4 class="sectionSubtitle">State Summary</h4>
-            <ul class="stateInfoContainer-stateSummaryList">
-              <li class="hasBorder">
-                <span class="category">Size</span><br />
-                    {{ page.size | append: ' sq. miles' }}
-              </li>
-              <li class="hasBorder">
-                <span class="category">Population</span><br />
-                    {{ page.population | append: ' million'}}
-              </li>
-              <li class="hasBorder">
-                <span class="category">State GDP</span><br />
-                    {{ page.gdp | append: ' million (USD)'}}
-              </li>
-              <li>
-                <span class="category">Legislative Assembly Seats</span><br />
-                    {{ page.legislative_seats }}
-              </li>
-              <li class="hasBorder">
-                <span class="category">Rajya Sabha Seats</span><br />
-                    {{ page.rajya_seats }}
-              </li>
-              <li class="hasBorder">
-                <span class="category">Lok Sabha Seats</span><br />
-                    {{ page.lok_seats }}
-              </li>
-              <li>
-                <span class="category">Party Affiliation</span><br />
-                  {% assign party_affiliate = page.party_affiliation | split: " & " %}
-                  {% for pa in party_affiliate %}
-                    {{ pa }}<br />
-                  {% endfor %}
-              </li>
-            </ul>
+            <div class="row">
+              <div class="col-xs-6">
+                <ul class="stateInfoContainer-stateSummaryList">
+                  <li class="hasBorder">
+                    <span class="category">Size</span><br />
+                        {{ page.size | append: ' sq. miles' }}
+                  </li>
+                  <li class="hasBorder">
+                    <span class="category">Population</span><br />
+                        {{ page.population | append: ' million'}}
+                  </li>
+                  <li class="hasBorder">
+                    <span class="category">State GDP</span><br />
+                        {{ page.gdp | append: ' million (USD)'}}
+                  </li>
+                  <li>
+                    <span class="category">Legislative Assembly Seats</span><br />
+                        {{ page.legislative_seats }}
+                  </li>
+                </ul>
+              </div>
+              <div class="col-xs-6">
+                <ul class="stateInfoContainer-stateSummaryList">
+                  <li class="hasBorder">
+                    <span class="category">Rajya Sabha Seats</span><br />
+                        {{ page.rajya_seats }}
+                  </li>
+                  <li class="hasBorder">
+                    <span class="category">Lok Sabha Seats</span><br />
+                        {{ page.lok_seats }}
+                  </li>
+                  <li>
+                    <span class="category">Party Affiliation</span><br />
+                      {% assign party_affiliate = page.party_affiliation | split: " & " %}
+                      {% for pa in party_affiliate %}
+                        {{ pa }}<br />
+                      {% endfor %}
+                  </li>
+                </ul>
+              </div>
+            </div>
           </div>
+          {% endif %}
         </div>
-        <div class="stateMapContainer col-xs-12 col-md-4">
-          {% assign stateSlug = page.title | slugify %}
-          {% include map-svg.html state=stateSlug %}
-        </div>
+        {% if page.title != 'Center-State Relations' %}
+          <div class="stateMapContainer col-xs-12 col-md-4">
+            {% assign stateSlug = page.title | slugify %}
+            {% include map-svg.html state=stateSlug %}
+          </div>
+        {% endif %}
       </div>
     </div>
   </section>
 </div>
 
 <!-- Feature Images -->
+{% if jekyll.environment == 'production' and site.cloudinary_url %}
+  {% assign primaryFull = page.feature_images.primary.image_full | prepend: site.url | prepend: site.cloudinary_url %}
+  {% assign primaryHalf = page.feature_images.primary.image_half | prepend: site.url | prepend: site.cloudinary_url %}
+  {% assign secondaryFull = page.feature_images.secondary.image_full | prepend: site.url | prepend: site.cloudinary_url %}
+  {% assign secondaryHalf = page.feature_images.secondary.image_half | prepend: site.url | prepend: site.cloudinary_url %}
+{% else %}
+  {% assign primaryFull = page.feature_images.primary.image_full %}
+  {% assign primaryHalf = page.feature_images.primary.image_half %}
+  {% assign secondaryFull = page.feature_images.secondary.image_full %}
+  {% assign secondaryHalf = page.feature_images.secondary.image_half %}
+{% endif %}
 <div class="stateFeatureImageContainer row">
   <div class="col-xs-12 col-md-6">
-    <img src="{{ page.feature_images.primary.image }}" />
+    <img src="{{ primaryHalf }}"
+    sizes="100vw"
+    srcset="{{ primaryFull }} 1500w,
+            {{ primaryHalf }} 1400w" alt="{{ page.feature_images.primary.credit }}" 
+            title="{{ page.feature_images.primary.credit }}" />
   </div>
   <div class="hidden-xs col-md-6">
-    <img src="{{ page.feature_images.secondary.image }}" />
+    <img src="{{ secondaryHalf }}"
+    sizes="100vw" srcset="{{ secondaryFull }} 1500w, {{ secondaryHalf }} 1400w" alt="{{ page.feature_images.secondary.credit }}" title="{{ page.feature_images.secondary.credit }}" />
   </div>
 </div>
 

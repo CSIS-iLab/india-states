@@ -11,10 +11,9 @@ sectors:
 - Energy
 subsectors:
 - Power
-feature_image: https://63qmu69ykmn5o2p2een0g1cx-wpengine.netdna-ssl.com/wp-content/uploads/2017/03/6352922063_677265fd75_c.jpg
+feature_image: "/uploads/analysis/government-capture-electric-power-punjab.jpg"
 feature_image_credit: 'Market district in Amritsar, in Punjab, India. Source: Rwoan’s
   flickr photostream, used under a creative commons license.'
-is_analysis: true
 ---
 
 <p>Punjab state assembly elections were held on February 4, 2017, with results set to be announced March 11. Punjab, with a <a href="http://www.census2011.co.in/census/state/punjab.html">population</a> of over 27.7 million, is famed for providing electricity to <a href="http://rchiips.org/nfhs/pdf/NFHS4/PB_FactSheet.pdf">almost all</a> the households in the state — a stark contrast to the <a href="http://www.censusindia.gov.in/2011census/hlo/Data_sheet/India/Source_Lighting.pdf">national average</a> of 68 percent. It also holds the distinction of providing round-the-clock power supply, while many other states suffer from daily power outages. Its power distribution company Punjab State Power Corporation Ltd (PSPCL), was <a href="http://pspcl.in/jsps/newsDetails.jsp?id=311">chosen</a> as the best performing utility in the power sector in 2015. The Prakash Singh Badal-led Akali Dal/BJP coalition that has been in power in the state since 2007 takes <a href="http://punjabnewsexpress.com/punjab/news/historic-achievements-are-made-by-punjab-government-during-9-years-sukhbir-badal-47261.aspx">credit</a> for transforming Punjab from a position of power deficit to power surplus while securing universal power access for its people. But this is not the whole story: PSPCL faces severe revenue deficits, and no party has presented a power plan that would prevent looming degradation in services.</p>
