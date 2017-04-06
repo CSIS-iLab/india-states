@@ -81,12 +81,10 @@ defaults:
     content_type: State
     feature_images:
       primary:
-        image_full: 
-        image_half: 
+        image: 
         credit: 
       secondary:
-        image_full: 
-        image_half: 
+        image: 
         credit: 
     size: 
     population:

@@ -55,7 +55,7 @@ module Jekyll
 
           # Create an all archive
           filename = state.data["slug"] + "-archive"
-          image = state.data["feature_images"]["primary"]["image_full"]
+          image = state.data["feature_images"]["primary"]["image"]
           site.pages << ArchivePage.new(site, site.source, File.join(dir, state.data["slug"], "archive"), filename, state.data["title"], "archive", image)
 
         end

@@ -32,9 +32,9 @@
   {% if page.feature_image %}
     <meta property="og:image" content="{{ page.feature_image | prepend: site.url }}" />
     <meta name="twitter:image" content="{{ page.feature_image | prepend: site.url }}" />
-  {% elsif page.feature_images.primary.image_full %}
-    <meta property="og:image" content="{{ page.feature_images.primary.image_full | prepend: site.url }}" />
-    <meta name="twitter:image" content="{{ page.feature_images.primary.image_full | prepend: site.url }}" />
+  {% elsif page.feature_images.primary.image %}
+    <meta property="og:image" content="{{ page.feature_images.primary.image | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ page.feature_images.primary.image | prepend: site.url }}" />
   {% elsif page.image %}
     <meta property="og:image" content="{{ page.image | prepend: site.url }}" />
     <meta name="twitter:image" content="{{ page.image | prepend: site.url }}" />
