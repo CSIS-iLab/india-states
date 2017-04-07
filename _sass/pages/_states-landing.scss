@@ -60,6 +60,10 @@
 				padding-top: 0;
 			}
 
+			svg#map {
+				max-height: 650px !important;
+			}
+
 			.active {
 				fill: $base-orange;
 				cursor: pointer;

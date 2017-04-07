@@ -15,9 +15,7 @@ feature_images:
   secondary:
     image: "/uploads/states/madhya-pradesh-high-security-animal-disease-laboratory-equipment.jpg"
     credit: Dr. H. K. Pradhan, director of the High Security Animal Disease Laboratory,
-      looks at equipment in his laboratory in Bhopal. The lab works mainly on developing
-      quick and reliable methods of diagnosing exotic diseases so as to identify animals
-      carrying those diseases and stop them from being imported. (AFP/AFP/Getty Images)
+      looks at equipment in his laboratory in Bhopal. (AFP/AFP/Getty Images)
 ---
 
 Madhya Pradesh, India's second largest state by area, is seeking to build a reputation as one of the country's most dynamic states despite the steep challenges presented by a poor, largely agrarian and rural population. Led by a stable and vigorous government closely aligned with Prime Minister Modi, the state is seeking to attract foreign investment in agribusiness and manufacturing.

@@ -12,8 +12,7 @@ feature_images:
   primary:
     image: "/uploads/states/jammu-kashmir-railway-bridge.jpg"
     credit: The site of the under-construction world’s highest railway bridge over
-      the Chenab river in Kauri in northern Jammu and Kashmir state. (PRAKASH SINGH/AFP/Getty
-      Images)
+      the Chenab river in Kauri. (PRAKASH SINGH/AFP/Getty Images)
   secondary:
     image: "/uploads/states/jammu-kashmir-magnumsoftwareservices-employees.jpg"
     credit: Kashmiri Muslim girls work on computers at Magnum Software Services on

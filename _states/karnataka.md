@@ -11,8 +11,7 @@ feature_images:
   primary:
     image: "/uploads/states/karnataka-virtual-reality-shell.jpg"
     credit: An employee of Shell company (C) helps visitors take a tour of Shell refineries
-      using Virtual Reality goggles after the inauguration of the Shell Technology
-      Centre in Bangalore. (MANJUNATH KIRAN/AFP/Getty Images)
+      using Virtual Reality goggles in Bangalore. (MANJUNATH KIRAN/AFP/Getty Images)
   secondary:
     image: "/uploads/states/karnataka-metro-namma-train.jpg"
     credit: The Bangalore Metro Rail Corporation's Namma metro train. (DIBYANGSHU

@@ -41,6 +41,9 @@
 
 		@include breakpoint("medium") {
 			border-bottom: 2px solid $dark-gray;
+			padding-bottom: 3px;
+			margin-bottom: 5px;
+			font-size: 1.1rem;
 		}
 
 	}

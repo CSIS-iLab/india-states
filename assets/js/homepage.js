@@ -12,7 +12,7 @@ $(function() {
 			$("#"+dropdownID).closest(".home-dropdownContainer").toggleClass("open");
 			
 			// Toggle the dropdown menu
-			$(".home-dropdownMenu[data-dropdown='"+dropdownID+"']").slideToggle('slow');
+			$(".home-dropdownMenu[data-dropdown='"+dropdownID+"']").slideToggle();
 
 		});
 
@@ -21,7 +21,7 @@ $(function() {
 		    if(!$(event.target).closest('.home-dropdownContainer').length) {
 		    	if($('.home-dropdownContainer').hasClass('open')) {
 			        // toggle the nav list
-			        $('.home-dropdownContainer .home-dropdownMenu').slideUp('slow');
+			        $('.home-dropdownContainer .home-dropdownMenu').slideUp();
 			        $('.home-dropdownContainer').removeClass('open');
 		    	}
 		    }        

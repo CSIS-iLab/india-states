@@ -10,7 +10,7 @@ gdp: "$217"
 feature_images:
   primary:
     image: "/uploads/states/manipur-lake.jpg"
-    credit: Manipuri children wash utensils as Indian youth paddle their kayaks across
+    credit: Manipuri children wash utensils as Indian youth paddle kayaks across
       Loktak lake, the largest freshwater lake in northeastern India. (DESHAKALYAN
       CHOWDHURY/AFP/Getty Images)
   secondary:
