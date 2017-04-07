@@ -8,7 +8,7 @@ tags:
 - Dichpally
 states:
 - Telangana
-- Chattisgarh
+- Chhattisgarh
 sectors:
 - Energy
 subsectors:

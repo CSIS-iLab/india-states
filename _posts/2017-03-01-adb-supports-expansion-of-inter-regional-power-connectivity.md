@@ -5,7 +5,7 @@ tags:
 - Transmission
 - POWERGRID
 states:
-- Chattisgarh
+- Chhattisgarh
 - Tamil Nadu
 - Kerala
 - Rajasthan

@@ -6,7 +6,7 @@ tags:
 - Procurement
 states:
 - Center-State Relations
-- Chattisgarh
+- Chhattisgarh
 - Madhya Pradesh
 - Maharashtra
 - Uttar Pradesh
