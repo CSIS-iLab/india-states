@@ -1,5 +1,5 @@
 ---
-title: POWERGRID to link Chattisgarh and Tamil Nadu
+title: POWERGRID to link Chhattisgarh and Tamil Nadu
 date: 2017-02-01 00:00:00 Z
 tags:
 - BHEL
@@ -9,7 +9,7 @@ tags:
 - Pugalur
 states:
 - Tamil Nadu
-- Chattisgarh
+- Chhattisgarh
 - Center-State Relations
 sectors:
 - Energy
@@ -21,4 +21,4 @@ sources:
 details: 
 ---
 
-State-run power equipment maker Bharat Hindustan Electronics Ltd (BHEL) and industrial technology company ABB have won a contract worth $200 million from the Power Grid Corporation to set up a 800 kilovolt, 6,000 MW high voltage direct current link between the Western Region Grid (Raigarh, Chattisgarh) and the Southern Region Grid (Pugalur, Tamil Nadu).
+State-run power equipment maker Bharat Hindustan Electronics Ltd (BHEL) and industrial technology company ABB have won a contract worth $200 million from the Power Grid Corporation to set up a 800 kilovolt, 6,000 MW high voltage direct current link between the Western Region Grid (Raigarh, Chhattisgarh) and the Southern Region Grid (Pugalur, Tamil Nadu).

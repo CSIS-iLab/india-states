@@ -81,12 +81,10 @@ defaults:
     content_type: State
     feature_images:
       primary:
-        image_full: 
-        image_half: 
+        image: 
         credit: 
       secondary:
-        image_full: 
-        image_half: 
+        image: 
         credit: 
     size: 
     population:
@@ -184,7 +182,7 @@ sector_overview_post_limit: 4
 post_archive_posts_per_page: 10
 newsletter_link: https://www.tfaforms.com/4601801
 newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India Policy
-  Studies publishes the “Update on India’s States”, a newsletter featuring the most
+  Studies publishes the “Update on India’s States,” a newsletter featuring the most
   significant socioeconomic and political developments from thirteen of India’s very
   powerful states, including the national capital and union territory of New Delhi.
 national_goals_data_dir: national-goals
