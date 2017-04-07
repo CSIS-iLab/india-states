@@ -11,11 +11,10 @@ feature_images:
   primary:
     image: "/uploads/states/arunachal-pradesh-construction.jpg"
     credit: Construction work on a 2000MW dam at The Subansiri Lower Hydroelectric
-      Project at North Lakhimpur (STRDEL/AFP/Getty Images)
+      Project at North Lakhimpur. (STRDEL/AFP/Getty Images)
   secondary:
     image: "/uploads/states/arunachal-pradesh-sunflowers.jpg"
-    credit: Chakma women work in a sunflower field in the Bijoypur Chakma refugee
-      village in Diyun, about 700 kms from the capital of Arunachal Pradesh. (PARTHAJIT
+    credit: Chakma women work in a sunflower field in Diyun. (PARTHAJIT
       DATTA/AFP/Getty Images)
 ---
 

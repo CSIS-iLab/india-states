@@ -10,12 +10,12 @@ gdp: "$1,862"
 feature_images:
   primary:
     image: "/uploads/states/uttarakhand-maneri-dam.jpg"
-    credit: View of Maneri Dam, a concrete gravity dam, on the Bhagirathi River. (Atudu,
+    credit: View of the Maneri Dam, a concrete gravity dam, on the Bhagirathi River. (Atudu,
       licensed under CC BY-SA 4.0)
   secondary:
     image: "/uploads/states/uttarakhand-kumbh-mela.jpg"
     credit: Hindu devotees perform evening prayers on the banks of the river Ganges
-      on Makar Sankranti, one of the Kumbh Mela festival’s main bathing days, in Haridwar.
+      on Makar Sankranti during the Kumbh Mela festival in Haridwar.
       (MANAN VATSYAYANA/AFP/Getty Images)
 ---
 

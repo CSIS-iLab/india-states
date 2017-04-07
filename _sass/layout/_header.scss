@@ -266,6 +266,9 @@ header.site-header {
 							}
 					}
 
+					&.ss-nav:nth-of-type(2) {
+						margin-right: 1rem;
+					}
 
 					// Dropdown
 					ul {
@@ -280,11 +283,13 @@ header.site-header {
 					    list-style-type: none;
 				    	@include fontSize(16px);
 				    	font-family: $font__MuseoSans;
+				    	padding: 1rem 0;
 
 				    	@include breakpoint("large") {
 				    		position: absolute;
 				    		width: 300px;
 				    		height: 20vh;
+				    		padding: auto;
 				    		overflow-y: scroll;
 				    	}
 
@@ -399,7 +404,7 @@ header.site-header {
 			}
 
 			.header-nav ul li svg {
-				max-width: 9px;
+				max-width: 14px;
 			    max-height: 14px;
 			    height: 100%;
 			    width: 100%;
@@ -466,7 +471,7 @@ header.site-header {
 
 		img {
 			max-width: 15px;
-			padding-top: 5px;
+			padding: 7px 0px;
 			cursor: pointer;
 		}
 	}

@@ -14,7 +14,7 @@ feature_images:
       CC BY-SA 3.0)
   secondary:
     image: "/uploads/states/puducherry-Immaculate-Conception-Cathedral.jpg"
-    credit: Immaculate Conception Cathedral, Puducherry, India. (BishkekRocks, licensed
+    credit: Immaculate Conception Cathedral. (BishkekRocks, licensed
       under CC BY-SA 3.0)
 ---
 

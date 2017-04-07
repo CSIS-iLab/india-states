@@ -11,12 +11,11 @@ feature_images:
   primary:
     image: "/uploads/states/telangana-tablet-computers.jpg"
     credit: Indian technicians work on tablet computers at Canadian company Datawind
-      Manufacturing plant at GMR Complex of Rajiv Gandhi International Airport. (NOAH
-      SEELAM/AFP/Getty Images)
+      Manufacturing plant. (NOAH SEELAM/AFP/Getty Images)
   secondary:
     image: "/uploads/states/telangana-handloom-textile.jpg"
     credit: An Indian weaver wraps yarn around a circular warping drum in her household
-      workshop at Koyalagudem village of Nalgonda District. (NOAH SEELAM/AFP/Getty
+      workshop at Koyalagudem village. (NOAH SEELAM/AFP/Getty
       Images)
 ---
 

@@ -6,7 +6,7 @@
 
 .sectorSection-goalsContainer {
 	background-color: $light-gray;
-	padding: 2rem;
+	padding: 2rem 2rem 2.4rem;
 
 	.sectionSubtitle {
 		color: $base-orange;
@@ -48,7 +48,7 @@
 	
 	.goal-header {
 		background-color: $light-gray;
-		padding: 0.2rem 0 1rem 0;
+		padding: 1rem 0 4rem 0;
 
 		ul.shareIcons {
 			@include breakpoint("medium") {
