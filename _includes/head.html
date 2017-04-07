@@ -29,4 +29,17 @@
   {% endif %}
 
   {% seo %}
+  {% if page.feature_image %}
+    <meta property="og:image" content="{{ page.feature_image | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ page.feature_image | prepend: site.url }}" />
+  {% elsif page.feature_images.primary.image %}
+    <meta property="og:image" content="{{ page.feature_images.primary.image | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ page.feature_images.primary.image | prepend: site.url }}" />
+  {% elsif page.image %}
+    <meta property="og:image" content="{{ page.image | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ page.image | prepend: site.url }}" />
+  {% else %}
+    <meta property="og:image" content="{{ site.facebook_default_image | prepend: site.url }}" />
+    <meta name="twitter:image" content="{{ site.twitter_default_image | prepend: site.url }}" />
+  {% endif %}
 </head>

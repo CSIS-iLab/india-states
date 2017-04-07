@@ -1,6 +1,10 @@
 ---
-title: "India’s Hydrocarbon Exploration and Licensing Policy (HELP): Will it Help India’s Upstream Oil and Gas?"
-date: 2017-03-21
+title: 'India’s Hydrocarbon Exploration and Licensing Policy (HELP): Will it Help
+  India’s Upstream Oil and Gas?'
+date: 2017-03-21 00:00:00 Z
+tags:
+- Dharmendra Pradhan
+- HELP
 author:
 - Sharmila Bellur
 - Sarah Ladislaw
@@ -8,12 +12,15 @@ sectors:
 - Energy
 subsectors:
 - Oil and Gas
-tags:
-- Dharmendra Pradhan
-- HELP
 feature_image: "/uploads/analysis/payment-security-mechanism-solar-power-india.jpg"
-feature_image_credit:
-excerpt: HELP marks the biggest transition from an era of government control to government support for upstream E&P in India. OALP removes restrictions on exploration by giving companies both the data and the discretion to explore areas of their choice. India’s upstream oil and gas E&P policy has been subject to criticism, with protectionism and government red tape being blamed for lackluster development of oil and gas upstream. A policy that will encourage upstream investment and improve productivity could help incentivize more private and foreign entrants into the oil and gas sector. 
+feature_image_credit: 
+excerpt: HELP marks the biggest transition from an era of government control to government
+  support for upstream E&P in India. OALP removes restrictions on exploration by giving
+  companies both the data and the discretion to explore areas of their choice. India’s
+  upstream oil and gas E&P policy has been subject to criticism, with protectionism
+  and government red tape being blamed for lackluster development of oil and gas upstream.
+  A policy that will encourage upstream investment and improve productivity could
+  help incentivize more private and foreign entrants into the oil and gas sector.
 ---
 
 <ul>

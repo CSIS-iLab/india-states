@@ -76,7 +76,11 @@ $(function() {
 	 * @param  {Number} current_page The current page the user is on
 	 * @return {string}              Renders the posts to be shown on this page and the pagination bar
 	 */
-	function paginationCalculation(subsector, sort_field = "date", sort_order = "desc", current_page = 1) {
+	function paginationCalculation(subsector, sort_field, sort_order, current_page) {
+		// Default Values
+		sort_field = sort_field || "date";
+		sort_order = sort_order || "desc";
+		current_page = current_page || 1;
 
 		// Calculate the start/end items based on the total items and the posts per page
 		var total_items = 0;

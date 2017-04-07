@@ -74,10 +74,13 @@
 	// Map
 	.stateMapContainer {
 		margin: 3rem auto 0;
-		max-width: 400px;
 
 		@include breakpoint("large") {
 			margin: 0rem auto 0;
+		}
+
+		svg {
+			max-width: 400px;
 		}
 	}
 }
@@ -90,6 +93,13 @@
 	.col-xs-12, .col-md-6 {
 		padding: 0;
 		margin-bottom:-5px;
+	}
+
+	.stateSecondaryImage {
+		display: none;
+		@include breakpoint("large") {
+			display: block;
+		}
 	}
 
 	img {
@@ -108,6 +118,13 @@
 	margin-top: 0.5rem;
 	margin-bottom: 4rem;
 	padding-left: 0.5rem;
+
+	.stateSecondaryCaption {
+		display: none;
+		@include breakpoint("large") {
+			display: block;
+		}
+	}
 }
 
 // Content Wrapper
