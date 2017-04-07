@@ -10,7 +10,8 @@ gdp: "$4,136"
 feature_images:
   primary:
     image: "/uploads/states/odisha-vendanta-aluminum-refinery.jpg"
-    credit: A general view of the Vedanta aluminum refinery at Lanjigarh. (STRDEL/AFP/Getty Images)
+    credit: A general view of the Vedanta aluminum refinery at Lanjigarh. (STRDEL/AFP/Getty
+      Images)
   secondary:
     image: "/uploads/states/odisha-hindu-gathering.jpg"
     credit: Hindu devotees gather as three giant chariots are pulled during the Rath

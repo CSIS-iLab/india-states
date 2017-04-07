@@ -11,10 +11,9 @@ gdp: "$406"
 feature_images:
   primary:
     image: "/uploads/states/tripura-border-security.jpg"
-    credit: Indian Border Security Force (BSF) personnel
-      during the Beating Retreat ceremony on the India Bangladesh border at Akhaura
-      Integrated Checkpost in Agartala on February 14, 2017.
-      (ARINDAM DEY/AFP/Getty Images)
+    credit: Indian Border Security Force (BSF) personnel during the Beating Retreat
+      ceremony on the India Bangladesh border at Akhaura Integrated Checkpost in Agartala
+      on February 14, 2017. (ARINDAM DEY/AFP/Getty Images)
   secondary:
     image: "/uploads/states/tripura-women-workers-waterbottles.jpg"
     credit: Workers add labels onto bottles of drinking water at a bottling unit on

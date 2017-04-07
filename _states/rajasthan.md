@@ -10,8 +10,8 @@ gdp: "$7,843"
 feature_images:
   primary:
     image: "/uploads/states/rajasthan-material-shop.jpg"
-    credit: A material shop in the local markets in the walled city center of
-      Jaipur. (Mark Kolbe/Getty Images)
+    credit: A material shop in the local markets in the walled city center of Jaipur.
+      (Mark Kolbe/Getty Images)
   secondary:
     image: "/uploads/states/rajasthan-jaisalmer-city.jpg"
     credit: A view of the “Golden City”, Jaisalmer, from the top of the Jaisalmer
