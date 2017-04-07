@@ -10,7 +10,7 @@ states:
 - Uttar Pradesh
 - Rajasthan
 - Jharkhand
-- Chattisgarh
+- Chhattisgarh
 sectors:
 - Energy
 subsectors:
