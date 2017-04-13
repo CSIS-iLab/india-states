@@ -127,6 +127,17 @@ footer.site-footer {
         }
       }
 
+      #Newsletter {
+        max-width: 30px;
+    height: auto;
+    margin-left: 5px;
+      }
+
+      .newsletter {
+        color: $color__homepage-footer-gray;
+        height: 30px;
+      }
+
       .footer-socialIcon {
         @include breakpoint("medium") {
           margin-left: 5px;

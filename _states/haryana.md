@@ -10,8 +10,8 @@ gdp: "$5,893"
 feature_images:
   primary:
     image: "/uploads/states/haryana-dlf-cyber-city-gurgaon.jpg"
-    credit: People look over a mall in the DLF Cyber City area of Gurgaon, southwest
-      of the capital New Delhi. (CHANDAN KHANNA/AFP/Getty Images)
+    credit: People look over a mall in the DLF Cyber City area of Gurgaon. (CHANDAN
+      KHANNA/AFP/Getty Images)
   secondary:
     image: "/uploads/states/haryana-shepherds.jpg"
     credit: Nomadic shepherds lead their sheep along a road on the outskirts of Faridabad.

@@ -58,6 +58,12 @@
 		span.post-readMore {
 			@include fontSize(14px);
 			font-family: $font__MuseoSans;
+
+			a {
+				-webkit-box-shadow: none; 
+    			-moz-box-shadow: none;
+    			color: $base-orange;
+			}
 		}
 
 		hr {

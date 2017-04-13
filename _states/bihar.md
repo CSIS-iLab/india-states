@@ -12,7 +12,7 @@ feature_images:
   primary:
     image: "/uploads/states/bihar-train-communters.jpg"
     credit: Commuters overcrowd a local passenger train on the Patna-Gaya railway
-      track at state capital Patna. (STR/AFP/Getty Images)
+      track in Patna. (STR/AFP/Getty Images)
   secondary:
     image: "/uploads/states/bihar-gerbera-garden-agriculture-university.jpg"
     credit: Gerbera Cultivation-in Poly-house, Dr. Rajendra Prasad Central Agriculture

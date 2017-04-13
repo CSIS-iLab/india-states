@@ -14,8 +14,8 @@ feature_images:
       CC BY-SA 3.0)
   secondary:
     image: "/uploads/states/puducherry-Immaculate-Conception-Cathedral.jpg"
-    credit: Immaculate Conception Cathedral, Puducherry, India. (BishkekRocks, licensed
-      under CC BY-SA 3.0)
+    credit: Immaculate Conception Cathedral. (BishkekRocks, licensed under CC BY-SA
+      3.0)
 ---
 
 Puducherry is a union territory which comprises the former French colonies Puducherry, Karaikal, Mahe and Yanam, situated in tiny enclaves on both India's Atlantic and Pacific coasts. Puducherry's small size and fractured terrain mean that it lacks a unified economy, and its various enclaves are more likely to take on the characteristics of the states around them.

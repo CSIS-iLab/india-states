@@ -11,8 +11,8 @@ feature_images:
   primary:
     image: "/uploads/states/sikkim-buddhism-statue.jpg"
     credit: Buddhist monks walk at the 130 foot Lord Buddha statue during the Dzung
-      ceremony and curtain raiser to unveil the Buddha Park at Rabong in South Sikkim
-      on February 25, 2013. (DIPTENDU DUTTA/AFP/Getty Images)
+      ceremony as Buddha Park is unveiled on February 25, 2013. (DIPTENDU DUTTA/AFP/Getty
+      Images)
   secondary:
     image: "/uploads/states/sikkim-hydroelectric-teesta-river.jpg"
     credit: General view of construction of a Hydroelectric Project by India's National
