@@ -17,4 +17,4 @@ sources:
 details: 
 ---
 
-The state-run Power Finance Corp has sanctioned financial assistance of $408.5 million for West Bengal’s first super critical thermal power project in Murshidabad district. West Bengal Power Development Corporation Ltd will expand the Sagardighi Thermal Power Station with a new 660 MW unit.
+The state-run Power Finance Corp has sanctioned financial assistance of $408.5 million for West Bengal’s first super critical thermalpower project in Murshidabad district. West Bengal Power Development Corporation Ltd will expand the Sagardighi Thermal Power Station with a new 660 MW unit.
