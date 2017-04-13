@@ -33,6 +33,10 @@ $(function() {
     });
 
     // Share on Social Media
+    $("body").on("click", ".share-social", function(e) {
+        e.preventDefault();
+    });
+
     $(".share-social").hover(
         function() {
             $(this).children(".share-socialContainer").show();
