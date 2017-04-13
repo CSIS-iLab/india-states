@@ -266,8 +266,10 @@ header.site-header {
 							}
 					}
 
-					&.ss-nav:nth-of-type(2) {
-						margin-right: 1rem;
+					@include breakpoint("large") {
+						&.ss-nav:nth-of-type(2) {
+							margin-right: 1rem;
+						}
 					}
 
 					// Dropdown
