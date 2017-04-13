@@ -47,8 +47,11 @@ article.post-individualContainer {
 			}
 
 			img {
-				width: 100%;
+				max-width: 100%;
 				height: auto;
+				width: initial;
+				display: block;
+				margin-bottom: 0.5rem;
 			}
 
 			.post-featureImageCredit {
