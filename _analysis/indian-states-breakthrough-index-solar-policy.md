@@ -13,8 +13,8 @@ sectors:
 - Energy
 subsectors:
 - Renewables
-feature_image: "/uploads/analysis/breakthrough-index-solar-policy.jpg"
-feature_image_credit: NARINDER NANU/AFP/Getty Images
+feature_image: "/uploads/analysis/breakthrough-index-solar-policy-ranking.jpg"
+feature_image_credit: 
 excerpt: In September 2016, Madhya Pradesh became the latest state to encourage consumers
   to install solar rooftop panels. But despite the vogue for such sources of renewable
   energy, state policies vary widely. Andhra Pradesh was awarded the Breakthrough
@@ -24,7 +24,6 @@ excerpt: In September 2016, Madhya Pradesh became the latest state to encourage 
 
 <strong>This issue: </strong>In September 2016, <a href="http://www.mprenewable.nic.in/Decentralized%20RE%20Policy%20in%20English%2024.09.2016.pdf">Madhya Pradesh</a> became the latest state to encourage consumers to install solar rooftop panels. But despite the vogue for such sources of renewable energy, state policies vary widely. We awarded Andhra Pradesh Breakthrough status for a policy that offers generous incentives to producers and consumers, including ambitious purchase targets and net-metering policies.<br>
 <br>
-<img alt="" height="744" src="https://www.csis.org/s3/files/styles/wysiwyg_medium/public/assets/images/170215_bt_index11.jpg?itok=EsIQxcDX" style="float: right;width:240px;" typeof="foaf:Image">
 <strong>Why it matters: </strong>India has set an extraordinarily ambitious goal of reaching 175 gigawatts (GW) of renewables production by 2022. Of that total, 100 GW is set come from solar, 40 percent of it from rooftop solar. But at the current pace, India will only have <a href="http://www.pv-tech.org/news/india-expected-to-reach-just-12gw-of-rooftop-solar-by-2022">12 GW</a> of rooftop solar by 2022. To foster growth, states need to set policies that encourage solar production (and meet implementation <a href="http://www.bridgetoindia.com/poor-implementation-net-metering-policies-poses-major-challenge-rooftop-solar/">challenges</a>).<br>
 <br>
 <strong>How the Index works: </strong>We rank state solar policies in three areas: the value of producer incentives, the consumer friendliness of their net-metering policy, and the ambition of their renewable purchase obligation (RPO) targets. Each category had a maximum score of 10, with up to 3 bonus points for making rooftop solar mandatory. The maximum possible score was 33.<br>

@@ -7,7 +7,7 @@
 		{% if include.useStateText == "true" %}
 			{% assign stateData = site.data[site.national_goals_data_dir][goal.data_source] | where:"state",include.state | first %}
 
-			&mdash; {{ stateData.state }} {{ goal.state_text }} {{ stateData.state_achieved | append: goal.data_label }}
+			&mdash; {{ stateData.state }} {{ goal.state_text }} {{ stateData.state_achieved}} {{ goal.data_label }}
 
 		{% endif %}
 		<span class="goal-lastUpdated">(updated {{ goal.last_updated_at | date: site.date_format }})</span><br />

@@ -284,14 +284,15 @@ header.site-header {
 							}
 					}
 
-
 					&.ss-nav:nth-of-type(2) {
 						margin-right: -4px;
 					}
 
 					@include breakpoint("large") {
-					&.ss-nav:nth-of-type(2) {
-						margin-right: 1rem;
+						&.ss-nav:nth-of-type(2) {
+							margin-right: 1rem;
+						}
+
 					}
 				}
 
