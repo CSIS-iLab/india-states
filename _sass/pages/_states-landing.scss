@@ -27,6 +27,12 @@
 			}
 		}
 
+		@include breakpoint("xsmall") {
+			&.content-wrapper {
+				margin: 2rem 1rem;
+			}
+		}
+
 		ul.statesLanding-statesList {
 			list-style-type: none;
 			margin: 0;
