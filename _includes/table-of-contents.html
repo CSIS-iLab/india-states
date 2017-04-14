@@ -13,7 +13,7 @@
 	{% if include.stickyMenu == "true" %}</div>{% endif %}
 	{% if include.mobileHide == 'false' %}
 		<select class="tableOfContents-dropdown">
-			<option value="#">Skip to sector content:</option>
+			<option value="#">Skip to sector content...</option>
 			{% for sector in site.sectors %}
 				<option value="#{{ sector.title | slugify }}">{{ sector.title }}</option>
 			{% endfor %}

@@ -67,12 +67,22 @@
 		}
 	}
 
+
+
 	.home-stateContainer, .home-sectorContainer {
 		padding: 2rem;
 		background-repeat: no-repeat;
 		background-size: 100% auto;
 		background-position-x: 10%;
 		text-align: center;
+
+		@include breakpoint("small") {
+			background-size: 150% auto;
+		}
+
+		@include breakpoint("xsmall") {
+			background-size: 240% auto;
+		}
 
 		@include breakpoint("medium") {
 			padding: 0 7%;
@@ -82,6 +92,7 @@
 			background-position-x: 10%;
 			text-align: left;
 		}
+
 
 		.home-contentWrapper {
 			max-width: 500px;

@@ -270,7 +270,11 @@
     font-family: $font__MuseoSans;
     color: $gray;
     text-transform: capitalize;
+
+
+
   }
+
   #search-input input, #search-input input:focus {
     transition: border-color .3s ease-in;
     outline: 0;

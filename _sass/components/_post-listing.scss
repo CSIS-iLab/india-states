@@ -9,6 +9,40 @@
 }
 
 
+.pagination-posts-container .analysis-image {
+	a {
+	position:relative;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+    max-height: 200px;
+    margin-bottom: 15px;
+
+    	@include breakpoint("large") {
+			padding-right: 10px;
+		}
+
+	    img {
+	    flex-shrink:0;
+	    min-width:100%;
+	    min-height:100%;
+	    }
+	}
+
+	& ~ div {
+		padding-left: 0;
+	}
+
+}
+
+.analysisLanding-container {
+	.post-articleSourcesDetails, .post-articleSourceBreak {
+		display: none;
+	}
+}
+
+
 /*----------  Post Listing: Individual Post  ----------*/
 .post-articleContainer {
 	border-top: 2px solid $gray;
