@@ -119,6 +119,13 @@
 	margin-bottom: 7rem;
 	padding-left: 0.5rem;
 
+	span {
+		display: none;
+
+		@include breakpoint("large") {
+			display: inline;
+		}
+	}
 
 	@include breakpoint("medium") {
 		max-width: 75%;

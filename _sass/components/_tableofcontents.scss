@@ -93,6 +93,8 @@
 		@include fontSize(14px);
 		line-height: 1.4rem;
 		font-weight: 500;
+		border: none;
+		background-color: $light-gray;
 
 		@include breakpoint("medium") {
 			display: none;

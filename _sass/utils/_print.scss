@@ -44,15 +44,20 @@
             page-break-after: avoid;
         }
         article {
-            page-break-inside: avoid;
+          
         }
-        ul,
+       
         img {
             page-break-inside: avoid;
         }
 
         h1.main-title {
         	font-size: 30px !important;
+        }
+
+        h1.main-title.analysis-title {
+            font-size: 24px !important;
+
         }
 
         .site-header,
@@ -71,6 +76,7 @@
         .post-featureImage,
         .post-featureImageCredit,
         svg#map,
+        .post-authorImage img,
         aside {
             display: none !important;
         }
