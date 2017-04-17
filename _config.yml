@@ -121,7 +121,8 @@ defaults:
     sectors: 
     subsectors: 
     data_source: 
-    data_label: 
+    data_label:
+    data_missing_message: "There is currently no data available for " 
     show_map: true
     show_progressbars: true
     map:

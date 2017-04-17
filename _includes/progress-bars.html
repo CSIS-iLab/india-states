@@ -4,9 +4,12 @@
   <div class="progress-container row flex-center__y">
     <div class="progress-stateContainer col-xs-12 col-md-3">
       <span class="progress-stateName">{{ row.state }}</span>
+      {% if row.state_achieved %}
       <span class="progress-achieved">achieved {{ row.state_achieved }} of {{ row.state_target | append: include.data_label }}
+      {% endif %}
     </div>
     <div class="progress-barContainer col-xs-12 col-md-9">
+      {% if row.state_percentage %}
       <div class="progress-wrap progress" data-progress-percent="{{ row.state_percentage }}">
         <div class="progress-bar progress"></div>
         <span class="progress-percentage">{{ row.state_percentage | append: '%' }}</span>
@@ -17,6 +20,9 @@
         Target: {{ row.state_target | append: include.data_label }}<br />
         Achieved: {{ row.state_achieved | append: include.data_label }}
       </div>
+      {% else %}
+        <span class="progress-missingData">{{ page.data_missing_message }} {{ row.state }}.
+      {% endif %}
     </div>
   </div>
   {% endfor %}
