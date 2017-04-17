@@ -251,7 +251,7 @@ header.site-header {
 						}
 					}
 
-					State & Sector Look
+					//State & Sector Look
 					&.ss-nav {
 						color: $color__header-ss-nav-font;
 						background-color: $color__header-ss-nav-background;
@@ -357,11 +357,10 @@ header.site-header {
 					    color: $base-orange !important;
 					    @include box-shadow(3px,0px,0px,0, $base-orange, true);
 					}
-
-					@include breakpoint("large") {
-						&:hover > ul {
-							display: block;
-						}
+				}
+				@include breakpoint("large") {
+					li:hover > ul {
+						display: block;
 					}
 				}
 			}
