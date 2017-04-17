@@ -71,7 +71,8 @@ defaults:
       name: 
       url: 
     is_analysis: true
-    author: 
+    author:
+    pdf: 
     breadcrumbs: analysis
 - scope:
     path: ''
