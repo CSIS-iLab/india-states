@@ -279,6 +279,12 @@ $(function() {
 		$(".pagination-pagesContainer").empty();
 	}
 
+	// Click on Paginate Links & Scroll to top
+	$(".pagination-pagesContainer").on("click", "a", function() {
+		var top = $(".pagination-sortByContainer").offset().top - $(".site-header").outerHeight();
+		$('html, body').scrollTop(top);
+	});
+
 	/**
 	 * Dynamically Sort an array based on any given property
 	 * @param  {String} property The array property to sort by. Can be Field or -Field depending on sort direction

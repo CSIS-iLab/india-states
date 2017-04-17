@@ -226,6 +226,8 @@ header.site-header {
 
 					@include breakpoint("large") {
 						text-align: center;
+						display:inline-block;
+						margin-right: 0px;
 
 						&.active {
 							@include box-shadow(0px, -2px, 0px, 0px, $white, true);
@@ -249,12 +251,7 @@ header.site-header {
 						}
 					}
 
-					@include breakpoint("large") {
-						display:inline-block;
-						margin-right: 0px;
-					}
-
-					// State & Sector Look
+					//State & Sector Look
 					&.ss-nav {
 						color: $color__header-ss-nav-font;
 						background-color: $color__header-ss-nav-background;
@@ -269,19 +266,19 @@ header.site-header {
 						}
 
 						& > a::after {
-								content: '';
-								width: 0; 
-								height: 0; 
-								border-style: solid;
-								border-width: 5px 5px 0 5px;
-								border-color: $white transparent transparent transparent;
-								margin-left: 0.5rem;
-								position: relative;
-								top: 12px;
-								@include breakpoint("large") {
-									top: 10px;
-								}
+							content: '';
+							width: 0; 
+							height: 0; 
+							border-style: solid;
+							border-width: 5px 5px 0 5px;
+							border-color: $white transparent transparent transparent;
+							margin-left: 0.5rem;
+							position: relative;
+							top: 12px;
+							@include breakpoint("large") {
+								top: 10px;
 							}
+						}
 					}
 
 					&.ss-nav:nth-of-type(2) {
@@ -296,76 +293,74 @@ header.site-header {
 					}
 				}
 
-					// Dropdown
-					ul {
-						display: none;
-						position: relative;
-						z-index: 100;
-						top: 100%;
-						left: 0;
-						background-color: $light-gray;
-						width: 100%;
-						margin-top: 0px;
-					    list-style-type: none;
+				// Dropdown
+				ul {
+					display: none;
+					position: relative;
+					z-index: 100;
+					top: 100%;
+					left: 0;
+					background-color: $light-gray;
+					width: 100%;
+					margin-top: 0px;
+				    list-style-type: none;
+			    	@include fontSize(16px);
+			    	font-family: $font__MuseoSans;
+			    	padding: 1rem 0;
+
+			    	@include breakpoint("large") {
+			    		position: absolute;
+			    		width: 300px;
+			    		height: 20vh;
+			    		padding: auto;
+			    		overflow-y: scroll;
+			    	}
+
+				    &::-webkit-scrollbar {
+				        -webkit-appearance: none;
+				        width: 7px;
+				    }
+				    &::-webkit-scrollbar-thumb {
+				        background-color: $medium-gray;
+				        -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+				    }
+
+				    li {
+				    	display: block;
+				    	text-align: left;
+				    	margin-right: 0;
+				    	text-transform: none;
 				    	@include fontSize(16px);
-				    	font-family: $font__MuseoSans;
-				    	padding: 1rem 0;
 
-				    	@include breakpoint("large") {
-				    		position: absolute;
-				    		width: 300px;
-				    		height: 20vh;
-				    		padding: auto;
-				    		overflow-y: scroll;
-				    	}
+				    	&.dropdown-viewAll {
+			    			font-style: italic;
 
-					    &::-webkit-scrollbar {
-					        -webkit-appearance: none;
-					        width: 7px;
-					    }
-					    &::-webkit-scrollbar-thumb {
-					        background-color: $medium-gray;
-					        -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
-					    }
+			    			@include breakpoint("large") {
+			    				display: none;
+			    			}
+			    		}
+				    }
 
-					    li {
-					    	display: block;
-					    	text-align: left;
-					    	margin-right: 0;
-					    	text-transform: none;
-					    	@include fontSize(16px);
-
-					    	&.dropdown-viewAll {
-				    			font-style: italic;
-
-				    			@include breakpoint("large") {
-				    				display: none;
-				    			}
-				    		}
-					    }
-
-						& > li > a {
-						    padding: 8px 20px;
-						    box-shadow: none;
-						    display: block;
-						    color: $gray !important;
-						}
-
-						& > li.home-dropdownSubsector > a {
-							padding-left: 40px;
-						}
-
-						& > li:hover > a,
-						& > li.selected > a {
-						    color: $base-orange !important;
-						    @include box-shadow(3px,0px,0px,0, $base-orange, true);
-						}
+					& > li > a {
+					    padding: 8px 20px;
+					    box-shadow: none;
+					    display: block;
+					    color: $gray !important;
 					}
 
-					@include breakpoint("large") {
-						&:hover > ul {
-							display: block;
-						}
+					& > li.home-dropdownSubsector > a {
+						padding-left: 40px;
+					}
+
+					& > li:hover > a,
+					& > li.selected > a {
+					    color: $base-orange !important;
+					    @include box-shadow(3px,0px,0px,0, $base-orange, true);
+					}
+				}
+				@include breakpoint("large") {
+					li:hover > ul {
+						display: block;
 					}
 				}
 			}

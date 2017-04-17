@@ -36,7 +36,7 @@
 
 }
 
-.analysisLanding-container {
+.analysisLanding-container:not(.articlesLanding-container) {
 	.post-articleSourcesDetails, .post-articleSourceBreak {
 		display: none;
 	}

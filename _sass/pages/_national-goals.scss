@@ -13,6 +13,10 @@
 		margin: 0 0 0.5rem 0;
 	}
 
+	.goals-missingData {
+		font-style: italic;
+	}
+
 	.goal-lastUpdated {
 		color: $gray-text;
 		@include fontSize(15px);
@@ -213,6 +217,13 @@
 	        display: block;
 	        position: fixed;
 	        z-index: 10;
+	    }
+
+	    .progress-missingData {
+	    	font-family: $font__MuseoSans;
+	    	font-style: italic;
+	    	color: $medium-gray;
+	    	@include fontSize(14px);
 	    }
 	}
 }

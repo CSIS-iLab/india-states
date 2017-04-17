@@ -139,6 +139,10 @@
 	}
 }
 
+.state-viewAllLink {
+	text-align: center;
+}
+
 // Content Wrapper
 @include breakpoint("xlarge") {
 	.stateInfoContainer .content-wrapper, .sectorsArticlesContainer .content-wrapper {

@@ -4,6 +4,7 @@ sectors: Energy
 subsectors: Renewables
 data_source: solar-performance-tracker
 data_label: MW
+data_missing_message: Ministry of New and Renewable Energy (MNRE) has not reported the state-wise distribution for solar target for 
 map:
   title: National Target Contribution
   description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
