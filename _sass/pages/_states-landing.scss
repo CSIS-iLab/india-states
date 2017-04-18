@@ -33,6 +33,11 @@
 			}
 		}
 
+		@media (min-width:1350px) {
+			margin: 3rem auto !important;
+			max-width: 1300px;
+		}
+
 		ul.statesLanding-statesList {
 			list-style-type: none;
 			margin: 0;
