@@ -40,13 +40,15 @@ $(function () {
       {
         "nameNormal": "{{ row.state }}",
         "id": "{{ row.state | replace: ' ', '_' }}",
-        "value": "{{ row.national_contribution }}"
+        "value": {% if row.national_contribution %}"{{ row.national_contribution }}"{% else %}null{% endif %}
       }{% unless forloop.last %},{% endunless %}
       {% assign rowValue = row.national_contribution | plus: 0 %}
       {% if rowValue > maximum %}{% assign maximum = rowValue %}{% endif %}
       {% if rowValue < minimum %}{% assign minimum = rowValue %}{% endif %}
     {% endfor %}
   ];
+
+  console.log(mapData);
 
   // Initiate the chart
   var chartOptions = {
@@ -113,7 +115,12 @@ $(function () {
     tooltip: {
       formatter: function(){
         var s = "<strong>"+this.point.nameNormal + '</strong><br/>';
-        s += 'Value: ' + this.point.value + '{{ page.map.value_suffix }}<br/>';
+        if(this.point.value) {
+          s += 'Value: ' + this.point.value + '{{ page.map.value_suffix }}<br/>';
+        }
+        else {
+          s += '<em>No data currently available.</em>';
+        }
         return s;
       },
     }
