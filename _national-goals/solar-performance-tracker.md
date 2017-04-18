@@ -8,22 +8,12 @@ data_missing_message: Ministry of New and Renewable Energy (MNRE) has not report
   the state-wise distribution for solar target for
 map:
   title: National Target Contribution
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id est laborum.
+  description: Each Indian state has been assigned a solar power capacity target that it needs to achieve in order for India as a whole to reach 100 GW of solar power by 2022. State targets are based on their potential to produce solar power, including land area and days of sun per year, and thus vary widely. This map represents each state’s solar capacity target as a percentage of the national target. 
   legend_title: Contribution to National Target
   value_suffix: "%"
 progressbars:
   title: Individual State Targets
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in
-    culpa qui officia deserunt mollit anim id est laborum.
+  description: This chart tracks the progress each state has made towards reaching its own target for solar power capacity. 
 state_text: reaches
 last_updated_at: 2017-01-01 00:00:00 Z
 sources:
