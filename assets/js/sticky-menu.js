@@ -1,7 +1,5 @@
 $(function() {
 	if($(".isSticky").length) {
-		console.log("do stuff");
-		
 		var windw = this;
 		var headerHeight = $(".site-header").outerHeight() + 32;
 		var followToPos = $(".isSticky").offset().top - headerHeight;

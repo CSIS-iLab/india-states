@@ -2,12 +2,19 @@
 layout: default
 ---
 
-<section class="page-container">
+<section class="page-container resources">
   <div class="content-wrapper fullWidthContent">
     <!-- Share Icons -->
     {% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
     
     <article class="post-content">
+      <h2 class="sectionSubtitle">National Goal Performance Trackers</h2>
+      <ul class="resource-listing">
+        {% for goal in site.national-goals %}
+        <li><a href="{{ goal.url | relative_url }}">{{ goal.title | escape }}</a></li>
+        {% endfor %}
+      </ul>
+
       {% assign resources = site.resources | group_by:"type" %}
 
       {% for resource in resources %}
