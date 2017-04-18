@@ -20,7 +20,7 @@ progressbars:
   description: This chart tracks the progress each state has made towards reaching
     its own target for solar power capacity.
 state_text: reaches
-last_updated_at: 2017-01-01 00:00:00 Z
+last_updated_at: 2017-01-31 00:00:00 Z
 sources:
 - name: 'Ministry of New and Renewable Energy: State-wise breakup of solar targets
     to be achieved by 2022'

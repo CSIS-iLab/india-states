@@ -23,12 +23,21 @@ article.post-individualContainer {
 
 		.main-title {
 			margin: 0;
-			@include fontSize(56px);
+			@include fontSize(30px);
+
+			@include breakpoint("medium") {
+				@include fontSize(56px);
+			}
 		}
 
 		.sectionSubtitle {
 			margin: 0;
 			color: $base-orange;
+			@include fontSize(16px);
+
+			@include breakpoint("medium") {
+				@include fontSize(20px);
+			}
 		}
 
 	}
