@@ -2,7 +2,7 @@
 =            About Page            =
 ==================================*/
 
-.page-container {
+.page-container.about {
 	margin: 3rem 0;
 
 	.page-header {
@@ -10,6 +10,19 @@
 
 		.main-title {
 			margin: 0;
+		}
+	}
+
+	.post-content {
+		margin: 0;
+	}
+
+	ul {
+		margin-bottom:3rem;
+		margin-top: 0;
+
+		li {
+			margin-bottom: 0.5rem;
 		}
 	}
 
