@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP) & Maharashtrawadi Gomantak Party
 legislative_seats: 40
 rajya_seats: 1
 lok_seats: 2
-gdp: "$741"
+gdp: "$7.56"
 feature_images:
   primary:
     image: "/uploads/states/goa-submarine.jpg"

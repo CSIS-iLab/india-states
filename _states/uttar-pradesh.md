@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 403
 rajya_seats: 31
 lok_seats: 80
-gdp: "$13,072"
+gdp: "$133.35"
 feature_images:
   primary:
     image: "/uploads/states/uttar-pradesh-wheat-farm.jpg"

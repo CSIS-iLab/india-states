@@ -6,7 +6,7 @@ party_affiliation: Indian National Congress (INC)
 legislative_seats: 68
 rajya_seats: 3
 lok_seats: 4
-gdp: "$1,251"
+gdp: "$12.76"
 feature_images:
   primary:
     image: "/uploads/states/himachal-pradesh-shimla-snow.jpg"

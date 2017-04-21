@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 230
 rajya_seats: 11
 lok_seats: 11
-gdp: "$6,587"
+gdp: "$67.19"
 feature_images:
   primary:
     image: "/uploads/states/madhya-pradesh-welspun-solar.jpg"

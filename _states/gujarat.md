@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 182
 rajya_seats: 11
 lok_seats: 26
-gdp: "$11,601"
+gdp: "$118.34"
 feature_images:
   primary:
     image: "/uploads/states/gujarat-spray-factory.jpg"

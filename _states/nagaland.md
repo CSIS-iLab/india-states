@@ -6,7 +6,7 @@ party_affiliation: Naga People's Front (NPF) & Bharatiya Janata Party (BJP)
 legislative_seats: 60
 rajya_seats: 1
 lok_seats: 1
-gdp: "$269"
+gdp: "$2.74"
 feature_images:
   primary:
     image: "/uploads/states/nagaland-naga-tribe.jpg"

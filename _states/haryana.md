@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 90
 rajya_seats: 5
 lok_seats: 10
-gdp: "$5,893"
+gdp: "$60.11"
 feature_images:
   primary:
     image: "/uploads/states/haryana-dlf-cyber-city-gurgaon.jpg"

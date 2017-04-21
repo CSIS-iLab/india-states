@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP) & All Jharkand Students Union (A
 legislative_seats: 81
 rajya_seats: 6
 lok_seats: 28
-gdp: "$2,618"
+gdp: "$26.7"
 feature_images:
   primary:
     image: "/uploads/states/jharkhand-tata-steel.jpg"

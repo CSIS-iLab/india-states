@@ -6,7 +6,7 @@ party_affiliation: Indian National Congress (INC)
 legislative_seats: 40
 rajya_seats: 1
 lok_seats: 1
-gdp: "$156"
+gdp: "$1.59"
 feature_images:
   primary:
     image: "/uploads/states/mizoram-mountain-town.jpg"

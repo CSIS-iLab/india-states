@@ -6,7 +6,7 @@ party_affiliation: All India Anna Dravida Munnetra Kazahagam (AIADMK)
 legislative_seats: 234
 rajya_seats: 18
 lok_seats: 39
-gdp: "$12,943"
+gdp: "$132.03"
 feature_images:
   primary:
     image: "/uploads/states/tamil-nadu-nissan-auto-factory-worker.jpg"

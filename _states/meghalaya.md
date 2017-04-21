@@ -6,7 +6,7 @@ party_affiliation: Indian National Congress (INC)
 legislative_seats: 60
 rajya_seats: 1
 lok_seats: 2
-gdp: "$332"
+gdp: "$3.39"
 feature_images:
   primary:
     image: "/uploads/states/meghalaya-harvest-radishes.jpg"

@@ -6,7 +6,7 @@ party_affiliation: Biju Janata Dal (BJD)
 legislative_seats: 147
 rajya_seats: 10
 lok_seats: 21
-gdp: "$4,136"
+gdp: "$42.19"
 feature_images:
   primary:
     image: "/uploads/states/odisha-vendanta-aluminum-refinery.jpg"
