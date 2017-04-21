@@ -7,7 +7,7 @@ party_affiliation: Rashtriya Janata Dal (RJD) & Janata Dal (United) (JD(U)) & In
 legislative_seats: 243
 rajya_seats: 16
 lok_seats: 40
-gdp: "$5,207"
+gdp: "$53.11"
 feature_images:
   primary:
     image: "/uploads/states/bihar-train-communters.jpg"

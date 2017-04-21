@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 90
 rajya_seats: 5
 lok_seats: 14
-gdp: "$2,813"
+gdp: "$28.7"
 feature_images:
   primary:
     image: "/uploads/states/chhattisgarh-performance.jpg"

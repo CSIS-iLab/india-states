@@ -7,7 +7,7 @@ party_affiliation: Left Front [Communist Party of India (Marxist) (CPI(M)) & Com
 legislative_seats: 60
 rajya_seats: 1
 lok_seats: 2
-gdp: "$406"
+gdp: "$4.14"
 feature_images:
   primary:
     image: "/uploads/states/tripura-border-security.jpg"

@@ -7,7 +7,7 @@ party_affiliation: Jammu and Kashmir People's Democratic Party (JKPDP) & Bharati
 legislative_seats: 87
 rajya_seats: 4
 lok_seats: 6
-gdp: "$1,327"
+gdp: "$13.53"
 feature_images:
   primary:
     image: "/uploads/states/jammu-kashmir-railway-bridge.jpg"

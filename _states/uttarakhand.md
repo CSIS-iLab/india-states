@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 70
 rajya_seats: 3
 lok_seats: 5
-gdp: "$1,862"
+gdp: "$18.99"
 feature_images:
   primary:
     image: "/uploads/states/uttarakhand-maneri-dam.jpg"

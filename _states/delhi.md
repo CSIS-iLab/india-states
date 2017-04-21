@@ -6,7 +6,7 @@ party_affiliation: Aam Aadmi Party (AAP)
 legislative_seats: 70
 rajya_seats: 3 for the National Capital Territory of Delhi
 lok_seats: 7
-gdp: "$5,074"
+gdp: "$60.45"
 feature_images:
   primary:
     image: "/uploads/states/delhi-metro-train.jpg"

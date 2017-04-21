@@ -6,7 +6,7 @@ party_affiliation: Telagu Desam Party (TDP) & Bharatiya Janata Party (BJP)
 legislative_seats: 175
 rajya_seats: 11
 lok_seats: 25
-gdp: "$7,033"
+gdp: "$71.74"
 feature_images:
   primary:
     image: "/uploads/states/andhra-pradesh-visakhapatnam-city.jpg"

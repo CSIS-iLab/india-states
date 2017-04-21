@@ -6,7 +6,7 @@ party_affiliation: Telangana Rashtra Samithi (TRS)
 legislative_seats: 119
 rajya_seats: 7
 lok_seats: 17
-gdp: "$5,936"
+gdp: "$60.55"
 feature_images:
   primary:
     image: "/uploads/states/telangana-tablet-computers.jpg"

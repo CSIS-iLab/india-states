@@ -6,7 +6,7 @@ party_affiliation: Left Democratic Front (LDF)
 legislative_seats: 140
 rajya_seats: 9
 lok_seats: 29
-gdp: "$6,004"
+gdp: "$61.25"
 feature_images:
   primary:
     image: "/uploads/states/kerala-houseboats.jpg"

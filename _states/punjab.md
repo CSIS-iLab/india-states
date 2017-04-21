@@ -6,7 +6,7 @@ party_affiliation: Indian National Congress (INC)
 legislative_seats: 117
 rajya_seats: 7
 lok_seats: 13
-gdp: "$4,811"
+gdp: "$49.08"
 feature_images:
   primary:
     image: "/uploads/states/punjab-wheat-farming.jpg"

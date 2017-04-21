@@ -6,7 +6,7 @@ party_affiliation: Indian National Congress (INC)
 legislative_seats: 224
 rajya_seats: 12
 lok_seats: 20
-gdp: "$9,312"
+gdp: "$94.99"
 feature_images:
   primary:
     image: "/uploads/states/karnataka-virtual-reality-shell.jpg"

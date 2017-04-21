@@ -6,7 +6,7 @@ party_affiliation: All India Trinamool Congress (Trinamool)
 legislative_seats: 294
 rajya_seats: 16
 lok_seats: 42
-gdp: "$10,705"
+gdp: "$109.21"
 feature_images:
   primary:
     image: "/uploads/states/west-bengal-howrah-bridge.jpg"

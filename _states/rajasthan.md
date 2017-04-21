@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 200
 rajya_seats: 10
 lok_seats: 25
-gdp: "$7,843"
+gdp: "$80"
 feature_images:
   primary:
     image: "/uploads/states/rajasthan-material-shop.jpg"

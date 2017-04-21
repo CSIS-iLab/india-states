@@ -6,7 +6,7 @@ party_affiliation: Indian National Congress (INC) and Dravida Munnetra Kazhagam 
 legislative_seats: 30
 rajya_seats: 1
 lok_seats: 1
-gdp: "$254"
+gdp: "$3.26"
 feature_images:
   primary:
     image: "/uploads/states/puducherry-rock-beach.jpg"

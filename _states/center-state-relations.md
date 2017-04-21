@@ -6,7 +6,7 @@ party_affiliation:
 legislative_seats: 
 rajya_seats: 
 lok_seats: 
-gdp: GSDP for years 2013-2014 b/c its the most recent wholly complete version
+gdp:
 feature_images:
   primary:
     image: "/uploads/states/center-states-narendra-modi-red-city.jpg"

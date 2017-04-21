@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP) & Shiv Sena (SS)
 legislative_seats: 288
 rajya_seats: 19
 lok_seats: 48
-gdp: "$22,881"
+gdp: "$233.41"
 feature_images:
   primary:
     image: "/uploads/states/maharashtra-victoria-train-station.jpg"

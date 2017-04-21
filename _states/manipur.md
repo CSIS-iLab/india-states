@@ -6,7 +6,7 @@ party_affiliation: Bharatiya Janata Party (BJP)
 legislative_seats: 60
 rajya_seats: 1
 lok_seats: 2
-gdp: "$217"
+gdp: "$2.21"
 feature_images:
   primary:
     image: "/uploads/states/manipur-lake.jpg"
