@@ -174,7 +174,6 @@ cloudinary_url: https://res.cloudinary.com/csisilab/image/fetch/
 markdown: kramdown
 gems:
 - jekyll-feed
-- jekyll-seo-tag
 - jekyll-sitemap
 include:
 - ".travis.yml"

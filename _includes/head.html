@@ -28,7 +28,26 @@
   {% include google-analytics.html %}
   {% endif %}
 
-  {% seo %}
+  {% if page.layout == "home" %}
+  <title>{{ site.title }} | {{ site.description }}</title>
+  {% else %}
+  <title>{{ page.title }} | {{ site.title }}</title>{% endif %}
+  <meta property="og:title" content="{{ page.title | default: site.title }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html }}" />
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html }}" />
+  <link rel="canonical" href="{{ site.url | append: page.url }}" />
+  <meta property="og:url" content="{{ site.url | append: page.url }}" />
+  <meta property="og:site_name" content="{{ site.title }}" />
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@{{ site.twitter.username }}" />
+<script type="application/ld+json">
+{"@context": "http://schema.org",
+"@type": "WebSite",
+"name": "{{ site.title }}",
+"headline": "{{ page.title | default: site.title }}",
+"description": "{{ page.excerpt | default: site.description | strip_html }}",
+"url": "{{ site.url | append: page.url }}"}</script>
   {% if page.feature_image %}
     <meta property="og:image" content="{{ page.feature_image | prepend: site.url }}" />
     <meta name="twitter:image" content="{{ page.feature_image | prepend: site.url }}" />
