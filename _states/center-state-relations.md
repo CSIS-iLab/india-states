@@ -6,7 +6,7 @@ party_affiliation:
 legislative_seats: 
 rajya_seats: 
 lok_seats: 
-gdp:
+gdp: 
 feature_images:
   primary:
     image: "/uploads/states/center-states-narendra-modi-red-city.jpg"
