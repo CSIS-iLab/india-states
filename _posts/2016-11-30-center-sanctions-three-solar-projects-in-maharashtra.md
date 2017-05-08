@@ -1,5 +1,5 @@
 ---
-title: Center sactions three solar projects in Maharashtra
+title: Center sanctions three solar projects in Maharashtra
 date: 2016-11-30 00:00:00 Z
 tags:
 - Solar

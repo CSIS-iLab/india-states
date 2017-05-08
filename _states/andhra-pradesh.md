@@ -2,7 +2,7 @@
 title: Andhra Pradesh
 size: '62,922'
 population: 49.7
-party_affiliation: Telagu Desam Party (TDP) & Bharatiya Janata Party (BJP)
+party_affiliation: Telugu Desam Party (TDP) & Bharatiya Janata Party (BJP)
 legislative_seats: 175
 rajya_seats: 11
 lok_seats: 25
