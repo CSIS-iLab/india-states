@@ -11,7 +11,7 @@ feature_images:
       Images)
 size: '62,922'
 population: 49.7
-party_affiliation: Telugu Desam Party & Bharatiya Janata Party (BJP)
+party_affiliation: Telugu Desam Party (TDP) & Bharatiya Janata Party (BJP)
 legislative_seats: 175
 rajya_seats: 11
 lok_seats: 25
