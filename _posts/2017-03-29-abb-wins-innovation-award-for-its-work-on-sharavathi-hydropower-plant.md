@@ -1,18 +1,18 @@
 ---
-title: "ABB wins innovation award for its work on Sharavathi hydropower plant"
-date: 2017-03-29
-states:
-- Karnataka
-sectors:
-- Energy
-subsectors:
-- Renewables
+title: ABB wins innovation award for its work on Sharavathi hydropower plant
+date: 2017-03-29 00:00:00 Z
 tags:
 - Hydro
 - ABB
 - ISGF
 - Sharavathi
 - IoT
+states:
+- Karnataka
+sectors:
+- Energy
+subsectors:
+- Renewables
 sources:
 - name: Hindu Business Line
   url: http://www.thehindubusinessline.com/companies/abb-india-bags-award-for-restoring-critical-1035-mw-sharavathi-plant-in-karnataka-in-record-time/article9594477.ece

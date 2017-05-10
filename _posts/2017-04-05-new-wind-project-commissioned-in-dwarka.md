@@ -1,16 +1,16 @@
 ---
-title: "New wind project commissioned in Dwarka"
-date: 2017-04-05
+title: New wind project commissioned in Dwarka
+date: 2017-04-05 00:00:00 Z
+tags:
+- Wind
+- THDC India
+- Dwarka
 states:
 - Gujarat
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- Wind
-- THDC India
-- Dwarka
 sources:
 - name: Economic Times
   url: http://energy.economictimes.indiatimes.com/news/renewable/thdc-india-commissions-63-megawatt-wind-power-project-in-gujarat/57969942
