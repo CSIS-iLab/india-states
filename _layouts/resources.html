@@ -9,6 +9,7 @@ layout: default
     
     <article class="post-content">
       <h2 class="sectionSubtitle">National Goal Performance Trackers</h2>
+      <p>Tracking the performance of Indian states on ambitious national goals through interactive visualizations.</p>
       <ul class="resource-listing">
         {% for goal in site.national-goals %}
         <li><a href="{{ goal.url | relative_url }}">{{ goal.title | escape }}</a></li>
@@ -19,6 +20,7 @@ layout: default
 
       {% for resource in resources %}
       <h2 class="sectionSubtitle">{{ resource.name }}</h2>
+      {% if resource.name == "Energy Personality Profiles" %}<p>Capturing the energy landscape of an Indian state by tackling ten critical avenues ranging from key drivers, energy efficiency initiatives, current generation mix, latest policy developments and key impressions for the evolution of the sector</p>{% endif %}
       <ul class="resource-listing">
         {% for item in resource.items %}
           <li><a href="{{ item.link }}" target="_blank" rel="nofollow">{{ item.title }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ item.title }}" alt="Go to" /></a></li>
