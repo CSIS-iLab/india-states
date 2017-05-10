@@ -1,6 +1,9 @@
 ---
-title: "Madhya Pradesh to issue its UDAY bonds"
-date: 2017-03-23
+title: Madhya Pradesh to issue its UDAY bonds
+date: 2017-03-23 00:00:00 Z
+tags:
+- UDAY
+- Distribution
 states:
 - Madhya Pradesh
 - Center-State Relations
@@ -8,13 +11,10 @@ sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- UDAY
-- Distribution
 sources:
 - name: Money Control
   url: http://www.moneycontrol.com/news/business/economy/tn-telangana-mp-to-issue-uday-bonds-worth-rs-18107-crore-2242485.html
-details:
+details: 
 ---
 
 Madhya Pradesh will issue bonds under the Ujjwal Discom Assurance Yojana (UDAY) on a private placement basis to raise $1.12 billion.

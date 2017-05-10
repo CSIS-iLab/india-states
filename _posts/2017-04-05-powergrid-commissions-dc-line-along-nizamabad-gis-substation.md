@@ -1,6 +1,9 @@
 ---
-title: "POWERGRID commissions DC line along Nizamabad GIS substation"
-date: 2017-04-05
+title: POWERGRID commissions DC line along Nizamabad GIS substation
+date: 2017-04-05 00:00:00 Z
+tags:
+- POWERGRID
+- Wardha-Nizamabad
 states:
 - Telangana
 - Chhattisgarh
@@ -8,13 +11,10 @@ sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- POWERGRID
-- Wardha-Nizamabad
 sources:
 - name: Hindu Business Line
   url: http://www.thehindubusinessline.com/news/national/powergrid-completes-765-kv-wardhanizamabad-line/article9610677.ece
-details:
+details: 
 ---
 
 The Powergrid Corporation announced commissioning of the 765 kilovolt (kV) Wardha–Nizamabad D/C line along with the Nizamabad GIS Substation. The system will facilitate import of power from Chattisgarh to Telangana.
