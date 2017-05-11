@@ -47,4 +47,13 @@
 			}
 		}
 	}
+
+	.ilab-container {
+		margin-top: 3rem;
+
+		strong {
+			font-family: $font__MuseoSans;
+			color: $base-blue;
+		}
+	}
 }
