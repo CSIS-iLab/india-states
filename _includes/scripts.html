@@ -6,6 +6,9 @@
 <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script>
 <![endif]-->
 <script src="//cdn.jsdelivr.net/instantsearch.js/1/instantsearch.min.js"></script>
+{% if jekyll.environment == 'production' %}
+<script src="{{ "/assets/bundle.min.js" | relative_url }}"></script>
+{% else %}
 <script src="{{ "/assets/js/searchpage.js" | relative_url }}"></script>
 <script src="{{ "/assets/js/homepage.js" | relative_url }}"></script>
 <script src="{{ "/assets/js/breadcrumbs.js" | relative_url }}"></script>
@@ -19,6 +22,7 @@
 <script src="{{ "/assets/js/pagination.js" | relative_url }}"></script>
 <script src="{{ "/assets/js/national-goals.js" | relative_url }}"></script>
 <script src="{{ "/assets/js/backtotop.js" | relative_url }}"></script>
+{% endif %}
 <script src="https://code.highcharts.com/maps/highmaps.js"></script>
 <script src="https://code.highcharts.com/maps/modules/data.js"></script>
 <script src="https://code.highcharts.com/mapdata/countries/tr/tr-all.js"></script>

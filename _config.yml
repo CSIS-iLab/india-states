@@ -177,8 +177,7 @@ gems:
 - jekyll-sitemap
 include:
 - ".travis.yml"
-exclude:
-- vendor
+exclude: [vendor]
 sector_overview_post_limit: 4
 post_archive_posts_per_page: 10
 newsletter_link: https://www.tfaforms.com/4601801
@@ -187,3 +186,5 @@ newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India 
   significant socioeconomic and political developments from thirteen of India’s very
   powerful states, including the national capital and union territory of New Delhi.
 national_goals_data_dir: national-goals
+sass:
+  style: compressed
