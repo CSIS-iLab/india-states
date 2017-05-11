@@ -11,5 +11,5 @@ $(function() {
 	})
 
 	$("#mapContainer").text(JSON.stringify(mapJSON));
-	console.log(mapJSON);
+	// console.log(mapJSON);
 });

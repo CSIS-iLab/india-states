@@ -8,6 +8,9 @@ Users will be able to access data via two avenues of focus: by State or by secto
 2. Update bundler dependencies `$ bundler install`
 3. Start development server `$ bundle exec jekyll serve`
 
+### Bundle JavaScript files
+In project root directory, run `cat ./assets/js/* | uglifyjs -o ./assets/bundle.min.js` (to be automated in Phase 2)
+
 **Note:** GitHub Pages & Siteleaf handle the build process on sync.
 
 ## Directory Structure
