@@ -186,3 +186,5 @@ newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India 
   significant socioeconomic and political developments from thirteen of India’s very
   powerful states, including the national capital and union territory of New Delhi.
 national_goals_data_dir: national-goals
+sass:
+  style: compressed
