@@ -9,7 +9,13 @@
 $(function() {
   // Open Overlay
   $(".site-header .search-icon").click(function() {
-    $(".search-overlay").show();
+    if(navigator.userAgent.indexOf('MSIE')!==-1
+    || navigator.appVersion.indexOf('Trident/') > 0){
+      location.href = "/search/";
+    }
+    else {
+      $(".search-overlay").show();
+    }
   });
 
   // Close Overlay
@@ -108,8 +114,8 @@ if($(".search-container").length) {
         container: '#pagination',
         scrollTo: '#search-input',
         labels: {
-          previous: "&lt; Previous",
-          next: "Next &gt;"
+          previous: "&#8249; Previous",
+          next: "Next &#8250;"
         }
       })
     );

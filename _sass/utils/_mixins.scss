@@ -41,6 +41,8 @@ $browser-context: 16px;
 $breakpoint-xlarge: 90em;
 $breakpoint-large: 64em;
 $breakpoing-medium: 48em;
+$breakpoing-small: 35em;
+$breakpoint-xsmall: 25em;
 
 @mixin breakpoint($break) {
 	@if $break == xlarge {
@@ -51,9 +53,16 @@ $breakpoing-medium: 48em;
 	}
 	@else if $break == medium {
 		@media screen and (min-width: $breakpoing-medium) { @content; }
-	} @else {
+	}
+	@else if $break == small {
+		@media screen and (max-width: $breakpoing-small) { @content; }
+	}
+	@else if $break == xsmall {
+		@media screen and (max-width: $breakpoint-xsmall) { @content; }
+	}@else {
 		@media ($break) { @content; }
 	}
+
 }
 
 // Transitions

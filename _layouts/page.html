@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<section class="page-container">
+<section class="page-container {{ page.additional_classes}}">
 	<div class="content-wrapper fullWidthContent">
 		<header class="page-header">
 			<h1 class="main-title">{{ page.title | escape }}</h1>
@@ -10,6 +10,10 @@ layout: default
 
 		<article class="post-content">
 			{{ content }}
+
+			{% if page.permalink == "/about/" %}
+				{% include about-team.html %}
+			{% endif %}
 		</article>
 	</div>
 </section>

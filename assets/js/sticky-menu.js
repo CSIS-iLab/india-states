@@ -1,10 +1,10 @@
 $(function() {
 	if($(".isSticky").length) {
 		var windw = this;
-		var headerHeight = $(".site-header").height();
+		var headerHeight = $(".site-header").outerHeight() + 32;
 		var followToPos = $(".isSticky").offset().top - headerHeight;
 		var tocPadding = $(".isSticky").parent(".tableOfContents").offset().top - $(".isSticky").offset().top;
-		var stopFollowPos = $(".isSticky").parent(".tableOfContents").height();
+		var stopFollowPos = $(".isSticky").parent(".tableOfContents").outerHeight();
 		var stickyWidth = $(".isSticky").width();
 
 		$.fn.followTo = function ( pos ) {
@@ -16,7 +16,7 @@ $(function() {
 		        if ($window.scrollTop() > pos && currentPos < stopFollowPos) {
 		            $this.css({
 		                position: 'fixed',
-		                top: (headerHeight - tocPadding),
+		                top: (headerHeight),
 		                width: stickyWidth
 		            });
 		        } 
@@ -37,6 +37,10 @@ $(function() {
 
 		$('.isSticky').followTo(followToPos);
 
+		
+
+
+
 		// Increase body padding if we have a fixedMenu
 		// if($('.tableOfContents.fixedMobile').length) {
 		// 	var tocHeight = $('.tableOfContents.fixedMobile').outerHeight();
@@ -44,5 +48,20 @@ $(function() {
 		// 	$("body").css("padding-top",newPadding+"px");
 		// 	$(".tableOfContents.fixedMobile").css("top",headerHeight+"px");
 		// }
+	}
+
+	// Drop down menu for mobile
+	if($(".tableOfContents-dropdown").length) {
+		$('.tableOfContents-dropdown').on('change', function () {
+	        var url = $(this).val(); // get selected value
+			window.location = url; // redirect
+
+			if(url != "#") {
+				$(".tableOfContents-instructions").css("display","inline-block");
+			}
+			else {
+				$(".tableOfContents-instructions").hide();
+			}
+	    });
 	}
 });

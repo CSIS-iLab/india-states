@@ -6,11 +6,15 @@
 
 .sectorSection-goalsContainer {
 	background-color: $light-gray;
-	padding: 2rem;
+	padding: 2rem 2rem 2.4rem;
 
 	.sectionSubtitle {
 		color: $base-orange;
 		margin: 0 0 0.5rem 0;
+	}
+
+	.goals-missingData {
+		font-style: italic;
 	}
 
 	.goal-lastUpdated {
@@ -48,7 +52,7 @@
 	
 	.goal-header {
 		background-color: $light-gray;
-		padding: 0.2rem 0 1rem 0;
+		padding: 1rem 0 4rem 0;
 
 		ul.shareIcons {
 			@include breakpoint("medium") {
@@ -70,7 +74,24 @@
 
 	/*----------  Interactive  ----------*/
 	.goal-interactiveContainer {
-		padding: 3rem 0;
+		margin: 4rem 0;
+
+		ul.map-statesList {
+			list-style-type: none;
+			margin: 0;
+			padding: 0;
+
+		    li {
+		    	margin-bottom: 0.8rem;
+		    	color: $gray;
+		    	font-family: $font__MuseoSans;
+		    	@include fontSize(16px);
+
+	    		&:hover, &:active, &.active {
+	    			color: $base-orange;
+	    		}
+		    }
+		}
 	}
 
 	/*----------  Sources  ----------*/
@@ -96,6 +117,115 @@
 		}
 	}
 	
+}
+
+/*----------  Progress Bars  ----------*/
+.progressbars-container {
+	margin-top:2rem;
+}
+
+.progress-container {
+	.progress-stateContainer {
+		font-family: $font__MuseoSans;
+		line-height: 1.4;
+		@include breakpoint("large") {
+			text-align: right;
+		}
+
+		.progress-stateName {
+			display:block;
+			@include fontSize(16px);
+			text-transform: uppercase;
+			font-style: normal;
+		}
+
+		.progress-achieved {
+			display: block;
+			@include fontSize(14px);
+			color: $medium-gray;
+
+			@include breakpoint("large") {
+				display: none;
+			}
+		}
+	}
+	.progress-barContainer {
+		position: relative;
+		margin: 0 0 1rem 0;
+
+		@include breakpoint("large") {
+			margin: 0.5rem 0;
+		}
+		
+		.progress-wrap {
+			background: $light-gray;
+			font-family: $font__MuseoSans;
+			width: 100%;
+			overflow: hidden;
+			height: 24px;
+			position: relative;
+
+			span.progress-percentage {
+				color: $base-orange;
+				display: inline-block;
+				position: absolute;
+				top: 3px;
+				margin-left: 3px;
+			}
+
+			span.progress-target {
+				display: none;
+				@include breakpoint("large") {
+					color: $medium-gray;
+					display: inline-block;
+					position: absolute;
+					top: 3px;
+					right: 3px;
+					opacity: 0.7;
+				}
+			}
+
+			.progress-bar {
+				background-color: $base-orange;
+				width: 0;
+				display: inline-block;
+				position: relative;
+				z-index: 5;
+				height: 100%;
+			}
+		}
+
+		.tip-content {
+	        display:none;
+	        padding:8px;
+	        background-color: rgb(247,247,247);
+	        border:1px solid $base-orange;
+	        font-family: $font__MuseoSans;
+	        opacity: 0.85;
+	        border-radius:2px;
+	        @include fontSize(12px);
+	        -webkit-box-shadow:1px 1px 2px $medium-gray;
+	        -moz-box-shadow:1px 1px 2px $medium-gray;
+	        box-shadow:1px 1px 2px $medium-gray;
+
+	        span {
+	        	font-weight:bold;
+	        }
+	    }
+	    
+	    .progress-wrap:hover ~ .tip-content {
+	        display: block;
+	        position: fixed;
+	        z-index: 10;
+	    }
+
+	    .progress-missingData {
+	    	font-family: $font__MuseoSans;
+	    	font-style: italic;
+	    	color: $medium-gray;
+	    	@include fontSize(14px);
+	    }
+	}
 }
 
 /*----------  Goal Meta Information  ----------*/

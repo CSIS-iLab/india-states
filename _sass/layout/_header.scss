@@ -36,12 +36,35 @@ header.site-header {
 		}
 	}
 
+	.header-logoContainer {
+		@include breakpoint("medium") {
+			padding-left: 0;
+			padding-right: 0;
+			flex-basis: 45%;
+			max-width:45%;
+		}
+		@include breakpoint("large") {
+			padding-right: .5rem;
+    		padding-left: .5rem;
+			flex-basis: 50%;
+			max-width: 50%;
+		}
+	}
+
 	.header-logo {
 		font-family: $font__ExpoSerif;
 		@include fontSize(26px);
 		color: $white;
 
+		@include breakpoint("xsmall") {
+			@include fontSize(22px)
+		}
+
 		@include breakpoint("medium") {
+			@include fontSize(32px)
+		}
+
+		@include breakpoint("large") {
 			@include fontSize(45px);
 		}
 
@@ -50,7 +73,17 @@ header.site-header {
 	/*----------  Navigation  ----------*/
 	
 	.header-navContainer {
+		@include breakpoint("medium") {
+			padding-left: 0;
+			padding-right: 0;
+			flex-basis: 55%;
+			max-width:55%;
+		}
 		@include breakpoint("large") {
+			padding-right: .5rem;
+    		padding-left: .5rem;
+			flex-basis: 50%;
+			max-width: 50%;
 			align-self: flex-end;
 			text-align:right;
 		}
@@ -74,10 +107,12 @@ header.site-header {
 					display: none;
 				}
 			}
+
+
 			#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
 			  cursor: pointer;
 			  border-radius: 1px;
-			  height: 5px;
+			  height: 3px;
 			  width: 35px;
 			  background: white;
 			  position: absolute;
@@ -92,7 +127,7 @@ header.site-header {
 			}
 
 			#nav-toggle span, #nav-toggle span:before, #nav-toggle span:after {
-			  transition: all 500ms ease-in-out;
+			  transition: all 200ms ease-in-out;
 			}
 			#nav-toggle.active span {
 			  background-color: transparent;
@@ -110,10 +145,11 @@ header.site-header {
 			#toggleMenu { display: none;}
 
 			#toggleMenu:checked ~ .header-navListContainer {
-			  transition: right 300ms ease-in-out;
+			  transition: right 300ms ease-in-out, display 300ms ease-in-out;
 			  right: 0;
 			  z-index: 50;
 			  overflow-y: scroll;
+			  display:block;
 			}
 
 			// Overlay
@@ -145,7 +181,13 @@ header.site-header {
 				width: 50%;
 				width: 50vw;
 				height: 100vh;
-				transition: right 300ms ease-in-out;
+				display:none;
+				transition: right 300ms ease-in-out, display 300ms ease-in-out;
+
+				@include breakpoint("small") {
+					width: 70%;
+					width: 70vw;
+				}
 
 				@include breakpoint("medium") {
 					top: 100px;
@@ -170,12 +212,22 @@ header.site-header {
 				padding: 0;
 				margin: 0;
 
+				li.search-icon {
+					padding-top: 1rem;
+
+					@include breakpoint("large") {
+						padding-top: 0rem;
+					}
+				}
+
 				li {
 					text-align:left;
 					position: relative;
 
 					@include breakpoint("large") {
 						text-align: center;
+						display:inline-block;
+						margin-right: 0px;
 
 						&.active {
 							@include box-shadow(0px, -2px, 0px, 0px, $white, true);
@@ -199,12 +251,7 @@ header.site-header {
 						}
 					}
 
-					@include breakpoint("large") {
-						display:inline-block;
-						margin-right: 0px;
-					}
-
-					// State & Sector Look
+					//State & Sector Look
 					&.ss-nav {
 						color: $color__header-ss-nav-font;
 						background-color: $color__header-ss-nav-background;
@@ -219,90 +266,101 @@ header.site-header {
 						}
 
 						& > a::after {
-								content: '';
-								width: 0; 
-								height: 0; 
-								border-style: solid;
-								border-width: 5px 5px 0 5px;
-								border-color: $white transparent transparent transparent;
-								margin-left: 0.5rem;
-								position: relative;
-								top: 12px;
-								@include breakpoint("large") {
-									top: 10px;
-								}
+							content: '';
+							width: 0; 
+							height: 0; 
+							border-style: solid;
+							border-width: 5px 5px 0 5px;
+							border-color: $white transparent transparent transparent;
+							margin-left: 0.5rem;
+							position: relative;
+							top: 12px;
+							@include breakpoint("large") {
+								top: 10px;
 							}
+						}
 					}
 
-
-					// Dropdown
-					ul {
-						display: none;
-						position: relative;
-						z-index: 100;
-						top: 100%;
-						left: 0;
-						background-color: $light-gray;
-						width: 100%;
-						margin-top: 0px;
-					    list-style-type: none;
-				    	@include fontSize(16px);
-				    	font-family: $font__MuseoSans;
-
-				    	@include breakpoint("large") {
-				    		position: absolute;
-				    		width: 300px;
-				    		height: 20vh;
-				    		overflow-y: scroll;
-				    	}
-
-					    &::-webkit-scrollbar {
-					        -webkit-appearance: none;
-					        width: 7px;
-					    }
-					    &::-webkit-scrollbar-thumb {
-					        background-color: $medium-gray;
-					        -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
-					    }
-
-					    li {
-					    	display: block;
-					    	text-align: left;
-					    	margin-right: 0;
-					    	text-transform: none;
-					    	@include fontSize(16px);
-
-					    	&.dropdown-viewAll {
-				    			font-style: italic;
-
-				    			@include breakpoint("large") {
-				    				display: none;
-				    			}
-				    		}
-					    }
-
-						& > li > a {
-						    padding: 8px 20px;
-						    box-shadow: none;
-						    display: block;
-						    color: $gray !important;
-						}
-
-						& > li.home-dropdownSubsector > a {
-							padding-left: 40px;
-						}
-
-						& > li:hover > a,
-						& > li.selected > a {
-						    color: $base-orange !important;
-						    @include box-shadow(3px,0px,0px,0, $base-orange, true);
-						}
+					&.ss-nav:nth-of-type(2) {
+						margin-right: -4px;
 					}
 
 					@include breakpoint("large") {
-						&:hover > ul {
-							display: block;
+						&.ss-nav:nth-of-type(2) {
+							margin-right: 1rem;
 						}
+
+					}
+				}
+
+				// Dropdown
+				ul {
+					display: none;
+					position: relative;
+					z-index: 100;
+					top: 100%;
+					left: 0;
+					background-color: $light-gray;
+					width: 100%;
+					margin-top: 0px;
+				    list-style-type: none;
+			    	@include fontSize(16px);
+			    	font-family: $font__MuseoSans;
+			    	padding: 1rem 0;
+
+			    	@include breakpoint("large") {
+			    		position: absolute;
+			    		width: 300px;
+			    		height: 20vh;
+			    		padding: auto;
+			    		overflow-y: scroll;
+			    	}
+
+				    &::-webkit-scrollbar {
+				        -webkit-appearance: none;
+				        width: 7px;
+				    }
+				    &::-webkit-scrollbar-thumb {
+				        background-color: $medium-gray;
+				        -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+				    }
+
+				    li {
+				    	display: block;
+				    	text-align: left;
+				    	margin-right: 0;
+				    	text-transform: none;
+				    	@include fontSize(16px);
+
+				    	&.dropdown-viewAll {
+			    			font-style: italic;
+
+			    			@include breakpoint("large") {
+			    				display: none;
+			    			}
+			    		}
+				    }
+
+					& > li > a {
+					    padding: 8px 20px;
+					    box-shadow: none;
+					    display: block;
+					    color: $gray !important;
+					}
+
+					& > li.home-dropdownSubsector > a {
+						padding-left: 40px;
+					}
+
+					& > li:hover > a,
+					& > li.selected > a {
+					    color: $base-orange !important;
+					    @include box-shadow(3px,0px,0px,0, $base-orange, true);
+					}
+				}
+				@include breakpoint("large") {
+					li:hover > ul {
+						display: block;
 					}
 				}
 			}
@@ -356,6 +414,7 @@ header.site-header {
 			#toggleMenu:checked ~ .header-navListContainer .search-icon {
 				padding-left: 1rem;
 
+
 				svg {
 					max-width:20px;
 					max-height: 20px;
@@ -367,7 +426,7 @@ header.site-header {
 			}
 
 			.header-nav ul li svg {
-				max-width: 9px;
+				max-width: 14px;
 			    max-height: 14px;
 			    height: 100%;
 			    width: 100%;
@@ -390,6 +449,10 @@ header.site-header {
 	text-transform: uppercase;
 	@include fontSize(15px);
 
+		@include breakpoint("small") {
+			@include fontSize(12px);
+		}
+
 	&.useExtended {
 		box-shadow: none;
 	}
@@ -404,6 +467,7 @@ header.site-header {
 			list-style-type: none;
 			margin: 0;
 			padding: 0;
+
 
 			li {
 				display: inline-block;
@@ -434,7 +498,7 @@ header.site-header {
 
 		img {
 			max-width: 15px;
-			padding-top: 5px;
+			padding: 7px 0px;
 			cursor: pointer;
 		}
 	}

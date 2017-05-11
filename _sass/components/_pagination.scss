@@ -14,30 +14,17 @@
 	width: calc(100% - 1rem);
 	position: relative;
 	display: block;
-	height: 45px;
 
 	@include breakpoint("large") {
 		height: 100%;
 	}
 
-	.pagination-totalResults {
-		display: block;
-
-		@include breakpoint("large") {
-			display: inline;
-		}
-	}
-
-
 	.pagination-sortBy {
 		font-style: italic;
-		display: block;
-		float: left;
+		text-align: right;
 
 		@include breakpoint("large") {
 			text-align: right;
-			float: right;
-			display: inline;
 		}
 
 		a {
@@ -48,6 +35,19 @@
 
 			&.active {
 				color: $white;
+			}
+		}
+
+		.sort-dropdown {
+			color: $white;
+			font-style: normal;
+			margin-left: 0.5rem;
+			box-shadow: none;
+			background-color: $base-blue;
+			border: none;
+
+			@include breakpoint("medium") {
+				display: none;
 			}
 		}
 	}
@@ -79,8 +79,12 @@ p.noResults {
 	font-family: $font__MuseoSans;
 
 	a {
-		margin: 0 0.5rem;
+		margin: 0 0.2rem;
 		box-shadow: none;
+
+		@include breakpoint("medium") {
+			margin: 0 0.5rem;
+		}
 
 		// Currently Selected Page Number
 		&.active {

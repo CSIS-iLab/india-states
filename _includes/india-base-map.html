@@ -1,70 +1,140 @@
-<div id="chart"></div>
+{% assign dataset = site.data[site.national_goals_data_dir][include.dataset] %}
+{% assign listLimit = dataset.size | divided_by: 2 %}
+{% assign maximum = 0 %}
+{% assign minimum = 0 %}
 
-<script src="https://d3js.org/d3.v3.min.js"></script>
-<script type="text/javascript" src="/assets/js/d3.geo.min.js"></script>
-<script type="text/javascript">
-  var w = 600;
-  var h = 600;
-  var proj = d3.geo.mercator();
-  var path = d3.geo.path().projection(proj);
-  var t = proj.translate(); // the projection's default translation
-  var s = proj.scale() // the projection's default scale
+<div class="goal-interactiveContainer row">
+  <div class="col-xs-6 col-md-3">
+    <ul class="map-statesList">
+      {% for row in dataset limit: listLimit %}
+        <li data-map-id="{{ row.state | replace: ' ', '_' | downcase }}" data-map-index="{% increment currentRow %}">
+          {{ row.state | escape }}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-xs-6 col-md-3">
+    <ul class="map-statesList">
+      {% for row in dataset offset: listLimit %}
+        <li data-map-id="{{ row.state | replace: ' ', '_' | downcase }}" data-map-index="{% increment currentRow %}">
+          {{ row.state | escape }}
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col-xs-12 col-md-6">
+    <div id="map-container" style="height:600px">
+      <div class="loading">
+        <i class="icon-spinner icon-spin icon-large"></i>
+        Loading map...
+      </div>
+    </div>
+  </div>
+</div>
 
-  var map = d3.select("#chart").append("svg:svg")
-      .attr("width", w)
-      .attr("height", h)
-      .call(initialize);
+<script>
+$(function () {
+  // Data Array
+  var mapData = [
+    {% for row in dataset %}
+      {
+        "nameNormal": "{{ row.state }}",
+        "id": "{{ row.state | replace: ' ', '_' }}",
+        "value": {% if row.national_contribution %}"{{ row.national_contribution }}"{% else %}null{% endif %}
+      }{% unless forloop.last %},{% endunless %}
+      {% assign rowValue = row.national_contribution | plus: 0 %}
+      {% if rowValue > maximum %}{% assign maximum = rowValue %}{% endif %}
+      {% if rowValue < minimum %}{% assign minimum = rowValue %}{% endif %}
+    {% endfor %}
+  ];
 
-// Define linear scale for output
-var color = d3.scale.linear()
-        .range(["rgb(213,222,217)","rgb(69,173,168)","rgb(84,36,55)","rgb(217,91,67)"]);
-
-  var india = map.append("svg:g")
-      .attr("id", "india");
-
-  var json = {{ site.data.india-base-map | jsonify }};
-
-  india.selectAll("path")
-      .data(json.features)
-    .enter().append("path")
-      .attr("id", function(d) { return d.properties.name_1;})
-      .attr("d", path);
-
-  function initialize() {
-    proj.scale(6700);
-    proj.translate([-1240, 720]);
-  }
-
-
-    
-     
-   // This section should allow for zoom & pan.
-   function redraw() {
-      // d3.event.translate stores the current translation from the parent SVG element
-      // t stores the projection's default translation
-      // adding the x and y vales in each array to yields the projection's new translation
-      var tx = t[0] * d3.event.scale + d3.event.translate[0];
-      var ty = t[1] * d3.event.scale + d3.event.translate[1];
-      proj.translate([tx, ty]);
-      // determine the projection's new scale and redraw the map:
-      proj.scale(s * d3.event.scale); 
-      india.selectAll("path").attr("d", path);
+  // Initiate the chart
+  var chartOptions = {
+    chart: {
+      borderWidth : 0,
+      spacing: [0, 0, 15, 0],
+      style: {
+        fontFamily: "\"museo-sans\",sans-serif"
+      }
+    },
+    title: {
+      text: null
+    },
+    credits: {
+      enabled: false
+    },
+    legend: {
+      title: {
+        text: '{{ page.map.legend_title }}',
+      },
+      align: 'right',
+      verticalAlign: 'bottom',
+      floating: false,
+      layout: 'horizontal',
+      symbolRadius: 0,
+      symbolHeight: 14
+    },
+    colorAxis: {
+      minColor: '#ffdec3',
+      maxColor: '#E87415',
+      gridLineColor: '#fff',
+      type: 'linear',
+      min: {{ minimum }},
+      max: {{ maximum }},
+      labels: {
+        format: "{value}{{ page.map.value_suffix }}"
+      }
+    },
+    series: [{
+      data: mapData,
+      mapData: {{ site.data.hc-map | jsonify }},
+      joinBy: ['name','id'],
+      animation: true,
+      name: 'States',
+      nullColor: '#DDDDDD',
+      borderColor: 'transparent',
+      states: {
+        hover: {
+          color: '#E87415'
+        }
+      },
+      point: {
+        events: {
+          mouseOver: function(e) {
+            $(".map-statesList li").removeClass("active");
+            $(".map-statesList li[data-map-index="+this.index+"]").addClass("active");
+          },
+          mouseOut: function(e) {
+            $(".map-statesList li[data-map-index="+this.index+"]").removeClass("active");
+          }
+        }
+      }
+    }],
+    tooltip: {
+      formatter: function(){
+        var s = "<strong>"+this.point.nameNormal + '</strong><br/>';
+        if(this.point.value) {
+          s += 'Value: ' + this.point.value + '{{ page.map.value_suffix }}<br/>';
+        }
+        else {
+          s += '<em>No data currently available.</em>';
+        }
+        return s;
+      },
     }
-     // This section should color each state.
-var states = india.append("g")
-    .attr("id", "states")
-    .attr("class", "Blues");
-    // load the GDP data
-    // 
-      // data = {{ site.data.renewable-power-target | jsonify }};
-      
-      states.selectAll("path")
-        .attr("class", quantize);
-    
-    function quantize(d) {
-      return "q" + Math.min(8, ~~(data[d.id] * 9 / 12)) + "-9";
+  };
+  var chart = Highcharts.Map('map-container', chartOptions);
+  // Hover over State Name to Highlight on Map
+  $( ".map-statesList li" ).hover(
+    function(e) {
+      var mapIndex = $(this).data('map-index');
+      chart.series[0].data[mapIndex].setState('hover');
+      chart.tooltip.refresh(chart.series[0].data[mapIndex]);
+    }, function() {
+      var mapIndex = $(this).data('map-index');
+      chart.series[0].data[mapIndex].setState();
+      chart.tooltip.hide('fast');
     }
-
-  
-
+  );
+});
 </script>

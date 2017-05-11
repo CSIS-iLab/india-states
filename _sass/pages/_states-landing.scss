@@ -27,6 +27,17 @@
 			}
 		}
 
+		@include breakpoint("xsmall") {
+			&.content-wrapper {
+				margin: 2rem 1rem;
+			}
+		}
+
+		@media (min-width:1350px) {
+			margin: 3rem auto !important;
+			max-width: 1300px;
+		}
+
 		ul.statesLanding-statesList {
 			list-style-type: none;
 			margin: 0;
@@ -60,9 +71,32 @@
 				padding-top: 0;
 			}
 
+			svg#map {
+				max-height: 650px !important;
+			}
+
 			.active {
 				fill: $base-orange;
 				cursor: pointer;
+			}
+
+			.tooltip {
+				padding:8px;
+		        background-color: rgb(247,247,247);
+		        border:1px solid $base-orange;
+		        font-family: $font__MuseoSans;
+		        opacity: 0.85;
+		        border-radius:2px;
+		        @include fontSize(12px);
+		        -webkit-box-shadow:1px 1px 2px $medium-gray;
+		        -moz-box-shadow:1px 1px 2px $medium-gray;
+		        box-shadow:1px 1px 2px $medium-gray;
+		        display:inline-block;
+		        position:fixed;
+
+		        span {
+		        	font-weight:bold;
+		        }
 			}
 		}
 	}

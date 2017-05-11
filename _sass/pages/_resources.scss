@@ -1,0 +1,35 @@
+/*======================================
+=            Resrouces Page            =
+======================================*/
+
+.page-container.resources {
+	margin-top: 0;
+	
+	ul.shareIcons {
+		margin-top: 0.5rem;
+
+		@include breakpoint("medium") {
+			text-align: right;
+		}
+	}
+
+	.post-content {
+		margin: 3rem 0 5rem 0;
+	}
+
+	ul.resource-listing {
+		margin-bottom: 2.5rem;
+
+		li {
+			margin: 1rem 0;
+
+			a {
+				box-shadow: none;
+
+				img {
+					max-width:10px;
+				}
+			}
+		}
+	}
+}

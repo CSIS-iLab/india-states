@@ -16,12 +16,8 @@
 		left: 0;
 		right: 0;
 
-		.tableOfContents-instructions, .tableOfContents-list {
+		.tableOfContents-instructions, .tableOfContents-list, .sectionSubtitle {
 			display: none;
-		}
-
-		.sectionSubtitle {
-			display: inline-block;
 		}
 
 		@include breakpoint("medium") {
@@ -45,6 +41,9 @@
 
 		@include breakpoint("medium") {
 			border-bottom: 2px solid $dark-gray;
+			padding-bottom: 3px;
+			margin-bottom: 5px;
+			font-size: 1.1rem;
 		}
 
 	}
@@ -90,6 +89,12 @@
 
 	// Dropdown for mobile
 	.tableOfContents-dropdown {
+		color: $dark-gray;
+		@include fontSize(14px);
+		line-height: 1.4rem;
+		font-weight: 500;
+		border: none;
+		background-color: $light-gray;
 
 		@include breakpoint("medium") {
 			display: none;

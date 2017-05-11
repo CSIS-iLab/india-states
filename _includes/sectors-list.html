@@ -5,7 +5,7 @@
   <!-- START: List Subsectors -->
   {% for subsector in site.subsectors %}
   {% if subsector.sector == sector.title %}
-  <li class="home-dropdownSubsector"><a href='{{ sector.id | relative_url }}#{{ subsector.title | slugify }}'>{{ subsector.title }}</a></li>
+  <li class="home-dropdownSubsector"><a href='{{ sector.id | relative_url }}#subsector={{ subsector.title | slugify }}'>{{ subsector.title }}</a></li>
   {% endif %}
   {% endfor %}
 

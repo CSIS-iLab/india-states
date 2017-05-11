@@ -5,7 +5,7 @@
 		</a>
 		<div class="share-socialContainer">
 			Share via<br />
-			<a href="https://twitter.com/intent/tweet?text={{ include.shareTitle | escape }}&url={{ include.shareLink | absolute_url }}&via={{ site.twitter_username }}&related={{ site.twitter_username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
+			<a href="https://twitter.com/intent/tweet?text={{ include.shareTitle | escape }}&url={{ include.shareLink | absolute_url }}&via={{ site.twitter.username }}&related={{ site.twitter.username }}" rel="nofollow" target="_blank" title="Share on Twitter">Twitter</a>
 		    <a href="https://www.facebook.com/sharer.php?u={{ include.shareLink | absolute_url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
 		    <a href="https://plus.google.com/share?url={{ include.shareLink | absolute_url }}" rel="nofollow" target="_blank" title="Share on Google+">Google+</a>
 		    <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{ include.shareLink | absolute_url }}" rel="nofollow" target="_blank" title="Share on LinkedIn">LinkedIn</a>
@@ -17,8 +17,12 @@
 		</a>
 	</li>
 	<li>
+		{% if include.pdf %}
+		<a href="{{ include.pdf }}" class="share-print">
+		{% else %}
 		<a href="#" class="share-print {% if include.individual == 'true' %}printIndividual{% else %}printEntire{% endif %}">
-			<svg id="Print" data-name="Print" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 14"><defs><style>.cls-1{fill:#fff;}.cls-2{fill:gray;}.cls-3{mask:url(#mask);}</style><mask id="mask" x="0" y="5.62" width="19.59" height="5.92" maskUnits="userSpaceOnUse"><g id="print-b"><path id="print-a" class="cls-1" d="M19.59 5.62v5.92H0V5.62h19.59z"/></g></mask></defs><title>Print</title><path class="cls-2" d="M6.46 0L3 3.46l.04 2.16.91-.01-.03-1.78L6.84.91h8.77l.03 4.71h.91L16.52 0H6.46z"/><path class="cls-2" d="M6.2.46v2.73H3.46v.91h3.65V.46H6.2zM.42 12.91l1.82-1.67zM.11 12.57l.62.67 1.82-1.66-.62-.68-1.82 1.67zM19.17 13.06l-1.67-1.82zM17.17 11.55l1.66 1.82.67-.62-1.66-1.82-.67.62z"/><path class="cls-2" d="M0 13.51h19.59v-.91H0v.91z"/><path class="cls-3 cls-2" d="M1.56 7.64a.65.65 0 1 1 0-1.3.65.65 0 1 1 0 1.3m17.56-2H.46a.45.45 0 0 0-.46.41v5.05a.45.45 0 0 0 .46.43h18.67a.45.45 0 0 0 .46-.43V6.05a.45.45 0 0 0-.46-.44"/></svg>
+		{% endif %}
+			<svg id="Print" data-name="Print" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 14"><defs><style>.print-1{fill:#fff;}.print-2{fill:gray;}.print-3{mask:url(#mask);}</style><mask id="mask" x="0" y="5.62" width="19.59" height="5.92" maskUnits="userSpaceOnUse"><g id="print-b"><path id="print-a" class="print-1" d="M19.59 5.62v5.92H0V5.62h19.59z"/></g></mask></defs><title>Print</title><path class="print-2" d="M6.46 0L3 3.46l.04 2.16.91-.01-.03-1.78L6.84.91h8.77l.03 4.71h.91L16.52 0H6.46z"/><path class="print-2" d="M6.2.46v2.73H3.46v.91h3.65V.46H6.2zM.42 12.91l1.82-1.67zM.11 12.57l.62.67 1.82-1.66-.62-.68-1.82 1.67zM19.17 13.06l-1.67-1.82zM17.17 11.55l1.66 1.82.67-.62-1.66-1.82-.67.62z"/><path class="print-2" d="M0 13.51h19.59v-.91H0v.91z"/><path class="print-3 print-2" d="M1.56 7.64a.65.65 0 1 1 0-1.3.65.65 0 1 1 0 1.3m17.56-2H.46a.45.45 0 0 0-.46.41v5.05a.45.45 0 0 0 .46.43h18.67a.45.45 0 0 0 .46-.43V6.05a.45.45 0 0 0-.46-.44"/></svg>
 		</a>
 	</li>
 </ul>

@@ -58,3 +58,7 @@
 
   {% endfor %}
 {% endif %}
+
+{% if sameTagCount == 0 %}
+  <p class="noResults">There are no related posts.</p>
+{% endif %}

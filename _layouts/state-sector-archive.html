@@ -5,15 +5,19 @@ layout: default
 {% assign sector = site.sectors | where:'title',page.sector | first %}
 <section class="archive-container">
 	{% if sector.feature_image %}
-    <div class="archive-featureImage" style="background-image:url('{{sector.feature_image | prepend: site.cloudinary_url}}'"></div>
-  {% endif %}
+		{% if jekyll.environment == 'production' and site.cloudinary_url %}
+	        <div class="archive-featureImage" style="background-image:url('{{sector.feature_image | prepend: site.url | prepend: site.cloudinary_url}}'"></div>
+	      {% else %}
+	        <div class="archive-featureImage" style="background-image:url('{{sector.feature_image}}'"></div>
+	      {% endif %}
+  	{% endif %}
 	<header class="archive-header">
 		<div class="content-wrapper fullWidthContent">
 			<!-- Share Icons -->
       		{% include share-icons.html shareTitle=page.title shareLink=page.url individual="false" %}
 
 			<h1 class="subtitle">{{ page.state | escape }} &gt; {{ page.sector | escape }}</h1>
-			{{ sector.content }}
+			<p>{{ sector.content }}</p>
 		</div>
 	</header>
 

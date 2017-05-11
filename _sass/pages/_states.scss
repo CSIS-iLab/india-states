@@ -4,7 +4,7 @@
 
 // State Information, Summary, & Map
 .stateInfoContainer {
-	padding-bottom: 2rem;
+	padding-bottom: 4rem;
 
 	ul.shareIcons:first-of-type {
 		margin-top: 0.5rem;
@@ -39,9 +39,6 @@
 
 		ul.stateInfoContainer-stateSummaryList {
 			list-style-type: none;
-		    -webkit-columns: 2;
-		    -moz-columns: 2;
-		    columns: 2;
 		    margin: 0.5rem 0;
 		    padding: 0;
 
@@ -77,10 +74,13 @@
 	// Map
 	.stateMapContainer {
 		margin: 3rem auto 0;
-		max-width: 400px;
 
 		@include breakpoint("large") {
 			margin: 0rem auto 0;
+		}
+
+		svg {
+			max-width: 400px;
 		}
 	}
 }
@@ -92,6 +92,14 @@
 
 	.col-xs-12, .col-md-6 {
 		padding: 0;
+		margin-bottom:-5px;
+	}
+
+	.stateSecondaryImage {
+		display: none;
+		@include breakpoint("large") {
+			display: block;
+		}
 	}
 
 	img {
@@ -105,11 +113,34 @@
 	border-left: 2px solid $base-orange;
 	color: $gray-text;
 	font-family: $font__ExpoSerif;
-	@include fontSize(14px);
+	@include fontSize(12px);
 	line-height: 1.4rem;
 	margin-top: 0.5rem;
-	margin-bottom: 4rem;
+	margin-bottom: 7rem;
 	padding-left: 0.5rem;
+
+	span {
+		display: none;
+
+		@include breakpoint("large") {
+			display: inline;
+		}
+	}
+
+	@include breakpoint("medium") {
+		max-width: 75%;
+	}
+
+	.stateSecondaryCaption { 
+		display: none;
+		@include breakpoint("large") {
+			display: block;
+		}
+	}
+}
+
+.state-viewAllLink {
+	text-align: center;
 }
 
 // Content Wrapper

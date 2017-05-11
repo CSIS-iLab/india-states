@@ -23,12 +23,21 @@ article.post-individualContainer {
 
 		.main-title {
 			margin: 0;
-			@include fontSize(56px);
+			@include fontSize(30px);
+
+			@include breakpoint("medium") {
+				@include fontSize(56px);
+			}
 		}
 
 		.sectionSubtitle {
 			margin: 0;
 			color: $base-orange;
+			@include fontSize(16px);
+
+			@include breakpoint("medium") {
+				@include fontSize(20px);
+			}
 		}
 
 	}
@@ -47,15 +56,18 @@ article.post-individualContainer {
 			}
 
 			img {
-				width: 100%;
+				max-width: 100%;
 				height: auto;
+				width: initial;
+				display: block;
+				margin-bottom: 0.5rem;
 			}
 
 			.post-featureImageCredit {
 				border-left: 2px solid $base-orange;
 				color: $gray-text;
 				font-family: $font__ExpoSerif;
-				@include fontSize(14px);
+				@include fontSize(12px);
 				line-height: 1.4rem;
 				margin-top: 0.5rem;
 				margin-bottom: 4rem;
@@ -141,10 +153,10 @@ article.post-individualContainer {
 				margin-top: 1rem;
 				margin-bottom: 0;
 			}
-		}
 
-		.post-articleMetaContainer {
-			margin-top: 3rem;
+			&:last-of-type {
+				margin-bottom: 3rem;
+			}
 		}
 
 		// Article Meta

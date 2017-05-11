@@ -127,6 +127,28 @@ footer.site-footer {
         }
       }
 
+      #Newsletter {
+        display: inline-block;
+    margin-left: 5px;
+      }
+
+      .newsletter {
+        background-color : $color__homepage-footer-gray;
+        font-family: $font__MuseoSans;
+        padding: .4rem .8rem .2rem;
+        display: inline-block;
+        position: relative;
+        bottom: 9px;
+        margin-left: 5px;
+        text-transform: uppercase;
+        letter-spacing: .5px;
+        border-radius: 2px;
+      }
+
+       .newsletter:hover {
+        background-color: $medium-gray;
+       }
+
       .footer-socialIcon {
         @include breakpoint("medium") {
           margin-left: 5px;
@@ -136,16 +158,28 @@ footer.site-footer {
         path {
           fill: $color__homepage-footer-gray;
         }
+      
       }
+
+     
 
 
       .footer-copyright {
         color: $color__homepage-footer-gray;
         @include fontSize(14px);
         padding-top: 0.5rem;
+        font-family: $font__MuseoSans;
 
         div {
-          margin-top: 0.5rem;
+          margin-top: 0;
+        }
+
+        a:hover {
+          svg path{
+            fill: $medium-gray;
+          }
+
+        
         }
 
         @include breakpoint("medium") {

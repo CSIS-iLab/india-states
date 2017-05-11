@@ -7,7 +7,7 @@
 
 	<div class="sectorSection-sectorInfoContainer row">
 		<div class="sectorSection-sectorInfo col-xs-12 col-md-6">
-			{{ sector.content }}
+			<p>{{ sector.content | remove: "<p>" | remove: "</p>" }}</p>
 		</div>
 		<div class="sectorSection-subsectorsList col-xs-12 col-md-6">
 			<h4 class="sectionSubtitle">Subsectors</h4>
@@ -38,8 +38,10 @@
 	</section>
 
 	<!-- Related National Goals -->
-	{% assign sectorGoals = site.national-goals | where_exp:"goal","goal.sectors contains sector.title" %}
-	{% if sectorGoals.size > 0 %}
-		{% include related-goals.html goals=sectorGoals useStateText=include.useStatePosts state=page.title %}
+	{% if page.title != 'Center-State Relations' %}
+		{% assign sectorGoals = site.national-goals | where_exp:"goal","goal.sectors contains sector.title" %}
+		{% if sectorGoals.size > 0 %}
+			{% include related-goals.html goals=sectorGoals useStateText=include.useStatePosts state=page.title %}
+		{% endif %}
 	{% endif %}
 </section>

@@ -28,9 +28,7 @@ gem "jekyll"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
    gem "jekyll-feed", "~> 0.6"
-   gem 'jekyll-seo-tag'
    gem 'jekyll-sitemap'
-   # gem 'jekyll-indiasearch', '0.1.0', :git => 'https://github.com/CSIS-iLab/jekyll-indiasearch.git'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

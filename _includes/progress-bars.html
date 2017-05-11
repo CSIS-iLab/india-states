@@ -1,0 +1,29 @@
+<!-- Render Progress Bars -->
+<div class="progressbars-container">
+  {% for row in site.data[site.national_goals_data_dir][include.data_source] %}
+  <div class="progress-container row flex-center__y">
+    <div class="progress-stateContainer col-xs-12 col-md-3">
+      <span class="progress-stateName">{{ row.state }}</span>
+      {% if row.state_achieved %}
+      <span class="progress-achieved">achieved {{ row.state_achieved }} of {{ row.state_target | append: include.data_label }}
+      {% endif %}
+    </div>
+    <div class="progress-barContainer col-xs-12 col-md-9">
+      {% if row.state_percentage %}
+      <div class="progress-wrap progress" data-progress-percent="{{ row.state_percentage }}">
+        <div class="progress-bar progress"></div>
+        <span class="progress-percentage">{{ row.state_percentage | append: '%' }}</span>
+        <span class="progress-target">{{ row.state_target | append: include.data_label }}</span>
+      </div>
+      <div class="tip-content">
+        <span>{{ row.state }}</span><br />
+        Target: {{ row.state_target | append: include.data_label }}<br />
+        Achieved: {{ row.state_achieved | append: include.data_label }}
+      </div>
+      {% else %}
+        <span class="progress-missingData">{{ page.data_missing_message }} {{ row.state }}.
+      {% endif %}
+    </div>
+  </div>
+  {% endfor %}
+</div>
