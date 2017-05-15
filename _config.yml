@@ -144,9 +144,6 @@ defaults:
   values:
     link: 
     type:
-    - Websites
-    - PDF Files
-    - Energy Personality Profiles
     content_type: Resource
 - scope:
     path: ''
