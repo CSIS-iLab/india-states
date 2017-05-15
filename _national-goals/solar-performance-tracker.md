@@ -5,7 +5,7 @@ subsectors: Renewables
 data_source: solar-performance-tracker
 data_label: MW
 data_missing_message: Telangana reaches 1073.41 MW. Ministry of New and Renewable
-  Energy (MNRE) has not report the state-wise distribution for solar target for
+  Energy (MNRE) has not reported the state-wise distribution for solar target for
 map:
   title: National Target Contribution
   description: Each Indian state has been assigned a solar power capacity target that
