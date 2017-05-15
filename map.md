@@ -1,6 +1,7 @@
 ---
 title: Map
 permalink: "/map/"
+published: false
 layout: page
 ---
 
