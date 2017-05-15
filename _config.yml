@@ -49,8 +49,8 @@ defaults:
       url: 
     details:
       name: 
-      url:
-    content_type: Articles 
+      url: 
+    content_type: Articles
     is_analysis: false
     breadcrumbs: articles
 - scope:
@@ -88,7 +88,7 @@ defaults:
         image: 
         credit: 
     size: 
-    population:
+    population: 
     party_affiliation: 
     legislative_seats: 
     rajya_seats: 
@@ -142,8 +142,8 @@ defaults:
     path: ''
     type: resources
   values:
-    link:
-    content_type: Resource 
+    link: 
+    content_type: Resource
 - scope:
     path: ''
     type: authors
