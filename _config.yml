@@ -42,8 +42,8 @@ defaults:
     layout: post
     permalink: "/articles/:title/"
     states: []
-    sectors: 
-    subsectors: 
+    sectors: []
+    subsectors: []
     sources:
       name: 
       url: 
@@ -59,9 +59,9 @@ defaults:
   values:
     layout: post
     excerpt: 
-    states: 
-    sectors: 
-    subsectors: 
+    states: []
+    sectors: []
+    subsectors: []
     feature_image: 
     feature_image_credit: 
     sources:
@@ -116,7 +116,7 @@ defaults:
     type: national-goals
   values:
     layout: national-goals
-    sectors: 
+    sectors: []
     subsectors: 
     data_source: 
     data_label: 
