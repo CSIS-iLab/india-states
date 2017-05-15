@@ -40,9 +40,8 @@ defaults:
     type: posts
   values:
     layout: post
-    content_type: Articles
     permalink: "/articles/:title/"
-    states: 
+    states: []
     sectors: 
     subsectors: 
     sources:
@@ -50,7 +49,8 @@ defaults:
       url: 
     details:
       name: 
-      url: 
+      url:
+    content_type: Articles 
     is_analysis: false
     breadcrumbs: articles
 - scope:
@@ -58,7 +58,7 @@ defaults:
     type: analysis
   values:
     layout: post
-    content_type: Analysis
+    excerpt: 
     states: 
     sectors: 
     subsectors: 
@@ -70,16 +70,16 @@ defaults:
     details:
       name: 
       url: 
-    is_analysis: true
     author: 
     pdf: 
     breadcrumbs: analysis
+    content_type: Analysis
+    is_analysis: true
 - scope:
     path: ''
     type: states
   values:
     layout: state
-    content_type: State
     feature_images:
       primary:
         image: 
@@ -89,35 +89,33 @@ defaults:
         credit: 
     size: 
     population:
-      rural: 
-      urban: 
     party_affiliation: 
     legislative_seats: 
     rajya_seats: 
     lok_seats: 
     gdp: 
+    content_type: State
     breadcrumbs: states
 - scope:
     path: ''
     type: sectors
   values:
     layout: sector
-    content_type: Sector
     feature_image: 
+    content_type: Sector
     breadcrumbs: sectors
 - scope:
     path: ''
     type: subsectors
   values:
     layout: sector
-    content_type: Subsector
     sector: 
+    content_type: Subsector
 - scope:
     path: ''
     type: national-goals
   values:
     layout: national-goals
-    content_type: National Goal
     sectors: 
     subsectors: 
     data_source: 
@@ -138,13 +136,14 @@ defaults:
     sources:
       name: 
       url: 
+    content_type: National Goal
     breadcrumbs: goals
 - scope:
     path: ''
     type: resources
   values:
-    content_type: Resource
-    link: 
+    link:
+    content_type: Resource 
 - scope:
     path: ''
     type: authors
