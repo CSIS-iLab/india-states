@@ -18,4 +18,4 @@ lok_seats: 1
 gdp: "$3.26"
 ---
 
-Puducherry is a union territory which comprises the former French colonies Puducherry, Karaikal, Mahe and Yanam, situated in tiny enclaves on both of India's Arabian and Bay of Bengal coasts. Puducherry's small size and fractured terrain mean that it lacks a unified economy, and its various enclaves are more likely to take on the characteristics of the states around them.
+Puducherry is a union territory which comprises the former French colonies Puducherry, Karaikal, Mahe and Yanam, situated in tiny enclaves on both of India's Arabian Sea and Bay of Bengal coasts. Puducherry's small size and fractured terrain mean that it lacks a unified economy, and its various enclaves are more likely to take on the characteristics of the states around them.
