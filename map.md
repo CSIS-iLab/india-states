@@ -15,4 +15,3 @@ test
 <script src="//code.jquery.com/jquery-3.1.0.min.js"></script>
 {% include map-highcharts.html %}
 <script src="{{ "/assets/js/map-generator.js" | relative_url }}"></script>
-test
