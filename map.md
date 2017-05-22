@@ -13,4 +13,3 @@ Testing integrating Jekyll & D3.js to create an interactive map of India.
 <script src="//code.jquery.com/jquery-3.1.0.min.js"></script>
 {% include map-highcharts.html %}
 <script src="{{ "/assets/js/map-generator.js" | relative_url }}"></script>
-test
