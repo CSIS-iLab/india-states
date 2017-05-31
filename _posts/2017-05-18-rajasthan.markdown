@@ -1,10 +1,19 @@
 ---
-title: Rajasthan
+title: Rajasthan receives lowest solar tariff across India, at $0.0379 cents
 date: 2017-05-18 14:38:00 Z
+tags:
+- Solar
+- Bhadla
+- ACME
+- SBG Cleantech
+- IL&FS
+- Tariff
 states:
 - Rajasthan
 sectors:
 - Energy
+subsectors:
+- Renewables
 sources:
   name: Livemint
   url: http://www.livemint.com/Industry/saGIF4VEwvv38rf208tUAM/Solar-power-tariff-falls-further-to-Rs244-per-unit.html
