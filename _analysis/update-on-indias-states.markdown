@@ -8,7 +8,7 @@ excerpt: Madhya Pradesh and Tamil Nadu launch major distribution programs for en
 states:
 - 
 author:
-- Kartikeya Singh
+- Richard M. Rossow
 ---
 
 **Big News**
