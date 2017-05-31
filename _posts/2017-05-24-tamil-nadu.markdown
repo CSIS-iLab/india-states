@@ -1,10 +1,15 @@
 ---
-title: Tamil Nadu
+title: Tamil Nadu to get more support from center on energy efficiency initiatives
 date: 2017-05-24 14:46:00 Z
+tags:
+- LED
+- EESL
 states:
 - Tamil Nadu
 sectors:
 - Energy
+subsectors:
+- Energy Efficiency
 sources:
   name: Economic Times
   url: http://economictimes.indiatimes.com/news/politics-and-nation/centre-aims-at-distributing-three-crore-led-bulbs-in-tamil-nadu-eesl/articleshow/58716593.cms
