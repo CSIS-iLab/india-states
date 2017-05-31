@@ -10,6 +10,10 @@ excerpt: India’s membership in the IEA is a major milestone for India, the IEA
   by Prime Minister Narendra Modi’s government as priorities.
 sectors:
 - Energy
+author:
+- Jane Nakano
+- Kartikeya Singh
+- Sharmila Bellur
 ---
 
 **Facts**
