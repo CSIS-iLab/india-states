@@ -1,6 +1,9 @@
 ---
-title: Bihar
+title: Various EESL initiatives launched in Bihar
 date: 2017-05-18 14:30:00 Z
+tags:
+- EESL
+- UJALA
 states:
 - Bihar
 sectors:
