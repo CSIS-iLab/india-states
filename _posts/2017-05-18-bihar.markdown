@@ -1,0 +1,15 @@
+---
+title: Bihar
+date: 2017-05-18 14:24:00 Z
+states:
+- Bihar
+sectors:
+- Energy
+subsectors:
+- Power
+sources:
+  name: Business Standard
+  url: http://www.business-standard.com/article/economy-policy/bihar-cm-nitish-kumar-expresses-displeasure-over-power-franchisee-model-117051100724_1.html
+---
+
+Bihar’s chief minister Nitish Kumar inaugurated various initiatives worth $413. 8 million for the energy department, which include construction of grid and power sub-station laying of new 33 kilovolt (KV), 11 KV and low tension lines, sub-divisional control room with customer facilitation centre, and rural electrification.

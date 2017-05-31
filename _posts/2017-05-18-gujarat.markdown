@@ -1,0 +1,13 @@
+---
+title: Gujarat
+date: 2017-05-18 14:32:00 Z
+states:
+- Gujarat
+sectors:
+- Energy
+sources:
+  name: Times of India
+  url: http://timesofindia.indiatimes.com/city/ahmedabad/gujarat-buys-power-from-open-market/articleshow/58663460.cms
+---
+
+With private power producers reducing supply to the state, Gujarat Urja Vikas Nigam Limited (GUVNL) has turned to the open market to procure electricity to deal with the shortage.
