@@ -19,7 +19,8 @@ feature_image_credit: 'This chart of the South Bihar Power Distribution Company�
 sources:
   name: CogitAsia
   url: https://www.cogitasia.com/squeezing-indias-industry-for-power-payments-not-the-answer/?utm_source=CSIS+All&utm_campaign=0b1c809846-EMAIL_CAMPAIGN_2017_03_04&utm_medium=email&utm_term=0_f326fc46b6-0b1c809846-
-author: Sarah Watson
+author:
+- Sarah Watson
 ---
 
 India’s heavily politicized system of power subsidies requires large-scale power consumers to pay for the electricity use of key political constituencies. But over the past 10 years these high-paying consumers have increasingly left the system, seeking cheaper and more reliable power from other sources. Their flight has contributed to the severe strain on utility finances, threatening a downward spiral. But Indian states must resist the impulse to force high-paying customers back into the system; instead they should transfer these subsidies from corporate balance books to the state’s own budget, directly subsidizing electricity for the poor.
