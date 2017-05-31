@@ -8,6 +8,8 @@ states:
 - Maharashtra
 sectors:
 - Energy
+subsectors:
+- Energy Efficiency
 sources:
   name: Financial Express
   url: http://www.financialexpress.com/india-news/maharashtra-pwd-buildings-to-undergo-lighting-system-upgrade/677699/
