@@ -1,0 +1,13 @@
+---
+title: Odisha
+date: 2017-05-24 14:56:00 Z
+states:
+- Odisha
+sectors:
+- Energy
+sources:
+  name: Economic Times
+  url: http://economictimes.indiatimes.com/industry/energy/power/industry-hoping-odisha-will-reconsider-hike-in-duty-on-captive-power/articleshow/58698410.cms
+---
+
+The state government announced it would raise the duty on captive power plants by 83 percent, from 46 cents to 85 cents. The raise followed a previous hike of 50 percent last year and will produce additional revenues of $135 million per year. The move attracted intense condemnation from energy-intensive industries in the state.
