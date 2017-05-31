@@ -1,6 +1,8 @@
 ---
-title: Gujarat
+title: Gujarat turns to open market to procure electricity
 date: 2017-05-18 14:32:00 Z
+tags:
+- GUVNL
 states:
 - Gujarat
 sectors:
