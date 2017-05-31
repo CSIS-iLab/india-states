@@ -1,6 +1,9 @@
 ---
-title: Maharashtra
+title: Maharashtra government expands LED program
 date: 2017-05-18 14:36:00 Z
+tags:
+- LED
+- UJALA
 states:
 - Maharashtra
 sectors:
