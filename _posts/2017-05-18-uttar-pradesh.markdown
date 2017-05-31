@@ -1,10 +1,20 @@
 ---
-title: Uttar Pradesh
+title: Uttar Pradesh cancels 3,800 MW long term power purchase agreement
 date: 2017-05-18 14:40:00 Z
+tags:
+- PPA
+- Jindal Power
+- JP-Nigeri
+- Lanco
+- Adani
+- GMR
+- JSW
 states:
 - Uttar Pradesh
 sectors:
 - Energy
+subsectors:
+- Power
 sources:
   name: Business Standard
   url: http://www.business-standard.com/article/economy-policy/up-cancels-costly-power-agreements-inked-by-sp-govt-117051101486_1.html
