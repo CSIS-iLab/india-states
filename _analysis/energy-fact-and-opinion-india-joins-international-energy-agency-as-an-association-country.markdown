@@ -19,9 +19,9 @@ author:
 - Sharmila Bellur
 ---
 
-**Facts**
+<h3><strong>Facts</strong></h3>
 
-* In March 2017, India [activated](https://www.iea.org/newsroom/news/2017/march/india-joins-iea-family-a-major-milestone-for-global-energy-governance.html) the association status with the International Energy Agency (IEA), an organization comprising 29 member countries and 6 association countries. 
+* In March 2017, India [activated](https://www.iea.org/newsroom/news/2017/march/india-joins-iea-family-a-major-milestone-for-global-energy-governance.html) the association status with the International Energy Agency (IEA), an organization comprising 29 member countries and 6 association countries.
 
 * [Membership](https://www.iea.org/about/faqs/membership/) in the IEA, which is restricted to advanced economy members of the Organization for Economic Co-operation and Development (OECD), requires them to demonstrate their net oil importer status, have reserves equivalent to 90 days’ average of crude oil and/or oil products imports in the prior years, and have a demand restraint program for reducing national oil consumption by up to 10 percent.
 
@@ -31,7 +31,7 @@ author:
 
 * With India’s inclusion, the IEA accounts for about [70 percent](http://economictimes.indiatimes.com/news/politics-and-nation/india-becomes-associate-member-of-international-energy-agency/articleshow/57925914.cms) of the world’s energy consumption.
 
-**Opinion**
+<h3><strong>Opinion</strong></h3>
 
 India’s membership in the IEA is a major milestone for India, the IEA, and global energy governance. India has had dialogues with the IEA on emergency preparedness in the past, but India’s joining as an [association country](https://www.iea.org/topics/engagementworldwide/subtopics/association/) can facilitate its collaboration with the IEA in developing preparedness for oil supply disruptions and emergencies, including building and maintaining emergency reserves. The IEA association can help strengthen India’s capacity building in the areas of energy efficiency, energy technology, renewable energy, electricity security, and grid integration—many of which have been identified by Prime Minister Narendra Modi’s government as key priorities.
 
