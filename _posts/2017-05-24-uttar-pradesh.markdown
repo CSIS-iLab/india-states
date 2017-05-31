@@ -1,10 +1,16 @@
 ---
-title: Uttar Pradesh
+title: Uttar Pradesh government to build a 750 MW solar plant in Rajasthan
 date: 2017-05-24 14:55:00 Z
+tags:
+- Transmission
+- Solar
 states:
 - Uttar Pradesh
 sectors:
 - Energy
+subsectors:
+- Power
+- Renewables
 sources:
   name: Economic Times
   url: http://economictimes.indiatimes.com/home/environment/global-warming/up-government-setting-up-750-megawatt-solar-plant-at-badhla/articleshow/58778104.cms
