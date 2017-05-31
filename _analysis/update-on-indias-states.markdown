@@ -7,6 +7,8 @@ excerpt: Madhya Pradesh and Tamil Nadu launch major distribution programs for en
   for those seeking new electricity connections; and more.
 states:
 - 
+author:
+- Kartikeya Singh
 ---
 
 **Big News**
