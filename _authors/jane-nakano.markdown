@@ -2,6 +2,7 @@
 title: Jane Nakano
 date: 2017-05-31 15:15:00 Z
 job_title: Senior Fellow, Energy and National Security Program
+image: "/uploads/JaneNakano%20headshot.jpg"
 ---
 
 Jane Nakano is a senior fellow in the Energy and National Security Program at the Center for Strategic and International Studies (CSIS). Her areas of expertise include U.S. energy policy, global oil and gas markets, energy security issues in Asia, and global nuclear energy trends. She frequently writes and speaks on these issues at conferences and to the media. Also, she has testified before Congress on energy issues in Asia. Prior to joining CSIS in 2010, Ms. Nakano was with the US Department of Energy (DOE) and served as the lead staff on energy engagements with China and Japan. She was responsible for coordinating DOE engagement in the U.S.-China Strategic Economic Dialogue, U.S.-China Energy Policy Dialogue, and U.S.-Japan Energy Dialogue. She also worked on U.S. energy engagement with Indonesia, North Korea, and the Asia-Pacific Economic Cooperation forum. From 2001 to 2002, she served at the U.S. embassy in Tokyo as special assistant to the energy attaché. Ms. Nakano graduated from Georgetown University’s School of Foreign Service and holds a master’s degree from Columbia University’s School of International and Public Affairs.
