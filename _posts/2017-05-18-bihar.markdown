@@ -1,6 +1,8 @@
 ---
-title: Bihar
+title: CM Nitish Kumar inaugurates various energy initiatives
 date: 2017-05-18 14:24:00 Z
+tags:
+- Nitish Kumar
 states:
 - Bihar
 sectors:
