@@ -5,8 +5,6 @@ excerpt: Madhya Pradesh and Tamil Nadu launch major distribution programs for en
   appliances; Maharashtra waives fees for electric vehicles; ADB offers Rajasthan
   $500 million to improve its road network; Karnataka mandates energy-efficient pumps
   for those seeking new electricity connections; and more.
-states:
-- 
 author:
 - Richard M. Rossow
 ---
