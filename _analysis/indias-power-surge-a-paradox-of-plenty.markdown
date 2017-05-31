@@ -16,7 +16,8 @@ excerpt: 'India’s state power ministers [convened in Delhi ](http://pib.nic.in
 feature_image: "/uploads/170516_capacity.jpg"
 feature_image_credit: 'Source: Government of India, Ministry of Power Annual Reports,
   http://powermin.nic.in/en/content/annual-reports-year-wise-ministry.'
-author: Kartikeya Singh
+author:
+- Kartikeya Singh
 ---
 
 India’s state power ministers [convened in Delhi ](http://pib.nic.in/newsite/PrintRelease.aspx?relid=161406)recently for an unusual group meeting. The event had a dual purpose: partly to celebrate how far India has come in rebuilding its power sector, and partly to lay out a roadmap for confronting the challenges that remain. My recent journey through 11 of India’s 29 states, speaking with senior power officials, confirms that India has made incredible progress in tackling its power generation deficit. Increased generation capacity through new additions of renewables and greater efficiency and reliability of coal stocks for thermal power plants is coupling with the success of India’s incredible demand-side measures to create a perfect storm of plentiful power. However, the next set of problems for its power sector are in some ways more difficult to confront. To address those problems, India will have to employ a diverse and creative set of solutions.
