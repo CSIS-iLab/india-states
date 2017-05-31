@@ -1,10 +1,14 @@
 ---
-title: Odisha
+title: Odisha increases duty on captive power
 date: 2017-05-24 14:56:00 Z
+tags:
+- Tariff
 states:
 - Odisha
 sectors:
 - Energy
+subsectors:
+- Power
 sources:
   name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/industry-hoping-odisha-will-reconsider-hike-in-duty-on-captive-power/articleshow/58698410.cms
