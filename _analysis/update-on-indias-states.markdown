@@ -31,7 +31,7 @@ A month after winning two thirds of the seats in Delhi’s Municipal Corporation
 
 **Gujarat**
 
-The Gujarat Agro Industries Corporation signed MoUs with businesses from Ghana, Zambia, and Mozambique during the African Development Bank's (AfDB) annual meeting in Gandhinagar. The MoUs dealt with agriculture and power generation, among other topics. Gujarat also signed an MoU with the Republic of Togo to develop infrastructure, mining, and renewable power generation. \*\*Source: \*\*[Times of India](http://timesofindia.indiatimes.com/city/ahmedabad/gujarat-inks-mous-with-three-african-entities-in-agri-power-infra-sectors/articleshow/58830858.cms)
+The Gujarat Agro Industries Corporation signed MoUs with businesses from Ghana, Zambia, and Mozambique during the African Development Bank's (AfDB) annual meeting in Gandhinagar. The MoUs dealt with agriculture and power generation, among other topics. Gujarat also signed an MoU with the Republic of Togo to develop infrastructure, mining, and renewable power generation. **Source:** [Times of India](http://timesofindia.indiatimes.com/city/ahmedabad/gujarat-inks-mous-with-three-african-entities-in-agri-power-infra-sectors/articleshow/58830858.cms)
 
 **Haryana**
 
@@ -39,9 +39,9 @@ The Chief Executive of China Light & Power met with Chief Minister Manohar Lal K
 
 **Karnataka**
 
-The Karnataka government has launched a program to fast-track the state’s 100 most promising start-ups. The selected start-ups will receive funding, mentoring, help filing for patents, and legal assistance. \*\*Source: \*\*[Hindu Business Line](http://www.thehindubusinessline.com/news/national/karnataka-launches-programme-to-give-a-boost-to-innovative-startups/article9713336.ece)
+The Karnataka government has launched a program to fast-track the state’s 100 most promising start-ups. The selected start-ups will receive funding, mentoring, help filing for patents, and legal assistance. **Source:** [Hindu Business Line](http://www.thehindubusinessline.com/news/national/karnataka-launches-programme-to-give-a-boost-to-innovative-startups/article9713336.ece)
 
-Both domestic and commercial consumers seeking a new electricity connection will be required to use energy efficiency pump sets beginning June 1, 2017. The state expects the order will cut electricity consumption by 30 percent. \*\*Source: \*\*[The Hindu](http://www.thehindu.com/news/national/karnataka/energy-efficient-pumpsets-must-for-new-power-connections/article18586628.ece)
+Both domestic and commercial consumers seeking a new electricity connection will be required to use energy efficiency pump sets beginning June 1, 2017. The state expects the order will cut electricity consumption by 30 percent. **Source:** [The Hindu](http://www.thehindu.com/news/national/karnataka/energy-efficient-pumpsets-must-for-new-power-connections/article18586628.ece)
 
 President Pranab Mukherjee assented to the long-pending Prohibition of Child Marriage (Karnataka Amendment) Bill, 2016, which gives the police greater powers to prevent child marriage and increases the penalties for involvement. Karnataka produces more than 20 percent of India’s child marriages. **Source:** [The Hindu](http://www.thehindu.com/news/national/karnataka/karnataka-child-marriage-bill-finally-gets-presidents-nod/article18555846.ece)
 
@@ -49,7 +49,7 @@ President Pranab Mukherjee assented to the long-pending Prohibition of Child Mar
 
 Madhya Pradesh will offer farmers solar-powered irrigation pumps at 10 percent of cost, with the state bearing the remaining 90 percent. The state had previously announced a target of distributing 18,500 subsidized pumps. **Source:** [Free Press Journal](http://www.freepressjournal.in/ujjain/ujjain-govt-offers-90-subsidy-on-solar-water-pumps-to-farmers/1073261), [Times of India](http://timesofindia.indiatimes.com/business/india-business/mp-govt-to-provide-subsidised-solar-water-pumps-to-farmers/articleshow/58325475.cms)
 
-The Madhya Pradesh government imposed a ban on sand mining on the Narmada riverbed and formed a committee of experts to suggest measures to prevent ecological damage to the river. The government also banned the use of machines for sand mining in all rivers in Madhya Pradesh. \*\*Source: \*\*[Hindu Business Line](http://www.thehindubusinessline.com/news/national/mp-govt-bans-sand-mining-in-narmada/article9709867.ece)
+The Madhya Pradesh government imposed a ban on sand mining on the Narmada riverbed and formed a committee of experts to suggest measures to prevent ecological damage to the river. The government also banned the use of machines for sand mining in all rivers in Madhya Pradesh. **Source:** [Hindu Business Line](http://www.thehindubusinessline.com/news/national/mp-govt-bans-sand-mining-in-narmada/article9709867.ece)
 
 **Maharashtra**
 
@@ -61,21 +61,21 @@ State-run Bharat Heavy Electricals Ltd (BHEL)has commissioned the fourth 270 meg
 
 **Rajasthan**
 
-The Asian Development Bank (ADB) has agreed to loan Rajasthan $500 million to improve connectivity and to upgrade state highways for more efficient road transport. Under the loan program, Rajasthan will upgrade about 1,200 miles of state highways and major district roads to meet national road safety standards. \*\*Source: \*\*[Money Control](http://www.moneycontrol.com/news/business/adb-to-provide-500-mn-for-rajasthans-road-project-2287249.html) **In Detail:** [Press Release](https://www.adb.org/news/adb-help-improve-transport-efficiency-safety-rajasthan)
+The Asian Development Bank (ADB) has agreed to loan Rajasthan $500 million to improve connectivity and to upgrade state highways for more efficient road transport. Under the loan program, Rajasthan will upgrade about 1,200 miles of state highways and major district roads to meet national road safety standards. **Source:** [Money Control](http://www.moneycontrol.com/news/business/adb-to-provide-500-mn-for-rajasthans-road-project-2287249.html) **In Detail:** [Press Release](https://www.adb.org/news/adb-help-improve-transport-efficiency-safety-rajasthan)
 
 **Tamil Nadu**
 
 Tamil Nadu approved major educational reforms: beginning with the upcoming school year, students in Class XI will sit board exams, and the state will revise the higher secondary syllabus (Classes XI and XII) for the first time in 12 years. Syllabi for other classes, which were last revised seven years ago, will also be revised in phases. **Source:** [The Hindu](http://www.thehindu.com/news/national/tamil-nadu/in-tn-itll-will-be-600-marks-each-in-class-xi-and-class-xii/article18529695.ece)
 
-Tamil Nadu has launched a scheme to sell LED lights at subsidized rates via designated sale points such as electricity bill payment centers. Nine watt LED bulbs will be sold for $1, 43 percent of the market price, at 60 places in Chennai, with plans to expand throughout the state. LED tube lights and energy efficient fans will also be sold at subsidised rates. Tamil Nadu aims to distribute 30 million LED bulbs, 3.5 million LED tubelights, and 1 million fans, at a total estimated annual electricity savings of 41.6 million kilowatt-hours. \*\*Source: \*\*[Times of India](http://timesofindia.indiatimes.com/city/chennai/state-unveils-plan-to-save-power-cut-bill-sells-rs-150-worth-led-bulb-for-rs-65/articleshow/58833348.cms)
+Tamil Nadu has launched a scheme to sell LED lights at subsidized rates via designated sale points such as electricity bill payment centers. Nine watt LED bulbs will be sold for $1, 43 percent of the market price, at 60 places in Chennai, with plans to expand throughout the state. LED tube lights and energy efficient fans will also be sold at subsidised rates. Tamil Nadu aims to distribute 30 million LED bulbs, 3.5 million LED tubelights, and 1 million fans, at a total estimated annual electricity savings of 41.6 million kilowatt-hours. **Source:** [Times of India](http://timesofindia.indiatimes.com/city/chennai/state-unveils-plan-to-save-power-cut-bill-sells-rs-150-worth-led-bulb-for-rs-65/articleshow/58833348.cms)
 
-The Power Grid Corporation broke ground on an 800 kilovolt ultra high-voltage direct current system linking western Tamil Nadu with Chhattisgarh. When complete, the system will enable Tamil Nadu to transmit electricity generated from wind farms to central India. \*\*Source: \*\*[The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/two-way-line-to-transmit-thermal-wind-power/article18579949.ece)
+The Power Grid Corporation broke ground on an 800 kilovolt ultra high-voltage direct current system linking western Tamil Nadu with Chhattisgarh. When complete, the system will enable Tamil Nadu to transmit electricity generated from wind farms to central India. **Source:** [The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/two-way-line-to-transmit-thermal-wind-power/article18579949.ece)
 
 **Telangana**
 
-Telangana IT and Industries Minister K T Rama Rao met with industry leaders in Silicon Valley to pitch Hyderabad as an investment destination. \*\*Source: \*\*[Telangana Today](https://telanganatoday.com/ktr-woos-us-tech-giants-to-invest-in-telangana)
+Telangana IT and Industries Minister K T Rama Rao met with industry leaders in Silicon Valley to pitch Hyderabad as an investment destination. **Source:** [Telangana Today](https://telanganatoday.com/ktr-woos-us-tech-giants-to-invest-in-telangana)
 
-Telangana saw 17.8 percent growth in income generated through taxes in fiscal year 2016-17. \*\*Source: \*\*[Outlook India](http://www.outlookindia.com/newsscroll/telangana-posts-1782-growth-in-income-via-main-taxes/1059973)
+Telangana saw 17.8 percent growth in income generated through taxes in fiscal year 2016-17. **Source:** [Outlook India](http://www.outlookindia.com/newsscroll/telangana-posts-1782-growth-in-income-via-main-taxes/1059973)
 
 **Uttar Pradesh**
 
