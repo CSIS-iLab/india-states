@@ -1,6 +1,9 @@
 ---
-title: Maharashtra
+title: EESL to work on implementing efficiency standards in 1,500 public buildings
+  in Maharashtra
 date: 2017-05-24 14:45:00 Z
+tags:
+- EESL
 states:
 - Maharashtra
 sectors:
