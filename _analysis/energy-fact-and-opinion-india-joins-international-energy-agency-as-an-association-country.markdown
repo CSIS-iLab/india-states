@@ -10,6 +10,9 @@ excerpt: India’s membership in the IEA is a major milestone for India, the IEA
   by Prime Minister Narendra Modi’s government as priorities.
 sectors:
 - Energy
+sources:
+  name: CSIS
+  url: https://www.csis.org/analysis/energy-fact-opinion-india-joins-international-energy-agency-association-country?utm_source=CSIS+All&utm_campaign=0b1c809846-EMAIL_CAMPAIGN_2017_03_04&utm_medium=email&utm_term=0_f326fc46b6-0b1c809846-
 author:
 - Jane Nakano
 - Kartikeya Singh
