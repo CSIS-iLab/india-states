@@ -6,7 +6,8 @@ tags:
 excerpt: Bihar unveils an ambitious renewable power policy; Haryana builds a unified
   policing database; West Bengal drags its feet on the GST; Odisha finds a buyer for
   the Posco steel plot; and more.
-author: Richard M. Rossow
+author:
+- Sarah Watson
 ---
 
 **Big News**
