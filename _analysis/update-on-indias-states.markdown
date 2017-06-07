@@ -1,6 +1,8 @@
 ---
-title: 'Update on India''s States: May 31, 2017'
+title: 'States Update: May 31, 2017'
 date: 2017-05-31 15:42:00 Z
+tags:
+- Update on India's States
 excerpt: Madhya Pradesh and Tamil Nadu launch major distribution programs for energy-efficient
   appliances; Maharashtra waives fees for electric vehicles; ADB offers Rajasthan
   $500 million to improve its road network; Karnataka mandates energy-efficient pumps
