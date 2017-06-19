@@ -172,9 +172,6 @@ algolia:
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 cloudinary_url: https://res.cloudinary.com/csisilab/image/fetch/
 markdown: kramdown
-gems:
-- jekyll-feed
-- jekyll-sitemap
 include:
 - ".travis.yml"
 exclude:
