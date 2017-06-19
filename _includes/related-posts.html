@@ -1,7 +1,7 @@
 <h4 class="sectionSubtitle">Related Posts</h4>
 
 {% assign maxRelated = 4 %}
-{% assign minCommonTags =  2 %}
+{% assign minCommonTags = 2 %}
 {% assign maxRelatedCounter = 0 %}
 
 {% for post in site.analysis %}
@@ -28,6 +28,7 @@
       {% break %}
     {% endif %}
   {% endif %}
+
 {% endfor %}
 
 {% if maxRelatedCounter < maxReleated %}
@@ -59,6 +60,6 @@
   {% endfor %}
 {% endif %}
 
-{% if sameTagCount == 0 %}
+{% if maxRelatedCounter == 0 %}
   <p class="noResults">There are no related posts.</p>
 {% endif %}
