@@ -10,7 +10,7 @@ sectors:
 - Energy
 sources:
   name: Financial Express
-  url: http://www.financialexpress.com/india-news/led-tube-lights-5-star-rated-fans-launched-in-bihar-under-ujala-scheme/664277/
+  url: http://financialexpress.com/india-news/led-tube-lights-5-star-rated-fans-launched-in-bihar-under-ujala-scheme/664277/
 ---
 
 Energy Efficiency Services Ltd (EESL) launched its LED tube light and five-star rated energy efficient fans program under the UJALA initiative in Bihar. Consumers will be able to buy five 20 watt LED tube lights at $3.57 each and two five star rated energy efficient fans at $17.80 each.
