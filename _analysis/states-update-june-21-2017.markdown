@@ -1,6 +1,14 @@
 ---
 title: 'States Update: June 21, 2017'
 date: 2017-06-21 15:27:00 Z
+tags:
+- Update on India's States
+excerpt: Interstate transmission of solar power will be free until 2019; Karnataka
+  plans to set prices in private hospitals; Delhi opens registration for rooftop solar;
+  Gorkhaland protests intensify in West Bengal; Kerala gets a ‘green’ metro system;
+  and more.
+author:
+- Sarah Watson
 ---
 
 **Big News**
