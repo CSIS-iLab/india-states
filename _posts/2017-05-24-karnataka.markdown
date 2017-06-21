@@ -11,7 +11,7 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-  name: Hindu Business Line
+- name: Hindu Business Line
   url: http://www.thehindubusinessline.com/news/national/karnataka-paves-way-for-city-gas-supply/article9705963.ece
 ---
 

@@ -13,7 +13,7 @@ subsectors:
 - Power
 - Renewables
 sources:
-  name: Economic Times
+- name: Economic Times
   url: http://economictimes.indiatimes.com/news/industry/energy/power/wind-power-companies-in-shock-over-andhra-pradesh-discoms-move-to-renegotiate-ppas/articleshow/58523413.cms
 ---
 

@@ -16,7 +16,7 @@ sectors:
 subsectors:
 - Power
 sources:
-  name: Business Standard
+- name: Business Standard
   url: http://www.business-standard.com/article/economy-policy/up-cancels-costly-power-agreements-inked-by-sp-govt-117051101486_1.html
 ---
 

@@ -15,7 +15,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-  name: Livemint
+- name: Livemint
   url: http://www.livemint.com/Industry/saGIF4VEwvv38rf208tUAM/Solar-power-tariff-falls-further-to-Rs244-per-unit.html
 ---
 

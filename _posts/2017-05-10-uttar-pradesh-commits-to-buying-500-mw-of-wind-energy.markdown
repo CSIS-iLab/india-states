@@ -12,7 +12,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-  name: Hindu Business Line
+- name: Hindu Business Line
   url: http://www.thehindubusinessline.com/economy/govt-announces-2nd-round-of-wind-energy-auction-for-1000-mw/article9681635.ece
 ---
 

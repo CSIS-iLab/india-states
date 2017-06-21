@@ -12,7 +12,7 @@ sectors:
 subsectors:
 - Renewables
 sources:
-  name: Times of India
+- name: Times of India
   url: http://timesofindia.indiatimes.com/city/patna/state-signs-mou-with-centre-for-purchase-of-wind-energy/articleshow/58520764.cms
 ---
 

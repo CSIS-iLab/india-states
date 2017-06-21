@@ -33,7 +33,7 @@
 
 		<!-- Article Sources & Details -->
 		<div class="post-articleSourcesDetails">
-		    {% if post.sources and post.sources[0] != null %}
+		    {% if post.sources[0].name != null %}
 		        {% if post.sources.size > 1 %}
 		          Sources:
 		        {% else %}
@@ -44,7 +44,7 @@
 		        {% endfor %}
 		        <br />
 		    {% endif %}
-		    {% if post.details and post.details[0] != null %}
+		    {% if post.details[0].name != null %}
 				In Detail: 
 				{% for detail in post.details %}
 				    <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}

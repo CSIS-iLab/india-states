@@ -11,7 +11,7 @@ sectors:
 subsectors:
 - Power
 sources:
-  name: The Hindu
+- name: The Hindu
   url: http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/tn-power-utilities-to-get-rs-85000-crore-in-loans/article18443245.ece
 ---
 

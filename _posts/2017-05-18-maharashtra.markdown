@@ -11,7 +11,7 @@ sectors:
 subsectors:
 - Energy Efficiency
 sources:
-  name: Economic Times
+- name: Economic Times
   url: http://economictimes.indiatimes.com/news/politics-and-nation/maharashtra-government-to-give-led-bulbs-at-subsidised-rate/articleshow/58630833.cms
 ---
 

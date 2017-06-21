@@ -11,7 +11,7 @@ subsectors:
 - Coal
 - Renewables
 sources:
-  name: Business Standard
+- name: Business Standard
   url: http://smartinvestor.business-standard.com/market/Marketnews-456803-Marketnewsdet-Gujarat_drops_4_000_Mw_coal_power_project.htm#.WRA329wlHIU
 ---
 

@@ -8,7 +8,7 @@ states:
 sectors:
 - Energy
 sources:
-  name: Times of India
+- name: Times of India
   url: http://timesofindia.indiatimes.com/city/ahmedabad/gujarat-buys-power-from-open-market/articleshow/58663460.cms
 ---
 

@@ -11,7 +11,7 @@ sectors:
 subsectors:
 - Energy Efficiency
 sources:
-  name: Economic Times
+- name: Economic Times
   url: http://economictimes.indiatimes.com/news/politics-and-nation/centre-aims-at-distributing-three-crore-led-bulbs-in-tamil-nadu-eesl/articleshow/58716593.cms
 ---
 

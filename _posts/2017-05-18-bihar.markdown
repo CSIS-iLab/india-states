@@ -10,7 +10,7 @@ sectors:
 subsectors:
 - Power
 sources:
-  name: Business Standard
+- name: Business Standard
   url: http://www.business-standard.com/article/economy-policy/bihar-cm-nitish-kumar-expresses-displeasure-over-power-franchisee-model-117051100724_1.html
 ---
 

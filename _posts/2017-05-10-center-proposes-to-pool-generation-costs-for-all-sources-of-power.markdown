@@ -9,7 +9,7 @@ sectors:
 subsectors:
 - Power
 sources:
-  name: Energy Infra Post
+- name: Energy Infra Post
   url: https://energyinfrapost.com/state-power-ministers-agree-in-principal-to-ntpcs-proposal-to-pool-power-and-rationalise-tariffs/
 ---
 

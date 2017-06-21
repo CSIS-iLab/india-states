@@ -10,7 +10,7 @@ sectors:
 subsectors:
 - Power
 sources:
-  name: Economic Times
+- name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/industry-hoping-odisha-will-reconsider-hike-in-duty-on-captive-power/articleshow/58698410.cms
 ---
 

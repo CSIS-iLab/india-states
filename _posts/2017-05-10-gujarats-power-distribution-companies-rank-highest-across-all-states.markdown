@@ -11,7 +11,7 @@ sectors:
 subsectors:
 - Power
 sources:
-  name: Business Standard
+- name: Business Standard
   url: http://www.business-standard.com/article/economy-policy/gujarat-tops-in-discom-rankings-again-117050401163_1.html
 ---
 

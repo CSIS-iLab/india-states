@@ -11,7 +11,7 @@ sectors:
 subsectors:
 - Coal
 sources:
-  name: Business Standard
+- name: Business Standard
   url: http://www.business-standard.com/article/economy-policy/environment-ministry-backs-telangana-s-mega-thermal-power-push-117051800998_1.html
 ---
 

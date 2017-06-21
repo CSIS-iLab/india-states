@@ -12,7 +12,7 @@ subsectors:
 - Power
 - Renewables
 sources:
-  name: Economic Times
+- name: Economic Times
   url: http://economictimes.indiatimes.com/home/environment/global-warming/up-government-setting-up-750-megawatt-solar-plant-at-badhla/articleshow/58778104.cms
 ---
 

@@ -11,7 +11,7 @@ sectors:
 subsectors:
 - Power
 sources:
-  name: The Hindu
+- name: The Hindu
   url: http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/waste-to-energy-projects-to-be-developed-at-dumpyards/article18402939.ece
 ---
 

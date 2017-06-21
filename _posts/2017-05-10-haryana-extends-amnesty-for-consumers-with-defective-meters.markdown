@@ -11,7 +11,7 @@ sectors:
 subsectors:
 - Power
 sources:
-  name: Economic Times
+- name: Economic Times
   url: http://economictimes.indiatimes.com/news/politics-and-nation/haryana-cm-launches-vds-for-power-consumers/articleshow/58480491.cms
 ---
 
