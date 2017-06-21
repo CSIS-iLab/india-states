@@ -45,11 +45,11 @@ defaults:
     sectors: []
     subsectors: []
     sources:
-      - name:
-        url:
+    - name: 
+      url: 
     details:
-      - name:
-        url: 
+    - name: 
+      url: 
     content_type: Articles
     is_analysis: false
     breadcrumbs: articles
@@ -65,11 +65,11 @@ defaults:
     feature_image: 
     feature_image_credit: 
     sources:
-      - name:
-        url:
+    - name: 
+      url: 
     details:
-      - name:
-        url: 
+    - name: 
+      url: 
     author: []
     pdf: 
     breadcrumbs: analysis
