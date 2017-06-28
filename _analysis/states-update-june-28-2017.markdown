@@ -1,5 +1,5 @@
 ---
-title: 'States Update: June 28 2017'
+title: 'States Update: June 28, 2017'
 date: 2017-06-28 13:33:00 Z
 tags:
 - Update on India's States
