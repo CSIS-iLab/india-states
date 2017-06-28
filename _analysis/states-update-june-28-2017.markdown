@@ -1,9 +1,13 @@
 ---
 title: 'States Update: June 28 2017'
 date: 2017-06-28 13:33:00 Z
+tags:
+- Update on India's States
 excerpt: Pune announces India’s largest municipal bond issue; Indian and Chinese companies
   join to build solar panels in Gujarat; Rajasthan tenders solar power at a new record-low
   rate; the ADB will pay to skill 200,000 Odisha residents; and more.
+author:
+- Sarah Watson
 ---
 
 **Big News**
