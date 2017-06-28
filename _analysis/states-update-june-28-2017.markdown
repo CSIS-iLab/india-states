@@ -56,15 +56,13 @@ Gram panchayats (village councils) in Haryana will now be responsible for develo
 
 Madhya Pradesh launched the Madhya Pradesh Venture Finance Limited (MPVFL), which will fund a Small and Medium Enterprise Innovation Fund with a total corpus of $15.4 million. **Source:** [Inc 42](https://inc42.com/buzz/madhya-pradesh-venture-fund-mpvfl/)
 
-The Asian Development Bank will provide $275 million loan for a piped water supply project for rapidly urbanising small towns in Madhya Pradesh. The state government will provide an additional $124 million for the project, which will cover 300,000 households. **Source:** [Economic Times](http://economictimes.indiatimes.com/news/economy/finance/adb-to-provide-275-million-loan-for-water-supply-project-in-madhya-pradesh/articleshow/59233382.cms)** In Detail: **[Press Release](https://www.adb.org/news/adb-india-sign-275-million-loan-upgrading-urban-services-madhya-pradesh)
+The Asian Development Bank will provide $275 million loan for a piped water supply project for rapidly urbanising small towns in Madhya Pradesh. The state government will provide an additional $124 million for the project, which will cover 300,000 households. **Source:** [Economic Times](http://economictimes.indiatimes.com/news/economy/finance/adb-to-provide-275-million-loan-for-water-supply-project-in-madhya-pradesh/articleshow/59233382.cms) **In Detail:** [Press Release](https://www.adb.org/news/adb-india-sign-275-million-loan-upgrading-urban-services-madhya-pradesh)
 
 **Maharashtra**
 
 Pune Municipal Corporation launched India’s largest-ever municipal bonds issue to finance its 24x7 water supply project. The city looks to raise $350 million in five years. Pune’s bond issue is the first since publication of new regulations on municipal debt issues in 2015. **Source:** [Hindustan Times](http://www.hindustantimes.com/mumbai-news/india-s-biggest-municipal-bonds-programme-launched-in-maharashtra/story-VGyCPobtK0weK70Td8ZlaI.html)
 
-The state government now has the power to disqualify elected representatives to municipal corporations, councils, district councils, and other local bodies. If disqualified, a local representative will now have to file an appeal with the Maharashtra government instead of the high court.
-
-**Source:** [Hindustan Times](http://www.hindustantimes.com/mumbai-news/maharashtra-govt-now-has-power-to-disqualify-corporators/story-oaGrDSignyo891t6DCEHjM.html)
+The state government now has the power to disqualify elected representatives to municipal corporations, councils, district councils, and other local bodies. If disqualified, a local representative will now have to file an appeal with the Maharashtra government instead of the high court. **Source:** [Hindustan Times](http://www.hindustantimes.com/mumbai-news/maharashtra-govt-now-has-power-to-disqualify-corporators/story-oaGrDSignyo891t6DCEHjM.html)
 
 Maharashtra will no longer require permits for autorickshaws and taxis in cities. The state government has discontinued an order limiting the number of such vehicles allowed on the roads. **Source:** [Money control](http://www.moneycontrol.com/news/trends/current-affairs-trends/maharashtra-to-end-permit-raj-for-autos-and-taxis-2307979.html)
 
