@@ -80,7 +80,7 @@ The center approved a $570 million project to widen the Chakeri-Allahabad sectio
 
 **West Bengal**
 
-Violent communal clashes erupted near the Bangladesh border in West Bengal in response to a Facebook post. A mob ransacked a police station, burning several cars in the area, and then blockaded the road leading into the town of Baduria. Internet services in the area were turned off and the central government deployed three companies of federal forces to the area. **Source: **[Times of India](http://timesofindia.indiatimes.com/city/kolkata/heart-of-violence-under-siege/articleshow/59449731.cms), [Medianama](https://www.medianama.com/2017/07/223-internet-shutdown-west-bengal/),
+Violent communal clashes erupted near the Bangladesh border in West Bengal in response to a Facebook post. A mob ransacked a police station, burning several cars in the area, and then blockaded the road leading into the town of Baduria. Internet services in the area were turned off and the central government deployed three companies of federal forces to the area. **Source:** [Times of India](http://timesofindia.indiatimes.com/city/kolkata/heart-of-violence-under-siege/articleshow/59449731.cms), [Medianama](https://www.medianama.com/2017/07/223-internet-shutdown-west-bengal/)
 
 **Best of the Rest**
 
