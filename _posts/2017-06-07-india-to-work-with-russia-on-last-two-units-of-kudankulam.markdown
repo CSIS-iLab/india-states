@@ -1,5 +1,5 @@
 ---
-title: India to work with Russia on last two units of Kudankulam
+title: India and Russia will work together on last two units of Kudankulam
 date: 2017-06-07 13:39:00 Z
 tags:
 - Kudankulam
