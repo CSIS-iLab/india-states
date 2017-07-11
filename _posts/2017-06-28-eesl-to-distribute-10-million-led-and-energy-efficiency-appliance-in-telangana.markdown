@@ -1,5 +1,5 @@
 ---
-title: EESL to distribute 10 million LED and energy efficiency appliance in Telangana
+title: EESL to distribute 10 million LED and energy efficiency appliances in Telangana
 date: 2017-06-28 14:50:00 Z
 tags:
 - UJALA
