@@ -1,6 +1,6 @@
 ---
 title: SB Energy starts commercial operation of solar power plant in Andhra Pradesh
-date: 2017-07-11 13:51:00 Z
+date: 2017-06-14 13:51:00 Z
 tags:
 - Solar
 - SB Energy
