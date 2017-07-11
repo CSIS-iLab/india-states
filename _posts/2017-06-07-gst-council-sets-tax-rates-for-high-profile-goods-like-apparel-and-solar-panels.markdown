@@ -1,6 +1,6 @@
 ---
 title: GST Council sets tax rates for high-profile goods like apparel and solar panels
-date: 2017-05-31 13:24:00 Z
+date: 2017-06-07 13:24:00 Z
 tags:
 - GST
 - Shoes
