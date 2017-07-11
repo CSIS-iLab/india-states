@@ -1,5 +1,5 @@
 ---
-title: APGDC to work with private company for new natural gas pipeline project
+title: APGDC to work with private company on new natural gas pipeline project
 date: 2017-07-05 14:53:00 Z
 tags:
 - APGDC
