@@ -1,6 +1,6 @@
 ---
 title: China Light & Power discusses setting up of renewable energy projects in Haryana
-date: 2017-07-11 12:58:00 Z
+date: 2017-05-31 12:58:00 Z
 tags:
 - Manohar Lal Khattar
 - Jhajjar

@@ -1,7 +1,7 @@
 ---
 title: Solar-powered pumps to be sold at highly subsidized price to farmers in Madhya
   Pradesh
-date: 2017-07-11 13:03:00 Z
+date: 2017-05-31 13:03:00 Z
 tags:
 - Solar pumps
 states:
