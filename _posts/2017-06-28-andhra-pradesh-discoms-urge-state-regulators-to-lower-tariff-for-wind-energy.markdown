@@ -1,5 +1,5 @@
 ---
-title: Andhra Pradesh DISCOMs urge state regulators to lower tariff for wind energy
+title: Andhra Pradesh DISCOMs urge state regulator to lower tariff for wind energy
 date: 2017-06-28 14:35:00 Z
 tags:
 - Wind
