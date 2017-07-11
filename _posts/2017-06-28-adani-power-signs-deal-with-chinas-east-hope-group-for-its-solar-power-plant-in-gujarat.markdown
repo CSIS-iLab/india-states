@@ -1,7 +1,7 @@
 ---
-title: Adani Power signs deal with China's East Hope Group for its solar power plant
+title: Adani Group signs deal with China's East Hope Group for its solar power plant
   in Gujarat
-date: 2017-07-11 14:43:00 Z
+date: 2017-06-28 14:43:00 Z
 tags:
 - East Hope Group
 - Solar
