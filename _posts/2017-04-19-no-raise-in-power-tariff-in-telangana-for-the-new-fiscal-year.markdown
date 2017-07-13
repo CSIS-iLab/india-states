@@ -1,5 +1,5 @@
 ---
-title: No raise in power tariff in Telangana for the new fiscal year
+title: No raise in Telangana's power tariff for the new fiscal year
 date: 2017-04-19 20:47:00 Z
 tags:
 - Tariff
