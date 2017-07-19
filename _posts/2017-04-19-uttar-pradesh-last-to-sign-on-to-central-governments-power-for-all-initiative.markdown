@@ -3,6 +3,7 @@ title: Uttar Pradesh last to sign on to central government's "Power For All" ini
 date: 2017-04-19 15:11:00 Z
 tags:
 - Power for All
+- Yogi Adityanath
 states:
 - Uttar Pradesh
 - Center-State Relations
