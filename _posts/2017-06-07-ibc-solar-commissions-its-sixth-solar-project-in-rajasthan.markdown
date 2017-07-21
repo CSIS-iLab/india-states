@@ -1,6 +1,6 @@
 ---
 title: IBC Solar commissions its sixth solar project in Rajasthan
-date: 2017-07-21 14:46:00 Z
+date: 2017-06-07 14:46:00 Z
 tags:
 - IBC Solar
 - Solar
