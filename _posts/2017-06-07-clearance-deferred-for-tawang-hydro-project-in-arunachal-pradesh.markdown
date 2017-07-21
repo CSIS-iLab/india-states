@@ -1,5 +1,5 @@
 ---
-title: Clearance deferred for Tawang hydro project in Arunachal Pradesh
+title: Environment clearance deferred for Tawang hydro project in Arunachal Pradesh
 date: 2017-06-07 14:23:00 Z
 tags:
 - Tawang
