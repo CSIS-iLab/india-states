@@ -1,6 +1,6 @@
 ---
 title: Himachal Pradesh supplies its power surplus to West Bengal and the Railways
-date: 2017-07-21 14:02:00 Z
+date: 2017-05-24 14:02:00 Z
 tags:
 - Indian Railways
 states:
