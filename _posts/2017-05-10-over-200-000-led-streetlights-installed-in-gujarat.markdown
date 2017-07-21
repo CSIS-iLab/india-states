@@ -6,6 +6,7 @@ tags:
 - Street Lighting National Programme
 states:
 - Gujarat
+- Center-State Relations
 sectors:
 - Energy
 subsectors:
