@@ -46,7 +46,7 @@ Gujarat’s proposal for climate adaptation projects has been approved by the Un
 
 **Haryana**
 
-The Haryana Electricity Regulatory Commission (HERC) raised power tariffs by up to .7 cents per unit. The increase does not apply to domestic consumers with a monthly consumption of up to 150 units. **Source:** [Money control](http://www.moneycontrol.com/news/trends/current-affairs-trends/power-tariff-increased-in-haryana-opposition-slams-bjp-govt-2330489.html)
+The Haryana Electricity Regulatory Commission raised power tariffs by up to .7 cents per unit. The increase does not apply to domestic consumers with a monthly consumption of up to 150 units. **Source:** [Money control](http://www.moneycontrol.com/news/trends/current-affairs-trends/power-tariff-increased-in-haryana-opposition-slams-bjp-govt-2330489.html)
 
 Chief Minister Manohar Lal Khattar has established a 6-person cell in his office to lead efforts to raise the quality of education and skills training in the state. The cell, supported by the Dell Foundation, will work closely with the state departments of higher education, school education, technical education and skills, and industrial training. **Source:** [Indian Express](http://indianexpress.com/article/india/haryana-govt-aims-to-raise-education-quality-employability-4756898/)
 
@@ -96,8 +96,8 @@ The Government of Assam has joined hands with Invest India, the parent organizat
 
 **Nagaland**
 
-TR Zeliang was sworn in as chief minister of Nagaland after the state’s governor sacked his predecessor Shurhozelie Liezietsu. Liezietsu had failed to appear for a vote of confidence. Zeliang expanded his cabinet to 12, with nine ministers from the Naga People's Front and two from long-term ally the Bharatiya Janata Party.** Source: **[Economic Times](http://economictimes.indiatimes.com/news/politics-and-nation/nagaland-cm-tr-zeliang-expands-cabinet-with-induction-of-one-more-minister/articleshow/59733857.cms)
+TR Zeliang was sworn in as chief minister of Nagaland after the state’s governor sacked his predecessor Shurhozelie Liezietsu. Liezietsu had failed to appear for a vote of confidence. Zeliang expanded his cabinet to 12, with nine ministers from the Naga People's Front and two from long-term ally the Bharatiya Janata Party. **Source:** [Economic Times](http://economictimes.indiatimes.com/news/politics-and-nation/nagaland-cm-tr-zeliang-expands-cabinet-with-induction-of-one-more-minister/articleshow/59733857.cms)
 
 **Tripura**
 
-The Indigenous People’s Forum of Tripura, a political party that claims to represent the state’s indigenous tribal population, lifted its blockade of the state’s highways and railway after 11 days. The blockade, in support of the group’s demand for statehood, had cut off the state from the rest of the country and created shortages of essential goods.** Source: **[Scroll.in](https://scroll.in/article/844652/tripura-rail-road-blockade-ends-but-the-statehood-demand-behind-it-remains-crucial-in-poll-run-up)
+The Indigenous People’s Forum of Tripura, a political party that claims to represent the state’s indigenous tribal population, lifted its blockade of the state’s highways and railway after 11 days. The blockade, in support of the group’s demand for statehood, had cut off the state from the rest of the country and created shortages of essential goods. **Source: **[Scroll.in](https://scroll.in/article/844652/tripura-rail-road-blockade-ends-but-the-statehood-demand-behind-it-remains-crucial-in-poll-run-up)
