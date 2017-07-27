@@ -1,6 +1,6 @@
 ---
 title: Andhra Pradesh will annually save $25 million by replacing one million conventional
-  streetlight with LED
+  streetlights with LED
 date: 2017-07-26 18:31:00 Z
 tags:
 - EESL
