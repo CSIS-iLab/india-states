@@ -1,5 +1,5 @@
 ---
-title: 15,000 applications for subsidized rooftop panels received in Gujarat
+title: 15,000 applications for subsidized rooftop panels received by Gujarat government
 date: 2017-07-19 18:02:00 Z
 tags:
 - Solar Rooftop
