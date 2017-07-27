@@ -1,5 +1,5 @@
 ---
-title: Uttar Pradesh to exit all PPAs with cost above 6 cents per unit
+title: Uttar Pradesh to exit all PPAs with cost above 6 cents per unit of power
 date: 2017-07-19 18:09:00 Z
 tags:
 - PPA
