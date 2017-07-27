@@ -1,5 +1,5 @@
 ---
-title: AFD agrees to provide $91 million to Himachal Pradesh for two hydro projects
+title: AFD agrees to provide $91 million loan to Himachal Pradesh for two hydro projects
 date: 2017-07-12 17:51:00 Z
 tags:
 - Agence Française de Développement
