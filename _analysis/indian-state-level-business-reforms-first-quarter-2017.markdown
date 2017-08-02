@@ -5,9 +5,7 @@ author:
 - Richard M. Rossow
 ---
 
-**Indian State-Level Business Reforms, First Quarter 2017**
-
-Indian Prime Minister Narendra Modi has made the concept of "[competitive federalism](http://www.business-standard.com/article/news-ani/let-us-forge-a-model-of-cooperative-competitive-federalism-pm-modi-115020800351_1.html)''—encouraging states to compete to win the title of India's best-performing state—a key element of his governing philosophy. States have taken up the baton, working hard to outdo each other in governance reforms. Every three months, the CSIS Wadhwani Chair in U.S.-India Policy prepares an overview of key state-level reforms from India's twenty-nine states as well as Delhi and Puducherry (which have their own legislatures). In the first quarter of 2017, 1 January through 31 March, the total number of significant positive state-level reforms rose to 20, compared to fourteen in the fourth quarter of 2016. 
+Indian Prime Minister Narendra Modi has made the concept of "[competitive federalism](http://www.business-standard.com/article/news-ani/let-us-forge-a-model-of-cooperative-competitive-federalism-pm-modi-115020800351_1.html)''—encouraging states to compete to win the title of India's best-performing state—a key element of his governing philosophy. States have taken up the baton, working hard to outdo each other in governance reforms. Every three months, the CSIS Wadhwani Chair in U.S.-India Policy prepares an overview of key state-level reforms from India's twenty-nine states as well as Delhi and Puducherry (which have their own legislatures). In the first quarter of 2017, 1 January through 31 March, the total number of significant positive state-level reforms rose to 20, compared to fourteen in the fourth quarter of 2016.
 
 States governed by Modi's Bharatiya Janata Party (BJP) have tended to lead in terms of the number of positive business reforms, and this quarter is no different. Maharashtra heads the pack with four positive reforms. Haryana and Rajasthan are right behind, with three apiece. Andhra Pradesh, Tamil Nadu, Karnataka, West Bengal, Bihar, Madhya Pradesh, and Delhi also registered positive reforms.
 
@@ -27,7 +25,7 @@ Below, we capture the significant state-level reforms—both positive and negati
 
 * **Andhra Pradesh:** The Andhra Pradesh cabinet has decided to issue an ordinance making crucial amendments to the Right to Fair Compensation in Relief, Rehabilitation and Resettlement Act of 2013, removing the law's requirements that a social impact assessment be performed and consent of land users given before land can be seized through eminent domain.
 
-* **Maharashtra:**  The The state published the first rules related to implementing the Real Estate (Regulation and Development) Act, passed in Parliament last year. 
+* **Maharashtra:**  The The state published the first rules related to implementing the Real Estate (Regulation and Development) Act, passed in Parliament last year.
 
 * **Tamil Nadu:** The Tamil Nadu State Legislative Assembly passed a bill amending the Tamil Nadu Town and Country Planning Act, 1971 to extend the validity of planning permission from three to five years. The amendment is meant to make it easier for developers to complete large-scale products before their permissions expire.
 
@@ -72,5 +70,3 @@ Below, we capture the significant state-level reforms—both positive and negati
 **Harmful Regulations**
 
 * **Karnataka:** Ride-hailing apps Ola and Uber may have to cease operations in Karnataka after the state transport commissioner deemed them to be illegal. The state transport department ruled that the services' permits do not allow them to pick up and drop off passengers during the course of the ride but can only offer point-to-point pick-ups and drop-offs.
-
-*[Mr Richard M. Rossow](http://csis.org/expert/richard-m-rossow)* *holds the* *[Wadhwani Chair in U.S.-India Policy Studies](https://twitter.com/CSISIndiaChair)* *at* *[CSIS](https://twitter.com/CSIS). Follow him on twitter* *[@RichardRossow](https://twitter.com/RichardRossow).*
