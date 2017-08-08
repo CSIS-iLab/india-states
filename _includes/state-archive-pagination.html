@@ -34,7 +34,7 @@
 		{% for post in posts %}
 			{% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
 			{
-				"title": "{{ post.title }}",
+				"title": "{{ post.title | escape }}",
 				"states": {{ post.states | jsonify }},
 				"sectors": {{ post.sectors | jsonify }},
 				"date": new Date("{{ post.date | date_to_xmlschema }}"),

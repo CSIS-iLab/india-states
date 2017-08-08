@@ -75,7 +75,7 @@
         {% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
         {
           "id": "{{ post.title | escape | slugify }}",
-          "title": "{{ post.title }}",
+          "title": "{{ post.title | escape }}",
           "states": {{ post.states | jsonify }},
           "date": new Date("{{ post.date | date_to_xmlschema }}"),
           "postHtml": {{postHtml | strip_newlines | jsonify}}
@@ -117,7 +117,7 @@
             {% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
             {
               "id": "{{ post.title | escape | slugify }}",
-              "title": "{{ post.title }}",
+              "title": "{{ post.title | escape }}",
               "states": {{ post.states | jsonify }},
               "date": new Date("{{ post.date | date_to_xmlschema }}"),
               "postHtml": {{postHtml | strip_newlines | jsonify}}

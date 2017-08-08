@@ -34,7 +34,7 @@ layout: default
 				{% capture sectors %}[{% for sector in post.sectors %}"{{sector}}"{% unless forloop.last %},{% endunless %}{% endfor %}]{% endcapture %}
 				{% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
 				{
-					"title": "{{ post.title }}",
+					"title": "{{ post.title | escape }}",
 					"states": {{states}},
 					"sectors": {{sectors}},
 					"date": new Date("{{ post.date | date_to_xmlschema }}"),
