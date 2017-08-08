@@ -13,7 +13,7 @@ author:
 
 Bihar and Delhi legislatures begin monsoon sessions; Maharashtra launches a direct benefits transfer portal; Tamil Nadu puts new restriction on eligibility for subsidized food; Odisha is rolling out LED streetlights state-wide; states drag their feet on real estate regulation; and more.
 
-**Center**\*\* -State relations\*\*
+**Center-State Relations**
 
 The information technology systems of treasuries of seven northeastern states (excluding Nagaland) have been integrated with the center's Public Financial Management System (PFMS). The PFMS tracks fund disbursement and ensures that state treasuries are integrated with the center to ensure money is sent on schedule.  **Source:** [Economic Times](http://economictimes.indiatimes.com/news/economy/policy/it-systems-of-7-north-eastern-states-integrated-with-public-financial-management-system/articleshow/59861176.cms)
 
