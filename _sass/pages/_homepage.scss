@@ -122,6 +122,8 @@
 		}
 
 		button.btn-orange {
+			position: relative;
+			z-index: 5;
 			padding: 8px 25px 6px;
 			margin-bottom: 3rem;
 			@include fontSize(16px);
@@ -207,6 +209,7 @@
 	// Dropdown Menu
 	.home-dropdownContainer {
 		position: relative;
+		z-index: 5;
 		width: 100%;
 		margin-bottom: 1.5rem;
 
