@@ -6,7 +6,7 @@ tags:
 - Indian Railways
 - BHEL
 - Solar
-- Diesel Locomotive Modernisation Works\
+- Diesel Locomotive Modernisation Works
 states:
 - Punjab
 sectors:
