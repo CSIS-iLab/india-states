@@ -106,6 +106,7 @@
 			"weight": {
 				"position": 5
 			},
+			"authors": {{ authors }},
 			"excerpt": {{post.excerpt | jsonify | normalize_whitespace }}
 		}{% unless forloop.last %},{% endunless %}
 	{% endfor %}
