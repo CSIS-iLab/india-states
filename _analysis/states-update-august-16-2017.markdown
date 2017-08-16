@@ -8,7 +8,7 @@ excerpt: Maharashtra opens the door to round-the-clock retail; West Bengal puts 
   services with strict delivery timelines; Goa looks for energy savings in water and
   sanitation infrastructure; and more.
 author:
-- Richard M. Rossow
+- Sarah Watson
 ---
 
 **Big News**
