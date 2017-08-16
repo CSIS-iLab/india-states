@@ -23,8 +23,6 @@ Maharashtra opens the door to round-the-clock retail; West Bengal puts a key ind
 
 Chief Minister N. Chandrababu Naidu approved reforms aimed at making the government more business-friendly and guaranteeing efficient public service. The Business Reform Action Plan (BRAP) 2017 proposes 40 government services for which penalties will be imposed when government departments fail to act within a specified time limit. **Source:** [The Hindu](http://www.thehindu.com/news/cities/Vijayawada/cm-okays-industry-friendly-reforms/article19453515.ece)
 
-The state government signed a Memorandum of Understanding (MoU) with Ohio's Wright State University that will allow MS degree candidates from Andhra Pradesh to pay nearly $6,000 less per semester than other out-of-state students. The fees are still $1,000 per semester higher than in-state students pay. **Source:** [Times of India](http://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-students-can-avail-fee-concession-in-ohio-varsities/articleshow/60019349.cms)
-
 **Bihar**
 
 Chief Minister Nitish Kumar visited India's first power substation with an all-female staff. The substation, in Patna, has 11 employees led by an assistant electrical engineer and was built by Bihar State Power (Holding) Corporation Limited. **Source:** [Times of India](http://timesofindia.indiatimes.com/city/patna/darbhanga-areraj-grid-substations-opened/articleshow/60048477.cms)
@@ -93,7 +91,7 @@ The state government signed an MoU with Energy Efficiency Services Limited (EESL
 
 **Tripura**
 
-The Bharatiya Janata Party (BJP) has a presence in the Tripura Assembly for the first time ever after six former Trinamool Congress legislators joined the party. The legislators were also all former members of the Indian National Congress. Assembly elections are due in early 2018. **Source: **[Indian Express](http://indianexpress.com/article/india/bjp-enters-tripura-assembly-as-six-tmc-mlas-in-tripura-join-4786708/)
+The Bharatiya Janata Party (BJP) has a presence in the Tripura Assembly for the first time ever after six former Trinamool Congress legislators joined the party. The legislators were also all former members of the Indian National Congress. Assembly elections are due in early 2018. \*\*Source: \*\*[Indian Express](http://indianexpress.com/article/india/bjp-enters-tripura-assembly-as-six-tmc-mlas-in-tripura-join-4786708/)
 
 **Punjab**
 
