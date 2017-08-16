@@ -93,7 +93,7 @@ The state government signed an MoU with Energy Efficiency Services Limited (EESL
 
 **Tripura**
 
-The Bharatiya Janata Party (BJP) has a presence in the Tripura Assembly for the first time ever after six former Trinamool Congress legislators joined the party. The legislators were also all former members of the Indian National Congress. Assembly elections are due in early 2018.
+The Bharatiya Janata Party (BJP) has a presence in the Tripura Assembly for the first time ever after six former Trinamool Congress legislators joined the party. The legislators were also all former members of the Indian National Congress. Assembly elections are due in early 2018. **Source: **[Indian Express](http://indianexpress.com/article/india/bjp-enters-tripura-assembly-as-six-tmc-mlas-in-tripura-join-4786708/)
 
 **Punjab**
 
