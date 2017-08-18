@@ -64,6 +64,20 @@
 			padding-right: 3rem;
 		}
 
+		.isFeatured {
+			display: inline-block;
+		    background-color: $base-orange;
+		    font-family: $font__MuseoSans;
+		    @include fontSize(13px);
+		    line-height: 1.69;
+		    font-weight: bold;
+		    letter-spacing: 0.9px;
+		    color: $white;
+		    text-transform: uppercase;
+		    padding: 4px 8px;
+		    margin-bottom: 0.2rem;
+		}
+
 		.analysis {
 			margin: 0.8em auto;
 

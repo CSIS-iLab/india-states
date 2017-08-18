@@ -35,6 +35,7 @@ layout: default
 				{% capture postHtml %}{% include post-listing-post.html %}{% endcapture %}
 				{
 					"title": "{{ post.title | escape }}",
+					"is_featured": {{ post.is_featured | default: false }},
 					"states": {{states}},
 					"sectors": {{sectors}},
 					"date": new Date("{{ post.date | date_to_xmlschema }}"),

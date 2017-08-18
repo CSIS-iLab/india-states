@@ -3,6 +3,9 @@
 	<div class="post-articleContent col-xs-12 col-md-9">
 		<h4 class="articleTitle"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h4>
 		{% if post.is_analysis %}
+			{% if post.is_featured %}
+			<span class="isFeatured">Featured</span><br />
+			{% endif %}
 			{% assign authors = post.author | sort:'position' %}
 			<span class="articleMeta">By {% for author in authors %}<span class="articleAuthor">{{ author }}</span>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
 			<br />
