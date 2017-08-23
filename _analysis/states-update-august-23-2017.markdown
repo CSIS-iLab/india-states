@@ -21,17 +21,13 @@ The central government issued new guidelines for metrorail projects receiving ce
 
 The cabinet approved a scheme to refund the central goods and services tax paid by industrial units in special category states (Himachal Pradesh, Uttarakhand, Jammu &amp; Kashmir, and the North-East) until 2027. The refund scheme has budgetary support of $4.26 billion. **Source:** [Press Information Bureau](http://pib.nic.in/newsite/pmreleases.aspx?mincode=63)
 
-State-run power transmission utility Power Grid Corp today said it will get a loan of $500 million from the Asian Development Bank (ADB) for its various projects. According to the statement, the proceeds of the loan are proposed to be utilised for funding of Green Energy Corridor (Part D); 800 kilovolt (KV)  High Voltage Direct Current (HVDC) bipole link between Western Region (Raigarh, Chhattisgarh) and Southern Region (Pugalur, Tamil Nadu) and 320 KV HDVC link between Pugalur and North Trichur (Kerala).
-
-Source: [Economic Times](http://energy.economictimes.indiatimes.com/news/power/power-grid-inks-500-million-loan-pact-with-adb/60128824)
+State-run power transmission utility Power Grid Corp today said it will get a loan of $500 million from the Asian Development Bank (ADB) for its various projects. According to the statement, the proceeds of the loan are proposed to be utilised for funding of Green Energy Corridor (Part D); 800 kilovolt (KV)  High Voltage Direct Current (HVDC) bipole link between Western Region (Raigarh, Chhattisgarh) and Southern Region (Pugalur, Tamil Nadu) and 320 KV HDVC link between Pugalur and North Trichur (Kerala). **Source:** [Economic Times](http://energy.economictimes.indiatimes.com/news/power/power-grid-inks-500-million-loan-pact-with-adb/60128824)
 
 **Andhra Pradesh**
 
 The Union Environment Ministry gave environmental clearance to a new international airport in Vizianagaram district, with an estimated cost of $352 million. **Source:** [Economic Times](http://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/green-nod-to-rs-2k-crore-bhogapuram-international-airport-project-in-andhra-pradesh/articleshow/60156339.cms)
 
-Two state power distribution companies (discoms) have started accepting digital bill payments via BharatQR, becoming some of the first discoms to accept digital payments. BharatQR, launched by the Reserve Bank of India, is an interoperable payment method that accepts payments via all four major payment networks: Visa, Mastercard, RuPay, and American Express.
-
-**Source:** [Economic Times](http://economictimes.indiatimes.com/industry/energy/power/andhra-pradesh-power-companies-adopt-bharatqr/articleshow/60157027.cms)
+Two state power distribution companies (discoms) have started accepting digital bill payments via BharatQR, becoming some of the first discoms to accept digital payments. BharatQR, launched by the Reserve Bank of India, is an interoperable payment method that accepts payments via all four major payment networks: Visa, Mastercard, RuPay, and American Express. **Source:** [Economic Times](http://economictimes.indiatimes.com/industry/energy/power/andhra-pradesh-power-companies-adopt-bharatqr/articleshow/60157027.cms)
 
 **Bihar**
 
@@ -95,10 +91,10 @@ The governing Trinamool Congress (TMC) won majorities all seven local councils t
 
 The West Bengal Assembly passed a series of bills with important implications for economic development:
 
-- --The West Bengal Panchayat (Amendment) Bill, 2017, gives village councils authority to grant permits for all construction within their jurisdiction and to levy fees on all commercial permits. **Source:** [Business Standard](http://www.business-standard.com/article/current-affairs/west-bengal-assembly-passes-panchayat-bill-117081801230_1.html)
-- --The West Bengal Land Reforms (Third Amendment) Bill which offers a one-time amnesty for those who have converted land to industrial or institutional use without permission. **Source:** [Millennium Post](http://www.millenniumpost.in/kolkata/west-bengal-land-reforms-bill-passed-258113)
-- --The West Bengal Single Window System (Management, Control and Miscellaneous Provisions) Bill, 2017 creates a Single Window System for industrial clearances, as well as a new state agency, Silpa Sathi, to run the portal. **Source:** [India Today](http://indiatoday.intoday.in/story/single-window-bill-passed-to-attract-investors-in-bengal/1/1028254.html)
-- --The West Bengal Housing Industry Regulation Bill 2017 brings into effect the Real Estate (Regulation and Development) Act 2016 in West Bengal and creates the Housing Industry Regulatory Authority to monitor the industry. **Source:** [Business Standard](http://www.business-standard.com/article/pti-stories/bengal-adopts-rera-more-clarity-once-rules-comes-117081601566_1.html)
+- The West Bengal Panchayat (Amendment) Bill, 2017, gives village councils authority to grant permits for all construction within their jurisdiction and to levy fees on all commercial permits. **Source:** [Business Standard](http://www.business-standard.com/article/current-affairs/west-bengal-assembly-passes-panchayat-bill-117081801230_1.html)
+- The West Bengal Land Reforms (Third Amendment) Bill which offers a one-time amnesty for those who have converted land to industrial or institutional use without permission. **Source:** [Millennium Post](http://www.millenniumpost.in/kolkata/west-bengal-land-reforms-bill-passed-258113)
+- The West Bengal Single Window System (Management, Control and Miscellaneous Provisions) Bill, 2017 creates a Single Window System for industrial clearances, as well as a new state agency, Silpa Sathi, to run the portal. **Source:** [India Today](http://indiatoday.intoday.in/story/single-window-bill-passed-to-attract-investors-in-bengal/1/1028254.html)
+- The West Bengal Housing Industry Regulation Bill 2017 brings into effect the Real Estate (Regulation and Development) Act 2016 in West Bengal and creates the Housing Industry Regulatory Authority to monitor the industry. **Source:** [Business Standard](http://www.business-standard.com/article/pti-stories/bengal-adopts-rera-more-clarity-once-rules-comes-117081601566_1.html)
 
 **Best of the Rest**
 
