@@ -1,7 +1,7 @@
 ---
 title: Center passes bill to establish the Indian Institute of Petroleum and Energy
   in Visakhapatnam
-date: 2017-08-02 14:43:00 Z
+date: 2017-08-09 14:43:00 Z
 tags:
 - Indian Institute of Petroleum and Energy
 - Visakhapatnam
