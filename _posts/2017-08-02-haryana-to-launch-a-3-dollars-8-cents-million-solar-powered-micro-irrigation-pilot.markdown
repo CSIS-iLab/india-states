@@ -1,5 +1,5 @@
 ---
-title: Haryana to launch a $3.8 million solar-powered micro irrigation pilot
+title: Haryana to launch a $3.8 million solar powered micro irrigation pilot
 date: 2017-08-02 20:16:00 Z
 tags:
 - Solar
