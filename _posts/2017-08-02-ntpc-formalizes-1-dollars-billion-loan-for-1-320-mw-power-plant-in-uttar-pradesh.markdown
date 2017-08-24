@@ -1,6 +1,6 @@
 ---
 title: NTPC formalizes $1 billion loan for 1,320 MW power plant in Uttar Pradesh
-date: 2017-08-23 21:00:00 Z
+date: 2017-08-02 21:00:00 Z
 tags:
 - NTPC
 - Allahabad
