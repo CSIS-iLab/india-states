@@ -96,7 +96,7 @@ layout: default
         {% include post-listing-metainfo.html post=page %}
       </div>
       <div class="post-relatedPosts col-xs-12 col-md-9">
-        {% include related-posts.html %}
+        {% include related-posts.html is_analysis=page.is_analysis %}
       </div>
     </section>
   </footer>
