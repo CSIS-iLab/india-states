@@ -1,6 +1,6 @@
 ---
 title: BHEL wins order for 15 MW solar power project in Gujarat
-date: 2017-07-15 14:55:00 Z
+date: 2017-07-05 14:55:00 Z
 tags:
 - Solar
 - BHEL
