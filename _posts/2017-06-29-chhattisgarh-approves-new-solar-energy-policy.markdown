@@ -1,6 +1,6 @@
 ---
 title: Chhattisgarh approves new Solar Energy Policy
-date: 2017-08-28 14:40:00 Z
+date: 2017-06-29 14:40:00 Z
 tags:
 - Solar Policy
 - Rooftop Solar
