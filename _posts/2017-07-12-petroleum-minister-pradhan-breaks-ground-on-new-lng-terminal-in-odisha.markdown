@@ -1,5 +1,6 @@
 ---
-title: Petroleum Minister Pradhan breaks ground on new LNG terminal in Odisha
+title: Petroleum Minister Dharmendra Pradhan breaks ground on new LNG terminal in
+  Odisha
 date: 2017-07-12 19:33:00 Z
 tags:
 - Dharmendra Pradhan
