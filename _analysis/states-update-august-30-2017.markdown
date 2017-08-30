@@ -63,7 +63,7 @@ State-owned distribution companies (discoms) in Rajasthan are negotiating to red
 
 **Tamil Nadu**
 
-The two factions of the governing All India Anna Dravida Munetra Kazhagam (AIADMK) merged, bringing at least a temporary end to the political drama in Tamil Nadu following the death of former chief minister Jayalalithaa. Former chief minister Panneerselvam will be appointed party convenor and deputy chief minister, and given the finance portfolio and several other ministerial slots related to urban development. **Source:** [Economic Times](http://economictimes.indiatimes.com/news/politics-and-nation/aiadmk-factions-led-by-cm-edappadi-k-palaniswami-and-o-panneerselvam-announce-merger/articleshow/60157374.cms)
+The two factions of the governing All India Anna Dravida Munnetra Kazhagam (AIADMK) merged, bringing at least a temporary end to the political drama in Tamil Nadu following the death of former chief minister Jayalalithaa. Former chief minister Panneerselvam will be appointed party convenor and deputy chief minister, and given the finance portfolio and several other ministerial slots related to urban development. **Source:** [Economic Times](http://economictimes.indiatimes.com/news/politics-and-nation/aiadmk-factions-led-by-cm-edappadi-k-palaniswami-and-o-panneerselvam-announce-merger/articleshow/60157374.cms)
 
 **Telangana**
 
