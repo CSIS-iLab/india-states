@@ -5,7 +5,7 @@
 {% assign maxRelatedCounter = 0 %}
 
 {% if include.is_analysis %}
-  {% for post in site.analysis %}
+  {% for post in site.analysis reversed %}
 
     {% assign sameTagCount = 0 %}
 
@@ -21,7 +21,7 @@
       <article>
         <h5 class="articleTitle">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a> 
-          <span class="articleMeta">Posted on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ page.date | date: site.date_format }}</time></span>
+          <span class="articleMeta">Posted on <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ post.date | date: site.date_format }}</time></span>
       </h5>
       </article>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
@@ -31,7 +31,7 @@
     {% endif %}
   {% endfor %}
 {% else %}
-  {% for post in site.posts %}
+  {% for post in site.posts reversed %}
 
     {% assign sameTagCount = 0 %}
 
@@ -47,7 +47,7 @@
       <article>
         <h5 class="articleTitle">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a> 
-          <span class="articleMeta">Posted on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ page.date | date: site.date_format }}</time></span>
+          <span class="articleMeta">Posted on <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished" class="articleDate">{{ post.date | date: site.date_format }}</time></span>
       </h5>
       </article>
       {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}

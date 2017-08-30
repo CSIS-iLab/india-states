@@ -25,7 +25,6 @@ GEM
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
       listen (~> 3.0, < 3.1)
-    json (2.0.3)
     kramdown (1.14.0)
     liquid (4.0.0)
     listen (3.0.8)
@@ -53,11 +52,10 @@ DEPENDENCIES
   jekyll
   jekyll-feed (~> 0.6)
   jekyll-sitemap
-  json
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.3.1p112
+   ruby 2.4.0p0
 
 BUNDLED WITH
    1.14.6
