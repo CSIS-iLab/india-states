@@ -1,5 +1,5 @@
 ---
-title: Gujarat invites private thermal power producers to a reverse auction of 1,000
+title: Gujarat invites private thermal power producers to a reverse auction for 1,000
   MW of power
 date: 2017-08-16 20:12:00 Z
 tags:
