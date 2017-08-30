@@ -8,6 +8,7 @@ tags:
 - HPCL Rajasthan Refinery Limited
 states:
 - Rajasthan
+- Center-State Relations
 sectors:
 - Energy
 subsectors:
