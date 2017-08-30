@@ -13,27 +13,27 @@ author:
 
 **Big News**
 
-Haryana shut down by riots over conviction of sect leader and Mumbai shut down by rains; MNRE urges states to honor wind power contracts; Tamil Nadu&#39;s ruling party heals its split; UP threatens maximum penalties against power thieves; Haryana allows women to work at night; and more.
+Haryana shut down by riots over conviction of sect leader and Mumbai shut down by rains; MNRE urges states to honor wind power contracts; Tamil Nadu's ruling party heals its split; UP threatens maximum penalties against power thieves; Haryana allows women to work at night; and more.
 
-**Center**** -State relations**
+**Center-State relations**
 
 The Ministry of New and Renewable Energy (MNRE) has written to seven states urging them to use their powers under the Electricity Act to force electricity regulatory commissions to honor power purchase agreements (PPAs) with wind energy producers. The fall in wind energy tariffs since February has prompted many commissions to attempt to renegotiate PPAs signed when tariffs were higher. **Source:** [Economic Times](http://economictimes.indiatimes.com/industry/energy/power/states-producing-wind-energy-asked-to-ensure-regulatory-nod-for-power-purchase-agreements/articleshow/60182472.cms)
 
 **Andhra Pradesh**
 
-_Nothing critical to report this week_
+*Nothing critical to report this week*
 
 **Bihar**
 
-_Nothing critical to report this week_
+*Nothing critical to report this week*
 
 **New Delhi**
 
-Lieutenant Governor Anil Baijal approved a Delhi government proposal to take over 449 private schools -- including some of the city&#39;s most prominent -- that have failed to refund excess fees despite government orders. The proposal gives the schools two weeks to show cause why they should not be taken over by the government. Delhi had imposed school fee controls following the Sixth Pay Commission. **Source:** [Economic Times](http://economictimes.indiatimes.com/news/politics-and-nation/delhi-govts-proposal-to-take-over-449-private-unaided-schools-gets-lg-nod/articleshow/60160566.cms)
+Lieutenant Governor Anil Baijal approved a Delhi government proposal to take over 449 private schools -- including some of the city's most prominent -- that have failed to refund excess fees despite government orders. The proposal gives the schools two weeks to show cause why they should not be taken over by the government. Delhi had imposed school fee controls following the Sixth Pay Commission. **Source:** [Economic Times](http://economictimes.indiatimes.com/news/politics-and-nation/delhi-govts-proposal-to-take-over-449-private-unaided-schools-gets-lg-nod/articleshow/60160566.cms)
 
 **Gujarat**
 
-_Nothing critical to report this week_
+*Nothing critical to report this week*
 
 **Haryana**
 
@@ -45,7 +45,7 @@ Industries in Haryana can now apply for an exemption from laws preventing them f
 
 The state government unveiled its Karnataka Animation, Visual Effects, Gaming and Comics (AVGC) Policy with plans to promote Bengaluru as a global AVGC hub. **Source:** [The Hindu](http://www.thehindu.com/news/national/karnataka/karnataka-unveils-policy-to-propel-bengaluru-as-a-global-hub-in-avgc/article19545916.ece) **In Detail:** [AVGC Policy](http://www.karnataka.gov.in/bangaloreitbt/Policies/KAVG%20Policy.pdf)
 
-The state agriculture department has signed a Memorandum of Understanding (MOU) with Microsoft India to develop a unique &#39;farm price forecasting model&#39; to help farmers, administrators and other stakeholders understand market behaviour in advance. The model incorporates data on supply and demand but also on weather, rainfall, and other external factors. **Source:** [The Hindu](http://www.thehindu.com/news/national/karnataka/agri-price-forecasting-model-to-get-a-microsoft-update/article19548685.ece)
+The state agriculture department has signed a Memorandum of Understanding (MOU) with Microsoft India to develop a unique 'farm price forecasting model' to help farmers, administrators and other stakeholders understand market behaviour in advance. The model incorporates data on supply and demand but also on weather, rainfall, and other external factors. **Source:** [The Hindu](http://www.thehindu.com/news/national/karnataka/agri-price-forecasting-model-to-get-a-microsoft-update/article19548685.ece)
 
 **Madhya Pradesh**
 
@@ -55,7 +55,7 @@ Madhya Pradesh and Chhattisgarh have formed a joint venture, Kerwa Coal Limited 
 
 Mumbai was paralyzed August 28 and 29 by heavy rainfall that caused significant flooding throughout the city. Most arteries and public transportation were closed, and flights into and out of the city were delayed. **Source:** [Times of India](http://timesofindia.indiatimes.com/city/mumbai/mumbai-rains-create-chaos-poisar-river-rising-alarmingly-dahisar-overflows/articleshow/60278500.cms)
 
-The Bharatiya Janata Party (BJP) won a significant victory in elections to the Municipal Corporation of Mira-Bhayander, north of Mumbai. The BJP won 61 of the Corporation&#39;s 95 seats, nearly doubling its 2012 tally. The Shiv Sena came second with 22 seats, up from 15, and the Nationalist Congress Party went from 26 seats to none. **Source:** [Livemint](http://www.livemint.com/Politics/iD0lxkr1gEojLsSkDhHspM/BJP-sweeps-MiraBhayander-municipal-polls-continuing-Mahara.html)
+The Bharatiya Janata Party (BJP) won a significant victory in elections to the Municipal Corporation of Mira-Bhayander, north of Mumbai. The BJP won 61 of the Corporation's 95 seats, nearly doubling its 2012 tally. The Shiv Sena came second with 22 seats, up from 15, and the Nationalist Congress Party went from 26 seats to none. **Source:** [Livemint](http://www.livemint.com/Politics/iD0lxkr1gEojLsSkDhHspM/BJP-sweeps-MiraBhayander-municipal-polls-continuing-Mahara.html)
 
 **Rajasthan**
 
@@ -79,9 +79,9 @@ The Uttar Pradesh government has decided to use the stringent National Security 
 
 **West Bengal**
 
-The West Bengal cabinet approved the sale of the state&#39;s 47 percent stake in Metro Dairy Ltd to its private partner Keventer Agro Ltd for around $13.2 million. This is the first divestment from a partially state-owned enterprise under Chief Minister Mamata Banerjee. **Source:** [Livemint](http://www.livemint.com/Politics/bie7ely13iRt1gUN66mSpJ/West-Bengal-govt-plans-to-restructure-enterprises-cabinet-m.html)
+The West Bengal cabinet approved the sale of the state's 47 percent stake in Metro Dairy Ltd to its private partner Keventer Agro Ltd for around $13.2 million. This is the first divestment from a partially state-owned enterprise under Chief Minister Mamata Banerjee. **Source:** [Livemint](http://www.livemint.com/Politics/bie7ely13iRt1gUN66mSpJ/West-Bengal-govt-plans-to-restructure-enterprises-cabinet-m.html)
 
-Chief Minister Mamata Banerjee called an all-parties meeting on August 29 to discuss the situation in the state&#39;s northern hills. The area has been suffering for over two months from an indefinite strike by groups seeking a separate &#39;Gorkhaland&#39; state. **Source:** [News18](http://www.news18.com/news/politics/gorkhaland-a-matter-for-the-central-government-says-mamata-banerjee-1504391.html)
+Chief Minister Mamata Banerjee called an all-parties meeting on August 29 to discuss the situation in the state's northern hills. The area has been suffering for over two months from an indefinite strike by groups seeking a separate 'Gorkhaland' state. **Source:** [News18](http://www.news18.com/news/politics/gorkhaland-a-matter-for-the-central-government-says-mamata-banerjee-1504391.html)
 
 **Best of the Rest**
 
