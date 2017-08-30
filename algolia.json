@@ -547,6 +547,27 @@
 		
 		
 		{
+			"objectID": "bihar-cm-nitish-kumar-visits-india-s-first-power-substation-with-an-all-female-staff",
+			"title": "Bihar CM Nitish Kumar visits India&#39;s first power substation with an all-female staff",
+			"url": "/articles/bihar-cm-nitish-kumar-visits-indias-first-power-substation-with-an-all-female-staff/",
+			"content_type": "Articles",
+			"states": ["Bihar"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["BSHPCL","Nitish Kumar"],
+			"date": "August 16, 2017",
+			"posted_at": "1502913420",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Chief Minister Nitish Kumar visited India’s first power substation with an all-female staff. The substation, in Patna, has 11 employees led by an assistant electrical engineer and was built by Bihar State Power (Holding) Corporation Limited.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "world-bank-allows-india-to-move-forward-on-hydroelectric-projects-in-jammu-and-kashmir",
 			"title": "World Bank allows India to move forward on hydroelectric projects in Jammu and Kashmir",
 			"url": "/articles/world-bank-allows-india-to-move-forward-on-hydroelectric-projects-in-jammu-and-kashmir/",
@@ -1030,6 +1051,48 @@
 		
 		
 		{
+			"objectID": "punjab-removes-all-entry-taxes-on-electricity",
+			"title": "Punjab removes all entry taxes on electricity",
+			"url": "/articles/punjab-removes-all-entry-taxes-on-electricity/",
+			"content_type": "Articles",
+			"states": ["Punjab"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["PSPCL"],
+			"date": "July 19, 2017",
+			"posted_at": "1500494160",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Punjab State Power Corporation Limited (PSPCL) announced the abolition of all entry taxes on electricity from July 1, 2017. Many local governments levied a tax of .15 cents per unit on the consumption and sale of electricity.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "goa-looks-to-expand-solar-rooftop-installations-to-more-government-buildings",
+			"title": "Goa looks to expand solar rooftop installations to more government buildings",
+			"url": "/articles/goa-looks-to-expand-solar-rooftop-installations-to-more-government-buildings/",
+			"content_type": "Articles",
+			"states": ["Goa"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar Rooftop","GEDA"],
+			"date": "July 19, 2017",
+			"posted_at": "1500493980",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The state electricity department and Goa Energy Development Agency (GEDA) have conducted a preliminary study of placing rooftop solar plants on government buildings. Five government agencies currently operate rooftop solar panels.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "uttar-pradesh-to-exit-all-ppas-with-cost-above-6-cents-per-unit-of-power",
 			"title": "Uttar Pradesh to exit all PPAs with cost above 6 cents per unit of power",
 			"url": "/articles/uttar-pradesh-to-exit-all-ppas-with-cost-above-6-cents-per-unit/",
@@ -1128,6 +1191,111 @@
 				"position": 4
 			},
 			"excerpt": "<p>In conjunction with Energy Efficiency Services Ltd (EESL), Andhra Pradesh will deploy 1 million LED streetlights in seven districts of the state over the next nine months. Andhra Pradesh already has 600,000 LED streetlights. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "uttar-pradesh-to-purchase-1-500-mw-of-power-through-an-e-bidding-portal-and-open-tenders",
+			"title": "Uttar Pradesh to purchase 1,500 MW of power through an e-bidding portal and open tenders",
+			"url": "/articles/uttar-pradesh-to-purchase-1-500-mw-of-power-through-an-e-bidding-portal-and-open-tenders/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["UPPCL","E-Bidding","PPA"],
+			"date": "July 12, 2017",
+			"posted_at": "1499888640",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>In a bid to meet the high demand during the summer months, Uttar Pradesh Power Corporation (UPPCL) has signed short-term power purchase agreements with several power producers. UPPCL will purchase approximately 1,500 megawatts of power in July through an e-bidding portal and open tenders.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tripura-government-to-install-smart-electricity-meters-in-all-households-across-the-state",
+			"title": "Tripura government to install smart electricity meters in all households across the state",
+			"url": "/articles/tripura-government-to-install-smart-electricity-meters-in-all-households-across-the-state/",
+			"content_type": "Articles",
+			"states": ["Tripura"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Smart Meter","Agartala","Left Front"],
+			"date": "July 12, 2017",
+			"posted_at": "1499888400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Left Front government in Tripura has decided to install smart electricity meters in households across the state. The first phase of the rollout see at least 45,000 conventional meters replaced with smart meters in the Agartala region.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "china-based-zhuhai-yinlong-to-set-up-an-electric-vehicle-manufacturing-unit-in-amritsar",
+			"title": "China-based Zhuhai Yinlong to set up an electric vehicle manufacturing unit in Amritsar",
+			"url": "/articles/china-based-zhuhai-yinlong-to-set-up-an-electric-vehicle-manufacturing-unit-in-amritsar/",
+			"content_type": "Articles",
+			"states": ["Punjab"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy-related Transportation"],
+			"tags": ["Zhuhai Yinlong","Electric Vehicle","Amritsar"],
+			"date": "July 12, 2017",
+			"posted_at": "1499888220",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Chinese company Zhuhai Yinlong has proposed a pilot project to run electric cars and buses in Amritsar and to set up an electrical vehicle manufacturing facility in Punjab.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "petroleum-minister-dharmendra-pradhan-breaks-ground-on-new-lng-terminal-in-odisha",
+			"title": "Petroleum Minister Dharmendra Pradhan breaks ground on new LNG terminal in Odisha",
+			"url": "/articles/petroleum-minister-pradhan-breaks-ground-on-new-lng-terminal-in-odisha/",
+			"content_type": "Articles",
+			"states": ["Odisha"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["Dharmendra Pradhan","Dhamra","Bhadrak","LNG"],
+			"date": "July 12, 2017",
+			"posted_at": "1499887980",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Petroleum Minister Dharmendra Pradhan performed the ground-breaking ceremony for the $926 million, 5 million metric tonne per annum liquefied natural gas terminal at Dhamra port in Odisha’s Bhadrak district.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "goa-publishes-draft-solar-policy-for-public-comment",
+			"title": "Goa publishes draft solar policy for public comment",
+			"url": "/articles/goa-publishes-draft-solar-policy-for-public-comment/",
+			"content_type": "Articles",
+			"states": ["Goa"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","Solar Policy"],
+			"date": "July 12, 2017",
+			"posted_at": "1499887740",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The draft of Goa’s new solar energy policy was released for public comment. The policy embraces solar rooftop and net metering technology and makes it easier to designate land for large-scale solar power plants.</p>\n"
 		},
 	
 		
@@ -1240,6 +1408,27 @@
 		
 		
 		{
+			"objectID": "delhi-s-regulatory-body-announces-new-supply-code-and-performance-standards",
+			"title": "Delhi&#39;s regulatory body announces new Supply Code and Performance Standards",
+			"url": "/articles/delhis-regulatory-body-announces-new-supply-code-and-performance-standards/",
+			"content_type": "Articles",
+			"states": ["Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["DERC","Supply Code and Performance Standards"],
+			"date": "July 12, 2017",
+			"posted_at": "1499871660",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Delhi Electricity Regulatory Commission notified new Supply Code and Performance Standards under which consumers will get a compensation of $0.15 per kilowatt (kW) per hour if a power outage persists for more than two or three hours. Households with sanctioned loads of up to 20 kW are eligible for the program.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "jharkhand-offers-subsidies-for-solar-rooftop-consumers-and-industry",
 			"title": "Jharkhand offers subsidies for solar rooftop consumers and industry",
 			"url": "/articles/jharkhand-offers-subsidies-for-solar-rooftop-consumers-and-industry/",
@@ -1345,6 +1534,27 @@
 		
 		
 		{
+			"objectID": "bhel-wins-order-for-15-mw-solar-power-project-in-gujarat",
+			"title": "BHEL wins order for 15 MW solar power project in Gujarat",
+			"url": "/articles/bhel-wins-order-for-15-mw-solar-power-project-in-gujarat/",
+			"content_type": "Articles",
+			"states": ["Gujarat","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","BHEL","Gujarat Alkalies and Chemical Limited","Charanka"],
+			"date": "July 5, 2017",
+			"posted_at": "1499266500",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State-run Bharat Heavy Electricals Ltd won an order from Gujarat Alkalies and Chemical Limited for a 15 MW solar photovoltaic power plant at Gujarat Solar Park in Charanka.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "apgdc-to-work-with-private-company-on-new-natural-gas-pipeline-project",
 			"title": "APGDC to work with private company on new natural gas pipeline project",
 			"url": "/articles/apgdc-to-work-with-private-company-for-new-natural-gas-pipeline-project/",
@@ -1359,6 +1569,132 @@
 				"position": 4
 			},
 			"excerpt": "<p>The Andhra Pradesh Gas Distribution Corporation (APGDC) awarded the work order to a private company to construct the first phase of a planned coastal natural gas pipeline. The segment from Kakinada to Visakhapatnam will be the first section of two planned pipelines.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "punjab-to-freeze-power-tariff-for-industry-at-7-8-cents-per-unit",
+			"title": "Punjab to freeze power tariff for industry at 7.8 cents per unit",
+			"url": "/articles/punjab-to-freeze-power-tariff-for-industry-at-7-dot-8-cents-per-unit/",
+			"content_type": "Articles",
+			"states": ["Punjab"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Power Tariff"],
+			"date": "June 29, 2017",
+			"posted_at": "1498747980",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Punjab government announced it would freeze the power tariff for industry at 7.8 cents per unit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "punjab-to-buy-an-additional-1-000-mw-from-gujarat-power-corporation-limited",
+			"title": "Punjab to buy an additional 1,000 MW from Gujarat Power Corporation Limited",
+			"url": "/articles/punjab-to-buy-an-additional-1-000-mw-from-gujarat-power-corporation-limited/",
+			"content_type": "Articles",
+			"states": ["Punjab"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["GPCL","PSPCL","Paddy"],
+			"date": "June 29, 2017",
+			"posted_at": "1498747920",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Punjab State Power Corporation Limited (PSPCL) has contracted with the Gujarat Power Corporation Limited to buy an additional 1,000 MW of power for the next three months at 4 cents per unit. The deal will help PSPCL prevent a potential power shortfall during the paddy sowing season.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "jharkhand-s-regulatory-body-approves-increase-in-power-tariff",
+			"title": "Jharkhand&#39;s regulatory body approves increase in power tariff",
+			"url": "/articles/jharkhands-regulatory-body-approves-increase-in-power-tariff/",
+			"content_type": "Articles",
+			"states": ["Jharkhand"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["JSERC","Power Tariff"],
+			"date": "June 29, 2017",
+			"posted_at": "1498747620",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Jharkhand State Electricity Regulatory Commission approved a proposed increase in the power tariff. Consumers who use up to 200 units will pay 4 cents per unit. Higher-volume users will pay 6 cents.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "first-50-mw-unit-of-sainj-hydro-power-project-is-commissioned",
+			"title": "First 50 MW unit of Sainj Hydro Power Project is commissioned",
+			"url": "/articles/first-50-mw-unit-of-sainj-hydro-power-project-is-commissioned/",
+			"content_type": "Articles",
+			"states": ["Himachal Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Hydro","Sainj","HPPCL","Parvati-Kol Dam"],
+			"date": "June 29, 2017",
+			"posted_at": "1498747560",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The first 50 MW unit of the 100 MW Sainj Hydro Power project of Himachal Pradesh Power Corporation Limited was commissioned and synchronized with the northern grid through Parvati-Kol Dam transmission line.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "haryana-cuts-electricity-tariff-for-industrial-consumers",
+			"title": "Haryana cuts electricity tariff for industrial consumers",
+			"url": "/articles/haryana-cuts-electricity-tariff-for-industrial-consumers/",
+			"content_type": "Articles",
+			"states": ["Haryana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Tariff"],
+			"date": "June 29, 2017",
+			"posted_at": "1498747320",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Haryana will reduce the electricity tariff for industrial consumers by 1.6 cents per unit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "chhattisgarh-approves-new-solar-energy-policy",
+			"title": "Chhattisgarh approves new Solar Energy Policy",
+			"url": "/articles/chhattisgarh-approves-new-solar-energy-policy/",
+			"content_type": "Articles",
+			"states": ["Chhattisgarh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar Policy","Rooftop Solar"],
+			"date": "June 29, 2017",
+			"posted_at": "1498747200",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Chhattisgarh approved new Solar Energy Policy, valid until 2027. The policy offers grid connectivity to rooftop and small scale solar power plants up to 10 kilowatts and exempts captive solar power producers from electricity taxes.</p>\n"
 		},
 	
 		
@@ -1534,6 +1870,69 @@
 		
 		
 		{
+			"objectID": "adani-group-commissions-50-mw-solar-plant-in-uttar-pradesh",
+			"title": "Adani Group commissions 50 MW solar plant in Uttar Pradesh",
+			"url": "/articles/adani-group-commissions-50-mw-solar-plant-in-uttar-pradesh/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","Mahoba","National Solar Mission Scheme","Adani Group"],
+			"date": "June 21, 2017",
+			"posted_at": "1498055760",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Adani Group announced it had commissioned a 50 MW solar plant in Mahoba under the National Solar Mission Scheme. Adani made an initial investment of $48.8 million.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "chhattisgarh-cuts-power-tariff-for-the-steel-industry",
+			"title": "Chhattisgarh cuts power tariff for the steel industry",
+			"url": "/articles/chhattisgarh-cuts-power-tariff-for-the-steel-industry/",
+			"content_type": "Articles",
+			"states": ["Chhattisgarh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": ["Tariff","Steel"],
+			"date": "June 21, 2017",
+			"posted_at": "1498055640",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Chhattisgarh cut power tariffs for the steel industry by 2 cents, to 7.1 cents per unit. Industry applauded the move as making Chhattisgarh steel producers more competitive with those in other states.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "azure-power-commissions-100-mw-solar-power-plant-in-andhra-pradesh",
+			"title": "Azure Power commissions 100 MW solar power plant in Andhra Pradesh",
+			"url": "/articles/azure-power-commissions-100-mw-solar-power-plant-in-andhra-pradesh/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": ["Solar","Azure Power","NTPC"],
+			"date": "June 21, 2017",
+			"posted_at": "1498055520",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Azure Power has commissioned a 100 MW solar power plant in Andhra Pradesh. Azure Power will supply power to NTPC for 25 years at a tariff of $0.08.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "tamil-nadu-s-latest-solar-power-tender-receives-overwhelming-response-from-40-developers",
 			"title": "Tamil Nadu&#39;s latest solar power tender receives overwhelming response from 40 developers",
 			"url": "/articles/tamil-nadus-latest-solar-power-tender-receives-overwhelming-response-from-40-developers/",
@@ -1590,6 +1989,27 @@
 				"position": 4
 			},
 			"excerpt": "<p>Solar power projects will be exempt from interstate transmission charges until the end of 2019. The decision will lower the cost of using solar power from another state by 1 to 4 cents per kilowatt hour (kWh).</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "pm-ujjwala-yojana-launched-in-himachal-pradesh",
+			"title": "PM Ujjwala Yojana launched in Himachal Pradesh",
+			"url": "/articles/pm-ujjwala-yojana-launched-in-himachal-pradesh/",
+			"content_type": "Articles",
+			"states": ["Himachal Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": ["LPG","PM Ujjwala Yojana","Dharmendra Pradhan"],
+			"date": "June 14, 2017",
+			"posted_at": "1497450600",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Union Petroleum Minister Dharmendra Pradhan launched the Pradhan Mantri Ujjwala Yojana in Himachal Pradesh. The program provides free LPG connections to below poverty line households.</p>\n"
 		},
 	
 		
@@ -3893,7 +4313,7 @@
 			"states": ["Delhi"],
 			"sectors": ["Energy"],
 			"subsectors": ["Renewables"],
-			"tags": ["Solar","Rooftop"],
+			"tags": ["Solar","Solar Rooftop"],
 			"date": "April 12, 2017",
 			"posted_at": "1491955200",
 			"weight": {
@@ -5104,14 +5524,14 @@
 		
 		
 		{
-			"objectID": "50-mw-of-solar-added-in-allahabad",
-			"title": "50 MW of solar added in Allahabad",
+			"objectID": "50-mw-of-solar-power-added-in-allahabad",
+			"title": "50 MW of solar power added in Allahabad",
 			"url": "/articles/50-mw-of-solar-added-in-allahabad/",
 			"content_type": "Articles",
 			"states": ["Uttar Pradesh"],
 			"sectors": ["Energy"],
 			"subsectors": ["Renewables"],
-			"tags": ["UPNEDA","Allahabad","Rooftop"],
+			"tags": ["UPNEDA","Allahabad","Solar Rooftop"],
 			"date": "March 29, 2017",
 			"posted_at": "1490745600",
 			"weight": {
