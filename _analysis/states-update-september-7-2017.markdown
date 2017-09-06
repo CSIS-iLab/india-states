@@ -22,7 +22,7 @@ A new report by the National Institute of Public Finance and Policy expressed co
 
 The Ministry of Housing and Urban Affairs sanctioned 120,894 more affordable houses for Andhra Pradesh under the Pradhan Mantri Awas Yojana, the central home-building scheme. **Source:** [Money control](http://www.moneycontrol.com/news/business/real-estate/andhra-pradesh-gets-largest-share-of-affordable-houses-sanctioned-by-govt-2371541.html)
 
-The Andhra Pradesh Transmission Company (APTransco) hosted a workshop on the development of a state-level energy scenario generator, the first ever such modeling tool for a sub-national entity. Funded by the British High Commission and led by the Federation of Indian Chambers of Commerce and Industry and NITI Aayog, the scenario generator allows the user to model the state’s energy future according to different inputs. Scenario generators for Assam and Gujarat are also in the works. **Source: **[Deccan Chronicle](http://www.deccanchronicle.com/nation/current-affairs/310817/andhra-pradesh-workshop-on-energy-calculator.html)
+The Andhra Pradesh Transmission Company (APTransco) hosted a workshop on the development of a state-level energy scenario generator, the first ever such modeling tool for a sub-national entity. Funded by the British High Commission and led by the Federation of Indian Chambers of Commerce and Industry and NITI Aayog, the scenario generator allows the user to model the state’s energy future according to different inputs. Scenario generators for Assam and Gujarat are also in the works. **Source:** [Deccan Chronicle](http://www.deccanchronicle.com/nation/current-affairs/310817/andhra-pradesh-workshop-on-energy-calculator.html)
 
 **Bihar**
 
