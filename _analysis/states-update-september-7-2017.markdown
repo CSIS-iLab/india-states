@@ -54,11 +54,11 @@ Karnataka has selected the state’s 100 most innovative start-ups following a f
 Waterhouse Cooper, and banking services from YES Bank & Kotak Bank. **Source:** [Economic
 Times](http://economictimes.indiatimes.com/small-biz/startups/karnataka-picks-up-100-most-innovative-startups-to-give-rs-35-cr-in-funding/articleshow/60294651.cms), [Business Standard](http://www.business-standard.com/article/news-ani/digitalocean-signs-mou-with-karnataka-government-to-empower-startups-117090100661_1.html)
 
-The Karnataka Cabinet approved the rollout of an Aadhaar-linked universal health coverage program from November 1. The new initiative will merge seven existing programs into a single health system covering 14 million households at a cost of $135 million per year. **Source: **[Hindu Business Line](http://www.thehindubusinessline.com/news/national/karnataka-to-roll-out-aadhaarlinked-universal-health-coverage-on-nov-1/article9833796.ece)
+The Karnataka Cabinet approved the rollout of an Aadhaar-linked universal health coverage program from November 1. The new initiative will merge seven existing programs into a single health system covering 14 million households at a cost of $135 million per year. **Source:** [Hindu Business Line](http://www.thehindubusinessline.com/news/national/karnataka-to-roll-out-aadhaarlinked-universal-health-coverage-on-nov-1/article9833796.ece)
 
 **Madhya Pradesh**
 
-Madhya Pradesh government launched a new program to combat price risks in agriculture by compensating farmers for distress sales below the national minimum support price (MSP). Compensation will be based on the gap between the MSP and a ‘modal price’—the average price for the crop in Madhya Pradesh and two other states over the preceding two months—and farmers who sell below the modal price will not receive full compensation. The scheme will begin by covering eight crops, mostly oilseeds and pulses, where government  procurement is typically low. **Source: **[Livemint](http://www.livemint.com/Politics/uDdclMv4VKUhGvpSEqtmqL/Madhya-Pradesh-launches-new-farm-scheme-to-hedge-price-risks.html)
+Madhya Pradesh government launched a new program to combat price risks in agriculture by compensating farmers for distress sales below the national minimum support price (MSP). Compensation will be based on the gap between the MSP and a ‘modal price’—the average price for the crop in Madhya Pradesh and two other states over the preceding two months—and farmers who sell below the modal price will not receive full compensation. The scheme will begin by covering eight crops, mostly oilseeds and pulses, where government  procurement is typically low. **Source:** [Livemint](http://www.livemint.com/Politics/uDdclMv4VKUhGvpSEqtmqL/Madhya-Pradesh-launches-new-farm-scheme-to-hedge-price-risks.html)
 
 Arinsun Clean Energy Private Limited will develop a 250 MW solar park at a cost of $200 million at the Rewa Ultra Mega Solar Park in Madhya Pradesh with financial support from the International Finance Corporation. **Source:** [Business Standard](http://www.business-standard.com/article/companies/arinsun-clean-energy-to-develop-250-mw-solar-park-in-mp-for-200-mn-117082900164_1.html)
 
@@ -80,7 +80,7 @@ Tamil Nadu’s 500 MW wind energy auction, the first ever conducted by an Indian
 
 **Telangana**
 
-The Telangana State Electricity Regulatory Commission released the retail power tariff order for 2017-18. The new order makes no change in tariffs for the domestic, commercial, or industrial sectors. **Source: **[The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-telangana/retail-power-supply-tariff-from-sept-1/article19585127.ece)
+The Telangana State Electricity Regulatory Commission released the retail power tariff order for 2017-18. The new order makes no change in tariffs for the domestic, commercial, or industrial sectors. **Source:** [The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-telangana/retail-power-supply-tariff-from-sept-1/article19585127.ece)
 
 **Uttar Pradesh**
 
