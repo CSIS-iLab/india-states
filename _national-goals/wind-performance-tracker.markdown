@@ -6,6 +6,7 @@ sectors:
 subsectors: Renewables
 data_source: wind-performance-tracker
 data_label: MW
+data_missing_message: There is no data available for
 map:
   description: Eight Indian states has been assigned a wind power capacity target
     that they need to achieve in order for India as a whole to reach 60 GW of solar
