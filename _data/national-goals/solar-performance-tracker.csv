@@ -1,37 +1,37 @@
 state,national_contribution,state_target,state_achieved,state_percentage
-Andaman and Nicobar Islands,0.03,27,5.4,20
-Andhra Pradesh,9.88,9834,979.65,9.96
+Andaman and Nicobar Islands,0.05,27,5.40,20
+Andhra Pradesh,9.88,9834,2048.82,20.83
 Arunachal Pradesh,0.04,39,0.27,0.69
 Assam,0.67,663,11.18,1.69
-Bihar,2.5,2493,95.91,3.85
-Chandigarh,0.15,153,16.2,10.59
+Bihar,2.50,2493,95.91,3.85
+Chandigarh,0.15,153,16.20,10.59
 Chhattisgarh,1.79,1783,135.19,7.58
-Dadra and Nagar Haveli,0.45,449,0.6,0.13
-Daman and Diu,0.2,199,4,2.01
-Delhi,2.77,2762,38.78,1.4
+Dadra and Nagar Haveli,0.45,449,0.60,0.13
+Daman and Diu,0.20,199,4.00,2.01
+Delhi,2.77,2762,38.78,1.40
 Goa,0.36,358,0.05,0.01
-Gujarat,8.06,8020,1159.76,14.46
+Gujarat,8.06,8020,1262.1,15.74
 Haryana,4.16,4142,73.27,1.77
 Himachal Pradesh,0.78,776,0.33,0.04
-Jammu and Kashmir,1.16,1155,1,0.09
-Jharkhand,2,1995,17.51,0.88
-Karnataka,5.72,5697,341.93,6
+Jammu and Kashmir,1.16,1155,1.00,0.09
+Jharkhand,2.00,1995,17.51,0.88
+Karnataka,5.72,5697,1260.58,22.13
 Kerala,1.88,1870,15.86,0.85
-Lakshwadeep,0,4,0.75,18.75
-Madhya Pradesh,5.7,5675,850.35,14.98
+Lakshwadeep,0.00,4,0.75,18.75
+Madhya Pradesh,5.70,5675,1116.64,19.68
 Maharashtra,11.98,11926,430.46,3.61
 Manipur,0.11,105,0.01,0.01
 Meghalaya,0.16,161,0.01,0.01
-Mizoram,0.07,72,0.1,0.14
-Nagaland,0.06,61,0.5,0.82
+Mizoram,0.07,72,0.10,0.14
+Nagaland,0.06,61,0.50,0.82
 Odisha,2.39,2377,77.64,3.27
 Puducherry,0.25,246,0.03,0.01
 Punjab,4.79,4772,592.35,12.41
-Rajasthan,5.79,5762,1317.64,22.87
+Rajasthan,5.79,5762,2022.72,35.10
 Sikkim,0.04,36,0.01,0.03
-Tamil Nadu,8.93,8884,1590.97,17.91
-Telangana,,,,
+Tamil Nadu,8.93,8884,1697.32,19.11
+Telangana,0.00,,1609.27,
 Tripura,0.11,105,5.02,4.78
 Uttar Pradesh,10.75,10697,269.26,2.52
-Uttarakhand,0.9,900,45.1,5.01
+Uttarakhand,0.90,900,45.10,5.01
 West Bengal,5.36,5336,23.07,0.43
