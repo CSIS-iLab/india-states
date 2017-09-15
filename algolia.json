@@ -527,6 +527,20 @@
 	,
 	
 		{
+			"objectID": "wind-performance-tracker",
+			"title": "Wind Performance Tracker",
+			"url": "/national-goals/wind-performance-tracker/",
+			"content_type": "National Goal",
+			"sectors": "Energy",
+			"subsectors": "Renewables",
+			"posted_at": 0,
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>In 2014, Prime Minister Narendra Modi set a goal of reaching 60 GW of wind power generation capacity by 2022. In order to achieve this ambitious target, eight state governments were identified to increase their rate of wind capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each of these eight states a wind capacity target. The Indian States Wind Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.</p>\n"
+		},
+	
+		{
 			"objectID": "solar-performance-tracker",
 			"title": "Solar Performance Tracker",
 			"url": "/national-goals/solar-performance-tracker/",
