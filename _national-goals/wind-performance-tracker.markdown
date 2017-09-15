@@ -26,7 +26,8 @@ sources:
 - name: 'Ministry of New and Renewable Energy: State-wise percentage of wind potential
     utilized'
   url: http://mnre.gov.in/file-manager/UserFiles/State-wise-wind-power-potential-utilized.pdf
-- name: 'Ministry of New and Renewable Energy: State-wise breakup of wind targets to be achieved by 2022'
+- name: 'Ministry of New and Renewable Energy: State-wise breakup of wind targets
+    to be achieved by 2022'
   url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
 ---
 
