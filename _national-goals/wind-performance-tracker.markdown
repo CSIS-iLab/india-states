@@ -7,7 +7,7 @@ subsectors: Renewables
 data_label: MW
 map:
   description: Eight Indian states has been assigned a wind power capacity target
-    that it needs to achieve in order for India as a whole to reach 60 GW of solar
+    that they need to achieve in order for India as a whole to reach 60 GW of solar
     power by 2022. State targets are based on their potential to produce wind power,
     including land area, geographical location and achievable wind velocity, and thus
     vary widely. This map represents state wind capacity target as a percentage of
