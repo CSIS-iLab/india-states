@@ -23,13 +23,11 @@ progressbars:
     This chart tracks the progress each state has made towards reaching its own target for wind power capacity.
 last_updated_at: 2016-03-31 00:00:00 Z
 sources:
-  name: 'Ministry of New and Renewable Energy: State-wise percentage of wind potential
-    utilized
-
-'
-  url: 'http://mnre.gov.in/file-manager/UserFiles/State-wise-wind-power-potential-utilized.pdf
-
-'
+- name: 'Ministry of New and Renewable Energy: State-wise percentage of wind potential
+    utilized'
+  url: http://mnre.gov.in/file-manager/UserFiles/State-wise-wind-power-potential-utilized.pdf
+- name: 'Ministry of New and Renewable Energy: State-wise breakup of wind targets to be achieved by 2022'
+  url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
 ---
 
 In 2014, Prime Minister Narendra Modi set a goal of reaching 60 GW of wind power generation capacity by 2022. In order to achieve this ambitious target, eight state governments were identified to increase their rate of wind capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each of these eight states a wind capacity target. The Indian States Wind Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.

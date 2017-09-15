@@ -72,7 +72,10 @@ $(function () {
       floating: false,
       layout: 'horizontal',
       symbolRadius: 0,
-      symbolHeight: 14
+      symbolHeight: 14,
+      itemStyle: {
+        textOverflow: 'none'
+      }
     },
     colorAxis: {
       minColor: '#ffdec3',
@@ -82,7 +85,8 @@ $(function () {
       min: {{ minimum }},
       max: {{ maximum }},
       labels: {
-        format: "{value}{{ page.map.value_suffix }}"
+        format: "{value}{{ page.map.value_suffix }}",
+        overflow: undefined
       }
     },
     series: [{
