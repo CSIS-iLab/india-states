@@ -1,8 +1,7 @@
 ---
 title: Wind Performance Tracker
 date: 2017-09-15 12:55:00 Z
-sectors:
-- Energy
+sectors: Energy
 subsectors: Renewables
 data_source: wind-performance-tracker
 data_label: MW
