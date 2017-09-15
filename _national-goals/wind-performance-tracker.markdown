@@ -4,6 +4,7 @@ date: 2017-09-15 12:55:00 Z
 sectors:
 - Energy
 subsectors: Renewables
+data_source: wind-performance-tracker
 data_label: MW
 map:
   description: Eight Indian states has been assigned a wind power capacity target
@@ -19,6 +20,7 @@ progressbars:
     The eight states that have been assigned wind power capacity targets are Andhra Pradesh, Gujarat, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, Tamil Nadu and Telangana.
 
     This chart tracks the progress each state has made towards reaching its own target for wind power capacity.
+last_updated_at: 2016-03-31 00:00:00 Z
 sources:
   name: 'Ministry of New and Renewable Energy: State-wise percentage of wind potential
     utilized
