@@ -6651,8 +6651,8 @@
 		
 		
 		{
-			"objectID": "idfc-approves-100-million-loan-to-a-solar-power-project-in-rajasthan",
-			"title": "IDFC approves $100 million loan to a solar power project in Rajasthan",
+			"objectID": "idfc-approves-100-million-loan-for-a-solar-power-project-in-rajasthan",
+			"title": "IDFC approves $100 million loan for a solar power project in Rajasthan",
 			"url": "/articles/idfc-approves-100-million-loan-to-a-solar-power-project-in-rajasthan/",
 			"content_type": "Articles",
 			"states": ["Rajasthan"],
@@ -6861,8 +6861,8 @@
 		
 		
 		{
-			"objectID": "rjasathan-announces-relief-from-power-tariffs-for-farmers",
-			"title": "Rjasathan announces relief from power tariffs for farmers",
+			"objectID": "rajasthan-announces-relief-from-power-tariffs-for-farmers",
+			"title": "Rajasthan announces relief from power tariffs for farmers",
 			"url": "/articles/rjasathan-announces-relief-from-power-tariffs-for-farmers/",
 			"content_type": "Articles",
 			"states": ["Rajasthan"],
@@ -12853,6 +12853,29 @@
 			},
 			"authors": ["Sarah Watson"],
 			"excerpt": "Assam passes a critical labor-law reform; MNRE imposes stiff penalties on states seeking to renege on solar PPAs; Karnataka makes many schools free for female students; Rajasthan experiments with privatization of public schools; Nagaland will use DBT for workfare payments; and more."
+		},
+	
+		
+		
+		
+		
+		
+		{
+			"objectID": "states-update-september-20-2017",
+			"title": "States Update: September 20, 2017",
+			"url": "/analysis/states-update-september-20-2017/",
+			"content_type": "Analysis",
+			"states": [],
+			"sectors": [],
+			"subsectors": [],
+			"tags": ["Update on India's States"],
+			"date": "September 20, 2017",
+			"posted_at": "1505927460",
+			"weight": {
+				"position": 5
+			},
+			"authors": ["Sarah Watson"],
+			"excerpt": "Haryana, Goa, and Bihar announce IT and startup policies, while Karnataka releases an electric vehicle policy; Rajasthan becomes the latest state to announce a loan waiver; Assam will require government employees to care for parents and disabled siblings; and more."
 		}
 	
 ]
