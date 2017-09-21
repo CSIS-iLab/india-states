@@ -1,5 +1,5 @@
 ---
-title: Madhya Pradesh and Chhattisgarh to jointly explore coal block in Chhattisgarh
+title: Madhya Pradesh and Chhattisgarh to jointly new coal block in Korba
 date: 2017-08-30 20:14:00 Z
 states:
 - Madhya Pradesh
