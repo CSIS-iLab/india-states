@@ -1,5 +1,5 @@
 ---
-title: TS-Genco to retire eight outmoded thermal units
+title: Telangana to retire eight outmoded thermal units
 date: 2017-08-30 20:17:00 Z
 states:
 - Telangana
