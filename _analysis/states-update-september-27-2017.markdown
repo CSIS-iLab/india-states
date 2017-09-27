@@ -88,4 +88,4 @@ The Manipur government has been using tough measures to prevent Rohingya refugee
 
 **Meghalaya**
 
-Six months after joining the center&#39;s bailout scheme for debt-laden state distribution companies, the Meghalaya cabinet agreed to float a $123 million bond on behalf of the Meghalaya Energy Corporation (MEC). The bond will allow MEC to pay back current loans that have a high rate of interest. Source: [North East Today](https://www.northeasttoday.in/meghalaya-cabinet-approves-meecl-proposal-to-raise-bond-of-rs-800-cr/)
+Six months after joining the center&#39;s bailout scheme for debt-laden state distribution companies, the Meghalaya cabinet agreed to float a $123 million bond on behalf of the Meghalaya Energy Corporation (MEC). The bond will allow MEC to pay back current loans that have a high rate of interest. **Source:** [North East Today](https://www.northeasttoday.in/meghalaya-cabinet-approves-meecl-proposal-to-raise-bond-of-rs-800-cr/)
