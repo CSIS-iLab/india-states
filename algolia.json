@@ -10095,27 +10095,6 @@
 		
 		
 		{
-			"objectID": "abb-successfully-commissions-five-substations-for-648-mw-solar-power-project-in-tamil-nadu",
-			"title": "ABB successfully commissions five substations for 648 MW solar power project in Tamil Nadu",
-			"url": "/articles/abb-successfully-commissions-five-substations-for-648-mw-solar-power-project-in-tamil-nadu/",
-			"content_type": "Articles",
-			"states": ["Tamil Nadu"],
-			"sectors": ["Energy"],
-			"subsectors": ["Renewables"],
-			"tags": ["ABB","Solar","Adani"],
-			"date": "June 22, 2016",
-			"posted_at": "1466553600",
-			"weight": {
-				"position": 4
-			},
-			"excerpt": "\n"
-		},
-	
-		
-		
-		
-		
-		{
 			"objectID": "tamil-nadu-has-the-largest-energy-surplus-in-the-country",
 			"title": "Tamil Nadu has the largest energy surplus in the country",
 			"url": "/articles/tamil-nadu-has-the-largest-energy-surplus-in-the-country/",
@@ -13191,6 +13170,29 @@
 			},
 			"authors": ["Sarah Watson"],
 			"excerpt": "Haryana, Goa, and Bihar announce IT and startup policies, while Karnataka releases an electric vehicle policy; Rajasthan becomes the latest state to announce a loan waiver; Assam will require government employees to care for parents and disabled siblings; and more."
+		},
+	
+		
+		
+		
+		
+		
+		{
+			"objectID": "states-update-september-27-2017",
+			"title": "States Update: September 27, 2017",
+			"url": "/analysis/states-update-september-27-2017/",
+			"content_type": "Analysis",
+			"states": [],
+			"sectors": [],
+			"subsectors": [],
+			"tags": ["Update on India's States"],
+			"date": "September 27, 2017",
+			"posted_at": "1506518820",
+			"weight": {
+				"position": 5
+			},
+			"authors": ["Sarah Watson"],
+			"excerpt": "Assam imposes a two-child policy on government employees; Manipur cracks down on Rohingya refugees; Meghalaya issues its first UDAY loan; Delhi Metro tests driverless trains; Maharashtra signs on for port modernization; and more."
 		}
 	
 ]
