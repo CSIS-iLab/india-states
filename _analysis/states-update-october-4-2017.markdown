@@ -36,21 +36,7 @@ The Delhi government has formulated a new parking policy that raises fees for st
 
 With state elections due before the end of the year, the Gujarat government announced the creation up of a body to promote the economic development of communities that do not benefit from public sector job and education quotas. The move comes as a result of mass agitation by the Patidar community, which will be a primary focus of the new agency. **Source:** [The Hindu](http://www.thehindu.com/news/national/other-states/gujarat-forms-body-to-help-patidars/article19764668.ece)
 
-JSW Energy, a part of the
-#
-[ANNOTATION:
-
-BY &#39;Sarah Watson&#39;
-ON &#39;2017-10-03T13:41:00&#39;SW
-NOTE: &#39;I think it used to stand for something, but a quick look at their corporate website suggests that JSW is now the primary name of the company.&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;JDB&#39;
-ON &#39;2017-10-03T13:35:00&#39;J
-NOTE: &#39;Does this stand for anything? Or is it just their name? &#39;]
-JSW group, signed a memorandum of understanding (MOU) with the Gujarat government to set up a production facility for electric vehicles, vehicle batteries, and other energy solutions outside Surendranagar. **Source:** [Economic Times](http://energy.economictimes.indiatimes.com/news/power/gujarat-ignites-aim-to-be-hub-of-electric-and-hybrid-vehicles/60870999)
+JSW Energy, a part of the JSW group, signed a memorandum of understanding (MOU) with the Gujarat government to set up a production facility for electric vehicles, vehicle batteries, and other energy solutions outside Surendranagar. **Source:** [Economic Times](http://energy.economictimes.indiatimes.com/news/power/gujarat-ignites-aim-to-be-hub-of-electric-and-hybrid-vehicles/60870999)
 
 **Haryana**
 
@@ -62,21 +48,7 @@ JBM Group said it has signed an agreement with the Haryana government to build a
 
 **Karnataka**
 
-The Karnataka cabinet cleared the Karnataka Prevention and Eradication of Inhuman Evil Practices and
-#
-[ANNOTATION:
-
-BY &#39;Sarah Watson&#39;
-ON &#39;2017-10-03T13:42:00&#39;SW
-NOTE: &#39;Well it hasn&#39;t passed the assembly yet! Also they&#39;re really banning people pretending to be doing black magic….No one would dare anger true practitioners :)&#39;]
-
-#
-[ANNOTATION:
-
-BY &#39;JDB&#39;
-ON &#39;2017-10-03T13:36:00&#39;J
-NOTE: &#39;How is this not big news? **Karnataka bans BLACK MAGIC**!!!!   &#39;]
-Black Magic Bill 2017, which makes it illegal to practice a wide variety of superstitious practices deemed exploitative of the state&#39;s lower caste population, such as false medicine, exorcisms, and social bans. Maharashtra passed the Black Magic Prevention and Prohibition of Exploiting Practices Bill in December 2013. **Source:** [Livemint](http://www.livemint.com/Politics/ghDnH5fZSpFaxzXEYi9uGL/Karnataka-cabinet-clears-antisuperstition-bill.html)
+The Karnataka cabinet cleared the Karnataka Prevention and Eradication of Inhuman Evil Practices and Black Magic Bill 2017, which makes it illegal to practice a wide variety of superstitious practices deemed exploitative of the state&#39;s lower caste population, such as false medicine, exorcisms, and social bans. Maharashtra passed the Black Magic Prevention and Prohibition of Exploiting Practices Bill in December 2013. **Source:** [Livemint](http://www.livemint.com/Politics/ghDnH5fZSpFaxzXEYi9uGL/Karnataka-cabinet-clears-antisuperstition-bill.html)
 
 The cabinet approved a new biotechnology policy for the years 2017-22. The policy uses $4 million in fiscal incentives and subsidies to encourage growth in the capital-intensive sector. **Source:** [The Hindu](http://www.thehindu.com/news/national/karnataka/new-biotech-policy-for-2017-22-gets-nod/article19764466.ece)
 
