@@ -1,6 +1,6 @@
 ---
-title: Tata Power Delhi Distribution Limited and Landis+Gyr to install 250,000 meters
-  across Delhi
+title: Tata Power Delhi Distribution Limited and Landis+Gyr to install 250,000 smart
+  meters across Delhi
 date: 2017-09-13 16:33:00 Z
 tags:
 - Tata Power-DDL
