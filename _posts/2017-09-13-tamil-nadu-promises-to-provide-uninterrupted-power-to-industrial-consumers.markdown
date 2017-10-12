@@ -1,5 +1,5 @@
 ---
-title: Tamil Nadu promises to provide uninterrupted power to industrial consumers
+title: Tamil Nadu promises to provide uninterrupted power supply to industrial consumers
 date: 2017-09-13 16:36:00 Z
 states:
 - Tamil Nadu
