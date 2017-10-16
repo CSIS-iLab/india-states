@@ -22,7 +22,7 @@ The center created a committee responsible for proper management of water resour
 
 **Andhra Pradesh**
 
-Mastercard signed an agreement with the government of Andhra Pradesh to create multiple digital payment platforms and a center for excellence in order to enhance financial and digital literacy across the state. Source: [News 18](http://www.news18.com/news/tech/mastercard-ap-sign-pact-to-create-digital-ecosystem-in-state-1537545.html)
+Mastercard signed an agreement with the government of Andhra Pradesh to create multiple digital payment platforms and a center for excellence in order to enhance financial and digital literacy across the state. **Source:** [News 18](http://www.news18.com/news/tech/mastercard-ap-sign-pact-to-create-digital-ecosystem-in-state-1537545.html)
 
 The Andhra Pradesh government inaugurated the construction of 100,000 houses across the state NTR Housing Scheme (NTRHS). Under the NTRHS, the Andhra Pradesh government has undertaken the construction of 1.7 million houses costing the state and center $7.4 billion. **Source:** [The Hindu](http://www.thehindu.com/news/national/andhra-pradesh/state-conducts-house-warming-ceremony-for-1-lakh-dwellings/article19787468.ece)
 
@@ -30,7 +30,7 @@ A foundation stone was laid for the first phase of the 1,796 mile National Water
 
 **Bihar**
 
-The Bihar state cabinet has approved an initiative for creating a roadmap for the agriculture sector in the state. The roadmap will include new initiatives over the next five years for which $23.6 billion has been earmarked. **Source: **[Economic Times](http://economictimes.indiatimes.com/news/politics-and-nation/bihar-government-approves-an-ambitious-agriculture-road-map/articleshow/60928531.cms)
+The Bihar state cabinet has approved an initiative for creating a roadmap for the agriculture sector in the state. The roadmap will include new initiatives over the next five years for which $23.6 billion has been earmarked. **Source:  **[Economic Times](http://economictimes.indiatimes.com/news/politics-and-nation/bihar-government-approves-an-ambitious-agriculture-road-map/articleshow/60928531.cms)
 
 Along with center, Bihar launched the Intensified Mission Indradhanush (IMI) which will provide essential immunizations to pregnant women and children under the age of two across the state aimed at covering 90 percent of the population under the program by December 2018. The first phase of IMI in Bihar will be held from November 7-18, 2017. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/patna/intensive-immunization-programme-launched-in-state/articleshow/60996679.cms)
 
@@ -48,7 +48,7 @@ Prime Minister Modi completed a two-day visit to Gujarat, signing projects worth
 
 Inox Wind won a 250 megawatt (MW) project at a fixed price of 4 cents per unit for 25 years under SECI-II auction. The project will be set up in the Kutch region of Gujarat. **Source:** [The Hindu](http://www.thehindu.com/business/Industry/inox-wind-gets-250-mw-project-in-gujarat/article19807232.ece)
 
-Upon direction from the center, Gujarat state government has cut value-added tax (VAT) on petrol and diesel. Gujarat currently levies a 28.96 percent VAT on those products. **Source: **[Business Standard](http://www.business-standard.com/article/economy-policy/gujarat-first-state-to-slash-vat-on-fuel-prices-117100500895_1.html)
+Upon direction from the center, Gujarat state government has cut value-added tax (VAT) on petrol and diesel. Gujarat currently levies a 28.96 percent VAT on those products. **Source:** [Business Standard](http://www.business-standard.com/article/economy-policy/gujarat-first-state-to-slash-vat-on-fuel-prices-117100500895_1.html)
 
 **Haryana**
 
@@ -60,7 +60,7 @@ Karnataka chief minister Siddaramaiah has launched Matru Poorna, an initiative t
 
 Karnataka state government has increased the dearness allowance of its employees by 2 percent applicable to all full time government employees, zilla panchayat workers, full time employees of aided educational institutions and universities. **Source:** [OneIndia](https://www.oneindia.com/india/diwali-gift-karnataka-government-hikes-da-by-2-percent-2558056.html)
 
-Karnataka received $181.6 million from the center as compensation towards the revenue loss the state suffered in the two months since the goods and services tax (GST) was rolled out on July 1. The state is estimated to have lost tax revenue to the tune of $305.5 million in July and August due to low GST compliance. **Source: **[Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-gets-rs-1189-cr-from-centre-as-compensation-towards-revenue-loss-from-gst/articleshow/60947375.cms)
+Karnataka received $181.6 million from the center as compensation towards the revenue loss the state suffered in the two months since the goods and services tax (GST) was rolled out on July 1. The state is estimated to have lost tax revenue to the tune of $305.5 million in July and August due to low GST compliance. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-gets-rs-1189-cr-from-centre-as-compensation-towards-revenue-loss-from-gst/articleshow/60947375.cms)
 
 **Madhya Pradesh**
 
@@ -68,7 +68,7 @@ Nothing critical to report this week
 
 **Maharashtra**
 
-MAHAGENCO (Maharashtra State Power Generation Corporation Ltd) will install solar panels for the state’s metro rail, Mahametro, in its Nagpur project. Mahametro plans to meet 6 percent power demand through solar power. **Source:** [Economic Times](http://energy.economictimes.indiatimes.com/news/renewable/maharashtra-power-utility-offers-to-install-solar-panels-for-green-metro/60948470)
+MAHAGENCO (Maharashtra State Power Generation Corporation Ltd) will install solar panels for the state’s metro rail, Mahametro, in its Nagpur project. Mahametro plans to meet 65 percent power demand through solar power. **Source:** [Economic Times](http://energy.economictimes.indiatimes.com/news/renewable/maharashtra-power-utility-offers-to-install-solar-panels-for-green-metro/60948470)
 
 Maharashtra bought 1,200 MW of power through a short-term agreement in order to mitigate load shedding and power cuts in urban areas. **Source:** [Asian Age](http://www.asianage.com/metros/mumbai/091017/maharashtra-govt-buys-1200mw-to-help-fix-power-issues.html)
 
@@ -88,7 +88,7 @@ Banwarilal Purohit was sworn-in as the new governor of Tamil Nadu. **Source:** [
 
 **Telangana**
 
-Chinese solar module manufacturer Hareon Solar and Indian renewable energy developer ReNew Power have commissioned a 172 MW solar power plant in Telangana. The energy generated by the facility will be sold under a 25-year power purchase agreement (PPA) to the Northern Power Distribution Company of Telangana. **Source: **[PV Magazine](https://www.pv-magazine.com/2017/10/03/hareon-solar-and-renew-power-commissions-172-mw-solar-park-in-indian-state-of-telangana/)
+Chinese solar module manufacturer Hareon Solar and Indian renewable energy developer ReNew Power have commissioned a 172 MW solar power plant in Telangana. The energy generated by the facility will be sold under a 25-year power purchase agreement (PPA) to the Northern Power Distribution Company of Telangana. \*\*Source: \*\*[PV Magazine](https://www.pv-magazine.com/2017/10/03/hareon-solar-and-renew-power-commissions-172-mw-solar-park-in-indian-state-of-telangana/)
 
 The Telangana government has a draft retail trade policy it will enforce beginning in December. A few facets of the policy include round-the-clock service at retail zones with $15.27 million investment, relaxation of rules on purchasing produce directly from farmers and reimbursement of stamp and transfer duty to mega retail outlets. **Source:** [The Hans](http://www.thehansindia.com/posts/index/Telangana/2017-10-03/Revolution-in-retail-trade/330604)
 
@@ -96,7 +96,7 @@ The Telangana government has a draft retail trade policy it will enforce beginni
 
 Indian infrastructure firm Essel Infraprojects (EIL) has commissioned a 50 MW solar project at Jalaun in the state of Uttar Pradesh and a 5 MW plant at Bijapur in Karnataka. The firm is already managing 165 MW of solar projects in India, including another 50 MW project at Jalaun that it completed in January 2016. **Source:** [PV-Tech](https://www.pv-tech.org/news/essel-infraprojects-commissions-55mw-of-solar-projects-in-uttar-pradesh-and)
 
-The Uttar Pradesh government has announced that it will create a land bank of 5,000 acres across the state for industrial projects. **Source: **[Business Standard](http://www.business-standard.com/article/economy-policy/yogi-govt-to-create-5-000-acres-of-land-bank-117100401224_1.html)
+The Uttar Pradesh government has announced that it will create a land bank of 5,000 acres across the state for industrial projects. \*\*Source: \*\*[Business Standard](http://www.business-standard.com/article/economy-policy/yogi-govt-to-create-5-000-acres-of-land-bank-117100401224_1.html)
 
 **West Bengal**
 
