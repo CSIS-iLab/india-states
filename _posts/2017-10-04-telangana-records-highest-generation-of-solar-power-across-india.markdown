@@ -1,5 +1,5 @@
 ---
-title: Telangana records highest generation of solar power across India
+title: Telangana becomes the largest generator of solar power across India
 date: 2017-10-04 19:32:00 Z
 tags:
 - Solar
