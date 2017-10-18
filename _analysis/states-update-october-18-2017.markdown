@@ -3,6 +3,10 @@ title: 'States Update: October 18, 2017'
 date: 2017-10-18 20:38:00 Z
 tags:
 - Update on India's States
+excerpt: Himachal Pradesh elections scheduled for November (but Gujarat elections
+  delayed); Tamil Nadu gives public employees a massive raise; Karnataka will not
+  honor older wind power purchase agreements; the BJP racks up wins in Maharashtra
+  local elections; and more.
 author:
 - Sarah Watson
 ---
