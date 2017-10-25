@@ -87,7 +87,7 @@ _Nothing critical to report this week_
 
 **Odisha**
 
-The state government launched a dedicated web portal ( [odisha.data.gov.in](../../C:%5CUsers%5CJDB%5CDownloads%5Codisha.data.gov.in)) that will share public data on government departments and development programs. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-launches-web-portal-to-share-government-data/articleshow/61120519.cms)
+The state government launched a dedicated web portal ([odisha.data.gov.in](../../C:%5CUsers%5CJDB%5CDownloads%5Codisha.data.gov.in)) that will share public data on government departments and development programs. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-launches-web-portal-to-share-government-data/articleshow/61120519.cms)
 
 **Punjab**
 
