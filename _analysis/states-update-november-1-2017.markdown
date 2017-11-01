@@ -3,6 +3,11 @@ title: 'States Update: November 1, 2017'
 date: 2017-11-01 14:37:00 Z
 tags:
 - Update on India's States
+excerpt: Gujarat elections announced for December 9 and 14; Punjab raises power prices,
+  while Odisha declines to; Madhya Pradesh ranks top on an index of digital governance;
+  Telangana gets approval to raise its debt limit; and more.
+author:
+- Sarah Watson
 ---
 
 **Big News**
