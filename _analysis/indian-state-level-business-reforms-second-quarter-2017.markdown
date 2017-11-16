@@ -19,7 +19,7 @@ author:
 
 The second quarter of 2017 was an important one for India: it saw the country move to the cusp of the goods and services tax (GST), a landmark reform that has made India into a unified economic market. Amidst this and other major economic and political events, some of India’s states continue to undertake reforms and enact policies that set them apart. Each quarter, the CSIS (Center for Strategic and International Studies) Wadhwani Chair in US-India Policy Studies highlights the latest positive business reforms from across India’s 29 states (as well as Delhi and Puducherry). In the second quarter, several states showed positive movement across a few key sectors: power, education, governance capacity, innovation and manufacturing.
 
-![g-Oped-map-web.jpg](/uploads/g-Oped-map-web.jpg)
+<img src="/uploads/g-Oped-map-web.jpg" style="max-width: 621px;" alt="States with positive new policies and reforms in the 2nd quarter of 2017" />
 
 Unfortunately, reform initiatives are not evenly distributed. A few states—Karnataka, Telangana, Madhya Pradesh, Maharashtra, and Haryana—have enacted multiple reforms, while others never make an appearance. Inter-state divides are immense and will continue to grow unless all states enact forward-looking reforms.
 
