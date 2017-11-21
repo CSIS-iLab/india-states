@@ -3,6 +3,11 @@ title: 'States Update: November 22, 2017'
 date: 2017-11-21 13:58:00 Z
 tags:
 - Update on India's States
+excerpt: Haryana cuts the upfront payment for electricity connections by 95 percent,
+  while Maharashtra cracks down on deadbeat power consumers; Punjab hopes to convert
+  crop stubble into bio-mass energy; Rajasthan anti-conversion bill returned once
+  again by the center; Tamil Nadu finds its solar power producers too efficient; and
+  more.
 author:
 - Sarah Watson
 ---
