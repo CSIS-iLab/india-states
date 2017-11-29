@@ -16,13 +16,13 @@ Solar power producers get some mixed wins in court; Punjab and Odisha sharpen th
 
 **Center–State relations**
 
-India and the World Bank signed a $98 million loan plus a $2 million grant agreement to help increase power generation capacity through renewable energy sources. The Shared Infrastructure for Solar Parks Project will finance loans made to states by the Indian Renewable Energy Development Agency Ltd. Source: [Live Mint](http://www.livemint.com/Industry/MTGx96uoKt5kf9ZIYUsD7O/India-World-Bank-ink-98-million-loan-pact-for-renewable-en.html) **In Detail:** [Press Release](http://www.worldbank.org/en/news/press-release/2017/11/20/project-signing-government-india-world-bank-sign-agreement-set-up-large-scale-solar-parks)
+India and the World Bank signed a $98 million loan plus a $2 million grant agreement to help increase power generation capacity through renewable energy sources. The Shared Infrastructure for Solar Parks Project will finance loans made to states by the Indian Renewable Energy Development Agency Ltd. **Source:** [Live Mint](http://www.livemint.com/Industry/MTGx96uoKt5kf9ZIYUsD7O/India-World-Bank-ink-98-million-loan-pact-for-renewable-en.html) **In Detail:** [Press Release](http://www.worldbank.org/en/news/press-release/2017/11/20/project-signing-government-india-world-bank-sign-agreement-set-up-large-scale-solar-parks)
 
 **Andhra Pradesh**
 
 Andhra Pradesh has agreed to buy electricity from Kadapa Solar Park, where France&#39;s Engie had won a 250 megawatt (MW) solar auction held by the National Thermal Power Corporation (NTPC) without any buyer for the output.  NTPC agreed to bundle Kadapa&#39;s output with 125 MW capacity of thermal power, resulting in a lower overall tariff. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/andhra-pradesh-to-buy-solar-power-from-kadapa-plant/articleshow/61759163.cms)
 
-Chief Minister N. Chandrababu Naidu launched the Andhra Pradesh State Energy Calculator 2050, an open-source tool for state-level energy planning. The calculator allows users to track the impact of various policy choices on the state&#39;s energy landscape. Source: [The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/naidu-launches-energy-calculator/article20631342.ece) **In Detail:** [Andhra Pradesh State Energy Calculator, 2050](http://apsec2050.com/)
+Chief Minister N. Chandrababu Naidu launched the Andhra Pradesh State Energy Calculator 2050, an open-source tool for state-level energy planning. The calculator allows users to track the impact of various policy choices on the state&#39;s energy landscape. **Source:** [The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/naidu-launches-energy-calculator/article20631342.ece) **In Detail:** [Andhra Pradesh State Energy Calculator, 2050](http://apsec2050.com/)
 
 **Bihar**
 
