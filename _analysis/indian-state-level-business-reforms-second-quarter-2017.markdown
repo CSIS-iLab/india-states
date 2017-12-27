@@ -6,7 +6,7 @@ excerpt: 'The second quarter of 2017 was an important one for India: it saw the 
   made India into a unified economic market. Several states showed positive movement
   across a few key sectors: power, education, governance capacity, innovation and
   manufacturing.'
-is_featured: true
+is_featured: false
 feature_image: "/uploads/power-kajB--621x414@LiveMint.jpg"
 feature_image_credit: 'Increased power capacity and power sector reforms are imperative
   for states to provide adequate power while maintaining fiscal health. Photo: Bloomberg'
