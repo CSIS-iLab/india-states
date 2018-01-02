@@ -346,7 +346,9 @@
 
 
     <main class="page-content" aria-label="Content">
-        <article class="post-individualContainer" itemscope itemtype="http://schema.org/BlogPosting">
+        
+
+<article class="post-individualContainer post-article" itemscope itemtype="http://schema.org/BlogPosting">
 
   <div class="content-wrapper fullWidthContent">
 
@@ -426,57 +428,63 @@
         <h4 class="sectionSubtitle">Article Info</h4>
         
 
-  	<span class="listCategory">Sectors</span><br />
-  	
-  		<a href='/sectors/energy' class="sector">Energy</a>
-  		<!-- Subsectors for Energy -->
-  		
+	<div class="post-meta-sectors">
+	  	<span class="listCategory">Sectors</span><br />
+	  	
+	  		<a href='/sectors/energy' class="sector">Energy</a>
+	  		<!-- Subsectors for Energy -->
+	  		
 
-  		
+	  		
 
-  		
-  		
-  			&gt;
-  		
-  			
-  		
-  			
-  		
-  			<a href='/sectors/energy#subsector=energy-related-transportation' class="sectorSection-subsectorsListSubsector">Energy-related Transportation</a>,
-  		
-  			
-  		
-  			
-  		
-  			
-  		
-  			<a href='/sectors/energy#subsector=renewables' class="sectorSection-subsectorsListSubsector">Renewables</a>
-  		
-        <br />
-  	
-  	
-  	<hr />
-
-
-
-	<span class="listCategory">States</span><br />
-	
-	  <a href='/states/delhi'>Delhi</a>
-	
-	
-	<hr />
+	  		
+	  		
+	  			&gt;
+	  		
+	  			
+	  		
+	  			
+	  		
+	  			<a href='/sectors/energy#subsector=energy-related-transportation' class="sectorSection-subsectorsListSubsector">Energy-related Transportation</a>,
+	  		
+	  			
+	  		
+	  			
+	  		
+	  			
+	  		
+	  			<a href='/sectors/energy#subsector=renewables' class="sectorSection-subsectorsListSubsector">Renewables</a>
+	  		
+	        <br />
+	  	
+	  	
+	  	<hr />
+	</div>
 
 
 
-	<span class="listCategory">Keywords</span><br />
-	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=DMRC">DMRC</a>, 
-	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Solar">Solar</a>, 
-	
-	  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=REWA">REWA</a>
-	
-	
+	<div class="post-meta-states">
+		<span class="listCategory">States</span><br />
+		
+		  <a href='/states/delhi'>Delhi</a>
+		
+		
+		<hr />
+	</div>
+
+
+
+	<div class="post-meta-tags">
+		<span class="listCategory">Keywords</span><br />
+		
+		  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=DMRC">DMRC</a>, 
+		
+		  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=Solar">Solar</a>, 
+		
+		  <a href="/search/?q=&hPP=10&idx=india_states&p=0&dFR%5Btags%5D%5B0%5D=REWA">REWA</a>
+		
+		
+	</div>
 
 
 <!-- Show More/Less -->
@@ -737,7 +745,7 @@
 
   <div class="footer-copyrightContainer">
     <div class="content-wrapper">
-      &copy; 2017 by the Center for Strategic and International Studies. All rights reserved.
+      &copy; <span class="copyright-year"></span> by the Center for Strategic and International Studies. All rights reserved.
     </div>
   </div>
 
@@ -756,6 +764,7 @@
 
 <script src="https://code.highcharts.com/maps/highmaps.js"></script>
 <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+
 
     <section class="search-overlay">
 	<div class="search-closeIconContainer">

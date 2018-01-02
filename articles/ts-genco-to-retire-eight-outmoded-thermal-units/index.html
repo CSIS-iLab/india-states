@@ -346,7 +346,9 @@
 
 
     <main class="page-content" aria-label="Content">
-        <article class="post-individualContainer" itemscope itemtype="http://schema.org/BlogPosting">
+        
+
+<article class="post-individualContainer post-article" itemscope itemtype="http://schema.org/BlogPosting">
 
   <div class="content-wrapper fullWidthContent">
 
@@ -426,33 +428,37 @@
         <h4 class="sectionSubtitle">Article Info</h4>
         
 
-  	<span class="listCategory">Sectors</span><br />
-  	
-  		<a href='/sectors/energy' class="sector">Energy</a>
-  		<!-- Subsectors for Energy -->
-  		
+	<div class="post-meta-sectors">
+	  	<span class="listCategory">Sectors</span><br />
+	  	
+	  		<a href='/sectors/energy' class="sector">Energy</a>
+	  		<!-- Subsectors for Energy -->
+	  		
 
-  		
+	  		
 
-  		
-  		
-  			&gt;
-  		
-  			<a href='/sectors/energy#subsector=coal' class="sectorSection-subsectorsListSubsector">Coal</a>
-  		
-        <br />
-  	
-  	
-  	<hr />
+	  		
+	  		
+	  			&gt;
+	  		
+	  			<a href='/sectors/energy#subsector=coal' class="sectorSection-subsectorsListSubsector">Coal</a>
+	  		
+	        <br />
+	  	
+	  	
+	  	<hr />
+	</div>
 
 
 
-	<span class="listCategory">States</span><br />
-	
-	  <a href='/states/telangana'>Telangana</a>
-	
-	
-	<hr />
+	<div class="post-meta-states">
+		<span class="listCategory">States</span><br />
+		
+		  <a href='/states/telangana'>Telangana</a>
+		
+		
+		<hr />
+	</div>
 
 
 
@@ -5299,7 +5305,7 @@
 
   <div class="footer-copyrightContainer">
     <div class="content-wrapper">
-      &copy; 2017 by the Center for Strategic and International Studies. All rights reserved.
+      &copy; <span class="copyright-year"></span> by the Center for Strategic and International Studies. All rights reserved.
     </div>
   </div>
 
@@ -5318,6 +5324,7 @@
 
 <script src="https://code.highcharts.com/maps/highmaps.js"></script>
 <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+
 
     <section class="search-overlay">
 	<div class="search-closeIconContainer">
