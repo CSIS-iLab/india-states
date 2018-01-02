@@ -7,8 +7,6 @@ excerpt: The third quarter of 2017 started with the landmark goods and services 
   assembly—and this is important. There’s an increasingly widespread understanding
   that states are best positioned to drive its ongoing experiments in economic development
   and good governance, a position Prime Minister Narendra Modi supports.
-states:
-- 
 is_featured: true
 feature_image: "/uploads/oped2-kMcC--621x414@LiveMint.jpg"
 feature_image_credit: 'In the third quarter of 2017, states made digital governance
