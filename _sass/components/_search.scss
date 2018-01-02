@@ -596,4 +596,9 @@
     text-decoration: underline;
     color: #ed5565;
   }
+
+  // Hide Tags from Search
+  #tags {
+    display: none;
+  }
 }

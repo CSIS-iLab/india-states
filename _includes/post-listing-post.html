@@ -1,4 +1,8 @@
-<article id="{{ post.title | escape | slugify }}" class="post-articleContainer row">
+{% assign postClass = 'post-article' %}
+{% if post.is_analysis %}
+	{% assign postClass = 'post-analysis' %}
+{% endif %}
+<article id="{{ post.title | escape | slugify }}" class="post-articleContainer row {{ postClass }}">
 	<!-- Article Title & Content -->
 	<div class="post-articleContent col-xs-12 col-md-9">
 		<h4 class="articleTitle"><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></h4>

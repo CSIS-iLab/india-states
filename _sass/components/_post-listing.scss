@@ -42,6 +42,12 @@
 	}
 }
 
+// Hide Tags & Related posts on articles
+.post-article .post-meta-tags,
+.post-article .post-relatedPosts {
+	display: none;
+}
+
 
 /*----------  Post Listing: Individual Post  ----------*/
 .post-articleContainer {

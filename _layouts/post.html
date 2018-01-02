@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
-
-<article class="post-individualContainer" itemscope itemtype="http://schema.org/BlogPosting">
+{% assign postClass = 'post-article' %}
+{% if page.is_analysis %}
+  {% assign postClass = 'post-analysis' %}
+{% endif %}
+<article class="post-individualContainer {{ postClass }}" itemscope itemtype="http://schema.org/BlogPosting">
 
   <div class="content-wrapper fullWidthContent">
 
