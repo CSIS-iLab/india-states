@@ -11,8 +11,6 @@ author:
 - Kartikeya Singh
 ---
 
-**Group A**
-
 **Big News**
 
 Maharashtra allows nonprofit firms to open schools, Tamil Nadu to set up first state-run solar park, Uttar Pradesh allows death penalty for those dealing with illicit liquor, Andhra Pradesh to now provide pension to transgender citizens, Tripura begins social audit of government programs
@@ -23,15 +21,13 @@ Nothing critical to report this week
 
 **Andhra Pradesh**
 
-
-
 The Andhra Pradesh Electricity Regulatory Commission has directed the state power distribution companies (discom) to not enter in to any new power purchase agreements (PPA) without its permission. Previous PPAs will also be allowed for revision subject to the approval from the commission. **Source:** [The Hindu Business Line](http://www.thehindubusinessline.com/news/national/ppas-can-be-revised-ap-power-regulator/article9995970.ece)
 
 Andhra Pradesh became the third state, after Kerala and Odisha, to approve a policy of providing pensions to transgender citizens of the state. The policy promises $23 every month as social security pension to transgender citizens over 18 years old, as well as ration cards, plots for housing, and financial aid to open businesses. **Source:** [Scroll.in](https://scroll.in/latest/861794/andhra-pradesh-cabinet-clears-welfare-policy-for-transgenders)
 
 **Bihar**
 
-Bihar&#39;s power discoms have proposed a significant hike, five times the fixed monthly charges for certain categories of consumers in the financial year 2018-19. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/patna/discoms-propose-five-time-hike-in-fixed-monthly-rent/articleshow/62140228.cms)
+Bihar's power discoms have proposed a significant hike, five times the fixed monthly charges for certain categories of consumers in the financial year 2018-19. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/patna/discoms-propose-five-time-hike-in-fixed-monthly-rent/articleshow/62140228.cms)
 
 **New Delhi**
 
@@ -61,7 +57,7 @@ Madhya Pradesh chief minister Shivraj Singh Chouhan laid the foundation stone fo
 
 The Maharashtra government passed an amendment to the Maharashtra Slum Areas Act, 1971, which now entitles all slum residents to rehabilitation arrangements, especially when they are evicted from rehabilitation areas.
 
-**Source:** [The Hindu](http://www.thehindu.com/news/cities/mumbai/maharashtra-amends-slum-areas-act/article22095876.ece) **In Detail:** [Amendment to the Maharashtra Slum Areas Act, 1971](http://mls.org.in/pdf%20winter%202017/Maharashtra%20Slum%20Areas%20(%20Improvement%20Clearance%20&amp;%20Redevelopement)%20(%20Amendment)%20Act,%202017.pdf)
+**Source:** [The Hindu](http://www.thehindu.com/news/cities/mumbai/maharashtra-amends-slum-areas-act/article22095876.ece) **In Detail:** [Amendment to the Maharashtra Slum Areas Act, 1971](http://mls.org.in/pdf%20winter%202017/Maharashtra%20Slum%20Areas%20(%20Improvement%20Clearance%20&%20Redevelopement)%20(%20Amendment)%20Act,%202017.pdf)
 
 The Maharashtra Assembly has cleared an amendment to the Maharashtra Self-Financed Schools Act, 2012, which will allow non-profit firms to open schools. Previously, only trusts, registered societies, and government bodies were eligible to run self-financed schools.
 
@@ -83,25 +79,17 @@ Telangana discoms have made no changes to power tariffs for any category for 201
 
 The Uttar Pradesh state assembly passed the Excise (Amendment) Bill 2017 and became the third state to allow awarding of the death penalty and life imprisonment to those dealing illicit or spurious liquor if its consumption leads to any deaths. If consumption causes disability, heavy fines and 6-10 years in prison can be imposed on violators. **Source:** [Press Trust of India](http://www.ptinews.com/news/9345106_UP-Assembly-passes-bill-for-death-penalty-for-hooch-trade)
 
+The Uttar Pradesh government, under the state repealing act, has repealed 15 laws it considered redundant or obsolete. **Source:** [United India](http://www.uniindia.com/up-government-repeals-15-redundant-laws/states/news/1083088.html)
 
-
-The Uttar Pradesh government, under the state repealing act, has repealed 15 laws it considered redundant or obsolete.
-
-++Source:** [United India](http://www.uniindia.com/up-government-repeals-15-redundant-laws/states/news/1083088.html)
-
-Hero Solar Energy and SBE Four have won 500 MW solar power projects from the Uttar Pradesh government, expected to sell the power at 3.86 cents and 3.87 cents per kilowatt hour KWh, respectively.
-
-**Source:** [Times of India](https://timesofindia.indiatimes.com/city/jaipur/up-taps-solar-rich-raj-gets-2nd-lowest-tariffs-for-500-mw/articleshow/62215027.cms)
+Hero Solar Energy and SBE Four have won 500 MW solar power projects from the Uttar Pradesh government, expected to sell the power at 3.86 cents and 3.87 cents per kilowatt hour, respectively. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/jaipur/up-taps-solar-rich-raj-gets-2nd-lowest-tariffs-for-500-mw/articleshow/62215027.cms)
 
 **West Bengal**
 
-The West Bengal government plans to create a cyber security center of excellence to execute new blockchain mechanisms to protect government documents from cyber attacks. The center is expected to partner with private firms to conduct research on cyber crimes.
+The West Bengal government plans to create a cyber security center of excellence to execute new blockchain mechanisms to protect government documents from cyber attacks. The center is expected to partner with private firms to conduct research on cyber crimes. **Source:** [India Today](http://indiatoday.intoday.in/story/bengal-mulling-blockchain-to-protect-records-stored-online/1/1113305.html)
 
-**Source:** [India Today](http://indiatoday.intoday.in/story/bengal-mulling-blockchain-to-protect-records-stored-online/1/1113305.html)
+The West Bengal government is seeking clearance from the central government to sell 1,000 MW of power to Bangladesh, in addition to the 250 MW already being sold to India's neighbor. **Source:** [Millennium Post](http://www.millenniumpost.in/kolkata/bengal-seeks-centres-okay-to-sell-more-power-to-bangladesh-276182)
 
-The West Bengal government is seeking clearance from the central government to sell 1,000 MW of power to Bangladesh, in addition to the 250 MW already being sold to India&#39;s neighbor. **Source:** [Millennium Post](http://www.millenniumpost.in/kolkata/bengal-seeks-centres-okay-to-sell-more-power-to-bangladesh-276182)
-
-The West Bengal government will now start collecting toll taxes from 15 state highways to generate resources for maintenance and expansion of roads, prices for which will be determined by the state&#39;s public works department. **Source:** [Live Mint](http://www.livemint.com/Politics/oxGfiVHCdvsCRyr2IfZESM/West-Bengal-govt-to-collect-toll-tax-from-state-highways.html)
+The West Bengal government will now start collecting toll taxes from 15 state highways to generate resources for maintenance and expansion of roads, prices for which will be determined by the state's public works department. **Source:** [Live Mint](http://www.livemint.com/Politics/oxGfiVHCdvsCRyr2IfZESM/West-Bengal-govt-to-collect-toll-tax-from-state-highways.html)
 
 **Best of the Rest**
 
