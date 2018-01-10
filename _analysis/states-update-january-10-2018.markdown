@@ -23,7 +23,7 @@ The central government has approved the $848 million Jal Vikas Marg Project (JVM
 
 In a response to the session of lower house of Parliament, the union power minister reported a reduction in losses of power distribution companies from $8.1 billion in the previous fiscal year to $5.8 billion in fiscal year 2017, under the center's UDAY bailout initiative for power distribution companies. **Source:** [Money Control](http://www.moneycontrol.com/news/business/economy/24-states-under-uday-cut-losses-to-nearly-rs-37k-cr-in-fy17-2475613.html) **In Detail:** [Parliament Session Question](http://164.100.47.194/Loksabha/Questions/QResult15.aspx?qref=61085&lsno=16)
 
-The Solar Energy Corporation of India (SECI) has tendered 950 megawatts (MW) of solar power in Karnataka and Andhra Pradesh, tenders for btoh to be set up on a Build-Own-Operate basis. **Source:** [PV Tech](https://www.pv-tech.org/news/indian-solar-tenders-ramp-up-with-another-950mw-in-karnataka-and-andhra-pra) **In Detail:** [Rfs Document](http://seci.co.in/web-data/docs/RFS%20750%20MW%20Kadapa%20AP_final%20upload.pdf)
+The Solar Energy Corporation of India (SECI) has tendered 950 megawatts (MW) of solar power in Karnataka and Andhra Pradesh, tenders for both to be set up on a Build-Own-Operate basis. **Source:** [PV Tech](https://www.pv-tech.org/news/indian-solar-tenders-ramp-up-with-another-950mw-in-karnataka-and-andhra-pra) **In Detail:** [Rfs Document](http://seci.co.in/web-data/docs/RFS%20750%20MW%20Kadapa%20AP_final%20upload.pdf)
 
 **Andhra Pradesh**
 
