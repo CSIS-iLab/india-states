@@ -11,7 +11,7 @@ author:
 
 **Big News**
 
-Delhi launches solar city initiative in partnership with USAID and GIZ; Kerala announces resettlement and rehabilitation policy for land acquisition; Tamil Nadu launches new e-governance policy; Haryana makes it mandatory to install rooftop solar systems in new residential buildings; and more
+Delhi launches solar city initiative in partnership with USAID and GIZ; Kerala announces resettlement and rehabilitation policy for land acquisition; Tamil Nadu launches new e-governance policy; Haryana makes it mandatory to install rooftop solar systems in new residential buildings; and more.
 
 **Center – State relations**
 
