@@ -1,6 +1,8 @@
 ---
 title: 'States Update: January 10, 2018'
 date: 2018-01-10 18:37:00 Z
+tags:
+- Update on India's States
 excerpt: Delhi launches solar city initiative in partnership with USAID and GIZ; Kerala
   announces resettlement and rehabilitation policy for land acquisition; Tamil Nadu
   launches new e-governance policy; Haryana makes it mandatory to install rooftop
