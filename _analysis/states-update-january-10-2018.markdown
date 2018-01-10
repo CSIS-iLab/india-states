@@ -53,9 +53,7 @@ Haryana became the first state to launch a High Risk Pregnancy (HRP) portal. The
 
 National Thermal Power Corporation's 800 megawatt (MW) thermal power station at Kudgi in Vijayapura has commenced commercial generation and will provide 400 MW of power to Karnataka. **Source:** [The Hindu](http://www.thehindu.com/news/national/karnataka/400-mw-of-additional-power-for-karnataka/article22348017.ece)
 
-Tata Power Renewable Energy has commissioned a 50 MW solar plant at Pavagada Solar Park in Karnataka, to be developed under India's domestic content requirement (DCR) category.
-
-**Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/tprel-commissions-50-mw-dcr-solar-plant-in-karnataka/articleshow/62337403.cms) **In Detail:** [Press Release](https://www.tatapowerrenewables.com/media/press-release-02-jan-2018.aspx)
+Tata Power Renewable Energy has commissioned a 50 MW solar plant at Pavagada Solar Park in Karnataka, to be developed under India's domestic content requirement (DCR) category. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/tprel-commissions-50-mw-dcr-solar-plant-in-karnataka/articleshow/62337403.cms) **In Detail:** [Press Release](https://www.tatapowerrenewables.com/media/press-release-02-jan-2018.aspx)
 
 Karnataka is set to procure and deploy 40 electric buses, 100 four wheelers and 500 three wheelers along with setting up of charging infrastructure across the city of Bengaluru. **Source:** [Money Control](http://www.moneycontrol.com/news/business/karnataka-govt-to-obtain-electric-vehicles-under-fame-india-scheme-2473041.html)
 
