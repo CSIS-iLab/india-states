@@ -1,18 +1,16 @@
 ---
-title: "Study shows high potential in offshore wind power for Tamil Nadu"
-date: 2017-11-01
+title: Study shows high potential in offshore wind power for Tamil Nadu
+date: 2017-11-01 00:00:00 Z
 states:
 - Tamil Nadu
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: The Hindu
   url: http://www.thehindu.com/news/national/tamil-nadu/study-points-to-huge-offshore-wind-bonanza/article19927762.ece
-details:
+details: 
 ---
 
 A study conducted for the Tamil Nadu Generation and Distribution Corporation projected that the state can evacuate 500 megawatts (MW) of offshore wind power by 2021-22 with minimal upgrades to the grid. 

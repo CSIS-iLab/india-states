@@ -1,14 +1,12 @@
 ---
-title: "Gujarat completes its e-reverse auction of 500 MW of wind power"
-date: 2017-12-27
+title: Gujarat completes its e-reverse auction of 500 MW of wind power
+date: 2017-12-27 00:00:00 Z
 states:
 - Gujarat
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/wind-power-tariffs-in-gujarat-auctions-fall-to-rs-2-43/unit/articleshow/62202966.cms

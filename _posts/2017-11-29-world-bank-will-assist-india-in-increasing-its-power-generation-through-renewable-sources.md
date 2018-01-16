@@ -1,14 +1,13 @@
 ---
-title: "World Bank will assist India in increasing its power generation through renewable sources"
-date: 2017-11-29
+title: World Bank will assist India in increasing its power generation through renewable
+  sources
+date: 2017-11-29 00:00:00 Z
 states:
 - Center-State Relations
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: Livemint
   url: http://www.livemint.com/Industry/MTGx96uoKt5kf9ZIYUsD7O/India-World-Bank-ink-98-million-loan-pact-for-renewable-en.html

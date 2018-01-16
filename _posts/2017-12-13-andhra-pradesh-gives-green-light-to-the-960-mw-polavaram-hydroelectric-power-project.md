@@ -1,14 +1,13 @@
 ---
-title: "Andhra Pradesh gives green light to the 960 MW Polavaram hydroelectric power project"
-date: 2017-12-13
+title: Andhra Pradesh gives green light to the 960 MW Polavaram hydroelectric power
+  project
+date: 2017-12-13 00:00:00 Z
 states:
 - Andhra Pradesh
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: The Hindu
   url: http://www.thehindu.com/news/national/andhra-pradesh/go-issued-on-polavaram-hydro-power-plant/article21285674.ece

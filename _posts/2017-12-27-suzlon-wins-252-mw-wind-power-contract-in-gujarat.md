@@ -1,14 +1,12 @@
 ---
-title: "Suzlon wins 252 MW wind power contract in Gujarat"
-date: 2017-12-27
+title: Suzlon wins 252 MW wind power contract in Gujarat
+date: 2017-12-27 00:00:00 Z
 states:
 - Gujarat
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: Money Control
   url: http://www.moneycontrol.com/news/business/suzlon-bags-252-mw-wind-turbine-contract-in-gujarat-2464825.html

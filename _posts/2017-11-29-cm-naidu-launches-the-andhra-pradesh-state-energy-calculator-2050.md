@@ -1,14 +1,12 @@
 ---
-title: "CM Naidu launches the Andhra Pradesh State Energy Calculator 2050"
-date: 2017-11-29
+title: CM Naidu launches the Andhra Pradesh State Energy Calculator 2050
+date: 2017-11-29 00:00:00 Z
 states:
 - Andhra Pradesh
 sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- 
 sources:
 - name: The Hindu
   url: http://www.thehindu.com/todays-paper/tp-national/tp-andhrapradesh/naidu-launches-energy-calculator/article20631342.ece

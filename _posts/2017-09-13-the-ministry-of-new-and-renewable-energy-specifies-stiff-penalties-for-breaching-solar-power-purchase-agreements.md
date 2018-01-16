@@ -1,14 +1,13 @@
 ---
-title: "The Ministry of New and Renewable Energy specifies stiff penalties for breaching solar power purchase agreements"
-date: 2017-09-13
+title: The Ministry of New and Renewable Energy specifies stiff penalties for breaching
+  solar power purchase agreements
+date: 2017-09-13 00:00:00 Z
 states:
 - Center-State Relations
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: Economic Times
   url: http://energy.economictimes.indiatimes.com/news/renewable/india-bars-states-from-independently-exiting-modifying-solar-projects/60301357

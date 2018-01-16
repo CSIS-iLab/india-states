@@ -1,14 +1,12 @@
 ---
-title: "Goa announces new solar power policy"
-date: 2017-12-13
+title: Goa announces new solar power policy
+date: 2017-12-13 00:00:00 Z
 states:
 - Goa
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/under-new-solar-policy-goa-eyes-to-produce-150-mw-power-by-2021/articleshow/61948353.cms

@@ -1,14 +1,12 @@
 ---
-title: "Uttar Pradesh announces new solar energy policy"
-date: 2017-12-13
+title: Uttar Pradesh announces new solar energy policy
+date: 2017-12-13 00:00:00 Z
 states:
 - Uttar Pradesh
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: Hindustan Times
   url: http://www.hindustantimes.com/lucknow/up-cabinet-approves-solar-policy-nod-to-application-for-jewar-airport/story-yfSoeglwQXdCGogBJoRzdI.html

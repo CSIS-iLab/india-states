@@ -1,14 +1,12 @@
 ---
-title: "Uttar Pradesh hikes up power tariff for rural consumers"
-date: 2017-12-06
+title: Uttar Pradesh hikes up power tariff for rural consumers
+date: 2017-12-06 00:00:00 Z
 states:
 - Uttar Pradesh
 sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- 
 sources:
 - name: News 18
   url: http://www.news18.com/news/india/uttar-pradesh-electricity-regulatory-commission-hikes-power-tariffs-1591225.html

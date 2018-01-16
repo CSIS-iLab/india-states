@@ -1,14 +1,12 @@
 ---
-title: "Uttar Pradesh upheld nine solar power purchase agreements with a fixed tariff"
-date: 2017-11-29
+title: Uttar Pradesh upheld nine solar power purchase agreements with a fixed tariff
+date: 2017-11-29 00:00:00 Z
 states:
 - Uttar Pradesh
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: Daily News and Analysis
   url: http://www.dnaindia.com/business/report-essel-infra-up-solar-tariff-gets-regulator-s-ok-others-to-match-bid-2562690

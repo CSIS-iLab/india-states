@@ -1,14 +1,12 @@
 ---
-title: "Mizoram announces its new solar power policy"
-date: 2017-07-26
+title: Mizoram announces its new solar power policy
+date: 2017-07-26 00:00:00 Z
 states:
 - Mizoram
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: PV Tech
   url: https://www.pv-tech.org/news/indias-mizoram-targets-80mw-under-solar-power-policy

@@ -1,14 +1,12 @@
 ---
-title: "Punjab's hike in power tariff postponed to 2018 "
-date: 2017-11-29
+title: 'Punjab''s hike in power tariff postponed to 2018 '
+date: 2017-11-29 00:00:00 Z
 states:
 - Punjab
 sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- 
 sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/ludhiana/punjab-fails-to-keep-date-with-power-tariff-cut-for-industry/articleshow/61792520.cms

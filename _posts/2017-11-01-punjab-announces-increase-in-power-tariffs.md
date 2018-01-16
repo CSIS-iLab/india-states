@@ -1,14 +1,12 @@
 ---
-title: "Punjab announces increase in power tariffs"
-date: 2017-11-01
+title: Punjab announces increase in power tariffs
+date: 2017-11-01 00:00:00 Z
 states:
 - Punjab
 sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- 
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/power-to-cost-more-in-punjab-as-energy-tariff-up-by-9-33/articleshow/61190266.cms

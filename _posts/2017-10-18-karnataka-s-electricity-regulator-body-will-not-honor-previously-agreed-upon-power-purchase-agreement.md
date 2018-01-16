@@ -1,6 +1,7 @@
 ---
-title: "Karnataka's electricity regulator body will not honor previously agreed upon power purchase agreement"
-date: 2017-10-18
+title: Karnataka's electricity regulator body will not honor previously agreed upon
+  power purchase agreement
+date: 2017-10-18 00:00:00 Z
 states:
 - Karnataka
 - Center-State Relations
@@ -8,8 +9,6 @@ sectors:
 - Energy
 subsectors:
 - Power
-tags:
-- 
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/ppas-for-wind-power-will-be-cleared-at-new-rates-kerc/articleshow/61095159.cms

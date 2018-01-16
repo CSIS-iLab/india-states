@@ -1,6 +1,7 @@
 ---
-title: "Conference of power and new & renewable energy ministers of states and union territories was held from December 7-8, 2017"
-date: 2017-12-13
+title: Conference of power and new & renewable energy ministers of states and union
+  territories was held from December 7-8, 2017
+date: 2017-12-13 00:00:00 Z
 states:
 - Center-State Relations
 sectors:
@@ -9,8 +10,6 @@ subsectors:
 - Power
 - Renewables
 - Energy Efficiency
-tags:
-- 
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/power-ministers-meet-states-agree-on-24x7-power-for-all-direct-benefit-transfer/articleshow/61966434.cms

@@ -1,14 +1,13 @@
 ---
-title: "Central ministry of power releases new guidelines on bidding process for wind power"
-date: 2017-12-20
+title: Central ministry of power releases new guidelines on bidding process for wind
+  power
+date: 2017-12-20 00:00:00 Z
 states:
 - Center-State Relations
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: Hindu Business Line
   url: http://www.thehindubusinessline.com/todays-paper/tp-news/wind-power-state-govts-to-decide-on-tariff-from-smaller-projects/article9991048.ece

@@ -1,14 +1,12 @@
 ---
-title: "Punjab to purchase 150 MW of wind power from SECI"
-date: 2017-12-06
+title: Punjab to purchase 150 MW of wind power from SECI
+date: 2017-12-06 00:00:00 Z
 states:
 - Punjab
 sectors:
 - Energy
 subsectors:
 - Renewables
-tags:
-- 
 sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/chandigarh/pspcl-signs-mou-to-hike-renewable-energy-share-to-20/articleshow/61856067.cms
