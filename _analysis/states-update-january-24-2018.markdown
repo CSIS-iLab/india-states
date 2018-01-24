@@ -13,13 +13,13 @@ author:
 
 **Big News**
 
-Delhi residents eligible for free healthcare services at private facilities, Maharashtra announces public cloud and startup policies, Uttar Pradesh to allow private sector to choose their distribution company for power purchase, Tripura, Meghalaya and Nagaland go in to election mode, and more.
+Delhi residents eligible for free healthcare services at private facilities; Maharashtra announces public cloud and startup policies; Uttar Pradesh to allow private sector to choose their distribution company for power purchase; Tripura, Meghalaya, and Nagaland go in to election mode, and more.
 
 **Center- State Relations**
 
 The center has chosen nine cities in its latest announcement regarding the Smart Cities Mission spread across Uttar Pradesh, Tamil Nadu, Bihar, Dadra and Nagar Haveli, Daman and Diu, Lakshadweep, and Arunachal Pradesh. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/infrastructure/government-announces-names-of-nine-new-smart-cities-check-list-here/articleshow/62569505.cms)
 
-Tripuran, Meghalaya, and Nagaland, will conduct state legislative assembly elections in late February, the results of which will be counted on March 3. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/tripura-to-go-for-polls-on-february-18-meghalaya-nagaland-on-february-27/articleshow/62551682.cms) **In Detail:** [Press Release](http://eci.nic.in/eci_main1/current/PN3_18012018.pdf)
+Tripura, Meghalaya, and Nagaland, will conduct state legislative assembly elections in late February, the results of which will be counted on March 3. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/tripura-to-go-for-polls-on-february-18-meghalaya-nagaland-on-february-27/articleshow/62551682.cms) **In Detail:** [Press Release](http://eci.nic.in/eci_main1/current/PN3_18012018.pdf)
 
 Six additional states have decided to participate in the central government&#39;s e-way bill system for inter-state movement of goods. **Source:** [Business Standard](http://www.business-standard.com/article/economy-policy/gujarat-bihar-four-others-join-e-way-bill-platform-gstn-begins-trial-run-118011601133_1.html) **In Detail:** [Government Website of E-Way Bill System](http://164.100.80.111/ewbnat3/)
 
