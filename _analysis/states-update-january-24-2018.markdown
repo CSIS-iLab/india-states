@@ -29,7 +29,7 @@ NITI Aayog and the Andhra Pradesh government signed a memorandum of understandin
 
 Covalent Fund has signed an agreement with the Andhra Pradesh government to set up a blockchain university in the state. **Source:** [Telangana Today](https://telanganatoday.com/andhra-pradesh-to-set-up-blockchain-varsity)
 
-**Bihar       **
+**Bihar**
 
 Nothing critical to report this week.
 
