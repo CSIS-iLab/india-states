@@ -3,11 +3,14 @@ title: 'States Update: January 17, 2018'
 date: 2018-01-17 16:40:00 Z
 tags:
 - Update on India's States
+excerpt: Center extends gas pipeline plans to the northeast; Delhi launches India&#39;s
+  first common mobility card for public transportation; Tamil Nadu doubles salary
+  of state legislators; West Bengal jumps to the top in implementing ease of doing
+  business reforms; India sets up its first coal to synthetic gas plant in Odisha;
+  Maharashtra empowers local government leaders; and more.
 author:
 - Kartikeya Singh
 ---
-
-**Group A**
 
 **Big News**
 
