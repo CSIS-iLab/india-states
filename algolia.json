@@ -413,7 +413,7 @@
 			"weight": {
 				"position": 1
 			},
-			"excerpt": "<p>With the Himalayas to the north, and the Bay of Bengal to the south, West Bengal is the largest and most economically important state in eastern India. ALthough it was once one of the richest and most industrialized states in India, decades of left-wing government largely succeeded in driving out international investors. Under the stable government of Mamata Banerjee, West Bengal is seeking to attract investment once again while hanging on to its leftist bona fides.</p>\n"
+			"excerpt": "<p>With the Himalayas to the north, and the Bay of Bengal to the south, West Bengal is the largest and most economically important state in eastern India. Although it was once one of the richest and most industrialized states in India, decades of left-wing government largely succeeded in driving out international investors. Under the stable government of Mamata Banerjee, West Bengal is seeking to attract investment once again while hanging on to its leftist bona fides.</p>\n"
 		}
 	
 	,
@@ -17278,6 +17278,52 @@
 			},
 			"authors": ["Kartikeya Singh"],
 			"excerpt": "Delhi launches solar city initiative in partnership with USAID and GIZ; Kerala announces resettlement and rehabilitation policy for land acquisition; Tamil Nadu launches new e-governance policy; Haryana makes it mandatory to install rooftop solar systems in new residential buildings; and more."
+		},
+	
+		
+		
+		
+		
+		
+		{
+			"objectID": "states-update-january-17-2018",
+			"title": "States Update: January 17, 2018",
+			"url": "/analysis/states-update-january-17-2018/",
+			"content_type": "Analysis",
+			"states": [],
+			"sectors": [],
+			"subsectors": [],
+			"tags": ["Update on India's States"],
+			"date": "January 17, 2018",
+			"posted_at": "1516207200",
+			"weight": {
+				"position": 5
+			},
+			"authors": ["Kartikeya Singh"],
+			"excerpt": "<p><strong>Group A</strong></p>\n\n"
+		},
+	
+		
+		
+		
+		
+		
+		{
+			"objectID": "states-update-january-24-2018",
+			"title": "States Update: January 24, 2018",
+			"url": "/analysis/states-update-january-24-2018/",
+			"content_type": "Analysis",
+			"states": [],
+			"sectors": [],
+			"subsectors": [],
+			"tags": ["Update on India's States"],
+			"date": "January 24, 2018",
+			"posted_at": "1516809000",
+			"weight": {
+				"position": 5
+			},
+			"authors": ["Kartikeya Singh"],
+			"excerpt": "Delhi residents eligible for free healthcare services at private facilities, Maharashtra announces public cloud and startup policies, Uttar Pradesh to allow private sector to choose their distribution company for power purchase, Tripura, Meghalaya and Nagaland go in to election mode, and more."
 		}
 	
 ]
