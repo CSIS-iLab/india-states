@@ -1,6 +1,6 @@
 ---
 title: 'States Update: January 31, 2018'
-date: 2018-01-31 15:23:00 Z
+date: 2018-01-30 15:23:00 Z
 tags:
 - Update on India's States
 excerpt: 'Andhra Pradesh and Canton of Zurich become sister-states, JICA provides
