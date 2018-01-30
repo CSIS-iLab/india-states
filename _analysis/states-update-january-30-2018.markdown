@@ -1,5 +1,5 @@
 ---
-title: 'States Update: January 30, 2018'
+title: 'States Update: January 31, 2018'
 date: 2018-01-31 15:23:00 Z
 tags:
 - Update on India's States
@@ -8,7 +8,7 @@ excerpt: 'Andhra Pradesh and Canton of Zurich become sister-states, JICA provide
   with BJP, Lulu Group to invest $400 million in food and retail industry in Telangana,
   Maharashtra allows easier transfer of industrial land for sale, and more. '
 author:
-- Kartikeya Singh
+- Sidhanta Mehra
 ---
 
 **Big News**
