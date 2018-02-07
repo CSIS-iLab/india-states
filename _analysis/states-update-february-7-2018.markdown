@@ -13,7 +13,7 @@ author:
 
 **Big News**
 
-World Bank and Asian Development Bank sign loan agreements for state-level projects for road building, drip irrigation, solar parks and promotion of India&#39;s rural economy; Madhya Pradesh announces new excise policy; Bihar closes three hydro power projects; and more.
+World Bank and Asian Development Bank sign loan agreements for state-level projects for road building, solar parks and promotion of India&#39;s rural economy; Madhya Pradesh announces new excise policy; Bihar closes three hydro power projects; and more.
 
 **Center–State relations**
 
