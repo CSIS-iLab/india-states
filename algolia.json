@@ -561,6 +561,90 @@
 		
 		
 		{
+			"objectID": "uttarakhand-cuts-taxes-on-diesel-and-natural-gas",
+			"title": "Uttarakhand cuts taxes on diesel and natural gas",
+			"url": "/articles/uttarakhand-cuts-taxes-on-diesel-and-natural-gas/",
+			"content_type": "Articles",
+			"states": ["Uttarakhand"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": [],
+			"date": "January 4, 2018",
+			"posted_at": "1515110160",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Uttarakhand state cabinet has decided to bring down value added tax (VAT) on diesel and natural gas used for the industrial consumption by 12 and 15 percent respectively.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "puducherry-proposes-an-increase-in-power-tariff",
+			"title": "Puducherry proposes an increase in power tariff",
+			"url": "/articles/puducherry-proposes-an-increase-in-power-tariff/",
+			"content_type": "Articles",
+			"states": ["Puducherry"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": [],
+			"date": "January 4, 2018",
+			"posted_at": "1515110040",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Starting April 2018, Puducherry Electricity Department (PED) is proposing an increase in tariff for domestic and other categories of consumers under the multi-year tariff (MYT) system. The tariff has been revised to bridge the revenue gap of $33 million from 2016-2019 and to earn additional revenue of $20 million.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "nhpc-to-set-up-a-solar-project-in-odisha",
+			"title": "NHPC to set up a solar project in Odisha",
+			"url": "/articles/nhpc-to-set-up-a-solar-project-in-odisha/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations","Odisha"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 4, 2018",
+			"posted_at": "1515109980",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>State-run, hydropower generation company, NHPC Ltd has proposed to set up a solar project in Odisha with capacity in the range of 100-200 megawatt (MW).</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "saubhagya-initiative-launched-in-jharkhand",
+			"title": "Saubhagya initiative launched in Jharkhand",
+			"url": "/articles/saubhagya-initiative-launched-in-jharkhand/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations","Jharkhand"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": [],
+			"date": "January 4, 2018",
+			"posted_at": "1515109920",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Jharkhand Chief Minister Raghubar Das launched the Saubhagya initiative in the state, a central government program to provide electricity to all households by 2018.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "telangana-to-provide-free-power-to-farmers",
 			"title": "Telangana to provide free power to farmers",
 			"url": "/articles/telangana-to-provide-free-power-to-farmers/",
