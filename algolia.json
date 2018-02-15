@@ -561,6 +561,531 @@
 		
 		
 		{
+			"objectID": "punjab-to-set-up-bio-gas-and-bio-cng-plants",
+			"title": "Punjab to set up bio-gas and bio-CNG plants",
+			"url": "/articles/punjab-to-set-up-bio-gas-and-bio-cng-plants/",
+			"content_type": "Articles",
+			"states": ["Punjab","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": [],
+			"date": "January 24, 2018",
+			"posted_at": "1516814040",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Punjab government has signed an MOU with the Indian Oil Corporation to set up bio-gas and bio-compressed natural gas plants in the state. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "industrial-consumers-in-uttar-pradesh-now-allowed-to-choose-which-discom-to-buy-power-from",
+			"title": "Industrial consumers in Uttar Pradesh now allowed to choose which DISCOM to buy power from",
+			"url": "/articles/industrial-consumers-in-uttar-pradesh-now-allowed-to-choose-which-discom-to-buy-power-from/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": [],
+			"date": "January 24, 2018",
+			"posted_at": "1516813980",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Uttar Pradesh government has decided to allow industrial power consumer to choose the power distribution company from which they want to buy power through the open access system. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "bhel-wins-contract-for-660-mw-supercritical-thermal-power-project-in-maharashtra",
+			"title": "BHEL wins contract for 660 MW supercritical thermal power project in Maharashtra",
+			"url": "/articles/bhel-wins-contract-for-660-mw-supercritical-thermal-power-project-in-maharashtra/",
+			"content_type": "Articles",
+			"states": ["Maharashtra"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": [],
+			"date": "January 24, 2018",
+			"posted_at": "1516813920",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Bharat Heavy Electricals Limited (BHEL) won a $438 million contract for a 660 MW supercritical thermal power project at Maharashtra’s Bhusawal Thermal Power Station in Jalgaon.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "uttar-pradesh-requests-proposals-for-1-gw-of-solar-projects",
+			"title": "Uttar Pradesh requests proposals for 1 GW of solar projects",
+			"url": "/articles/uttar-pradesh-requests-proposals-for-1-gw-of-solar-projects/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516209060",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Uttar Pradesh New and Renewable Energy Development Agency (UPNEDA) has issued a request for proposal for one gigawatt (GW) of grid-connected solar projects. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "india-s-first-coal-to-synthetic-gas-plant-to-be-set-up-in-odisha",
+			"title": "India&#39;s first coal-to-synthetic gas plant to be set up in Odisha",
+			"url": "/articles/indias-first-coal-to-synthetic-gas-plant-to-be-set-up-in-odisha/",
+			"content_type": "Articles",
+			"states": ["Odisha","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal","Oil and Gas"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516209060",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>India’s first plant to convert coal to synthetic gas will be set up in Odisha under the supervision of GAIL, the central gas transmission utility. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "uttar-pradesh-reduces-tax-levied-on-compressed-natural-gas",
+			"title": "Uttar Pradesh reduces tax levied on compressed natural gas",
+			"url": "/articles/uttar-pradesh-reduces-tax-levied-on-compressed-natural-gas/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516208880",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The state cabinet has cut value added tax (VAT) on compressed natural gas (CNG) to five cents. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "azure-power-commissions-solar-power-plant-in-telangana",
+			"title": "Azure Power commissions solar power plant in Telangana",
+			"url": "/articles/azure-power-commissions-solar-power-plant-in-telangana/",
+			"content_type": "Articles",
+			"states": ["Telangana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516208820",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Azure Power has commissioned a 100 MW solar power plant, which will supply power to NTPC for 25 years at 7 cents per kilowatt hour (kWh).</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "rec-to-financially-support-setting-up-of-a-coal-based-supercritical-thermal-power-project-in-tamil-nadu",
+			"title": "REC to financially support setting up of a coal-based supercritical thermal power project in Tamil Nadu",
+			"url": "/articles/rec-to-financially-support-setting-up-of-a-coal-based-supercritical-thermal-power-project-in-tamil-nadu/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516208640",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Rural Electrification Corporation has signed a loan agreement of $1.6 billion with the Tamil Nadu Generation and Distribution Corporation (Tangedco) primarily to set up the Udangudi Stage-I, 2x660 MW coal-based supercritical thermal power project in Tuticorin.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "maharashtra-plans-to-purchase-1000-mw-of-solar-power-in-2018",
+			"title": "Maharashtra plans to purchase 1000 MW of solar power in 2018",
+			"url": "/articles/maharashtra-plans-to-purchase-1000-mw-of-solar-power-in-2018/",
+			"content_type": "Articles",
+			"states": ["Maharashtra"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516208520",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Mahavitaran, the state power transmission company, plans to purchase 1000 MW solar power in 2018 with bids invited at four cents per unit.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "ifc-expected-to-invest-440-million-in-rewa-solar-park",
+			"title": "IFC expected to invest $440 million in Rewa solar park",
+			"url": "/articles/ifc-expected-to-invest-440-dollars-million-in-rewa-solar-park/",
+			"content_type": "Articles",
+			"states": ["Madhya Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516208280",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The International Finance Corporation is expected to invest $440 million in Rewa Ultra Mega Solar Park in Madhya Pradesh. The investment will be in the form of debt in three companies, Mahindra Renewables, Acme, and Actis, building units in the park.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "bhel-commissions-thermal-power-unit-in-bihar",
+			"title": "BHEL commissions thermal power unit in Bihar",
+			"url": "/articles/bhel-commissions-thermal-power-unit-in-bihar/",
+			"content_type": "Articles",
+			"states": ["Bihar","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516208280",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Bharat Heavy Electricals Limited (BHEL) has commissioned a 250 megawatt (MW) thermal power unit at the Barauni Extension project in Begusarai. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "andhra-pradesh-to-install-1-5-million-smart-agriculture-pump-sets-in-the-state",
+			"title": "Andhra Pradesh to install 1.5 million smart agriculture pump sets in the state",
+			"url": "/articles/andhra-pradesh-to-install-1-dot-5-million-smart-agriculture-pump-sets-in-the-state/",
+			"content_type": "Articles",
+			"states": ["Andhra Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy Efficiency"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516208160",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Andhra Pradesh government will replace 1.5 million obsolete and low-quality agriculture pump sets with smart and energy-efficient ones, costing the state $943 million.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "urja-ganga-gas-pipeline-to-be-extended-to-the-northeast",
+			"title": "Urja Ganga gas pipeline to be extended to the northeast",
+			"url": "/articles/urja-ganga-gas-pipeline-to-be-extended-to-the-northeast/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516208100",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The central government’s Urja Ganga gas pipeline will be extended by 466 miles to connect to the northeastern states. Originally, the 1,649 mile-long pipeline extended across Uttar Pradesh, Bihar, Jharkhand, Odisha, and West Bengal and aimed to be functional by 2020. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "center-launches-mobile-app-for-saubhagya-initiative",
+			"title": "Center launches mobile app for Saubhagya initiative",
+			"url": "/articles/center-launches-mobile-app-for-saubhagya-initiative/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": [],
+			"date": "January 17, 2018",
+			"posted_at": "1516208100",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Under the Saubhagya initiative, the central government has launched a mobile phone application to be used by on-the-ground officials to register the documentation required to provide on-the-spot electricity connections to 40 million families. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "seci-requests-selection-documents-for-solar-projects-in-uttar-pradesh",
+			"title": "SECI requests selection documents for solar projects in Uttar Pradesh",
+			"url": "/articles/seci-requests-selection-documents-for-solar-projects-in-uttar-pradesh/",
+			"content_type": "Articles",
+			"states": ["Uttar Pradesh","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515603240",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>SECI has issued a request for qualification documents for 275 MW of grid-connected solar power across six projects in Uttar Pradesh. The projects intend to make the city of Varanasi 100 percent powered by renewable energy. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tamil-nadu-issues-guidelines-on-scheduling-and-forecasting-for-renewable-energy",
+			"title": "Tamil Nadu issues guidelines on scheduling and forecasting for renewable energy",
+			"url": "/articles/tamil-nadu-issues-guidelines-on-scheduling-and-forecasting-for-renewable-energy/",
+			"content_type": "Articles",
+			"states": ["Tamil Nadu"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515602760",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Tamil Nadu Electricity and Regulatory Commission (TNERC) has issued draft guidelines to make scheduling and forecasting of wind and solar energy mandatory to be able to connect to the grid. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "madhya-pradesh-increases-levy-on-petrol-and-diesel",
+			"title": "Madhya Pradesh increases levy on petrol and diesel",
+			"url": "/articles/madhya-pradesh-increases-levy-on-petrol-and-diesel/",
+			"content_type": "Articles",
+			"states": ["Madhya Pradesh"],
+			"sectors": ["Energy"],
+			"subsectors": ["Oil and Gas"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515602700",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Madhya Pradesh state cabinet has approved a 0.7 cents per liter increase to the levy imposed on petrol and diesel.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "karnataka-to-deploy-electric-vehicles-in-bengaluru",
+			"title": "Karnataka to deploy electric vehicles in Bengaluru",
+			"url": "/articles/karnataka-to-deploy-electric-vehicles-in-bengaluru/",
+			"content_type": "Articles",
+			"states": ["Karnataka"],
+			"sectors": ["Energy"],
+			"subsectors": ["Energy-related Transportation"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515602400",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Karnataka is set to procure and deploy 40 electric buses, 100 four wheelers and 500 three wheelers along with setting up of charging infrastructure across the city of Bengaluru. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "tata-power-commissions-a-50-mw-solar-plant-in-karnataka",
+			"title": "Tata Power commissions a 50 MW solar plant in Karnataka",
+			"url": "/articles/tata-power-commissions-a-50-mw-solar-plant-in-karnataka/",
+			"content_type": "Articles",
+			"states": ["Karnataka"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515602220",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Tata Power Renewable Energy has commissioned a 50 MW solar plant at Pavagada Solar Park in Karnataka, to be developed under India’s domestic content requirement (DCR) category.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "800-mw-thermal-power-plant-in-karnataka-begins-commercial-generation",
+			"title": "800 MW thermal power plant in Karnataka begins commercial generation",
+			"url": "/articles/800-mw-thermal-power-plant-in-karnataka-begins-commercial-generation/",
+			"content_type": "Articles",
+			"states": ["Karnataka","Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Coal"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515602160",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>National Thermal Power Corporation’s 800 megawatt (MW) thermal power station at Kudgi in Vijayapura has commenced commercial generation and will provide 400 MW of power to Karnataka. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "haryana-mandates-all-new-residential-buildings-to-install-a-solar-pv-power-plant",
+			"title": "Haryana mandates all new residential buildings to install a solar PV power plant",
+			"url": "/articles/haryana-mandates-all-new-residential-buildings-to-install-a-solar-pv-power-plant/",
+			"content_type": "Articles",
+			"states": ["Haryana"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515602100",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Haryana New and Renewable Energy Department has made it mandatory for all new residential buildings, built on a plot size of 500 square yards and above to install solar photovoltaic (PV) power plants. This is also applicable to all new private medical facilities, educational institutions, hotels, and tourism complexes.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "bihar-cm-nitish-kumar-inaugurates-nearly-200-development-projects-across-north-bihar",
+			"title": "Bihar CM Nitish Kumar inaugurates nearly 200 development projects across North Bihar",
+			"url": "/articles/bihar-cm-nitish-kumar-inaugurates-nearly-200-development-projects-across-north-bihar/",
+			"content_type": "Articles",
+			"states": ["Bihar"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515602040",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>Bihar chief minister Nitish Kumar inaugurated and laid foundation stones for nearly 200 projects worth over $47.3 million in North Bihar as part of the “Vikas Samiksha Yatra,” a state-wide journey to assess development challenges. Among the projects inaugurated was a solar-powered mini water supply system costing the state $58,295.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "bses-rajdhani-launches-solar-city-initiative-in-delhi",
+			"title": "BSES Rajdhani launches Solar City Initiative in Delhi",
+			"url": "/articles/bses-rajdhani-launches-solar-city-initiative-in-delhi/",
+			"content_type": "Articles",
+			"states": ["Delhi"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515601980",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>BSES Rajdhani Power Limited (BRPL), one of Delhi’s power distribution companies, launched the “Solar City Initiative” in partnership with the U.S. Agency for International Development (USAID) PACE-D program and the German development bank, GIZ. Starting with 150 residential complexes in Dwarka, the initiative will allow for a single point in the entire complex for installation of solar rooftop systems.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "seci-sets-solar-power-tenders-for-andhra-pradesh-and-karnataka",
+			"title": "SECI sets solar power tenders for Andhra Pradesh and Karnataka",
+			"url": "/articles/seci-sets-solar-power-tenders-for-andhra-pradesh-and-karnataka/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations","Andhra Pradesh","Karnataka"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515601920",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The Solar Energy Corporation of India (SECI) has tendered 950 megawatts (MW) of solar power in Karnataka and Andhra Pradesh, tenders for both to be set up on a Build-Own-Operate basis.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "union-power-minister-reports-reduction-in-losses-under-uday",
+			"title": "Union power minister reports reduction in losses under UDAY",
+			"url": "/articles/union-power-minister-reports-reduction-in-losses-under-uday/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Power"],
+			"tags": [],
+			"date": "January 10, 2018",
+			"posted_at": "1515601860",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>In a response to the session of lower house of Parliament, the union power minister reported a reduction in losses of power distribution companies from $8.1 billion in the previous fiscal year to $5.8 billion in fiscal year 2017, under the center’s UDAY bailout initiative for power distribution companies. </p>\n"
+		},
+	
+		
+		
+		
+		
+		{
 			"objectID": "uttarakhand-cuts-taxes-on-diesel-and-natural-gas",
 			"title": "Uttarakhand cuts taxes on diesel and natural gas",
 			"url": "/articles/uttarakhand-cuts-taxes-on-diesel-and-natural-gas/",
@@ -1562,6 +2087,27 @@
 				"position": 4
 			},
 			"excerpt": "<p>Andhra Pradesh has agreed to buy electricity from Kadapa Solar Park, where France’s Engie had won a 250 megawatt (MW) solar auction held by the National Thermal Power Corporation (NTPC) without any buyer for the output. NTPC agreed to bundle Kadapa’s output with 125 MW capacity of thermal power, resulting in a lower overall tariff.</p>\n"
+		},
+	
+		
+		
+		
+		
+		{
+			"objectID": "cea-publishes-advisory-to-states-on-biomass-utilization",
+			"title": "CEA publishes advisory to states on biomass utilization",
+			"url": "/articles/cea-publishes-advisory-to-states-on-biomass-utilization/",
+			"content_type": "Articles",
+			"states": ["Center-State Relations"],
+			"sectors": ["Energy"],
+			"subsectors": ["Renewables"],
+			"tags": [],
+			"date": "November 24, 2017",
+			"posted_at": "1511543700",
+			"weight": {
+				"position": 4
+			},
+			"excerpt": "<p>The central electricity authority published a advisory notice to state power offices, thermal power generating units, and power equipment manufacturers regarding biomass utilization.</p>\n"
 		},
 	
 		
