@@ -25,12 +25,12 @@ sources:
 - name: 'Ministry of New and Renewable Energy: State-wise commissioning of solar power
     projects'
   url: http://mnre.gov.in/file-manager/UserFiles/grid-connected-solar-power-project-installed-capacity.pdf
-- name: 'Ministry of New and Renewable Energy: State-wise breakup of solar targets
-    to be achieved by 2022'
-  url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
 - name: 'Ministry of New and Renewable Energy: Solar Energy Installed Capacity Touched
     13652 MW '
   url: http://pib.nic.in/newsite/PrintRelease.aspx?relid=169824
+- name: 'Ministry of New and Renewable Energy: State-wise breakup of solar targets
+    to be achieved by 2022'
+  url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
 - name: 
   url: 
 ---
