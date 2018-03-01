@@ -1,5 +1,5 @@
 ---
-title: 'States Update: February 21'
+title: 'States Update: February 21, 2018'
 date: 2018-02-21 17:09:00 Z
 tags:
 - Update on India's States
