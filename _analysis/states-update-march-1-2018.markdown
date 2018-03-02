@@ -16,7 +16,7 @@ author:
 
 ADB signs $84 million water project in Bihar; Maharashtra releases draft safety and health policy for workers; UN technology innovation laboratory to be set up in Haryana; Nasscom and Telangana to set up center of excellence for data science and artificial intelligence; Uttar Pradesh launches India&#39;s first fully-digital single window clearance system; and more.
 
-**Centre-State relations**
+**Center-State relations**
 
 The Cabinet Committee on Economic Affairs approved six rail projects expected to cost $1.8 billion for new lines across Uttar Pradesh, Madhya Pradesh, Bihar and Odisha as well as doubling and electrification of two tracks. **Source:** [Livemint](http://www.livemint.com/Politics/Pr1YCILNDmX4dFzS5vMG1H/Cabinet-approves-6-rail-projects-in-Uttar-Pradesh-Bihar-and.html)
 
