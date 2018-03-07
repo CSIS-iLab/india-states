@@ -14,7 +14,7 @@ author:
 
 **Big News**
 
-BJP to form government in Tripura and be part of coalitions in Meghalaya and Nagaland; Tamil Nadu approves business facilitation act allowing delayed approvals to be considered approved; Haryana announces it bio-energy policy; Bihar and Madhya Pradesh announce their annual budgets for 2018-2019; Karnataka to provide free healthcare for below-poverty-line families; and more.
+BJP to form government in Tripura and be part of coalitions in Meghalaya and Nagaland; Tamil Nadu approves business facilitation act allowing delayed approvals to be considered approved; Haryana announces its bio-energy policy; Bihar and Madhya Pradesh announce their annual budgets for 2018-2019; Karnataka to provide free healthcare for below-poverty-line families; and more.
 
 **Center-State relations**
 
