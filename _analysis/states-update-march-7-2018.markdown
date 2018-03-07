@@ -90,7 +90,7 @@ Rajasthan chief minister Vasundhara Raje launched the $77.3 million start-up pro
 
 **Tamil Nadu**
 
-Tamil Nadu passed its business facilitation act, which automatically indicates a status of 'deemed approval' in a case of delay or non-response to applications for approvals, permits, licenses, and concessions from micro, small, and medium enterprises. **Source:** [The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/single-window-clearance-committee-for-msmes/article22914491.ece) **In Detail:** [Tamil Nadu Business Facilitation Act 2018](../../C:%5CUsers%5Cksingh%5CAppData%5CLocal%5CMicrosoft%5CWindows%5CTemporary%20Internet%20Files%5CContent.Outlook%5C3KQ6Z7N6%5CIn%20Detail:)
+Tamil Nadu passed its business facilitation act, which automatically indicates a status of 'deemed approval' in a case of delay or non-response to applications for approvals, permits, licenses, and concessions from micro, small, and medium enterprises. **Source:** [The Hindu](http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/single-window-clearance-committee-for-msmes/article22914491.ece) **In Detail:** [Tamil Nadu Business Facilitation Act 2018](http://www.investingintamilnadu.com/tamilnadu/doc/act/TBF-act-English-1912018.pdf)
 
 The Tamil Nadu government has launched a toll-free number '14417' as a 24-hour helpline for students to access services of the education guidance center. **Source:** [Indian Express](http://indianexpress.com/article/education/tamil-nadu-government-launches-24-hours-toll-free-helpline-for-education-queries-5084692/)
 
