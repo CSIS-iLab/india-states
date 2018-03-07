@@ -14,7 +14,7 @@ author:
 
 **Big News**
 
-BJP to form government in Tripura and be part of coalitions in Meghalaya and Nagaland; Tamil Nadu approves business facilitation act allowing delayed approvals to be considered approved; Haryana announces its bio-energy policy; Bihar and Madhya Pradesh announce their annual budgets for 2018-2019; Karnataka to provide free healthcare for below-poverty-line families; and more.
+BJP to form government in Tripura and be part of coalitions in Meghalaya and Nagaland; Tamil Nadu approves business facilitation act allowing delayed approvals to be considered approved; Haryana announces it bio-energy policy; Bihar and Madhya Pradesh announce their annual budgets for 2018-2019; Karnataka to provide free healthcare for below-poverty-line families; and more.
 
 **Center-State relations**
 
@@ -66,7 +66,7 @@ Bruhat Bengaluru Mahanagara Palike (BBMP), the municipal corporation for the gre
 
 According to Madhya Pradesh's economic survey, the gross state domestic product (GSDP) growth has dropped from 14.01 percent from the previous year.  to 7.3 percent. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhopal/mp-per-capita-income-registers-5-79-rise-in-economic-survey-report/articleshow/63100669.cms) **In Detail:** [Madhya Pradesh Economic Survey 2017-18](http://des.mp.gov.in/LinkClick.aspx?fileticket=dA3ay_NUQjk%3d&tabid=138&mid=1518&forcedownload=true) (In Hindi)
 
-Madhya Pradesh finance minister Jayant Malaiya presented the state budget of $30.6 billion for 2018-19. **Source:** [Business Standard](http://www.business-standard.com/article/news-ians/rs-2-lakh-crore-budget-for-2018-19-presented-in-mp-118022800500_1.html) **In Detail:** [Press Note](http://www.finance.mp.gov.in/index.htm)
+Madhya Pradesh finance minister Jayant Malaiya presented the state budget of $30.6 billion for 2018-19. **Source:** [Business Standard](http://www.business-standard.com/article/news-ians/rs-2-lakh-crore-budget-for-2018-19-presented-in-mp-118022800500_1.html) **In Detail:** [Press Note](https://openbudgetsindia.org/dataset/mp-press-release-english-2018-19/resource/c620643b-0a9d-438f-93fd-0f93c2244e76?utm_source=Members&utm_campaign=052069075c-EMAIL_CAMPAIGN_2017_05_30&utm_medium=email&utm_term=0_e842221dc2-052069075c-155429777)
 
 Madhya Pradesh hosted a workshop to discuss development its happiness index. The state has also introduced happiness and personality-development activities in 10 schools in the state on a pilot basis. **Source:** [Indian Express](http://indianexpress.com/article/education/madhya-pradesh-plans-happiness-based-activities-in-10-schools-5076058/) **In Detail:** [Agenda for International Workshop-Development of Happiness Index for state of Madhya Pradesh](https://www.anandsansthanmp.in/web_components/pdf/Anandsanthan-Workshop-Happiness-Index-Schedule.pdf)
 
