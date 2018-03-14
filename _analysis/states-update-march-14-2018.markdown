@@ -1,6 +1,8 @@
 ---
 title: 'States Update: March 14, 2018'
 date: 2018-03-14 15:38:00 Z
+tags:
+- Update on India's States
 excerpt: USTDA clears $1 million grant to power utility in Delhi; BJP inducts Biplab
   Deb as chief minister of Tripura; Haryana inaugurates an internal treasury department;
   Boeing and Telangana’s T-Hub launch innovation challenge HorizonX; Punjab and Chhattisgarh
