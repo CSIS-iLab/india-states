@@ -56,7 +56,7 @@ Karnataka chief minister Siddaramaiah announced the 'Arogya Karnataka' healthcar
 
 Chief Minister Siddaramaiah launched "Innovate Karnataka," an umbrella brand for technology innovation in the state to focus emerging technologies and setting up of various centers of excellence. **Source:** [Inc 42](https://inc42.com/buzz/karnataka-cm-launches-innovate-karnataka-technology/)
 
-The Karnataka government inaugurated the first phase of a 2,000 MW, $2.5 billion solar park in Pavagada region of Tumkur district. **Source:** [Live Mint](http://www.livemint.com/Industry/uJx6eSuVGTwZa6Y2aE5W7I/Worlds-largest-solar-park-Shakti-Sthala-inaugurated-in-Karn.html) **In Detail:**
+The Karnataka government inaugurated the first phase of a 2,000 MW, $2.5 billion solar park in Pavagada region of Tumkur district. **Source:** [Live Mint](http://www.livemint.com/Industry/uJx6eSuVGTwZa6Y2aE5W7I/Worlds-largest-solar-park-Shakti-Sthala-inaugurated-in-Karn.html)
 
 Karnataka will offer a 30 percent hike in pay to over a million pensioners and state government employees starting July 1, which will cost the state an estimated $1.6 billion annually. **Source:** [The Hindu](http://www.thehindu.com/news/national/karnataka/6th-pay-commission-recommends-30-hike-in-salaries-of-state-govt-employees/article22608654.ece)
 
