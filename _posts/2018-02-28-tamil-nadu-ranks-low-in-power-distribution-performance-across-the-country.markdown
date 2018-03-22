@@ -1,5 +1,5 @@
 ---
-title: Tamil Nadu ranks low in power distribution performance across the country
+title: Tamil Nadu ranks lowest in power distribution performance across the country
 date: 2018-02-28 19:38:00 Z
 states:
 - Tamil Nadu
