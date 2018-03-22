@@ -35,7 +35,7 @@ Bihar deputy chief minister Sushil Modi inaugurated the state&#39;s first start-
 
 Bihar, along with Energy Efficiency Services Limited (EESL), has installed 4,611 smart LED lights in Ara and will save 2.7 million kilowatt-hours of energy every year. **Source:** [Business Standard](http://www.business-standard.com/article/pti-stories/over-4-500-led-lights-installed-in-record-time-in-bihar-118031700680_1.html)
 
-**New Delhi       **
+**New Delhi**
 
 Delhi&#39;s power distribution companies (discoms) are going to procure 350 MW of wind energy at three cents per unit to meet the city&#39;s power demand. **Source:** [Hindustan Times](https://www.hindustantimes.com/delhi-news/in-a-first-delhi-to-buy-350mw-power-from-wind-farms/story-LgUNAEWqNNreRl9QwOlUkN.html)
 
@@ -89,7 +89,7 @@ Telangana presented a surplus budget for 2018-19, proposing an expenditure of $2
 
 Suzlon has announced it has commissioned 210 MW solar power generation project in Telangana through the competitive bidding process.
 
-** Uttar Pradesh**
+**Uttar Pradesh**
 
 The Uttar Pradesh state cabinet approved a proposal handing electricity distribution in five Pradesh cities- Lucknow, Meerut, Moradabad, Varanasi, and Gorakhpur- to private franchisees. **Source:** [Hindustan Times](https://www.hindustantimes.com/lucknow/lucknow-power-distribution-goes-in-private-hands/story-cJpFbhVVmKshIhH1tEVeXK.html)
 
