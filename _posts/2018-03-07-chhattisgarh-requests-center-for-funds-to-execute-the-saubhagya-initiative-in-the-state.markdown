@@ -1,7 +1,7 @@
 ---
 title: Chhattisgarh requests center for funds to execute the Saubhagya initiative
   in the state
-date: 2018-03-22 20:33:00 Z
+date: 2018-03-07 20:33:00 Z
 states:
 - Chhattisgarh
 - Center-State Relations
