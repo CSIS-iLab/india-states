@@ -1,6 +1,13 @@
 ---
 title: Uttarakhand to retain control on all power produced at the Lakhwad project
 date: 2018-02-21 19:36:00 Z
+states:
+- Uttarakhand
+- Center-State Relations
+sectors:
+- Energy
+subsectors:
+- Power
 sources:
 - name: 'Daily Pioneer
 
