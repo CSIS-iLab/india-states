@@ -1,7 +1,7 @@
 ---
 title: Adani and Essar discontinue 2000 MW power supply to Gujarat's power development
   company
-date: 2018-02-21 19:37:00 Z
+date: 2018-02-28 19:37:00 Z
 states:
 - Gujarat
 sectors:
