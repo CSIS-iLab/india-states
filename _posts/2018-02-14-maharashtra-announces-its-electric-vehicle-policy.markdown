@@ -16,7 +16,6 @@ sources:
 '
 details:
 - name: Maharashtra Electric Vehicle and Related Infrastructure Policy 2018
-  url: http://www.auric.city/wp-content/uploads/2018/03/A4-MIDC-Maharashtras-Electric-POLICY.pdf
 ---
 
 Maharashtra announced its electric vehicle policy, which includes incentives such as various levels of subsidies for consumers, a 25 percent of subsidy on the first 250 charging stations, and incentives for component and battery makers, among others.
