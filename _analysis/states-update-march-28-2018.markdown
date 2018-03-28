@@ -7,6 +7,8 @@ excerpt: Uttar Pradesh allows women to work night shifts at factories; Maharasht
   announces its ban on plastic; Telangana reduces VAT on aircraft fuel from 16 percent
   to one percent; West Bengal to develop 23 modern facilities for storage of food
   grains; Punjab eases rules on building and construction; and more.
+author:
+- Sidhanta Mehra
 ---
 
 **Big News**
