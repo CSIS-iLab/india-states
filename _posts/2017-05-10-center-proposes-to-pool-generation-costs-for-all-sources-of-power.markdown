@@ -4,6 +4,8 @@ date: 2017-05-10 13:53:00 Z
 tags:
 - Distribution
 - NTPC
+states:
+- Center-State Relations
 sectors:
 - Energy
 subsectors:
