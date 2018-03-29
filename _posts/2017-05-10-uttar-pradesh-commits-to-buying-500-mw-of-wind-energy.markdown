@@ -7,6 +7,7 @@ tags:
 - MNRE
 states:
 - Uttar Pradesh
+- Center-State Relations
 sectors:
 - Energy
 subsectors:
