@@ -6,6 +6,7 @@ tags:
 - Solar
 states:
 - Uttar Pradesh
+- Rajasthan
 sectors:
 - Energy
 subsectors:
