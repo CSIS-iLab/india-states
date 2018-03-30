@@ -7,7 +7,7 @@ tags:
 - Vizag
 - Natural Gas
 states:
-- Tamil Nadu
+- Andhra Pradesh
 sectors:
 - Energy
 subsectors:
