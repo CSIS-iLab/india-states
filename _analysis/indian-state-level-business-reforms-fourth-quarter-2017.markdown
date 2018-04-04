@@ -1,6 +1,8 @@
 ---
 title: Indian State-Level Business Reforms, Fourth Quarter 2017
 date: 2018-03-27 20:00:00 Z
+tags:
+- Indian State-Level Business Reforms
 excerpt: 'In the final quarter of 2017, India’s ruling political party gained control
   of one more state legislature and retained control in another—Himachal Pradesh (HP)
   and Gujarat, respectively. Yet, this came with a hint of caution: Central government-led
@@ -69,8 +71,6 @@ Among India’s states, there were different levels of commitment to enacting re
 
 •Madhya Pradesh and Uttar Pradesh released micro, small and medium enterprise development policies offering various incentives, including for investment in plant machinery.
 
-•In Punjab’s new industrial and business development policy, industrial power tariff was frozen at Rs5 per unit for five years.
+•In Punjab’s new industrial and business development policy, industrial power tariff was frozen at Rs 5 per unit for five years.
 
 •Maharashtra decided to offer exemptions from stamp duty and registration fees for 25 years for businesses and manufacturing units operating in special economic zones.
-
-Kartikeya Singh is deputy director and fellow, Wadhwani Chair in US-India Policy Studies, at the Center for Strategic and International Studies.
