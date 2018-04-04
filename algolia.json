@@ -7852,7 +7852,7 @@
 			"title": "APGDC to work with private company on new natural gas pipeline project",
 			"url": "/articles/apgdc-to-work-with-private-company-for-new-natural-gas-pipeline-project/",
 			"content_type": "Articles",
-			"states": ["Tamil Nadu"],
+			"states": ["Andhra Pradesh"],
 			"sectors": ["Energy"],
 			"subsectors": ["Oil and Gas"],
 			"tags": ["APGDC","Kakinada","Vizag","Natural Gas"],
@@ -8944,7 +8944,7 @@
 			"title": "Uttar Pradesh government to build a 750 MW solar plant in Rajasthan",
 			"url": "/articles/uttar-pradesh/",
 			"content_type": "Articles",
-			"states": ["Uttar Pradesh"],
+			"states": ["Uttar Pradesh","Rajasthan"],
 			"sectors": ["Energy"],
 			"subsectors": ["Power","Renewables"],
 			"tags": ["Transmission","Solar"],
@@ -9343,7 +9343,7 @@
 			"title": "Uttar Pradesh commits to buying 500 MW of wind energy",
 			"url": "/articles/uttar-pradesh-commits-to-buying-500-mw-of-wind-energy/",
 			"content_type": "Articles",
-			"states": ["Uttar Pradesh"],
+			"states": ["Uttar Pradesh","Center-State Relations"],
 			"sectors": ["Energy"],
 			"subsectors": ["Renewables"],
 			"tags": ["Wind","Tariff","MNRE"],
@@ -9490,7 +9490,7 @@
 			"title": "Center proposes to pool generation costs for all sources of power",
 			"url": "/articles/center-proposes-to-pool-generation-costs-for-all-sources-of-power/",
 			"content_type": "Articles",
-			"states": [],
+			"states": ["Center-State Relations"],
 			"sectors": ["Energy"],
 			"subsectors": ["Power"],
 			"tags": ["Distribution","NTPC"],
@@ -14196,14 +14196,14 @@
 			"content_type": "Articles",
 			"states": ["Jharkhand"],
 			"sectors": ["Energy"],
-			"subsectors": [""],
+			"subsectors": ["Power","Coal"],
 			"tags": ["Singapore","Raghubar Das"],
 			"date": "December 30, 2016",
 			"posted_at": "1483056000",
 			"weight": {
 				"position": 4
 			},
-			"excerpt": "<p>Jharkhand Chief Minister Raghubar Das visited Singapore on a three-day investment promotion trip, accompanied by a 12-member high-level delegation of government officials and business leaders. More than 80 Jharkhand companies participated in an accompanying investment road show. The sectors emphasized for investment in Jharkhand are energy, infrastructure, urban development, construction, engineering and healthcare.</p>\n"
+			"excerpt": "<p>Jharkhand chief minister Raghubar Das visited Singapore on a three-day investment promotion trip, accompanied by a 12-member high-level delegation of government officials and business leaders. More than 80 Jharkhand companies participated in an accompanying investment road show. The sectors emphasized for investment in Jharkhand are energy, infrastructure, urban development, construction, engineering and healthcare.</p>\n"
 		},
 	
 		
@@ -19589,6 +19589,29 @@
 			},
 			"authors": ["Sidhanta Mehra"],
 			"excerpt": "Uttar Pradesh allows women to work night shifts at factories; Maharashtra announces its ban on plastic; Telangana reduces VAT on aircraft fuel from 16 percent to one percent; West Bengal to develop 23 modern facilities for storage of food grains; Punjab eases rules on building and construction; and more."
+		},
+	
+		
+		
+		
+		
+		
+		{
+			"objectID": "states-update-april-4-2018",
+			"title": "States Update: April 4, 2018",
+			"url": "/analysis/states-update-april-4-2018/",
+			"content_type": "Analysis",
+			"states": [],
+			"sectors": [],
+			"subsectors": [],
+			"tags": ["Update on India's States"],
+			"date": "April 4, 2018",
+			"posted_at": "1522858560",
+			"weight": {
+				"position": 5
+			},
+			"authors": ["Sidhanta Mehra"],
+			"excerpt": "Gujarat introduces special category tariff for electric vehicle charging infrastructure; Karnataka goes in to election in May; Telangana allows private entities to set up universities; Asian Development Bank approves $80 million loan for vocation and technical education in Himachal Pradesh; NITI Aayog launches ranking for 115 districts from 28 states; and more."
 		}
 	
 ]
