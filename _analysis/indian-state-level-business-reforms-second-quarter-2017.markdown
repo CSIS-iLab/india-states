@@ -1,6 +1,8 @@
 ---
 title: Indian State-Level Business Reforms, Second Quarter 2017
 date: 2017-11-02 14:48:00 Z
+tags:
+- Indian State-Level Business Reforms
 excerpt: 'The second quarter of 2017 was an important one for India: it saw the country
   move to the cusp of the goods and services tax (GST), a landmark reform that has
   made India into a unified economic market. Several states showed positive movement
