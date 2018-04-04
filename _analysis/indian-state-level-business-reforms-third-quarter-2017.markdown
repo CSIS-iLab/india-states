@@ -8,10 +8,8 @@ excerpt: The third quarter of 2017 started with the landmark goods and services 
   that states are best positioned to drive its ongoing experiments in economic development
   and good governance, a position Prime Minister Narendra Modi supports.
 is_featured: true
-feature_image: "/uploads/oped2-kMcC--621x414@LiveMint.jpg"
-feature_image_credit: 'In the third quarter of 2017, states made digital governance
-  a focus on their reforms across a wide variety of sectors, report shows. Photo:
-  iStock'
+feature_image: "/uploads/g_oped_26th_web.jpg"
+feature_image_credit: CSIS
 sources:
 - name: Livemint
   url: http://www.livemint.com/Opinion/JL0WLSixmYuus5Olya7c6L/Indias-digitizing-states-leaders-and-laggards.html
