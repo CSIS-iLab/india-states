@@ -9,6 +9,7 @@ excerpt: 'In the final quarter of 2017, India’s ruling political party gained 
   India also hosted the first Global Entrepreneurship Summit (GES) of the Donald Trump
   administration. Global visibility and the focus on entrepreneurship percolated through
   India’s states.'
+is_featured: true
 author:
 - Kartikeya Singh
 ---
