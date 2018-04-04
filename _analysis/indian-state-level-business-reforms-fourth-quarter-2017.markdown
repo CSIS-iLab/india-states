@@ -11,6 +11,10 @@ excerpt: 'In the final quarter of 2017, India’s ruling political party gained 
   India’s states.'
 is_featured: true
 feature_image: "/uploads/w_oped.jpg"
+feature_image_credit: CSIS
+sources:
+- name: Livemint
+  url: http://bit.ly/2pLLKxC
 author:
 - Kartikeya Singh
 ---
