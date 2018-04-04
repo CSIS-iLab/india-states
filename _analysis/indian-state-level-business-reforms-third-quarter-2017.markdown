@@ -1,6 +1,8 @@
 ---
 title: Indian State-Level Business Reforms, Third Quarter 2017
 date: 2017-12-26 16:01:00 Z
+tags:
+- Indian State-Level Business Reforms
 excerpt: The third quarter of 2017 started with the landmark goods and services tax
   reform coming into effect nationwide. For the Bharatiya Janata Party, a political
   shake-up in Bihar resulted in the party expanding its control in yet another state
