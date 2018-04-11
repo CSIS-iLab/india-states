@@ -18753,7 +18753,7 @@
 			"states": [],
 			"sectors": [],
 			"subsectors": [],
-			"tags": [],
+			"tags": ["Indian State-Level Business Reforms"],
 			"date": "August 2, 2017",
 			"posted_at": "1501684020",
 			"weight": {
@@ -19098,7 +19098,7 @@
 			"states": [],
 			"sectors": [],
 			"subsectors": [],
-			"tags": [],
+			"tags": ["Indian State-Level Business Reforms"],
 			"date": "November 2, 2017",
 			"posted_at": "1509634080",
 			"weight": {
@@ -19259,7 +19259,7 @@
 			"states": [],
 			"sectors": [],
 			"subsectors": [],
-			"tags": [],
+			"tags": ["Indian State-Level Business Reforms"],
 			"date": "December 26, 2017",
 			"posted_at": "1514304060",
 			"weight": {
@@ -19581,7 +19581,7 @@
 			"states": [],
 			"sectors": [],
 			"subsectors": [],
-			"tags": [],
+			"tags": ["Indian State-Level Business Reforms"],
 			"date": "March 27, 2018",
 			"posted_at": "1522180800",
 			"weight": {
@@ -19635,6 +19635,29 @@
 			},
 			"authors": ["Sidhanta Mehra"],
 			"excerpt": "Gujarat introduces special category tariff for electric vehicle charging infrastructure; Karnataka goes in to election in May; Telangana allows private entities to set up universities; Asian Development Bank approves $80 million loan for vocation and technical education in Himachal Pradesh; NITI Aayog launches ranking for 115 districts from 28 states; and more."
+		},
+	
+		
+		
+		
+		
+		
+		{
+			"objectID": "states-update-april-11-2018",
+			"title": "States Update: April 11, 2018",
+			"url": "/analysis/states-update-april-11-2018/",
+			"content_type": "Analysis",
+			"states": [""],
+			"sectors": [],
+			"subsectors": [],
+			"tags": ["Update on India's States"],
+			"date": "April 11, 2018",
+			"posted_at": "1523474700",
+			"weight": {
+				"position": 5
+			},
+			"authors": ["Sidhanta Mehra"],
+			"excerpt": "JICA signs $1.8 billion loan agreements with India for projects in Tamil Nadu, Maharashtra, Himachal Pradesh, and the northeast; Maharashtra advances privatizing power distribution in three more cities, while Uttar Pradesh rescinds privatization; Harvard publishes study on urban air pollution in Delhi; Jharkhand first to use Oral Pentavalent vaccine to eradicate rotavirus; and more."
 		}
 	
 ]
