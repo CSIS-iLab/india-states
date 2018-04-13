@@ -11,7 +11,7 @@ feature_images:
       Berehulak/Getty Images)
 size: '8,660'
 population: 3
-party_affiliation: National People's Party (NPP)
+party_affiliation: National People's Party (NPP) & Bharatiya Janata Party (BJP)
 legislative_seats: 60
 rajya_seats: 1
 lok_seats: 2
