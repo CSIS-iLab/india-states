@@ -18539,29 +18539,6 @@
 		
 		
 		{
-			"objectID": "states-update-may-31-2017",
-			"title": "States Update: May 31, 2017",
-			"url": "/analysis/update-on-indias-states/",
-			"content_type": "Analysis",
-			"states": [],
-			"sectors": [],
-			"subsectors": [],
-			"tags": ["Update on India's States"],
-			"date": "May 31, 2017",
-			"posted_at": "1496245320",
-			"weight": {
-				"position": 5
-			},
-			"authors": ["Sarah Watson"],
-			"excerpt": "Madhya Pradesh and Tamil Nadu launch major distribution programs for energy-efficient appliances; Maharashtra waives fees for electric vehicles; ADB offers Rajasthan $500 million to improve its road network; Karnataka mandates energy-efficient pumps for those seeking new electricity connections; and more."
-		},
-	
-		
-		
-		
-		
-		
-		{
 			"objectID": "states-update-june-7-2017",
 			"title": "States Update: June 7, 2017",
 			"url": "/analysis/states-update-june-7-2017/",
@@ -19668,7 +19645,7 @@
 		{
 			"objectID": "states-update-april-18-2018",
 			"title": "States Update: April 18, 2018",
-			"url": "/analysis/indianstates.csis/",
+			"url": "/analysis/states-update-april-18-2018/",
 			"content_type": "Analysis",
 			"states": [],
 			"sectors": [],
