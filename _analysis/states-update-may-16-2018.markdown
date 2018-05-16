@@ -21,8 +21,6 @@ Key: The World Bank will provide a $200 million loan to help the Government of I
 
 The World Bank will provide a $200 million loan to help the Government of India achieve its National Nutrition Mission goal of reducing stunting in children between 0-6 years of age; the Delhi government revised its subsidy on electricity bills of domestic consumers; the largest solar power plant in Arunachal Pradesh with a capacity of one megawatt was formally inaugurated; and more.
 
-**Group A**
-
 **Center– State relations**
 
 The World Bank will provide a $200 million loan to help the government achieve its goal of reducing stunting due to malnutrition in children 0-6 years of age from 38.4 percent to 25 percent by 2022.
@@ -41,7 +39,7 @@ Nothing critical to report this week.
 
 **New Delhi**
 
-The Delhi government revised its subsidy on electricity bills of domestic consumers.  Instead of the previous rate of a flat 50 percent subsidy discount on energy consumption of up to 400 kilowatt-hour (kWh) , the cabinet approved a flat 2 cents per kWh subsidy for any domestic consumer who consumes up to 400 units a month. The cumulative subsidy will benefit 4.1 million domestic electricity consumers of Delhi.
+The Delhi government revised its subsidy on electricity bills of domestic consumers.  Instead of the previous rate of a flat 50 percent subsidy discount on energy consumption of up to 400 kilowatt-hour (kWh), the cabinet approved a flat 2 cents per kWh subsidy for any domestic consumer who consumes up to 400 units a month. The cumulative subsidy will benefit 4.1 million domestic electricity consumers of Delhi.
 
 **Source:** [**Hindustan Times**](https://www.hindustantimes.com/delhi-news/delhi-government-revises-power-users-to-get-rs-100-rebate/story-U9vF2u3n8iOsH4TeuJhQXI.html)
 
@@ -51,7 +49,7 @@ Nothing critical to report this week.
 
 **Haryana**
 
-Haryana chief minister Manohar Lal Khattar, led a delegation to the UK and signed six memorandums of understanding (MOUs) with different companies in London to facilitate investments in Haryana in diverse fields including smart cities, emerging technologies, transfer of advanced technology, setting up of an innovation center in Gurgaon, and promoting development of smart technology infrastructure with a focus on aerospace and defence companies **Source:** [**Times of India**](https://timesofindia.indiatimes.com/city/chandigarh/haryana-cm-signs-6-mous-with-uk-firms/articleshow/64142178.cms)
+Haryana chief minister Manohar Lal Khattar, led a delegation to the UK and signed six memorandums of understanding (MOUs) with different companies in London to facilitate investments in Haryana in diverse fields including smart cities, emerging technologies, transfer of advanced technology, setting up of an innovation center in Gurgaon, and promoting development of smart technology infrastructure with a focus on aerospace and defence companies. **Source:** [**Times of India**](https://timesofindia.indiatimes.com/city/chandigarh/haryana-cm-signs-6-mous-with-uk-firms/articleshow/64142178.cms)
 
 Haryana finance minister, Captain Abhimanyu, said that the state government is considering implementation of a solar-based tubewell project in the state to help farmers generate electricity and earn income.  The power subsidy of $1.03 billion will be financed by the state government.
 
@@ -59,7 +57,7 @@ Haryana finance minister, Captain Abhimanyu, said that the state government is c
 
 **Karnataka**
 
-Elections to 222 of the 224 assembly seats in Karnataka concluded peacefully, with a voter turnout exceeding 70 percent . **Source:** [**Indian Express**](http://indianexpress.com/elections/karnataka-assembly-election-2018-70-polls-big-turnouts-in-cong-jds-battlegrounds-5174625/)
+Elections to 222 of the 224 assembly seats in Karnataka concluded peacefully, with a voter turnout exceeding 70 percent. **Source:** [**Indian Express**](http://indianexpress.com/elections/karnataka-assembly-election-2018-70-polls-big-turnouts-in-cong-jds-battlegrounds-5174625/)
 
 The Karnataka Electricity Regulatory Commission (KERC) announced revision of tariffs, applicable from the start of the new financial year beginning April 1.
 
