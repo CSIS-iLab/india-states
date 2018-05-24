@@ -137,7 +137,8 @@ footer.site-footer {
       }
 
       .newsletter {
-        background-color : $color__homepage-footer-gray;
+        background-color: $color__homepage-footer-gray;
+        color: $white;
         font-family: $font__MuseoSans;
         padding: .4rem .8rem .2rem;
         display: inline-block;
@@ -175,7 +176,7 @@ footer.site-footer {
           margin-top: 0;
         }
 
-        a {
+        a:not(.newsletter) {
           color: $color__homepage-footer-gray;
           &:hover { color: $darkest-blue; }
         }
