@@ -94,6 +94,10 @@ footer.site-footer {
     @include fontSize(14px);
     color: $light-blue;
     padding: 5px 0;
+
+    a {
+      box-shadow: none;
+    }
   }
 
   /*----------  Homepage Footer  ----------*/
@@ -161,17 +165,19 @@ footer.site-footer {
       
       }
 
-     
-
-
       .footer-copyright {
         color: $color__homepage-footer-gray;
-        @include fontSize(14px);
+        @include fontSize(13px);
         padding-top: 0.5rem;
         font-family: $font__MuseoSans;
 
         div {
           margin-top: 0;
+        }
+
+        a {
+          color: $color__homepage-footer-gray;
+          &:hover { color: $darkest-blue; }
         }
 
         a:hover {
