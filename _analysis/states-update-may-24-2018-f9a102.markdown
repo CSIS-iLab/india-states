@@ -13,13 +13,14 @@ author:
 - Afeena Ashfaque
 ---
 
-Big News
+
+**Big News**
 
 World Bank approves $300 million energy efficiency program in India; Kumaraswamy, head of the Congress-JDS coalition, to become chief minister of Karnataka; Haryana signs ten MOUs with the UK entailing investment of $220 million and employment potential for around 1,000 persons; Assam and Rajasthan start implementing eWAY system; Maharashtra releases new plan to make  Mumbai slum-free; Hyderabad Metro Rail to provide electric vehicle charging at its stations.
 
 
 
-Center – State Relations
+**Center – State Relations**
 
 The World Bank approved a $300 million program to help scale India&#39;s energy efficiency program. The package comprises of a $219 million loan and a $80 million guarantee to be implemented by Energy Efficiency Services Limited (EESL).
 
@@ -35,7 +36,7 @@ The central government signed memoranda of understanding (MoUs) with five states
 
 
 
-Andhra Pradesh
+**Andhra Pradesh**
 
 The Government of Andhra Pradesh has announced a new policy to promote electric vehicles in the state. Andhra Pradesh is the first state to set a target of 1 million electric vehicles to be on the roads by 2023. Electric vehicle manufacturers will get a 10 percent capital subsidy for the first two companies setting up manufacturing units in the state.
 
@@ -45,19 +46,19 @@ The Union Cabinet cleared in-principle a proposal for setting up a central unive
 
 **Source:** [**The News Minute**](https://www.thenewsminute.com/article/union-cabinet-approves-central-university-andhra-pradesh-anantapur-district-81424)
 
-Bihar
+**Bihar**
 
 NTPC Ltd. signed an MOU with Bihar and its power utilities to acquire their entire stake in two joint ventures at Nabinagar and Kanti, as well as purchase the Barauni thermal plant.
 
 **Source:** [**Mint**](https://www.livemint.com/Companies/9d4aO48Z6UwgbRhyIIIDcN/NTPC-signs-pact-to-buy-3-projects-in-Bihar.html)
 
-New Delhi
+**New Delhi**
 
 The Union Cabinet approved the extension of the Delhi Metro corridor from Noida City Centre to Noida Sector 62, covering a distance of 4.1 miles.
 
 **Source:** [**Financial Express**](https://www.financialexpress.com/infrastructure/delhi-metro-corridor-to-be-extended-from-noida-city-centre-to-noida-sector-62-pm-modi-led-cabinet-gives-nod/1170139/)
 
-Gujarat
+**Gujarat**
 
 Gujarat Centre of Excellence, NASSCOM and IIT- Gandhinagar (IIT-Gn) signed a Memorandum of Understanding under which IIT-Gn will set up a center of excellence for Internet of Things (IoT) to encourage innovation in start-ups being set up by young entrepreneurs in the field of agriculture, and health.
 
@@ -69,13 +70,13 @@ The Gujarat government has launched an initiative to provide doorstep primary he
 
 **Source:** [**The Hindu Business Line**](https://www.thehindubusinessline.com/news/national/gujarat-launches-new-project-for-elderly-people/article23914922.ece)
 
-Haryana
+**Haryana**
 
 Haryana chief minister Manohar Lal Khattar confirmed the signing of 10 MOUs with the UK for various projects entailing investment of around $220 million with employment potential for around 1,000 persons.
 
 **Source:** [**Business World**](http://bwpeople.businessworld.in/article/MoU-s-worth-1-500-crore-have-been-signed-between-India-and-UK-with-a-high-Employment-potential-says-Harayana-CM-/17-05-2018-149498/)
 
-Karnataka
+**Karnataka**
 
 With the fall of BJP&#39;s three-day-old government in Karnataka, H.D. Kumaraswamy, head of the Congress-JDS coalition, is set to become the chief minister for a second time on May 23, 2018.
 
@@ -85,11 +86,11 @@ Renewable energy joint venture SB Energy has won 200 megawatts (MW) worth of sol
 
 **Source:** [**Economic Times**](https://economictimes.indiatimes.com/industry/energy/power/sb-energy-bags-200-mw-projects-via-seci-auction/articleshow/64227882.cms)
 
-Madhya Pradesh
+**Madhya Pradesh**
 
 Nothing critical to report this week.
 
-Maharashtra
+**Maharashtra**
 
 Maharashtra and Singapore have constituted a joint committee to work in core areas, like affordable housing, airport development and urban infrastructure.  An MOU was signed between the Pune Metropolitan Region Development Authority (PMRDA) and Singapore&#39;s Surbana Jurong for creating a master plan to tackle urban challenges and development of Pune city.
 
@@ -107,13 +108,13 @@ The Maharashtra government rolled out a new plan to make Mumbai slum-free. Accor
 
 **Source:** [**Money Control**](https://www.moneycontrol.com/news/business/real-estate/maharashtra-government-unveils-fresh-plan-for-slum-free-mumbai-2570939.html)
 
-Rajasthan
+**Rajasthan**
 
 The Rajasthan Electricity Regulatory Commission (RERC) has allowed Adani Power Rajasthan (ARPL), which runs the 1,320 MW Kawai power plant, to recover the additional cost estimated by the company at $179 million per annum since 2014, but yet to be approved by the buyer discoms.
 
 **Source:** [**Financial Express**](https://www.financialexpress.com/industry/adanis-kawai-unit-gets-major-relief/1173502/)
 
-Tamil Nadu
+**Tamil Nadu**
 
 A hydro-electricity generation project is to be established in Kattukuppai at a cost of $271.3 million
 
@@ -127,7 +128,7 @@ To increase air connectivity to major Indian cities, Tamil Nadu government said 
 
 **Source:** [**Financial Express**](https://www.financialexpress.com/infrastructure/airlines-aviation/tamil-nadu-govt-to-provide-tax-concession-on-aviation-fuel-at-city-airport-cm-k-palaniswami/1171916/)
 
-Telangana
+**Telangana**
 
 Telangana govt signed an MOU with DASAN and Celkon Hyderabad on May 18. The agreement, promoting cooperation for facilitating investments in Telangana, will generate more than 2,000 new employment opportunities in Telangana.
 
@@ -139,27 +140,27 @@ Hyderabad Metro Rail will become the first metro in the country to provide elect
 
 
 
-Uttar Pradesh
+**Uttar Pradesh**
 
 The Uttar Pradesh New and Renewable Energy Development Agency (UPNEDA) has released a tender for 75 MW rooftop solar photovoltaic projects to be installed on rooftops across the state.
 
 **Source:** [**Mercom India**](https://mercomindia.com/upneda-rooftop-tender-75mw/) **In detail:** [**E-tender Document**](http://upneda.org.in/sites/default/files/all/tenders/TDupneda.....FINAL_TENDER.pdf)
 
-West Bengal
+**West Bengal**
 
 Nothing critical to report this week.
 
 
 
-Best of the Rest
+**Best of the Rest**
 
-Himachal Pradesh
+**Himachal Pradesh**
 
 Himachal Pradesh is planning to set up a power sale control room to monitor electricity generation and revenue of the state government.
 
 **Source:** [**Economic Times**](https://energy.economictimes.indiatimes.com/news/power/himachal-pradesh-plans-to-set-up-electricity-sale-control-room/64242111)
 
-Jharkhand
+**Jharkhand**
 
 Reliance Power has transferred its entire stake in the 3,960 MW Tilaiya power plant to the state-run Jharkhand Urja Vikas Nigam for $16.5 million. The state&#39;s energy department has accepted the termination of power purchase agreement for the Tilaiya plant.
 
@@ -175,13 +176,13 @@ The State government unveiled a draft labor policy that sought to strike a delic
 
 **Source:** [**The Hindu**](http://www.thehindu.com/news/national/kerala/draft-labour-policystrikes-subtle-balance/article23904589.ece) **In detail:** [**Kerala State Labour Policy 2018**](https://www.kerala.gov.in/documents/10180/82911968-b219-4810-b412-0ecd548fb2d2) **(Malayalam)**
 
-Punjab
+**Punjab**
 
 The Punjab Government is promoting the state as a favourite destination for the food processing industry and as a global leader in export of value-added agri-produce. During the &#39;Punjab Agri and Food Conclave,&#39; A total of 25 MOUs with various entrepreneurs worth $10 million were signed. An MOU was also signed between the government and Punjab Agricultural University for transferring techniques to the food processing sector.
 
 **Source:** [**Daily Pioneer**](http://www.dailypioneer.com/state-editions/chandigarh/punjab-to-make-state-destination-for-food-processing-industries.html)
 
-Uttarakhand
+**Uttarakhand**
 
 Uttarakhand inaugurated the state&#39;s first City Gas Distribution (CGD) network at Rudrapur in Udham Singh Nagar district. It is the country&#39;s eighthCGD system. The 310 mile long pipeline will be completed by 2020 and provide employment to 2,000 people.
 
