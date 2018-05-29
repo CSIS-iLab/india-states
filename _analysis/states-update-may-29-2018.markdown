@@ -14,6 +14,7 @@ author:
 - Afeena Ashfaque
 ---
 
+
 **Big News**
 
 The Ministry of New &amp; Renewable Energy has started a renewable power purchase compliance group; World Bank Board approved a $500 million rural roads program; Maharashtra, Manipur, and five union territories rolled out intra-state e-way bill system for movement of goods over $736; Karnataka state power regulator has imposed new charges on renewable energy; new governors appointed in Odisha (Ganeshi Lal) and Mizoram (Kummanam Rajasekharan); Punjab state government is selling &quot;surplus&quot; power to states in northern India.
@@ -22,9 +23,7 @@ The Ministry of New &amp; Renewable Energy has started a renewable power purchas
 
 The Ministry of New and Renewable Energy (MNRE) has started a renewable purchase obligations (RPO) compliance cell to ensure all States adhere to the RPO targets defined by the government till 2022. The government&#39;s target of achieving 175 gigawatts (GW) of renewable energy by 2022 is also associated with the fulfilment of RPO of state distribution companies (discoms). **Source:** [**The Hindu Business Line**](https://www.thehindubusinessline.com/economy/policy/reneweable-energy-ministry-creates-purchase-obligations-compliance-cell-to-meet-targets/article24006348.ece)
 
-The World Bank Board of Executive Directors approved a $500 million additional financing for the Pradhan Mantri Gram Sadak Yojana (PMGSY) Rural Roads Project which will build 4350 miles of climate resilient roads. The World Bank has invested over $1.8 billion in loans and credits mostly in the economically weaker and hill states across northern India - Bihar, Himachal Pradesh, Jharkhand, Meghalaya, Rajasthan, Uttarakhand, and Uttar Pradesh.
-
- **Source:** [**World Bank Press Release**](http://www.worldbank.org/en/news/press-release/2018/05/25/world-bank-board-approves-usd500-million-additional-financing-all-weather-rural-roads-using-green-technologies)
+The World Bank Board of Executive Directors approved a $500 million additional financing for the Pradhan Mantri Gram Sadak Yojana (PMGSY) Rural Roads Project which will build 4350 miles of climate resilient roads. The World Bank has invested over $1.8 billion in loans and credits mostly in the economically weaker and hill states across northern India - Bihar, Himachal Pradesh, Jharkhand, Meghalaya, Rajasthan, Uttarakhand, and Uttar Pradesh.**Source:** [**World Bank Press Release**](http://www.worldbank.org/en/news/press-release/2018/05/25/world-bank-board-approves-usd500-million-additional-financing-all-weather-rural-roads-using-green-technologies)
 
 Maharashtra, Manipur and five union territories (Chandigarh, Andaman and Nicobar Islands, Dadra &amp; Nagar Haveli, Daman &amp; Diu, and Lakshadweep) rolled out intra-state electronic way (e-way) bill system for movement of goods worth over $736 within the state. The Goods and Services Tax (GST) Council announced the e-way bill starting with inter-state from April 1 and intra-state from April 15, this will help boost tax collections by clamping down on cash based trade. **Source:** [**Financial Express**](https://www.financialexpress.com/economy/7-states-union-territories-to-roll-out-intra-state-e-way-bill-tomorrow/1180055/)
 
@@ -84,9 +83,7 @@ The state-owned Neyveli Lignite Corporation India has commissioned 300 MW of gri
 
 **Telangana**
 
-Life Insurance Corporation of India will implement an insurance program for farmers in Telangana starting August 15. Farmers will get an insurance cover of $7,360 each. The Agriculture Department will prepare a list of eligible farmers, and pay the premium.
-
-**Source:** [**The Hindu Business Line**](https://www.thehindubusinessline.com/news/telangana-cabinet-clears-major-life-insurance-scheme-for-farmers/article24007296.ece)
+Life Insurance Corporation of India will implement an insurance program for farmers in Telangana starting August 15. Farmers will get an insurance cover of $7,360 each. The Agriculture Department will prepare a list of eligible farmers, and pay the premium.**Source:** [**The Hindu Business Line**](https://www.thehindubusinessline.com/news/telangana-cabinet-clears-major-life-insurance-scheme-for-farmers/article24007296.ece)
 
 **Uttar Pradesh**
 
@@ -95,8 +92,6 @@ Prime Minister Narendra Modi inaugurated two important highways, the 14-lane Del
 **West Bengal**
 
 The state power department has started using SEEDN technology for strengthening the power distribution system which  emphasizes on quick identification of faults in electricity supply lines. **Source:** [**Millennium Post**](http://www.millenniumpost.in/kolkata/state-adopts-new-tech-to-strengthen-power-distribution-system-301284)
-
-
 
 **Best of the rest**
 
@@ -139,6 +134,4 @@ The state cabinet approved four rural water projects worth $63 million which wou
 **Punjab**
 
 The Punjab state government is selling &quot;surplus&quot; power to states in northern India facing an acute shortage of power because of low availability of coal at a rate of between 1.03 cents and 1.17 cents per unit, making a profit of 66 percent on the cost of generation. **Source:** [**Tribune India**](http://www.tribuneindia.com/news/punjab/govt-sees-big-money-in-power-trade/594028.html)
-
-
 
