@@ -29,7 +29,7 @@ Maharashtra, Manipur and five union territories (Chandigarh, Andaman and Nicobar
 
 **Andhra Pradesh**
 
-The Andhra Pradesh government has initiated Micro, Small and Medium Enterprises Parks Policy (M Parks) with the objective of creating at least 200 such parks across the state by the year 2023.Each M-Park will have an investment of $33.1 million to create 1,500 jobs in each of the 175 assembly constituencies. **Source:** [**Money Control**](https://www.moneycontrol.com/news/business/andhra-pradesh-govt-plans-msme-parks-in-every-assembly-segment-2572131.html) **;** [**MSME Policy Andhra Pradesh**](https://www.apindustries.gov.in/VCIC/Data/PolicyDocuments/MSME_Policy_2015_20_Booklet_Final_July_08_2015.pdf) **;  ** [**Life Cycle Strategy for Development of MSME Sector**](https://www.apindustries.gov.in/APIndus/Data/170627_Lifecycle_Strategy.pdf)
+The Andhra Pradesh government has initiated Micro, Small and Medium Enterprises Parks Policy (M Parks) with the objective of creating at least 200 such parks across the state by the year 2023.Each M-Park will have an investment of $33.1 million to create 1,500 jobs in each of the 175 assembly constituencies. **Source:** [**Money Control**](https://www.moneycontrol.com/news/business/andhra-pradesh-govt-plans-msme-parks-in-every-assembly-segment-2572131.html;[**MSME Policy Andhra Pradesh**](https://www.apindustries.gov.in/VCIC/Data/PolicyDocuments/MSME_Policy_2015_20_Booklet_Final_July_08_2015.pdf) **;  ** [**Life Cycle Strategy for Development of MSME Sector**](https://www.apindustries.gov.in/APIndus/Data/170627_Lifecycle_Strategy.pdf)
 
 **Bihar**
 
