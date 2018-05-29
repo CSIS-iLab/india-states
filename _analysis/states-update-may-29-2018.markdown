@@ -5,7 +5,7 @@ tags:
 - Update on India's States
 excerpt: The Ministry of New & Renewable Energy has started a renewable power purchase
   compliance group; World Bank Board approved a $500 million rural roads program;
-  Maharashtra, Manipur and five union territories rolled out intra-state e-way bill
+  Maharashtra, Manipur, and five union territories rolled out intra-state e-way bill
   system for movement of goods over $736; Karnataka state power regulator has imposed
   new charges on renewable energy; new governors appointed in Odisha (Ganeshi Lal)
   and Mizoram (Kummanam Rajasekharan); Punjab state government is selling “surplus”
@@ -16,9 +16,8 @@ author:
 
 **Big News**
 
-The Ministry of New &amp; Renewable Energy has started a renewable power purchase compliance group; World Bank Board approved a $500 million rural roads program; Maharashtra, Manipur and five union territories rolled out intra-state e-way bill system for movement of goods over $736; Karnataka state power regulator has imposed new charges on renewable energy; new governors appointed in Odisha (Ganeshi Lal) and Mizoram (Kummanam Rajasekharan); Punjab state government is selling &quot;surplus&quot; power to states in northern India.
+The Ministry of New &amp; Renewable Energy has started a renewable power purchase compliance group; World Bank Board approved a $500 million rural roads program; Maharashtra, Manipur, and five union territories rolled out intra-state e-way bill system for movement of goods over $736; Karnataka state power regulator has imposed new charges on renewable energy; new governors appointed in Odisha (Ganeshi Lal) and Mizoram (Kummanam Rajasekharan); Punjab state government is selling &quot;surplus&quot; power to states in northern India.
 
-**Group A**
 
 # State - Center relations
 
@@ -165,3 +164,4 @@ The state cabinet approved four rural water projects worth $63 million which wou
 The Punjab state government is selling &quot;surplus&quot; power to states in northern India facing an acute shortage of power because of low availability of coal at a rate of between 1.03 cents and 1.17 cents per unit, making a profit of 66 percent on the cost of generation. **Source:** [**Tribune India**](http://www.tribuneindia.com/news/punjab/govt-sees-big-money-in-power-trade/594028.html)
 
 ** **
+
