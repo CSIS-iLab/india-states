@@ -95,11 +95,9 @@ The state power department has started using SEEDN technology for strengthening 
 
 **Assam**
 
-A 70 MW Lakwa replacement power project was inaugurated in Upper Assam. The project is implemented by Wartsila India Private Limited and Assam Power Generation Company Limited.   **Source:** [**The Telegraph**](https://www.telegraphindia.com/states/north-east/power-plant-launched-233303)
+A 70 MW Lakwa replacement power project was inaugurated in Upper Assam. The project is implemented by Wartsila India Private Limited and Assam Power Generation Company Limited. **Source:** [**The Telegraph**](https://www.telegraphindia.com/states/north-east/power-plant-launched-233303)
 
-Assam Government signed a Memorandum of Understanding (MOU) with the Government of the Sakhalin Region (Russian Federation) on Trade-Economic, Scientific-Technical, and Humanitarian Cooperation during the St Petersburg International Economic Forum.
-
-**Source:** [**North East Now**](https://nenow.in/north-east-news/assam-signs-mou-sakhalin-region-russian-federation.html)
+Assam Government signed a Memorandum of Understanding (MOU) with the Government of the Sakhalin Region (Russian Federation) on Trade-Economic, Scientific-Technical, and Humanitarian Cooperation during the St Petersburg International Economic Forum.**Source:** [**North East Now**](https://nenow.in/north-east-news/assam-signs-mou-sakhalin-region-russian-federation.html)
 
 **Chhattisgarh**
 
