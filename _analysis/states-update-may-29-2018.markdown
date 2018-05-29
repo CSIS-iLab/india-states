@@ -54,15 +54,9 @@ The Gujarat government is coming up with a new water recycling policy where civi
 
 **Source:** [**Times of India**](https://timesofindia.indiatimes.com/india/gujarats-new-water-recycling-policy-set-to-be-unveiled/articleshow/64348193.cms) **;** [**The Gujarat State Water Policy 2015**](https://guj-nwrws.gujarat.gov.in/downloads/draft_state_water_policy_eng_2015.pdf) **;** [**A Report on Review of Draft Gujarat State Water Policy in line with National Water Policy - 2012**](https://www.gwp.org/globalassets/global/gwp-sas_files/cwp-reports/report-on-review-of-draft-gujarat-state-water-policy-in-line-with-national-water-policy-2012.pdf)
 
-** **
-
 **Haryana  **
 
-** **
-
 Nothing critical to report this week.
-
-
 
 **Karnataka**
 
@@ -72,8 +66,6 @@ The new order passed by the Karnataka state power regulator has imposed transmis
 
 **Madhya Pradesh**
 
-
-
 The Madhya Pradesh Cabinet cleared a proposal to hike the pension amount by more than double as per the Seventh Pay Commission recommendations. **Source:** [**Zee Business**](http://www.zeebiz.com/india/news-7th-pay-commission-these-4-lakh-pensioners-to-get-benefits-48333)
 
 **Maharashtra**
@@ -82,11 +74,7 @@ Nothing critical to report this week.
 
 **Rajasthan**
 
-
-
 Nothing critical to report this week.
-
-
 
 **Tamil Nadu**
 
@@ -114,7 +102,7 @@ The state power department has started using SEEDN technology for strengthening 
 
 **Assam**
 
-## A 70 MW Lakwa replacement power project was inaugurated in Upper Assam. The project is implemented by Wartsila India Private Limited and Assam Power Generation Company Limited.   **Source:** [**The Telegraph**](https://www.telegraphindia.com/states/north-east/power-plant-launched-233303)
+A 70 MW Lakwa replacement power project was inaugurated in Upper Assam. The project is implemented by Wartsila India Private Limited and Assam Power Generation Company Limited.   **Source:** [**The Telegraph**](https://www.telegraphindia.com/states/north-east/power-plant-launched-233303)
 
 Assam Government signed a Memorandum of Understanding (MOU) with the Government of the Sakhalin Region (Russian Federation) on Trade-Economic, Scientific-Technical, and Humanitarian Cooperation during the St Petersburg International Economic Forum.
 
