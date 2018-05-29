@@ -51,7 +51,7 @@ National Institute of Wind Energy has extended the deadline for submission of ex
 
 The Gujarat government is coming up with a new water recycling policy where civic agencies of its big cities and class A municipalities (having population of more than hundred thousand) will be required to reuse every drop of treated water.**Source:** [**Times of India**](https://timesofindia.indiatimes.com/india/gujarats-new-water-recycling-policy-set-to-be-unveiled/articleshow/64348193.cms) **;** [**The Gujarat State Water Policy 2015**](https://guj-nwrws.gujarat.gov.in/downloads/draft_state_water_policy_eng_2015.pdf) **;** [**A Report on Review of Draft Gujarat State Water Policy in line with National Water Policy - 2012**](https://www.gwp.org/globalassets/global/gwp-sas_files/cwp-reports/report-on-review-of-draft-gujarat-state-water-policy-in-line-with-national-water-policy-2012.pdf)
 
-**Haryana  **
+**Haryana**
 
 Nothing critical to report this week.
 
