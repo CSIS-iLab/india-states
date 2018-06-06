@@ -1,5 +1,5 @@
 ---
-title: States Update:June 6, 2018
+title: 'States Update: June 6, 2018'
 date: 2018-06-06 14:20:00 Z
 tags:
 - Update on India's States
