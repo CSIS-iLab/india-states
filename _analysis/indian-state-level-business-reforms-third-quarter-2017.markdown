@@ -9,7 +9,7 @@ excerpt: The third quarter of 2017 started with the landmark goods and services 
   assembly—and this is important. There’s an increasingly widespread understanding
   that states are best positioned to drive its ongoing experiments in economic development
   and good governance, a position Prime Minister Narendra Modi supports.
-is_featured: true
+is_featured: false
 feature_image: "/uploads/g_oped_26th_web.jpg"
 feature_image_credit: CSIS
 sources:
