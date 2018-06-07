@@ -21,6 +21,7 @@ details:
   url: 
 author:
 - Kartikeya Singh
+layout: post
 ---
 
 When analyzing reforms enacted by India’s states in the first quarter of 2018, the Wadhwani chair in US–India Policy Studies at the Center for Strategic and International Studies (CSIS) uncovered that from January-March, India’s states were most busy in enacting reforms and initiating projects in infrastructure (including energy and transportation), and administration and governance. States from Jammu and Kashmir to Kerala and Rajasthan to Mizoram were active in this first quarter and a snapshot of these reforms are outlined below. States leading the charge with the highest number of reforms enacted in this period include Maharashtra with 19, Haryana with 16 and Uttar Pradesh (UP) with 12. A focused look at Karnataka ahead of elections reveals that the incumbent government enacted a total of eight new reforms or projects in this quarter. With an eye towards the elections, the reforms and projects initiated by the Congress government included those that would have an impact on people’s daily lives.
