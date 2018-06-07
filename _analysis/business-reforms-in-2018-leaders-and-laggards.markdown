@@ -1,5 +1,5 @@
 ---
-title: 'Business reforms in 2018: leaders and laggards'
+title: Indian State-Level Business Reforms, First Quarter 2018
 date: 2018-05-29 14:29:00 Z
 tags:
 - Indian State-Level Business Reforms
