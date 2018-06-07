@@ -9,6 +9,7 @@ excerpt: India’s states were most busy enacting reforms and initiating project
   Haryana with 16 and Uttar Pradesh (UP) with 12. A focused look at Karnataka ahead
   of elections reveals that the incumbent government enacted a total of eight new
   reforms or projects in this quarter.
+is_featured: true
 feature_image: "/uploads/w-states-kfNF--414x621@LiveMint.jpg"
 feature_image_credit: CSIS
 sources:
