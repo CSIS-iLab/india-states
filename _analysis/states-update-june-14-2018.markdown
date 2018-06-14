@@ -40,9 +40,9 @@ The energy department&#39;s proposal for strengthening power utilities with an i
 
 The Andhra Pradesh Capital Region Development Authority and Singapore Amaravati Investments Holding Ltd. signed a concession and development agreement to develop the 684 hectare start-up area along the Krishna river waterfront in the capital of Amaravati.
 
-**Source:** [**Times of India**](https://timesofindia.indiatimes.com/city/vijayawada/agreement-signed-for-andhra-pradesh-start-up-area/articleshow/64504502.cms) **;
+**Source:** [**Times of India**](https://timesofindia.indiatimes.com/city/vijayawada/agreement-signed-for-andhra-pradesh-start-up-area/articleshow/64504502.cms) 
 
-**In detail:** [**Amaravati Project Report (3rd Edition**](https://crda.ap.gov.in/crda_norifications/NOT12085176/01~APCRDA%20Project%20status%20Report%20Edition-3.pdf) [
+**In detail:** [**Amaravati Project Report (3rd Edition)**](https://crda.ap.gov.in/crda_norifications/NOT12085176/01~APCRDA%20Project%20status%20Report%20Edition-3.pdf) 
 
 
 **Bihar**
