@@ -215,4 +215,4 @@ After more than two decades, the Punjab government may start charging rich farme
 
 **Source:** [**Financial Express**](https://www.financialexpress.com/economy/punjab-panel-let-rich-farmers-pay-for-power/1195090/)
 
-**In detail:** [**Punjab  Farmers&#39; Policy**](http://psfc.org.in/english.pdf)
+**In detail:** [**Punjab  Farmers'Policy**](http://psfc.org.in/english.pdf)
