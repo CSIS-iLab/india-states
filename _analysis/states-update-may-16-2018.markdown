@@ -111,7 +111,7 @@ The largest solar power plant in the state was formally inaugurated by chief min
 
 The Himachal Pradesh government has approved amendments in the hydro power policy with a view to reviving 737 stalled projects of 5,500 MW capacity and attracting investors for new projects. The state cabinet decided to make it mandatory for the State Electricity Board to purchase power produced by hydro projects with capacity up to 10 MW.
 
-**Source:** [**Economic Times**](https://energy.economictimes.indiatimes.com/news/power/himachal-pradesh-approves-amendments-in-hydro-policy-to-promote-investment/64092306)
+**Source:** [**Economic Times**](https://energy.economictimes.indiatimes.com/news/power/himachal-pradesh-approves-amendments-in-hydro-policy-to-promote-investment/64092306)**In detail:** [Hydro Power Policy Amendment](http://www.cogitasia.com/wp-content/uploads/2018/07/HP-Hydro-Power-Policy-Notice1.pdf)
 
 **Kerala**
 
