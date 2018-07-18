@@ -21,7 +21,7 @@ Niti Aayog proposes 15-point action plan called &quot;Breathe India&quot; to com
 
 **Center – State relations**
 
-Niti Aayog has proposed 15-point action plan for combating air pollution in the ten most polluted cities in the country. The draft action plan titled &#39;Breathe India&#39; includes encouraging electric vehicles, phasing out private diesel vehicle and development of crop residue utilization policy. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/policy/niti-aayog-proposes-15-point-action-plan-to-deal-with-air-pollution/articleshow/64950770.cms) **In detail:** [Breath India](http://niti.gov.in/writereaddata/files/document_publication/BreatheBooklet11thJuly.pdf)
+Niti Aayog has proposed 15-point action plan for combating air pollution in the ten most polluted cities in the country. The draft action plan titled &#39;Breathe India&#39; includes encouraging electric vehicles, phasing out private diesel vehicle and development of crop residue utilization policy. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/policy/niti-aayog-proposes-15-point-action-plan-to-deal-with-air-pollution/articleshow/64950770.cms) **In detail:** [Breathe India](http://niti.gov.in/writereaddata/files/document_publication/BreatheBooklet11thJuly.pdf)
 
 Union Home Minister Rajnath Singh attended the 67th Plenary Session of the North Eastern Council in Shillong, stressing the importance of skill development, increasing investment, and infrastructure but completely sidestepped the issue of militancy plaguing the Northeast.
 
