@@ -37,15 +37,13 @@ Nothing critical to report this week.
 
 To increase the income of farmers in the national capital by three times, the Delhi government has approved a farm solar power scheme to provide an additional income of $1,455 per acre per year to farmers. **Source:** [Live Mint](https://www.livemint.com/Politics/xDY0nbEUJ2K8Zom6ageoQP/Kejriwal-govt-approves-scheme-for-farmers-to-earn-by-leasing.html)
 
-Dutch science agency Department of Biotechnology and NOW, the Indian Institute of Technology – Delhi, The Energy and Resources Institute (TERI), and the National Environmental Engineering Research Institute (NEERI) have undertaken a joint venture to bring dynamic changes in the way sewage is treated in India by launching &quot;Local Treating of Urban Sewage Streams for Healthy Reuse&quot; or &quot;LOTUS HR&quot; at Delhi&#39;s Barapullah drain. ** Source:** [Financial Express](https://www.financialexpress.com/india-news/this-indo-dutch-collaboration-in-delhi-could-change-sewage-treatment-process-in-india/1256086/) **In detail:** [LOTUS HR](http://www.iitd.ac.in/content/local-treatment-urban-sewage-streams-healthy-reuse-lotushr-cleaning-barapullah-drain)
+Dutch science agency Department of Biotechnology and NOW, the Indian Institute of Technology – Delhi, The Energy and Resources Institute (TERI), and the National Environmental Engineering Research Institute (NEERI) have undertaken a joint venture to bring dynamic changes in the way sewage is treated in India by launching &quot;Local Treating of Urban Sewage Streams for Healthy Reuse&quot; or &quot;LOTUS HR&quot; at Delhi&#39;s Barapullah drain. **Source:** [Financial Express](https://www.financialexpress.com/india-news/this-indo-dutch-collaboration-in-delhi-could-change-sewage-treatment-process-in-india/1256086/) **In detail:** [LOTUS HR](http://www.iitd.ac.in/content/local-treatment-urban-sewage-streams-healthy-reuse-lotushr-cleaning-barapullah-drain)
 
 **Gujarat**
 
 The Gujarat government submitted a memorandum to the 15th Finance Commission asking for compensation for the revenue loss of over $1.3 billion annually due to prohibition of alcohol in the state. **Source:** [Financial Express](https://www.financialexpress.com/economy/need-compensation-for-prohibition-loss-gujarat-to-15th-finance-commission/1255470/)
 
-Gujarat chief minister Vijay Rupani released the state&#39;s Urban Sanitation and Cleanliness Policy for better management of solid and liquid waste in cities, which seeks to streamline collection and disposal of all kinds of waste in cities and towns, as well as convert solid waste into fuel to generate &quot;green energy.&quot;
-
-**Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-govt-announces-urban-sanitation-and-cleanliness-policy/articleshow/65162872.cms)
+Gujarat chief minister Vijay Rupani released the state&#39;s Urban Sanitation and Cleanliness Policy for better management of solid and liquid waste in cities, which seeks to streamline collection and disposal of all kinds of waste in cities and towns, as well as convert solid waste into fuel to generate &quot;green energy.&quot; **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-govt-announces-urban-sanitation-and-cleanliness-policy/articleshow/65162872.cms)
 
 **Haryana**
 
@@ -89,9 +87,7 @@ The Uttar Pradesh state government has signed a Memorandum of Understanding (MOU
 
 Following the high solar tariff of 5 cents per kilowatt hour, or unit, bid at an auction for 1,000 MW in grid-connected solar projects conducted by the Uttar Pradesh New and Renewable Energy Development Agency (UPNEDA), the state government has canceled the auction and will be conducting another bid. **Source:** [Financial Express](https://www.financialexpress.com/industry/uttar-pradesh-cancels-july-10-solar-auction-on-high-tariff/1261159/) **In detail** : [Original Tender](http://www.upneda.org.in/sites/default/files/all/tenders/TDupneda.....FINAL_TENDER.pdf)
 
-UPNEDA has retendered 500 MW of grid-connected solar photovoltaic (PV) capacity to be developed across Uttar Pradesh. Officials stated that, &quot;Now, instead of tendering 1 GW at once, we have split the capacity into two tenders of 500 MW each. Once the first 500 MW is auctioned, only then will we issue the tender for the other 500 MW.&quot; **Source:** [Mercom](https://mercomindia.com/uttar-pradesh-retenders-500-mw-solar/)
-
-**In detail:** [Notice](http://www.upneda.org.in/sites/default/files/all/section/Notice_26-7-2018.pdf) for Tender
+UPNEDA has retendered 500 MW of grid-connected solar photovoltaic (PV) capacity to be developed across Uttar Pradesh. Officials stated that, &quot;Now, instead of tendering 1 GW at once, we have split the capacity into two tenders of 500 MW each. Once the first 500 MW is auctioned, only then will we issue the tender for the other 500 MW.&quot; **Source:** [Mercom](https://mercomindia.com/uttar-pradesh-retenders-500-mw-solar/) **In detail:** [Notice](http://www.upneda.org.in/sites/default/files/all/section/Notice_26-7-2018.pdf) for Tender
 
 **West Bengal**
 
@@ -133,7 +129,7 @@ The Odisha government is vehemently opposed to the center&#39;s latest approach 
 
 **Punjab**
 
-The Punjab government has approved renewable energy projects worth $14.5 million, according to the state minister for power and new and renewable energy sources, Gurpreet Singh Kangar . The approvals include nine small hydro projects with the combined 5.55 MW capacity, one bio- compressed natural gas project, and a bio-coal plant. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/renewable/punjab-approves-renewable-projects-of-rs-100-crore/65151172) **In detail:** [Press Release](http://punjab.gov.in/key-initiative?view=show&amp;pp_id=30688)
+The Punjab government has approved renewable energy projects worth $14.5 million, according to the state minister for power and new and renewable energy sources, Gurpreet Singh Kangar. The approvals include nine small hydro projects with the combined 5.55 MW capacity, one bio- compressed natural gas project, and a bio-coal plant. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/renewable/punjab-approves-renewable-projects-of-rs-100-crore/65151172) **In detail:** [Press Release](http://punjab.gov.in/key-initiative?view=show&amp;pp_id=30688)
 
 Energy Efficiency Services (EESL) announced it has started distribution of energy efficient appliances through post offices of Punjab and Chandigarh, following an agreement between the Department of Posts and EESL. **Source:** [CNBC](https://www.cnbctv18.com/energy/eesl-starts-distribution-of-energy-efficient-items-via-post-offices-377221.htm)
 
