@@ -1,6 +1,8 @@
 ---
 title: 'States Update: August 1, 2018'
 date: 2018-08-01 17:48:00 Z
+tags:
+- Update on India's States
 excerpt: Uttar Pradesh, Jharkhand, and Maharashtra will conduct a survey on water
   sanitation in all districts to rank water sanitation levels; the West Bengal assembly
   passes a resolution to rename the state as ‘Bangla;’ the Government of Goa announces
