@@ -19,9 +19,7 @@ Uttar Pradesh, Jharkhand, and Maharashtra will conduct a survey on water sanitat
 
 **Center – State relations**
 
-The center has approved construction of nearly 267,000 more affordable houses for the poor in 10 states under the Pradhan Mantri Awas Yojna (Urban). Madhya Pradesh, Gujarat, and Maharashtra have been allocated over 50,000 housing units each. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/nearly-2-67-lakh-more-houses-sanctioned-for-urban-poor-in-10-states-under-pmayu/articleshow/65122410.cms)
-
-**In detail:** [Press Release](http://pib.nic.in/newsite/erelease.aspx?relid=180968)
+The center has approved construction of nearly 267,000 more affordable houses for the poor in 10 states under the Pradhan Mantri Awas Yojna (Urban). Madhya Pradesh, Gujarat, and Maharashtra have been allocated over 50,000 housing units each. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/nearly-2-67-lakh-more-houses-sanctioned-for-urban-poor-in-10-states-under-pmayu/articleshow/65122410.cms) **In detail:** [Press Release](http://pib.nic.in/newsite/erelease.aspx?relid=180968)
 
 Three states – Uttar Pradesh, Jharkhand, and Maharashtra – launched the Swachh Survekshan Grameen 2018 (SSG 2018) announced by the Ministry of Drinking Water and Sanitation on July 13, 2018. Under the SSG 2018, an independent survey agency will conduct a survey on water sanitation in all districts in August 2018, and the results will be announced in the form of a ranking of all districts and states on the basis of quantitative and qualitative metrics. **Source:** [5 Dariya News](http://www.5dariyanews.com/news/239050-Swachh-Survekshan-Grameen-launched-in-UP-Jharkhand-and-Maharashtra) **In detail:** [Press Release](http://pib.nic.in/newsite/erelease.aspx?relid=180918)
 
