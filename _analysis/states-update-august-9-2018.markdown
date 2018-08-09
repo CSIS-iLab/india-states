@@ -72,7 +72,7 @@ State Minister Babanrao Lonikar announced that the Maharashtra government has ap
 
 **Rajasthan**
 
-The Rajasthan government has written to the ministry, objecting to key amendments to the Electricity Tariff Policy, 2016, such as the penalty proposed for gratuitous load shedding as well as the targets and time-lines set for discoms to have long-term power purchase agreements (PPAs) and comply with renewable purchase obligations.
+The Rajasthan government has written to the power ministry, objecting to key amendments to the Electricity Tariff Policy, 2016, such as the penalty proposed for gratuitous load shedding as well as the targets and time-lines set for discoms to have long-term power purchase agreements (PPAs) and comply with renewable purchase obligations.
 
 Source: [Financial Express](https://www.financialexpress.com/economy/electricity-tariff-policy-discoms-object-to-new-plans-rajasthan-opposes-penalty-for-gratuitous-load-shedding/1262639/)
 
