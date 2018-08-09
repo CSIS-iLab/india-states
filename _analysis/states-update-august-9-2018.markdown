@@ -1,6 +1,8 @@
 ---
 title: 'States Update: August 9, 2018'
 date: 2018-08-09 13:52:00 Z
+tags:
+- Update on India's States
 excerpt: 'Solar Energy Corporation of India cancels a 2,000-megawatt (MW) wind power
   tender due to under subscription; Karnataka makes progress on its state education
   policy; Jammu and Kashmir approves its first-ever trade and export policy; Rajasthan
