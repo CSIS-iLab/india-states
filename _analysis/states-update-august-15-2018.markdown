@@ -49,9 +49,7 @@ The Gujarat government announced eight schemes to provide financial assistance f
 
 Haryana emerged as among the top five states of the country in exports, registering exports of $2.4 billion in the first two months of the current financial year. **Source:** [The Tribune](https://www.tribuneindia.com/news/haryana/haryana-overtakes-up-in-exports-ranks-5th-in-country/634988.html)
 
-Haryana government has signed a Memorandum of Agreement with the United Nations Development Programme to establish the Sustainable Development Goals Coordination Center in the state.
-
-**Source:** [The Statesman](https://www.thestatesman.com/cities/haryana-govt-signs-moa-with-undp-for-sdgcc-1502670521.html) **In detail:** [Press Release](http://prharyana.gov.in/en/a-memorandum-of-agreement-moa-to-establish-the-sustainable-development-goals-coordination-0), [Sustainable development goals budget allocation 2018-19](http://web1.hry.nic.in/budget/SDGGoals.pdf), [Government of Haryana – Vision 2030](http://esaharyana.gov.in/Portals/0/undp-2030.pdf)
+Haryana government has signed a Memorandum of Agreement with the United Nations Development Programme to establish the Sustainable Development Goals Coordination Center in the state. **Source:** [The Statesman](https://www.thestatesman.com/cities/haryana-govt-signs-moa-with-undp-for-sdgcc-1502670521.html) **In detail:** [Press Release](http://prharyana.gov.in/en/a-memorandum-of-agreement-moa-to-establish-the-sustainable-development-goals-coordination-0), [Sustainable development goals budget allocation 2018-19](http://web1.hry.nic.in/budget/SDGGoals.pdf), [Government of Haryana – Vision 2030](http://esaharyana.gov.in/Portals/0/undp-2030.pdf)
 
 **Karnataka**
 
