@@ -21,9 +21,7 @@ The government has approved the launch of &quot;Scale Up of Access to Clean Ener
 
 **Andhra Pradesh**
 
-China&#39;s Holitech Group announced it will set up a production facility in Tirupati, Andhra Pradesh, with an investment of $200 million to supply mobile phone components like camera modules and touch panels to smartphone major Xiaomi. **Source:** [Financial Express](https://www.financialexpress.com/economy/chinese-boost-to-make-in-india-xiaomis-component-supplier-holitech-to-invest-rs-1400-crore-in-this-state/1271417/)
-
-**In detail:** [Press Release](http://www.holitech.net/en/news/company%20news/20180810/1524.html)
+China&#39;s Holitech Group announced it will set up a production facility in Tirupati, Andhra Pradesh, with an investment of $200 million to supply mobile phone components like camera modules and touch panels to smartphone major Xiaomi. **Source:** [Financial Express](https://www.financialexpress.com/economy/chinese-boost-to-make-in-india-xiaomis-component-supplier-holitech-to-invest-rs-1400-crore-in-this-state/1271417/) **In detail:** [Press Release](http://www.holitech.net/en/news/company%20news/20180810/1524.html)
 
 Andhra Pradesh chief minister N Chandrababu Naidu launched a high energy density storage device developed by Bharat Energy Storage Technology Pvt Ltd (BEST) at Praja Vedika in Amaravati. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/article24619734.ece)
 
@@ -87,9 +85,7 @@ Megha Engineering and Infrastructure Ltd won a project announced by the Petroleu
 
 Italian motorcycle-maker Benelli signed an MOU with Telangana government and Adishwar Auto Ride International, a subsidiary of Mahavir Group, to establish a manufacturing facility in the state. **Source:** [Money Control](https://www.moneycontrol.com/news/business/italian-bike-maker-benelli-signs-mou-for-plant-in-telangana-2812281.html)
 
-The Telangana State Information Technology, Electronics and Communication department signed an MOU with Tech Mahindra to launch India&#39;s first Blockchain district to foster growth of Indian blockchain start-ups and companies.
-
-**Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/tech-mahindra-inks-mou-with-telangana-for-india-s-first-blockchain-district-118080300605_1.html) **In detail:** [Press Release](https://www.techmahindra.com/media/press_releases/Indias-First-Blockchain-District.aspx)
+The Telangana State Information Technology, Electronics and Communication department signed an MOU with Tech Mahindra to launch India&#39;s first Blockchain district to foster growth of Indian blockchain start-ups and companies. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/tech-mahindra-inks-mou-with-telangana-for-india-s-first-blockchain-district-118080300605_1.html) **In detail:** [Press Release](https://www.techmahindra.com/media/press_releases/Indias-First-Blockchain-District.aspx)
 
 Telangana launched Rythu Bheema, a life insurance scheme for farmers, wherein farmers in the 18-59 years age bracket will get an insurance cover of $7,230 each at a premium of $33. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/todays-paper/tp-agri-biz-and-commodity/article24619608.ece) **In detail:** [Rythu Bheema Website](http://rythubandhu.telangana.gov.in/Default_LIC1.aspx)
 
