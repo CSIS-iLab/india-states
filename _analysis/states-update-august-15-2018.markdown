@@ -1,6 +1,8 @@
 ---
 title: 'States Update: August 15, 2018'
 date: 2018-08-15 17:52:00 Z
+tags:
+- Update on India's States
 excerpt: Bihar chief minister Nitish Kumar inaugurates power projects worth over $1
   billion; Karnataka approves a $1.37 billion waiver for existing farm loans; Amazon
   India signs an MOU with the Uttar Pradesh government to support MSME entrepreneurs;
