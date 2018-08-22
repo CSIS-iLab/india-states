@@ -136,10 +136,7 @@ Chief Minister Neiphiu Rio launched the &quot;CM Dashboard,&quot; an electronic 
 
 **Odisha**
 
-On India&#39;s 72
-
-# nd
- Independence Day, Chief Minister Naveen Patnaik announced a universal health scheme in Odisha that will benefit 7 million families. Beneficiaries of the Biju Swasthya Kalyan Yojana (BSKY) will get medical assistance of $7,150 and women will get an additional $2,860. **Source:** [Economic Times](https://health.economictimes.indiatimes.com/news/policy/odisha-launches-government-health-scheme-on-i-day/65412926) **In detail:** [Biju Swasthya Kalyan Yojana](https://sarkariyojna.co.in/biju-swasthya-kalyan-yojana-odisha-health-insurance-poor-families/)
+On India&#39;s 72nd Independence Day, Chief Minister Naveen Patnaik announced a universal health scheme in Odisha that will benefit 7 million families. Beneficiaries of the Biju Swasthya Kalyan Yojana (BSKY) will get medical assistance of $7,150 and women will get an additional $2,860. **Source:** [Economic Times](https://health.economictimes.indiatimes.com/news/policy/odisha-launches-government-health-scheme-on-i-day/65412926) **In detail:** [Biju Swasthya Kalyan Yojana](https://sarkariyojna.co.in/biju-swasthya-kalyan-yojana-odisha-health-insurance-poor-families/)
 
 Barely two weeks into the maiden solar power auctions in Odisha, the state-owned bulk power trader, Gridco, is dithering on signing power purchase agreements with the successful bidders. Gridco is concerned over the wide difference in prices between the level oneand level two bidders. Aditya Birla Renewables emerged as the lowest bidder, quoting a competitive price of 4 cents per unit or kWh. However, three other bidders at level two quoted a price of 4.5 cents per unit (kWh). **Source:** [Business Standard](https://www.business-standard.com/article/companies/after-solar-auctions-gridco-wary-of-signing-ppas-with-l2-bidders-118081301190_1.html)
 
