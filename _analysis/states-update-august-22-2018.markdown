@@ -1,5 +1,5 @@
 ---
-title: 'States Update: August 15, 2018'
+title: 'States Update: August 22, 2018'
 date: 2018-08-22 13:20:00 Z
 tags:
 - Update on India's States
