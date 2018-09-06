@@ -24,7 +24,7 @@ The center and the six north Indian states and union territories of Uttar Prades
 
 Prime Minister Narendra Modi launched the India Post Payments Bank (IPPB) that aims &quot;to change the banking system in the country.&quot; IPPB will create the country&#39;s largest banking network with a direct presence at the village level, and  will offer a range of products such as savings and current accounts, money transfers, direct benefit transfers, bill and utility payments, and enterprise and merchant payments. **Source:** [Times of India](https://timesofindia.indiatimes.com/business/india-business/pm-modi-launches-india-post-payments-bank-things-to-know/articleshow/65634966.cms) **In detail:** [Press Release](http://pib.nic.in/newsite/PrintRelease.aspx?relid=183218)
 
-J.P. Nadda, the minister for health and family welfare, announced that &quot;29 states and union territories (UTs) have signed the MOU and have started working on implementation of the Pradhan Mantri Jan Arogya Yojna. The pilots have started in 16 States/UTs. Other states/UTs will also start pilots before fully launching the scheme on 25 September.&quot; Source: [Medical Dialogues](https://medicaldialogues.in/the-pilot-launch-of-the-mission-has-started-in-16-states-uts-j-p-nadda/) In detail: [Press Release](http://pib.nic.in/newsite/PrintRelease.aspx?relid=183088)
+J.P. Nadda, the minister for health and family welfare, announced that &quot;29 states and union territories (UTs) have signed the MOU and have started working on implementation of the Pradhan Mantri Jan Arogya Yojna. The pilots have started in 16 States/UTs. Other states/UTs will also start pilots before fully launching the scheme on 25 September.&quot; **Source:** [Medical Dialogues](https://medicaldialogues.in/the-pilot-launch-of-the-mission-has-started-in-16-states-uts-j-p-nadda/) **In detail:** [Press Release](http://pib.nic.in/newsite/PrintRelease.aspx?relid=183088)
 
 **Andhra Pradesh**
 
@@ -116,11 +116,9 @@ The Department of Employment, Skill Development, and Entrepreneurship representi
 
 **Odisha**
 
-In a bid to eradicate malaria from Odisha, the state government signed an MOU with two U.S.-based agencies - Malaria No More and Malaria Elimination Trust – to help the state government prepare a strategy on how to overcome the disease. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/odisha-signs-mou-with-us-based-agencies-to-eradicate-malaria-118082801248_1.html)
+In a bid to eradicate malaria from Odisha, the state government signed an MOU with two U.S.-based agencies - Malaria No More and Malaria Elimination Trust – to help the state government prepare a strategy on how to overcome the disease. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/odisha-signs-mou-with-us-based-agencies-to-eradicate-malaria-118082801248_1.html) **In detail:** [U.S. agency portal – Odisha program](https://www.malarianomore.org/our-impact/country-programs/india/)
 
-**In detail:** [U.S. agency portal – Odisha program](https://www.malarianomore.org/our-impact/country-programs/india/)
-
-The National Small Industries Corporation Limited (NSIC), under the Ministry of MSME, signed two MOUs, one with Rourkela Steel Plant and another with National Scheduled Tribe Finance Development Corporation,  to enhance the skills of Odisha youths. ** Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/nsic-signs-pacts-to-skill-odisha-youth-118083001047_1.html)
+The National Small Industries Corporation Limited (NSIC), under the Ministry of MSME, signed two MOUs, one with Rourkela Steel Plant and another with National Scheduled Tribe Finance Development Corporation,  to enhance the skills of Odisha youths. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/nsic-signs-pacts-to-skill-odisha-youth-118083001047_1.html)
 
 **Punjab**
 
