@@ -56,7 +56,7 @@ Oil and Natural Gas Corporation has made oil and gas discoveries in Madhya Prade
 
 **Maharashtra**
 
-The Maharashtra State Power Generation Company has invited expressions of interest (EOI) to set up a manufacturing unit for solar module and cell components in the state. The power generation company will provide the land required to set up the manufacturing unit. The deadline to submit an EOI is September 29, 2018. ** Source:** [Mercom](https://mercomindia.com/mahagenco-eoi-solar-manufacturing-unit/) ** In detail:** [EOI for setting up of solar manufacturing plant in Maharashtra](https://www.mahagenco.in/index.php/2012-07-20-02-16-22/head-office-tenders?download=2246:eoi-for-setting-up-of-solar-manufacturing-plant-in-maharashtra)
+The Maharashtra State Power Generation Company has invited expressions of interest (EOI) to set up a manufacturing unit for solar module and cell components in the state. The power generation company will provide the land required to set up the manufacturing unit. The deadline to submit an EOI is September 29, 2018. **Source:** [Mercom](https://mercomindia.com/mahagenco-eoi-solar-manufacturing-unit/) **In detail:** [EOI for setting up of solar manufacturing plant in Maharashtra](https://www.mahagenco.in/index.php/2012-07-20-02-16-22/head-office-tenders?download=2246:eoi-for-setting-up-of-solar-manufacturing-plant-in-maharashtra)
 
 **Rajasthan**
 
