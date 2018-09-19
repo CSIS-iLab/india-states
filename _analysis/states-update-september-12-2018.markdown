@@ -20,7 +20,7 @@ Karnataka emerged as the top state in the country for power generation in the in
 
 **Center – State relations**
 
-The European Union has agreed to provide financing of $4 million to help evolve a low-carbon urban transport system between Kochi, Ahmedabad, and Nagpur, helping India improve its sustainable transport policy. The funds will come through Agence Francaise de Developement under an agreement signed between India and France for the initiative, which has been named as &quot;Mobilise Your City&quot; (MYC). **Source:** [NDTV](https://www.ndtv.com/india-news/eu-european-union-to-pay-3-5-million-euros-for-green-transport-in-kochi-ahmedabad-nagpur-1913396) **In detail:** [Press Release](http://pib.nic.in/newsite/PrintRelease.aspx?relid=183321)
+The European Union has agreed to provide financing of $4 million to help evolve a low-carbon urban transport system between Kochi, Ahmedabad, and Nagpur, helping India improve its sustainable transport policy. The funds will come through Agence Francaise de Developpement under an agreement signed between India and France for the initiative, which has been named as &quot;Mobilise Your City&quot; (MYC). **Source:** [NDTV](https://www.ndtv.com/india-news/eu-european-union-to-pay-3-5-million-euros-for-green-transport-in-kochi-ahmedabad-nagpur-1913396) **In detail:** [Press Release](http://pib.nic.in/newsite/PrintRelease.aspx?relid=183321)
 
 **Andhra Pradesh**
 
