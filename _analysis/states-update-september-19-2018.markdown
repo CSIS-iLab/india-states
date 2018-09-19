@@ -23,9 +23,7 @@ Four states — Telangana, Bihar, Tamil Nadu, and Haryana — have expressed int
 
 The center approved additional assistance of $30.2 million to Uttar Pradesh and Maharashtra following losses both states incurred after droughts and cyclones in 2017. **Source:** [First Post](https://www.firstpost.com/india/centre-approves-additional-aid-to-uttar-pradesh-maharashtra-over-crop-loss-due-to-drought-cyclone-in-2017-5172781.html)
 
-According to a report by the Fitch group that analyzed the financial and operational metrics of power distribution companies (discoms) in India, discoms in Gujarat, Uttarakhand, and Andhra Pradesh are among the top performers while discoms in Telangana, Haryana, and Hubli in Karnataka are among the lowest performers.
-
-**Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/gujarat-discoms-rank-best-on-key-performance-indicators-study/65795821) **In detail:** [Ready Reckoner on Financial Health of 19 Discoms](https://www.indiaratings.co.in/PressRelease?pressReleaseID=33624&amp;title=Ready-Reckoner-on-Financial-Health-of-19-Discoms)
+According to a report by the Fitch group that analyzed the financial and operational metrics of power distribution companies (discoms) in India, discoms in Gujarat, Uttarakhand, and Andhra Pradesh are among the top performers while discoms in Telangana, Haryana, and Hubli in Karnataka are among the lowest performers. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/gujarat-discoms-rank-best-on-key-performance-indicators-study/65795821) **In detail:** [Ready Reckoner on Financial Health of 19 Discoms](https://www.indiaratings.co.in/PressRelease?pressReleaseID=33624&amp;title=Ready-Reckoner-on-Financial-Health-of-19-Discoms)
 
 **Andhra Pradesh**
 
@@ -71,9 +69,7 @@ Nothing critical to report this week
 
 The 15th Finance Commission has raised concerns over Maharashtra&#39;s reluctance to devolve greater power as part of its constitutional responsibility to strengthen local governance, and will raise issues of  inter-regional disparity, slow pace of decentralization, rigidity in revenue expenditure, and debt sustainability during its two-day visits. **Source:** [The Hindu](https://www.thehindu.com/news/cities/mumbai/speed-up-decentralisation-finance-commission-to-state/article24957662.ece)
 
-The Maharashtra Electricity Regulatory Commission (MERC) has reduced the power tariff for domestic consumers in South Bombay by 6 to 8 percent, while increasing tariffs by a negligible amount for residents of North Mumbai. MERC has also decided to raise the power rates for domestic as well as agricultural consumers across the state outside of Mumbai.
-
-**Source:** [DNA](https://www.dnaindia.com/business/report-good-news-merc-reduces-power-tariff-for-domestic-consumers-2662374) **In detail:** Tariff Revision of Discoms – [BEST](http://www.mercindia.org.in/pdf/Order%2058%2042/Press%20Release-English-BEST-12092018.pdf): [TPC-D](http://www.mercindia.org.in/pdf/Order%2058%2042/Press%20Release-English-TPC-D-12092018.pdf); [RInfra-D](http://www.mercindia.org.in/pdf/Order%2058%2042/Press%20Release-English-RInfra-12092018.pdf); and [MSEDCL](http://www.mercindia.org.in/pdf/Order%2058%2042/Press%20Release-English-MSEDCL-12092018.pdf)
+The Maharashtra Electricity Regulatory Commission (MERC) has reduced the power tariff for domestic consumers in South Bombay by 6 to 8 percent, while increasing tariffs by a negligible amount for residents of North Mumbai. MERC has also decided to raise the power rates for domestic as well as agricultural consumers across the state outside of Mumbai. **Source:** [DNA](https://www.dnaindia.com/business/report-good-news-merc-reduces-power-tariff-for-domestic-consumers-2662374) **In detail:** Tariff Revision of Discoms – [BEST](http://www.mercindia.org.in/pdf/Order%2058%2042/Press%20Release-English-BEST-12092018.pdf): [TPC-D](http://www.mercindia.org.in/pdf/Order%2058%2042/Press%20Release-English-TPC-D-12092018.pdf); [RInfra-D](http://www.mercindia.org.in/pdf/Order%2058%2042/Press%20Release-English-RInfra-12092018.pdf); and [MSEDCL](http://www.mercindia.org.in/pdf/Order%2058%2042/Press%20Release-English-MSEDCL-12092018.pdf)
 
 **Rajasthan**
 
@@ -81,12 +77,9 @@ Rajasthan chief minister Vasundhara Raje announced a 4 percent reduction in valu
 
 **Tamil Nadu**
 
-The Tamil Nadu state government released its Information Communication Technology Policy 2018 aimed at incentivizing investment, employment, and intellectual capital creation in the state. The policy calls for the establishment of more hubs for information technology (IT) services like software development, product development and IT-enabled services. ** Source:** [Economic Times](https://economictimes.indiatimes.com/tech/ites/tamil-nadu-launches-ict-policy-2018-to-give-infra-support-to-early-stage-cos-in-chennai/articleshow/65757509.cms) **In detail:** [Information Communication Technology Policy – 2018](http://cms.tn.gov.in/sites/default/files/documents/ICT_policy_2018.pdf)
+The Tamil Nadu state government released its Information Communication Technology Policy 2018 aimed at incentivizing investment, employment, and intellectual capital creation in the state. The policy calls for the establishment of more hubs for information technology (IT) services like software development, product development and IT-enabled services. **Source:** [Economic Times](https://economictimes.indiatimes.com/tech/ites/tamil-nadu-launches-ict-policy-2018-to-give-infra-support-to-early-stage-cos-in-chennai/articleshow/65757509.cms) **In detail:** [Information Communication Technology Policy – 2018](http://cms.tn.gov.in/sites/default/files/documents/ICT_policy_2018.pdf)
 
-Tamil Nadu became the 30
-
-# th
- state to sign up for the central government&#39;s Ayushman Bharat Scheme by signing an agreement with the center in association with the Chief Minister&#39;s Comprehensive Health Insurance Scheme in the state. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/article24931400.ece)
+Tamil Nadu became the 30th state to sign up for the central government&#39;s Ayushman Bharat Scheme by signing an agreement with the center in association with the Chief Minister&#39;s Comprehensive Health Insurance Scheme in the state. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/todays-paper/tp-others/tp-states/article24931400.ece)
 
 Citing health hazards, the Tamil Nadu government has banned the manufacturing, sale distribution, and use or possession of e-cigarettes under the category of Electronic Nicotine Delivery Systems. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/tamil-nadu-govt-bans-e-cigarettes-users-body-to-approach-judiciary-118091300251_1.html)
 
