@@ -31,7 +31,7 @@
 		border-top: 2px solid #333333;
 	    margin: 0 0 4rem 0;
 	    padding-top: 1rem;
-	    
+
 		.goal-summary {
 			@include breakpoint("medium") {
 				padding-right: 3rem;
@@ -49,7 +49,7 @@
 /*----------  Individual Goal Page  ----------*/
 
 .goal-container {
-	
+
 	.goal-header {
 		background-color: $light-gray;
 		padding: 1rem 0 4rem 0;
@@ -116,7 +116,7 @@
 			max-width:10px;
 		}
 	}
-	
+
 }
 
 /*----------  Progress Bars  ----------*/
@@ -156,7 +156,7 @@
 		@include breakpoint("large") {
 			margin: 0.5rem 0;
 		}
-		
+
 		.progress-wrap {
 			background: $light-gray;
 			font-family: $font__MuseoSans;
@@ -164,6 +164,7 @@
 			overflow: hidden;
 			height: 24px;
 			position: relative;
+			padding-right: 100px;
 
 			span.progress-percentage {
 				color: $base-orange;
@@ -212,7 +213,7 @@
 	        	font-weight:bold;
 	        }
 	    }
-	    
+
 	    .progress-wrap:hover ~ .tip-content {
 	        display: block;
 	        position: fixed;
