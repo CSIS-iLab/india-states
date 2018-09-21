@@ -31,8 +31,8 @@ sources:
 - name: 'Ministry of New and Renewable Energy: State-wise breakup of solar targets
     to be achieved by 2022'
   url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
-- name:
-  url:
+- name: 
+  url: 
 ---
 
 In 2014, Prime Minister Narendra Modi set a goal of reaching 100 GW of solar power generation capacity by 2022. In order to achieve this ambitious target, state governments must increase their rate of solar capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each state a solar capacity target. The Indian States Solar Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.
