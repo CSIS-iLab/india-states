@@ -20,7 +20,7 @@ progressbars:
   description: This chart tracks the progress each state has made towards reaching
     its own target for solar power capacity.
 state_text: reaches
-last_updated_at: 2017-10-31 00:00:00 Z
+last_updated_at: 2018-09-21 00:00:00 Z
 sources:
 - name: 'Ministry of New and Renewable Energy: State-wise commissioning of solar power
     projects'
@@ -31,8 +31,8 @@ sources:
 - name: 'Ministry of New and Renewable Energy: State-wise breakup of solar targets
     to be achieved by 2022'
   url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
-- name: 
-  url: 
+- name:
+  url:
 ---
 
 In 2014, Prime Minister Narendra Modi set a goal of reaching 100 GW of solar power generation capacity by 2022. In order to achieve this ambitious target, state governments must increase their rate of solar capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each state a solar capacity target. The Indian States Solar Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.
