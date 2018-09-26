@@ -71,12 +71,7 @@ Despite receiving poor response for a 1,000 MW distributed generation power tend
 
 **In detail:** [Notice for invitation of Tenders](https://www.mahadiscom.in/supplier/wp-content/uploads/2018/09/NIT.pdf)
 
-In an official memorandum submitted to the 15
-
-# th
- Finance Commission, Maharashtra has demanded a higher share for states from the divisible pool of central tax collections, calling for an increase to 50 percent from the current 42 percent. The central government under Prime Minister Modi had earlier increased the share from 32 percent to 42 percent, based on the recommendations of the 14
-# th
- Finance Commission. **Source:** [Indian Express](https://indianexpress.com/article/india/maharashtra-share-states-central-taxes-5365559/)
+In an official memorandum submitted to the 15th Finance Commission, Maharashtra has demanded a higher share for states from the divisible pool of central tax collections, calling for an increase to 50 percent from the current 42 percent. The central government under Prime Minister Modi had earlier increased the share from 32 percent to 42 percent, based on the recommendations of the 14th Finance Commission. **Source:** [Indian Express](https://indianexpress.com/article/india/maharashtra-share-states-central-taxes-5365559/)
 
 The Maharashtra State Electricity Distribution Company Limited will set up 500 e-vehicle charging stations across the state to encourage use of electric vehicles. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/pune/500-e-vehicle-charging-stations-to-come-up-across-maharashtra/articleshow/65892644.cms)
 
