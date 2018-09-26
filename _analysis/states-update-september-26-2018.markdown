@@ -67,9 +67,7 @@ India&#39;s Cabinet Committee on Economic Affairs approved a new 128 mile rail l
 
 **Maharashtra**
 
-Despite receiving poor response for a 1,000 MW distributed generation power tender, the Maharashtra State Electricity Distribution Company Limited has floated another tender for purchase of 1,400MW. In its earlier 1,000 MW tender, it had received bids for only 287 MW of the total amount, with the highest tariff quoted at 4 cents/kWh. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/nagpur/discom-to-buy-another-1400mw-solar-power/articleshow/65906344.cms)
-
-**In detail:** [Notice for invitation of Tenders](https://www.mahadiscom.in/supplier/wp-content/uploads/2018/09/NIT.pdf)
+Despite receiving poor response for a 1,000 MW distributed generation power tender, the Maharashtra State Electricity Distribution Company Limited has floated another tender for purchase of 1,400MW. In its earlier 1,000 MW tender, it had received bids for only 287 MW of the total amount, with the highest tariff quoted at 4 cents/kWh. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/nagpur/discom-to-buy-another-1400mw-solar-power/articleshow/65906344.cms) **In detail:** [Notice for invitation of Tenders](https://www.mahadiscom.in/supplier/wp-content/uploads/2018/09/NIT.pdf)
 
 In an official memorandum submitted to the 15th Finance Commission, Maharashtra has demanded a higher share for states from the divisible pool of central tax collections, calling for an increase to 50 percent from the current 42 percent. The central government under Prime Minister Modi had earlier increased the share from 32 percent to 42 percent, based on the recommendations of the 14th Finance Commission. **Source:** [Indian Express](https://indianexpress.com/article/india/maharashtra-share-states-central-taxes-5365559/)
 
@@ -129,17 +127,13 @@ The Union Cabinet approved the extension of the timeline for implementation of t
 
 The Meghalaya state cabinet approved the state&#39;s first ever Draft Education Policy after 46 years of statehood. **Source:** [Business Standard](https://www.business-standard.com/article/news-ians/meghalaya-cabinet-approves-state-education-policy-118092101123_1.html) **In detail:** [Draft Education Policy for Meghalaya](http://dietresubelpara.gov.in/sites/default/files/draft-education-policy-2013.pdf)
 
-Meghalaya aims to cover more than 1.3 million children to achieve 100 percent coverage under the Measles-Rubella Vaccination campaign, which will be launched in the state on October 1.
-
-**Source:** [North East Now](https://nenow.in/north-east-news/meghalaya-aims-cover-13-lakh-children-mr-vaccine.html) **In detail:** [Press Release](http://meghalaya.gov.in/megcms/sites/default/files/press_release/21.09.18%20620.pdf)
+Meghalaya aims to cover more than 1.3 million children to achieve 100 percent coverage under the Measles-Rubella Vaccination campaign, which will be launched in the state on October 1. **Source:** [North East Now](https://nenow.in/north-east-news/meghalaya-aims-cover-13-lakh-children-mr-vaccine.html) **In detail:** [Press Release](http://meghalaya.gov.in/megcms/sites/default/files/press_release/21.09.18%20620.pdf)
 
 **Odisha**
 
 Prime MinisterModi said the $1.8 billion project to revive the Talcher fertilizer plant will, for the first time, convert coal into gas for use as feedstock and for producing neem-coated urea. He also stated that the project, which will start production in 36 months, will help cut import of natural gas and fertilizer and make India self-reliant. **Source:** [Money Control](https://www.moneycontrol.com/news/india/pm-modi-lays-foundation-stone-for-rs-13k-crore-talcher-fertiliser-project-2975971.html) **In detail:** [Press Release](http://www.pib.nic.in/PressReleseDetail.aspx?PRID=1547004)
 
-Prime Minister Modi inaugurated a new airport in Jharsuguda. The airport is the second airport of Odisha after Bhubaneswar to become operational, and the first one to provide necessary connectivity between the cities of Bhubaneswar and neighboring capitals Raipur and Ranchi.
-
-**Source:** [Orissa Diary](http://orissadiary.com/pm-narendra-modi-inaugurates-jharsuguda-airport-flags-off-udan-flight-jharsuguda-raipur-sector/) **In detail:** [Press Release](http://pib.nic.in/newsite/PrintRelease.aspx?relid=183632)
+Prime Minister Modi inaugurated a new airport in Jharsuguda. The airport is the second airport of Odisha after Bhubaneswar to become operational, and the first one to provide necessary connectivity between the cities of Bhubaneswar and neighboring capitals Raipur and Ranchi. **Source:** [Orissa Diary](http://orissadiary.com/pm-narendra-modi-inaugurates-jharsuguda-airport-flags-off-udan-flight-jharsuguda-raipur-sector/) **In detail:** [Press Release](http://pib.nic.in/newsite/PrintRelease.aspx?relid=183632)
 
 The Odisha State Level Single Window Clearance Authority approved seven investment proposals worth $1.02 billion across sectors such as steel, downstream industries in metals and minerals, and plastics. These projects promise employment opportunities for 4454 people in the state. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/odisha-single-window-nod-for-seven-proposals-worth-rs-74-16-billion-118091801045_1.html) **In detail:** [Single Window Clearance System Policy](http://industries.odisha.gov.in/PDF/SW.pdf)
 
@@ -161,9 +155,7 @@ Prime Minister Modi inaugurated Sikkim&#39;s Pakyong airport, which was built ap
 
 **Tripura**
 
-Tripura chief minister Biplab Kumar Deb inaugurated ISRO&#39;s first Space Technology Incubation Centre at the National Institute of Technology Agartala via remote from Bengaluru.
-
-**Source:** [Indian Express](https://indianexpress.com/article/north-east-india/tripura/isro-technology-incubation-centre-inaugurated-at-nit-agartala-5363217/)
+Tripura chief minister Biplab Kumar Deb inaugurated ISRO&#39;s first Space Technology Incubation Centre at the National Institute of Technology Agartala via remote from Bengaluru. **Source:** [Indian Express](https://indianexpress.com/article/north-east-india/tripura/isro-technology-incubation-centre-inaugurated-at-nit-agartala-5363217/)
 
 **Uttarakhand**
 
