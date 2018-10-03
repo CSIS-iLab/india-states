@@ -1,0 +1,25 @@
+---
+label: Indian State-Level Business Reforms, First Quarter 2017
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: list
+  hidden: false
+  default: ''
