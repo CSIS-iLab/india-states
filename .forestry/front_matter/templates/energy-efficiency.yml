@@ -1,0 +1,15 @@
+---
+label: Energy Efficiency
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: sector
+  label: Sector
+  type: text
+  hidden: false
+  default: ''
