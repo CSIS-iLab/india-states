@@ -1,0 +1,15 @@
+---
+label: Energy
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: feature_image
+  label: Feature image
+  type: file
+  hidden: false
+  default: ''
