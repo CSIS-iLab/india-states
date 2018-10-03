@@ -1,15 +1,19 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: jekyll-pages
+- type: directory
+  path: _data/national-goals
+  label: Data
+  create: all
+  match: "**/*"
+- type: directory
+  path: ''
   label: Pages
   create: all
+  match: "**/*.md"
 - type: directory
   path: _analysis
   label: Analysis
