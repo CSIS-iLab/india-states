@@ -1,7 +1,4 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: 
@@ -11,7 +8,7 @@ sections:
   path: ''
   label: Pages
   create: all
-  match: "**/*.md"
+  match: "/*.md"
   new_doc_ext: ''
 - type: directory
   path: _analysis
