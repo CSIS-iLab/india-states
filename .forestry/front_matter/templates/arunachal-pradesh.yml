@@ -1,7 +1,7 @@
 ---
-label: Arunachal Pradesh
-hide_body: 
-is_partial: 
+label: States
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
