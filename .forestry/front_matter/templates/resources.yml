@@ -1,0 +1,30 @@
+---
+label: Resources
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: ''
+- name: permalink
+  label: Permalink
+  type: text
+  hidden: false
+  default: ''
+- name: extendedBreadcrumbs
+  label: Extendedbreadcrumbs
+  type: boolean
+  hidden: false
+  default: ''
