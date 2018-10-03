@@ -1,14 +1,11 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
 - type: directory
-  path: _data/national-goals
+  path: _data
   label: Data
   create: all
   match: "**/*"
@@ -16,7 +13,7 @@ sections:
   path: ''
   label: Pages
   create: all
-  match: "**/*.md"
+  match: "*.md"
 - type: directory
   path: _analysis
   label: Analysis
