@@ -1,19 +1,14 @@
 ---
----
-
----
 new_page_extension: md
 auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: directory
-  path: ''
+- type: jekyll-pages
   label: Pages
   create: all
   match: "*.md"
-  exclude: "**/README.md"
-  new_doc_ext: ''
+  new_doc_ext: ".md"
 - type: directory
   path: _analysis
   label: Analysis
