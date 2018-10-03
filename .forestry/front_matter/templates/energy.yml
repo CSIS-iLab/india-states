@@ -1,7 +1,7 @@
 ---
-label: Energy
-hide_body: 
-is_partial: 
+label: Sectors
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
