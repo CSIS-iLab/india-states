@@ -8,7 +8,7 @@ sections:
   path: ''
   label: Pages
   create: all
-  match: "/*"
+  match: "/*.md"
   exclude: "/README.md"
   new_doc_ext: md
 - type: directory
