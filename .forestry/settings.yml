@@ -1,0 +1,58 @@
+---
+new_page_extension: md
+auto_deploy: false
+admin_path: 
+webhook_url: 
+sections:
+- type: directory
+  path: _analysis
+  label: Analysis
+  create: all
+  match: "**/*"
+- type: jekyll-posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
+  path: _authors
+  label: Authors
+  create: all
+  match: "**/*"
+- type: directory
+  path: _national-goals
+  label: National goals
+  create: all
+  match: "**/*"
+- type: directory
+  path: _resources
+  label: Resources
+  create: all
+  match: "**/*"
+- type: directory
+  path: _sectors
+  label: Sectors
+  create: all
+  match: "**/*"
+- type: directory
+  path: _states
+  label: States
+  create: all
+  match: "**/*"
+- type: directory
+  path: _subsectors
+  label: Subsectors
+  create: all
+  match: "**/*"
+- type: directory
+  path: _uploads
+  label: Uploads
+  create: all
+  match: "**/*"
+- type: jekyll-pages
+  label: Pages
+  create: all
+upload_dir: uploads
+public_path: "/uploads"
+front_matter_path: ''
+use_front_matter_path: false
+file_template: ":filename:"
