@@ -1,8 +1,7 @@
 ---
-label: Chhattisgarh requests center for funds to execute the Saubhagya initiative
-  in the state
-hide_body: 
-is_partial: 
+label: Articles
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
