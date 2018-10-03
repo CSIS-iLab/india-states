@@ -4,8 +4,8 @@
   <div class="progress-container row flex-center__y">
     <div class="progress-stateContainer col-xs-12 col-md-3">
       <span class="progress-stateName">{{ row.state }}</span>
-      {% if row.state_achieved %}
-      <span class="progress-achieved">achieved {{ row.state_achieved }} of {{ row.state_target | append: include.data_label }}
+      {% if row.state_achieved and row.state_percentage %}
+        <span class="progress-achieved {{ row.state }}">achieved {{ row.state_achieved }} of {{ row.state_target | append: include.data_label }}
       {% endif %}
     </div>
     <div class="progress-barContainer col-xs-12 col-md-9">
