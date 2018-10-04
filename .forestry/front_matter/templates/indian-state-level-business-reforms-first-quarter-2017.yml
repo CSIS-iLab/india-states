@@ -54,24 +54,12 @@ fields:
     source:
       type: pages
       section: subsectors
-- type: text
-  name: feature_image_caption
-  label: Feature Image Caption
 - type: boolean
-  name: is_featured
+  name: Is_Featured
   label: Is Featured?
-- type: file
-  name: feature_image
-  label: Feature Image
-- type: text
-  name: feature_image_caption
-  label: Feature Image Caption
-- type: include
-  name: Is_featured_
-  label: Is Featured
 - type: field_group
   name: is_featured
-  label: Is Featured?
+  label: Feature Photo Upload
   fields:
   - type: file
     name: feature_image
