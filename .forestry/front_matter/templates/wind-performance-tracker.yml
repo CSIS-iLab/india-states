@@ -1,5 +1,5 @@
 ---
-label: National Goals
+label: National Goals2
 hide_body: false
 is_partial: false
 fields:
@@ -48,22 +48,6 @@ fields:
 - type: boolean
   label: Show Progressbars
   name: show_progressbars
-- name: sources
-  label: Sources
-  type: field_group
-  fields:
-  - name: name
-    label: Name
-    type: textarea
-    hidden: false
-    default: ''
-  - name: url
-    label: Url
-    type: textarea
-    hidden: false
-    default: ''
-  hidden: false
-  default: ''
 - name: map
   label: Map
   type: field_group
@@ -106,8 +90,28 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: text
+  name: state_text
+  label: State Text
 - name: last_updated_at
   label: Last updated at
   type: datetime
+  hidden: false
+  default: ''
+- name: sources
+  label: Sources
+  type: field_group
+  fields:
+  - name: name
+    label: Name
+    type: textarea
+    hidden: false
+    default: ''
+  - name: url
+    label: Url
+    type: textarea
+    hidden: false
+    default: ''
+  - type: text
   hidden: false
   default: ''
