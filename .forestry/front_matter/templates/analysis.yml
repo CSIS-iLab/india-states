@@ -46,14 +46,9 @@ fields:
   - type: text
     name: url
     label: Url
-- type: list
-  label: Author
+- type: tag_list
   name: author
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: authors
+  label: Author
 - type: text
   hidden: true
   label: Breadcrumbs
