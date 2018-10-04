@@ -94,3 +94,11 @@ fields:
   label: Is Analysis
   default: true
   hidden: true
+- type: field_group
+  name: sources
+  label: Sources
+  fields:
+  - type: text
+    name: name
+    label: name
+- type: text
