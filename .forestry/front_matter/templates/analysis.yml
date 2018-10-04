@@ -88,5 +88,3 @@ fields:
   label: Is Analysis
   default: true
   hidden: true
-pages:
-- _analysis/test.md
