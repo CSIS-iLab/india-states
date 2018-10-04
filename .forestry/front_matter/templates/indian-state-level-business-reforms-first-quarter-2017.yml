@@ -44,14 +44,6 @@ fields:
     source:
       type: pages
       section: subsectors
-- type: list
-  name: authors
-  label: Authors
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: authors
 - type: boolean
   name: Is_Featured
   label: Is Featured?
@@ -81,6 +73,14 @@ fields:
   - type: text
     name: url
     label: url
+- type: list
+  name: authors
+  label: Author
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: authors
 - type: text
   name: pdf
   label: Pdf
