@@ -1,0 +1,14 @@
+---
+label: Author
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: text
+  name: job_title
+  label: Job Title
+- type: file
+  name: image
+  label: Image
