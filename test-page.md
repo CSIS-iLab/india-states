@@ -1,7 +1,9 @@
 ---
 title: Test Page
-date: 2018-10-04 17:38:35 Z
-published: false
 extendedbreadcrumbs: true
----
+date: 2018-10-04 17:38:35 +0000
+excerpt: Test excerpt
+layout: page
+published: false
 
+---
