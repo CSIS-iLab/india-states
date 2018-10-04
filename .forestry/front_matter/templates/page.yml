@@ -12,11 +12,11 @@ fields:
 - type: text
   name: layout
   label: Layout
-  hidden: true
+  hidden: false
 - type: text
   name: permalink
   label: Permalink
-  hidden: true
+  hidden: false
 - type: boolean
   name: extendedbreadcrumbs
   label: Extended Breadcrumbs
