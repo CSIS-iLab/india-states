@@ -13,6 +13,22 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: list
+  name: states
+  label: states
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: states
+- type: list
+  name: sectors
+  label: Sectors
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: sectors
 - name: sources
   label: Sources
   type: field_group
@@ -27,20 +43,5 @@ fields:
     type: textarea
     hidden: false
     default: ''
-  hidden: false
-  default: ''
-- name: states
-  label: States
-  type: list
-  hidden: false
-  default: ''
-- name: sectors
-  label: Sectors
-  type: list
-  hidden: false
-  default: ''
-- name: subsectors
-  label: Subsectors
-  type: list
   hidden: false
   default: ''
