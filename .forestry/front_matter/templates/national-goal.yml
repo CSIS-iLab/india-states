@@ -63,5 +63,3 @@ fields:
   name: breadcrumbs
   default: goals
   hidden: true
-pages:
-- _national-goals/test.md

@@ -19,5 +19,3 @@ fields:
   label: Breadcrumbs
   default: sectors
   hidden: true
-pages:
-- _sectors/test-sector.md
