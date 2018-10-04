@@ -13,6 +13,35 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: select
+  config:
+    source:
+      type: pages
+      section: sectors
+  label: sectors
+  name: sectors
+- type: select
+  config:
+    source:
+      type: pages
+      section: subsectors
+  label: subsectors
+  name: subsectors
+- name: data_source
+  label: Data source
+  type: text
+  hidden: false
+  default: ''
+- name: data_label
+  label: Data label
+  type: text
+  hidden: false
+  default: ''
+- name: data_missing_message
+  label: Data missing message
+  type: textarea
+  hidden: false
+  default: ''
 - name: sources
   label: Sources
   type: field_group
@@ -27,21 +56,6 @@ fields:
     type: textarea
     hidden: false
     default: ''
-  hidden: false
-  default: ''
-- name: data_source
-  label: Data source
-  type: text
-  hidden: false
-  default: ''
-- name: data_label
-  label: Data label
-  type: text
-  hidden: false
-  default: ''
-- name: data_missing_message
-  label: Data missing message
-  type: textarea
   hidden: false
   default: ''
 - name: map
@@ -86,22 +100,8 @@ fields:
     default: ''
   hidden: false
   default: ''
-- type: select
-  config:
-    source:
-      type: pages
-      section: sectors
-  label: sectors
-  name: sectors
 - name: last_updated_at
   label: Last updated at
   type: datetime
   hidden: false
   default: ''
-- type: select
-  config:
-    source:
-      type: pages
-      section: subsectors
-  label: subsectors
-  name: subsectors
