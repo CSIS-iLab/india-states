@@ -80,3 +80,11 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: list
+  name: authors
+  label: Authors
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: authors
