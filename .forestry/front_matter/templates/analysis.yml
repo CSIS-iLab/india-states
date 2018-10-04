@@ -37,7 +37,7 @@ fields:
       type: pages
       section: subsectors
 - type: include
-  template: details
+  template: sub-categories
 - type: boolean
   name: is_featured
   label: Is_Featured
