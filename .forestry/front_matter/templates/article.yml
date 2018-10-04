@@ -1,0 +1,26 @@
+---
+label: Article
+hide_body: false
+is_partial: false
+fields:
+- type: include
+  template: sub-categories
+- type: include
+  template: sources
+- type: include
+  template: details
+- type: text
+  name: content_type
+  label: Content Type
+  hidden: true
+  default: articles
+- type: boolean
+  name: is_analysis
+  label: Is Analysis
+  default: true
+  hidden: true
+- type: text
+  name: breadcrumbs
+  label: Breadcrumbs
+  hidden: true
+  default: articles
