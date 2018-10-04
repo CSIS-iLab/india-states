@@ -1,0 +1,21 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: textarea
+  name: excerpt
+  label: Excerpt
+- type: text
+  name: layout
+  label: Layout
+- type: text
+  name: permalink
+  label: Permalink
+- type: boolean
+  name: extendedbreadcrumbs
+  label: Extended Breadcrumbs
+  default: true
