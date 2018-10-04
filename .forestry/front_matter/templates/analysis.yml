@@ -9,6 +9,9 @@ fields:
 - type: datetime
   name: date
   label: date
+- type: tag_list
+  name: tags
+  label: Tags
 - type: textarea
   name: excerpt
   label: Excerpt
