@@ -2,12 +2,15 @@
 
 require 'json'
 require 'algoliasearch'
+require "net/http"
 
-# Copy the algolia from prior commit to a tmp file for comparison
-`git show $(git rev-parse HEAD~1):algolia.json > old-algolia.json`
+puts "running algolia search sync..."
+url = 'https://indianstates.netlify.com/algolia.json'
+uri = URI(url)
+response = Net::HTTP.get(uri)
 
-current_algolia = JSON.parse(File.read('algolia.json'))
-old_algolia = JSON.parse(File.read('old-algolia.json'))
+old_algolia = JSON.parse(response)
+current_algolia = JSON.parse(File.read('_site/algolia.json'))
 
 current_hash = current_algolia.map{ |x| [x['objectID'], x] }.to_h
 old_hash = old_algolia.map{ |x| [x['objectID'], x] }.to_h
