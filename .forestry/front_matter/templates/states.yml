@@ -1,0 +1,63 @@
+---
+label: States
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: field_group
+  name: feature_images
+  label: Feature Images
+  fields:
+  - type: field_group
+    name: primary
+    label: Primary
+    fields:
+    - type: file
+      name: image
+      label: Image
+    - type: text
+      name: credit
+      label: Credit
+  - type: field_group
+    name: secondary
+    label: Secondary
+    fields:
+    - type: file
+      name: image
+      label: Image
+    - type: text
+      name: credit
+      label: Credit
+- type: text
+  name: size
+  label: Size
+- type: text
+  name: population
+  label: Population
+- type: text
+  name: party_affiliation
+  label: Party Affiliation
+- type: text
+  name: legislative_seats
+  label: Legislative Seats
+- type: text
+  name: rajya_seats
+  label: Rajya Seats
+- type: text
+  label: Lok Seats
+  name: lok_seats
+- type: text
+  name: gdp
+  label: GDP
+- type: text
+  name: content_type
+  label: Content Type
+  hidden: true
+  default: state
+- type: text
+  name: breadcrumbs
+  label: Breadcrumbs
+  hidden: true
+  default: states
