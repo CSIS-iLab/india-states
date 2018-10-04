@@ -61,3 +61,5 @@ fields:
   label: Breadcrumbs
   hidden: true
   default: states
+pages:
+- _states/test-state.md
