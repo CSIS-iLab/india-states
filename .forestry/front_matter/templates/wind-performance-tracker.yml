@@ -86,6 +86,13 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: select
+  config:
+    source:
+      type: pages
+      section: sectors
+  label: sectors
+  name: sectors
 - name: last_updated_at
   label: Last updated at
   type: datetime
@@ -95,6 +102,6 @@ fields:
   config:
     source:
       type: pages
-      section: sectors
-  label: sectors
-  name: sectors
+      section: subsectors
+  label: subsectors
+  name: subsectors
