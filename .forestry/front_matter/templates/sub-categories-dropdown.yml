@@ -1,0 +1,19 @@
+---
+label: Sub Categories (dropdown)
+hide_body: false
+is_partial: true
+fields:
+- type: select
+  config:
+    source:
+      type: pages
+      section: sectors
+  label: Sectors
+  name: sectors
+- type: select
+  name: subsectors
+  config:
+    source:
+      type: pages
+      section: subsectors
+  label: Subsectors
