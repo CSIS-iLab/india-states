@@ -1,0 +1,19 @@
+---
+label: Resource
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: text
+  name: link
+  label: Link
+- type: text
+  name: type
+  label: Type
+- type: text
+  name: content_type
+  label: Content Type
+  hidden: true
+  default: resource
