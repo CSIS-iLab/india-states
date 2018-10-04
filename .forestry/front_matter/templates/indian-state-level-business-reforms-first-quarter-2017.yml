@@ -76,3 +76,11 @@ fields:
   - type: file
     name: feature_image
     label: Feature Image
+  - type: text
+    name: feature_image_caption
+    label: Feature Image Caption
+  - type: text
+    name: feature_image_credit
+    label: Feature Image Credit
+    config:
+      required: false
