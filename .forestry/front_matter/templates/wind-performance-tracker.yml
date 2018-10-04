@@ -29,16 +29,6 @@ fields:
     default: ''
   hidden: false
   default: ''
-- name: sectors
-  label: Sectors
-  type: list
-  hidden: false
-  default: ''
-- name: subsectors
-  label: Subsectors
-  type: list
-  hidden: false
-  default: ''
 - name: data_source
   label: Data source
   type: text
@@ -101,3 +91,10 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: select
+  config:
+    source:
+      type: pages
+      section: sectors
+  label: sectors
+  name: sectors
