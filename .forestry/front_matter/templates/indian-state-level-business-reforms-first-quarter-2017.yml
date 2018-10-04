@@ -57,22 +57,6 @@ fields:
 - type: boolean
   name: Is_Featured
   label: Is Featured?
-- type: field_group
-  name: feature_photo_upload
-  label: Feature Photo Upload
-  fields:
-  - type: file
-    name: feature_image
-    label: Feature Image
-  - type: text
-    name: feature_image_caption
-    label: Feature Image Caption
-  - type: text
-    name: feature_image_credit
-    label: Feature Image Credit
-    config:
-      required: false
-  description: If post is featured, upload photo here
 - type: textarea
   name: sources
   label: Sources
@@ -102,3 +86,6 @@ fields:
   label: breadcrumbs
   hidden: true
   default: analysis
+- type: file
+  name: photo
+  label: photo
