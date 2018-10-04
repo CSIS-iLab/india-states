@@ -12,12 +12,15 @@ fields:
 - type: text
   name: layout
   label: Layout
+  hidden: true
 - type: text
   name: permalink
   label: Permalink
+  hidden: true
 - type: boolean
   name: extendedbreadcrumbs
   label: Extended Breadcrumbs
   default: true
+  hidden: true
 pages:
 - test-page.md

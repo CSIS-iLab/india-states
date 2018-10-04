@@ -9,7 +9,7 @@ sections:
   label: Pages
   create: all
   match: "/*.md"
-  exclude: "/README.md"
+  exclude: "/README.md,/index.md,/search.md"
   new_doc_ext: md
   templates:
   - page
