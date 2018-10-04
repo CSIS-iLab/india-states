@@ -7,9 +7,43 @@ fields:
   label: Title
   name: title
 - type: include
-  template: sub-categories
+  name: ''
+  label: ''
+  template: sub-categories-dropdown
 - type: text
   name: data_source
   label: Data source
+- type: text
+  name: data_missing_message
+  label: Data Missing Message
+- type: boolean
+  name: show_map
+  label: Show Map
+  default: true
+  hidden: true
+- type: boolean
+  name: show_progressbars
+  label: Show Progressbars
+  default: true
+  hidden: true
+- type: field_group
+  label: Map
+  name: map
+  fields:
+  - type: text
+    name: title
+    label: Title
+  - type: textarea
+    name: description
+    label: Description
+  - type: text
+    name: legend_title
+    label: Legend Title
+  - type: text
+    name: value_suffix
+    label: Value Suffix
+- type: field_group
+  name: progressbars
+  label: Progressbars
 pages:
 - _national-goals/test.md
