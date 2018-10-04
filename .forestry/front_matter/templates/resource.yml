@@ -17,3 +17,5 @@ fields:
   label: Content Type
   hidden: true
   default: resource
+pages:
+- _resources/test-resource.md

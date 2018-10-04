@@ -12,3 +12,5 @@ fields:
 - type: file
   name: image
   label: Image
+pages:
+- _authors/test-author.md
