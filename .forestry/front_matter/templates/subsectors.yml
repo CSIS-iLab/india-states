@@ -8,8 +8,15 @@ fields:
   type: textarea
   hidden: false
   default: ''
-- name: sector
-  label: Sector
-  type: text
-  hidden: false
-  default: ''
+- type: select
+  name: sector
+  config:
+    source:
+      type: pages
+      section: sectors
+  label: sector
+- type: text
+  name: content_type
+  label: Content Type
+  hidden: true
+  default: subsector
