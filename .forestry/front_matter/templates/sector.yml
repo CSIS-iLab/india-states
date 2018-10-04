@@ -9,3 +9,11 @@ fields:
 - type: file
   label: Feature Image
   name: feature_image
+- type: text
+  label: Content Type
+  name: content_type
+  default: sector
+- type: text
+  name: breadcrumbs
+  label: Breadcrumbs
+  default: sectors
