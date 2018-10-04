@@ -11,6 +11,8 @@ sections:
   match: "/*.md"
   exclude: "/README.md"
   new_doc_ext: md
+  templates:
+  - page
 - type: directory
   path: _analysis
   label: Analysis
