@@ -58,7 +58,7 @@ fields:
   name: Is_Featured
   label: Is Featured?
 - type: field_group
-  name: is_featured
+  name: feature_photo_upload
   label: Feature Photo Upload
   fields:
   - type: file
@@ -72,3 +72,4 @@ fields:
     label: Feature Image Credit
     config:
       required: false
+  description: If post is featured, upload photo here
