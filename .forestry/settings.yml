@@ -51,8 +51,8 @@ sections:
   label: Subsectors
   create: all
   match: "**/*"
-upload_dir: ''
-public_path: https://res.cloudinary.com/csisilab/image/fetch
+upload_dir: uploads
+public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
