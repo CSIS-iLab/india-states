@@ -1,0 +1,20 @@
+---
+label: Subsector
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: title
+  label: Title
+- type: select
+  name: sector
+  config:
+    source:
+      type: pages
+      section: sectors
+  label: Sector
+- type: text
+  name: content_type
+  label: Content Type
+  default: subsector
+  hidden: true
