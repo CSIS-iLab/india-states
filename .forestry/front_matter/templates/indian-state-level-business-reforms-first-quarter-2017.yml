@@ -88,3 +88,7 @@ fields:
     source:
       type: pages
       section: authors
+- type: text
+  name: pdf
+  label: Pdf
+  description: Url for PDF goes here
