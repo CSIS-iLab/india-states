@@ -11,46 +11,64 @@ sections:
   match: "/*.md"
   exclude: "/README.md"
   new_doc_ext: md
+  templates:
+  - pages
 - type: directory
   path: _analysis
   label: Analysis
   create: all
   match: "**/*"
+  templates:
+  - analysis
 - type: directory
   path: _posts
   label: Articles
   create: all
   match: "**/*"
+  templates:
+  - articles
 - type: directory
   path: _authors
   label: Authors
   create: all
   match: "**/*"
+  templates:
+  - authors
 - type: directory
   path: _national-goals
   label: National goals
   create: all
   match: "**/*"
+  templates:
+  - national-goals
 - type: directory
   path: _resources
   label: Resources
   create: all
   match: "**/*"
+  templates:
+  - resources
 - type: directory
   path: _sectors
   label: Sectors
   create: all
   match: "**/*"
+  templates:
+  - sectors
 - type: directory
   path: _states
   label: States
   create: all
   match: "**/*"
+  templates:
+  - states
 - type: directory
   path: _subsectors
   label: Subsectors
   create: all
   match: "**/*"
+  templates:
+  - subsectors
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
