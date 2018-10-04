@@ -68,9 +68,19 @@ fields:
   - type: text
     name: name
     label: name
+  - type: text
+    name: url
+    label: url
 - type: field_group
   name: details
   label: Details
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: url
+    label: url
 - type: text
   name: pdf
   label: Pdf
