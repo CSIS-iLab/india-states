@@ -54,3 +54,6 @@ fields:
     source:
       type: pages
       section: subsectors
+- type: boolean
+  name: is_featured
+  label: Is Featured?
