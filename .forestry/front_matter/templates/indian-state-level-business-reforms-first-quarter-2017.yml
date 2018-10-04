@@ -73,3 +73,10 @@ fields:
     config:
       required: false
   description: If post is featured, upload photo here
+- type: textarea
+  name: sources
+  label: Sources
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
