@@ -14,9 +14,6 @@ fields:
   hidden: false
   default: ''
 - type: text
-  name: feature_image_credit
-  label: Feature Image Credit
-- type: text
   name: content_type
   label: Content Type
   default: sector
