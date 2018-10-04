@@ -13,6 +13,29 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: textarea
+  label: Excerpt
+  name: excerpt
+  config:
+    wysiwyg: false
+    schema:
+      format: markdown
+- type: list
+  name: states
+  label: States
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: states
+- type: list
+  label: Sectors
+  name: sectors
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: sectors
 - name: tags
   label: Tags
   type: tag_list
