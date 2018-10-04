@@ -29,13 +29,11 @@ fields:
     default: ''
   hidden: false
   default: ''
-- type: select
-  name: sectors
-  config:
-    source:
-      type: pages
-      section: sectors
+- name: sectors
   label: Sectors
+  type: list
+  hidden: false
+  default: ''
 - name: subsectors
   label: Subsectors
   type: list
@@ -103,6 +101,3 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- type: list
-  name: d
-  label: d
