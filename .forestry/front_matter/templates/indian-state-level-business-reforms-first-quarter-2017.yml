@@ -13,6 +13,14 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: list
+  name: authors
+  label: Authors
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: authors
 - type: textarea
   label: Excerpt
   name: excerpt
@@ -36,16 +44,6 @@ fields:
     source:
       type: pages
       section: sectors
-- name: tags
-  label: Tags
-  type: tag_list
-  hidden: false
-  default: ''
-- name: author
-  label: Author
-  type: list
-  hidden: false
-  default: ''
 - type: list
   name: subsectors
   label: Subsectors
@@ -54,9 +52,6 @@ fields:
     source:
       type: pages
       section: subsectors
-- type: boolean
-  name: Is_Featured
-  label: Is Featured?
 - type: textarea
   name: sources
   label: Sources
@@ -64,14 +59,18 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: list
-  name: authors
-  label: Authors
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: authors
+- type: file
+  name: photo
+  label: photo
+- type: text
+  name: image_caption
+  label: image caption
+- type: text
+  name: image_credit
+  label: Image Credit
+- type: boolean
+  name: Is_Featured
+  label: Is Featured?
 - type: text
   name: pdf
   label: Pdf
@@ -86,12 +85,3 @@ fields:
   label: breadcrumbs
   hidden: true
   default: analysis
-- type: file
-  name: photo
-  label: photo
-- type: text
-  name: image_caption
-  label: image caption
-- type: text
-  name: image_credit
-  label: Image Credit
