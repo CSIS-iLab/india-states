@@ -52,12 +52,15 @@ fields:
     source:
       type: pages
       section: authors
+- type: boolean
+  name: Is_Featured
+  label: Is Featured?
 - type: file
-  name: photo
-  label: photo
+  name: feature_iage
+  label: Feature Image
 - type: text
-  name: image_credit
-  label: Image Credit
+  name: feature_image_credit
+  label: Feature Image Credit
 - type: field_group
   name: sources
   label: Sources
@@ -65,9 +68,9 @@ fields:
   - type: text
     name: name
     label: name
-- type: boolean
-  name: Is_Featured
-  label: Is Featured?
+- type: field_group
+  name: details
+  label: Details
 - type: text
   name: pdf
   label: Pdf
@@ -94,7 +97,3 @@ fields:
   label: Is Analysis
   default: true
   hidden: true
-- type: text
-- type: field_group
-  name: details
-  label: Details
