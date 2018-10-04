@@ -72,7 +72,7 @@ sections:
 - type: document
   path: _data/team.yaml
   label: Team
-upload_dir: uploads
+upload_dir: _uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: true
