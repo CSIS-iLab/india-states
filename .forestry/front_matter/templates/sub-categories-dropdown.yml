@@ -3,17 +3,9 @@ label: Sub Categories (dropdown)
 hide_body: false
 is_partial: true
 fields:
-- type: select
-  config:
-    source:
-      type: pages
-      section: sectors
-  label: Sectors
+- type: tag_list
   name: sectors
-- type: select
+  label: Sectors
+- type: tag_list
   name: subsectors
-  config:
-    source:
-      type: pages
-      section: subsectors
   label: Subsectors
