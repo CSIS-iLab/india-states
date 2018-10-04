@@ -60,3 +60,6 @@ fields:
 - type: boolean
   name: is_featured
   label: Is Featured?
+- type: text
+  name: feature_image_caption
+  label: Feature Image Caption
