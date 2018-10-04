@@ -12,30 +12,6 @@ fields:
 - type: textarea
   name: excerpt
   label: Excerpt
-- type: list
-  name: states
-  label: states
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: states
-- type: list
-  name: sectors
-  label: Sectors
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: sectors
-- type: list
-  name: subsectors
-  label: Subsectors
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: subsectors
 - type: include
   template: sub-categories
 - type: boolean
