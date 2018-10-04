@@ -13,6 +13,9 @@ fields:
   type: datetime
   hidden: false
   default: ''
+- type: file
+  name: feature_image
+  label: Feature Image
 - type: textarea
   label: Excerpt
   name: excerpt
