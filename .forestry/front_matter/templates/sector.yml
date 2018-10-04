@@ -13,7 +13,9 @@ fields:
   label: Content Type
   name: content_type
   default: sector
+  hidden: true
 - type: text
   name: breadcrumbs
   label: Breadcrumbs
   default: sectors
+  hidden: true
