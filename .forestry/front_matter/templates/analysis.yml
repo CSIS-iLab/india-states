@@ -16,7 +16,7 @@ fields:
   name: excerpt
   label: Excerpt
 - type: include
-  template: sub-categories
+  template: sub-categories-sortable-list
 - type: boolean
   name: is_featured
   label: Is_Featured
