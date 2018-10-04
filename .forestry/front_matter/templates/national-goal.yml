@@ -51,5 +51,15 @@ fields:
 - type: datetime
   name: last_updated_at
   label: Last Updated At
+- type: include
+  template: sources
+- type: text
+  name: content_type
+  label: Content Type
+  default: national goal
+- type: text
+  label: Breadcrumbs
+  name: breadcrumbs
+  default: goals
 pages:
 - _national-goals/test.md
