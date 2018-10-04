@@ -1,0 +1,15 @@
+---
+label: Details
+hide_body: false
+is_partial: true
+fields:
+- type: field_group_list
+  name: details
+  label: Details
+  fields:
+  - type: text
+    name: name
+    label: Name
+  - type: text
+    name: url
+    label: URL
