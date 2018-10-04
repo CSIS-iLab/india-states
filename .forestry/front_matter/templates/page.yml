@@ -19,3 +19,5 @@ fields:
   name: extendedbreadcrumbs
   label: Extended Breadcrumbs
   default: true
+pages:
+- test-page.md
