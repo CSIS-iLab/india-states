@@ -13,3 +13,16 @@ fields:
   type: file
   hidden: false
   default: ''
+- type: text
+  name: feature_image_credit
+  label: Feature Image Credit
+- type: text
+  name: content_type
+  label: Content Type
+  default: sector
+  hidden: true
+- type: text
+  name: breadcrumbs
+  label: Breadcrumbs
+  hidden: true
+  default: sectors

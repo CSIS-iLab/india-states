@@ -1,5 +1,5 @@
 ---
-label: Pages
+label: Page
 hide_body: false
 is_partial: false
 fields:
@@ -11,7 +11,7 @@ fields:
 - name: excerpt
   label: Excerpt
   type: textarea
-  hidden: false
+  hidden: true
   default: ''
 - name: layout
   label: Layout
