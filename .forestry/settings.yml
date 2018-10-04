@@ -12,56 +12,56 @@ sections:
   exclude: "/README.md"
   new_doc_ext: md
   templates:
-  - pages
+  - resources
 - type: directory
   path: _analysis
   label: Analysis
   create: all
   match: "**/*"
   templates:
-  - analysis
+  - indian-state-level-business-reforms-first-quarter-2017
 - type: directory
   path: _posts
   label: Articles
   create: all
   match: "**/*"
   templates:
-  - articles
+  - chhattisgarh-requests-center-for-funds-to-execute-the-saubhagya-initiative-in-the-state
 - type: directory
   path: _authors
   label: Authors
   create: all
   match: "**/*"
   templates:
-  - authors
+  - sarah-watson
 - type: directory
   path: _national-goals
   label: National goals
   create: all
   match: "**/*"
   templates:
-  - national-goals
+  - wind-performance-tracker
 - type: directory
   path: _resources
   label: Resources
   create: all
   match: "**/*"
   templates:
-  - resources
+  - bihar
 - type: directory
   path: _sectors
   label: Sectors
   create: all
   match: "**/*"
   templates:
-  - sectors
+  - energy
 - type: directory
   path: _states
   label: States
   create: all
   match: "**/*"
   templates:
-  - states
+  - arunachal-pradesh
 - type: directory
   path: _subsectors
   label: Subsectors
