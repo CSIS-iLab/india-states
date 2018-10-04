@@ -1,0 +1,11 @@
+---
+label: Details
+hide_body: false
+is_partial: true
+fields:
+- type: text
+  name: name
+  label: Name
+- type: text
+  name: url
+  label: Url
