@@ -18,3 +18,5 @@ fields:
   type: file
   hidden: false
   default: ''
+pages:
+- _authors/test.md
