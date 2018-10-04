@@ -92,3 +92,6 @@ fields:
 - type: text
   name: image_caption
   label: image caption
+- type: text
+  name: image_credit
+  label: Image Credit
