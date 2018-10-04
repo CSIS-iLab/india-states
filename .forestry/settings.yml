@@ -18,21 +18,29 @@ sections:
   label: Analysis
   create: all
   match: "**/*"
+  templates:
+  - analysis
 - type: directory
   path: _posts
   label: Articles
   create: all
   match: "**/*"
+  templates:
+  - article
 - type: directory
   path: _authors
   label: Authors
   create: all
   match: "**/*"
+  templates:
+  - author
 - type: directory
   path: _national-goals
   label: National goals
   create: all
   match: "**/*"
+  templates:
+  - national-goal
 - type: directory
   path: _resources
   label: Resources
