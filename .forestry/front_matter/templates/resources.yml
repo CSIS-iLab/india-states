@@ -4,7 +4,7 @@ hide_body: true
 is_partial: false
 fields:
 - name: title
-  label: Title
+  label: Title1
   type: textarea
   hidden: false
   default: ''
