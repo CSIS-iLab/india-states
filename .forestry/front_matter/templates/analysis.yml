@@ -1,0 +1,58 @@
+---
+label: Analysis
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: date
+- type: textarea
+  name: excerpt
+  label: Excerpt
+- type: list
+  name: states
+  label: states
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: states
+- type: list
+  name: sectors
+  label: Sectors
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: sectors
+- type: list
+  name: subsectors
+  label: Subsectors
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: subsectors
+- type: boolean
+  name: is_featured
+  label: Is_Featured
+- type: file
+  name: feature_image
+  label: Feature Image
+- type: text
+  name: feature_image_credit
+  label: Feature Image Credit
+- type: include
+  template: sources
+  label: Sources
+  name: sources
+- type: field_group_list
+  name: sources2
+  label: Sources2
+  fields:
+  - type: text
+    name: name
+    label: Name
+  - type: text
+    name: url
+    label: Url
