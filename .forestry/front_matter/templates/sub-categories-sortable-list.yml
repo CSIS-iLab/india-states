@@ -6,19 +6,9 @@ fields:
 - type: tag_list
   name: states
   label: States
-- type: list
+- type: tag_list
   name: sectors
   label: Sectors
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: sectors
-- type: list
+- type: tag_list
   name: subsectors
   label: Subsectors
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: subsectors
