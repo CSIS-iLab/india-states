@@ -89,3 +89,6 @@ fields:
 - type: file
   name: photo
   label: photo
+- type: text
+  name: image_caption
+  label: image caption
