@@ -11,3 +11,5 @@ fields:
 - type: text
   name: data_source
   label: Data source
+pages:
+- _national-goals/test.md
