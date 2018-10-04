@@ -45,5 +45,11 @@ fields:
 - type: field_group
   name: progressbars
   label: Progressbars
+- type: text
+  name: state_text
+  label: State Text
+- type: datetime
+  name: last_updated_at
+  label: Last Updated At
 pages:
 - _national-goals/test.md
