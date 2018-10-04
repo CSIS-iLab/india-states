@@ -1,8 +1,9 @@
 ---
 title: Test State
+date: 2018-10-04 17:07:28 Z
+published: false
 content_type: state
 breadcrumbs: states
-date: 2018-10-04 17:07:28 +0000
 feature_images:
   primary:
     image: "/v1538672912/uploads/Screen%20Shot%202018-10-03%20at%203.47.30%20PM.png"
@@ -17,6 +18,5 @@ legislative_seats: asdfasdf
 rajya_seats: asdfasdf
 lok_seats: asdfasdfasd
 gdp: asdfas
-published: false
-
 ---
+
