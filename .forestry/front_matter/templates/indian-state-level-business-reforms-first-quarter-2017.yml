@@ -46,3 +46,11 @@ fields:
   type: list
   hidden: false
   default: ''
+- type: list
+  name: subsectors
+  label: Subsectors
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: subsectors
