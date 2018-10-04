@@ -92,3 +92,12 @@ fields:
   name: pdf
   label: Pdf
   description: Url for PDF goes here
+- type: tag_list
+  name: breadcrumbs
+  label: Breadcrumbs
+  hidden: true
+- type: text
+  name: content_type
+  label: Content type
+  hidden: true
+  default: analysis
