@@ -42,13 +42,9 @@ fields:
 - type: text
   name: feature_image_credit
   label: Feature Image Credit
-- type: include
-  template: sources
-  label: Sources
-  name: sources
 - type: field_group_list
-  name: sources2
-  label: Sources2
+  name: sources
+  label: Sources
   fields:
   - type: text
     name: name
@@ -56,5 +52,38 @@ fields:
   - type: text
     name: url
     label: Url
+- type: field_group_list
+  name: details
+  label: Details
+  fields:
+  - type: text
+    name: name
+    label: Name
+  - type: text
+    name: url
+    label: Url
+- type: list
+  label: Author
+  name: author
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: authors
+- type: text
+  hidden: true
+  label: Breadcrumbs
+  name: breadcrumbs
+  default: analysis
+- type: text
+  name: content_type
+  label: Content_Type
+  hidden: true
+  default: analysis
+- type: boolean
+  name: is_analysis
+  label: Is Analysis
+  default: true
+  hidden: true
 pages:
 - _analysis/test.md
