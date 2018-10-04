@@ -46,21 +46,29 @@ sections:
   label: Resources
   create: all
   match: "**/*"
+  templates:
+  - resource
 - type: directory
   path: _sectors
   label: Sectors
   create: all
   match: "**/*"
+  templates:
+  - sector
 - type: directory
   path: _states
   label: States
   create: all
   match: "**/*"
+  templates:
+  - state
 - type: directory
   path: _subsectors
   label: Subsectors
   create: all
   match: "**/*"
+  templates:
+  - subsector
 - type: document
   path: _data/team.yaml
   label: Team
