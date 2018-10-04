@@ -44,5 +44,3 @@ fields:
   type: list
   hidden: false
   default: ''
-pages:
-- _posts/test.md
