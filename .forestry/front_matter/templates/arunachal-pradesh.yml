@@ -8,41 +8,6 @@ fields:
   type: textarea
   hidden: false
   default: ''
-- name: size
-  label: Size
-  type: text
-  hidden: false
-  default: ''
-- name: population
-  label: Population
-  type: text
-  hidden: false
-  default: ''
-- name: party_affiliation
-  label: Party affiliation
-  type: text
-  hidden: false
-  default: ''
-- name: legislative_seats
-  label: Legislative seats
-  type: text
-  hidden: false
-  default: ''
-- name: rajya_seats
-  label: Rajya seats
-  type: text
-  hidden: false
-  default: ''
-- name: lok_seats
-  label: Lok seats
-  type: text
-  hidden: false
-  default: ''
-- name: gdp
-  label: Gdp
-  type: text
-  hidden: false
-  default: ''
 - name: feature_images
   label: Feature images
   type: field_group
@@ -81,3 +46,48 @@ fields:
     default: ''
   hidden: false
   default: ''
+- name: size
+  label: Size
+  type: text
+  hidden: false
+  default: ''
+- name: population
+  label: Population
+  type: text
+  hidden: false
+  default: ''
+- name: party_affiliation
+  label: Party affiliation
+  type: text
+  hidden: false
+  default: ''
+- name: legislative_seats
+  label: Legislative seats
+  type: text
+  hidden: false
+  default: ''
+- name: rajya_seats
+  label: Rajya seats
+  type: text
+  hidden: false
+  default: ''
+- name: lok_seats
+  label: Lok seats
+  type: text
+  hidden: false
+  default: ''
+- name: gdp
+  label: Gdp
+  type: text
+  hidden: false
+  default: ''
+- type: text
+  name: content_type
+  label: content type
+  hidden: true
+  default: state
+- type: text
+  hidden: true
+  label: Breadcrumbs
+  name: breadcrumbs
+  default: states
