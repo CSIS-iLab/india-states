@@ -57,9 +57,11 @@ fields:
   name: content_type
   label: Content Type
   default: national goal
+  hidden: true
 - type: text
   label: Breadcrumbs
   name: breadcrumbs
   default: goals
+  hidden: true
 pages:
 - _national-goals/test.md
