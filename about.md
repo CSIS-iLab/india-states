@@ -4,8 +4,8 @@ permalink: "/about/"
 excerpt: Learn more about the 'Engaging Indian States' project.
 layout: page
 additional_classes: about
-
 ---
+
 *Engaging Indian States* is a knowledge portal which tracks significant developments in India’s states and provides context and analysis. While the focus of international engagement with India has primarily been the central government, the trajectory of India’s economic growth is dependent on the actions and vision of its state governments.
 
 
