@@ -13,14 +13,6 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- type: list
-  name: authors
-  label: Authors
-  config:
-    use_select: true
-    source:
-      type: pages
-      section: authors
 - type: textarea
   label: Excerpt
   name: excerpt
@@ -52,6 +44,14 @@ fields:
     source:
       type: pages
       section: subsectors
+- type: list
+  name: authors
+  label: Authors
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: authors
 - type: textarea
   name: sources
   label: Sources
@@ -63,9 +63,6 @@ fields:
   name: photo
   label: photo
 - type: text
-  name: image_caption
-  label: image caption
-- type: text
   name: image_credit
   label: Image Credit
 - type: boolean
@@ -75,6 +72,13 @@ fields:
   name: pdf
   label: Pdf
   description: Url for PDF goes here
+- type: list
+  name: tags
+  label: Tags
+  config:
+    use_select: true
+    source:
+      type: pages
 - type: text
   name: content_type
   label: Content type
@@ -85,3 +89,8 @@ fields:
   label: breadcrumbs
   hidden: true
   default: analysis
+- type: boolean
+  name: is_analysis
+  label: Is Analysis
+  default: true
+  hidden: true
