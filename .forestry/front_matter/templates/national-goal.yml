@@ -1,0 +1,13 @@
+---
+label: National Goal
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: include
+  template: sub-categories
+- type: text
+  name: data_source
+  label: Data source
