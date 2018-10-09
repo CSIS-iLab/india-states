@@ -10,7 +10,7 @@
 			{% if post.is_featured %}
 			<span class="isFeatured">Featured</span><br />
 			{% endif %}
-			{% assign authors = post.author | sort:'position' %}
+			{% assign authors = post.author %}
 			<span class="articleMeta">By {% for author in authors %}<span class="articleAuthor">{{ author }}</span>{% if forloop.last == false %}, {% endif %}{% endfor %}</span>
 			<br />
 		{% endif %}
@@ -52,7 +52,7 @@
 		        <br />
 		    {% endif %}
 		    {% if post.details[0].name != null %}
-				In Detail: 
+				In Detail:
 				{% for detail in post.details %}
 				    <a href="{{ detail.url }}" target="_blank">{{ detail.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a>{% if forloop.last == false %},{% endif %}
 				{% endfor %}
