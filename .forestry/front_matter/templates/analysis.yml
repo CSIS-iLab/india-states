@@ -46,21 +46,36 @@ fields:
   - type: text
     name: url
     label: Url
-- type: tag_list
-  name: author
+- type: list
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Sidhanta Mehra
+    - Sarah Watson
+    - Natalie Tecimer
+    - Aman Thakker
+    - Kartikeya Singh
+    - Afeena Ashfaque
+    - Sharmila Bellur
+    - Sarah Ladislaw
+    - Jane Nakano
+    - Richard M. Rossow
   label: Author
+  name: author
 - type: text
   hidden: true
   label: Breadcrumbs
   name: breadcrumbs
-  default: analysis
-- type: text
-  name: content_type
-  label: Content_Type
-  hidden: true
   default: analysis
 - type: boolean
   name: is_analysis
   label: Is Analysis
   default: true
   hidden: true
+- type: text
+  name: content_type
+  label: Content_Type
+  hidden: true
+  default: analysis

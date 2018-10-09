@@ -3,6 +3,9 @@ label: Article
 hide_body: false
 is_partial: false
 fields:
+- type: text
+  name: title
+  label: Title
 - type: include
   template: sub-categories-sortable-list
 - type: include
@@ -14,6 +17,8 @@ fields:
   label: Content Type
   hidden: true
   default: articles
+  config:
+    required: true
 - type: boolean
   name: is_analysis
   label: Is Analysis
@@ -24,3 +29,7 @@ fields:
   label: Breadcrumbs
   hidden: true
   default: articles
+  config:
+    required: true
+pages:
+- _posts/2018-10-05-bses-delhi-to-provide-2,000-solar-connections-by-the-end-of-2018.md
