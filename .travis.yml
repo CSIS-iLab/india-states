@@ -2,7 +2,7 @@ language: ruby
 cache: bundler
 branches:
   only:
-    - gh-pages
+    - master
 script: 
   - wget https://raw.githubusercontent.com/CSIS-iLab/india-states/master/algolia-sync.rb
   - chmod +x algolia-sync.rb
