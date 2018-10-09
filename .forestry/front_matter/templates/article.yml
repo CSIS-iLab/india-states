@@ -22,7 +22,7 @@ fields:
 - type: boolean
   name: is_analysis
   label: Is Analysis
-  default: true
+  default: false
   hidden: true
 - type: text
   name: breadcrumbs
