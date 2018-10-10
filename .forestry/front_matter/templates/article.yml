@@ -32,6 +32,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/pm-modi-inaugurates-mundra-lng-terminal.md
 - _posts/2018-10-10-delhi-will-bear-costs-for-installation-of-solar-panels-for-domestic-consumers.md
 - _posts/2018-10-10-triton-solar-to-manufacture-solar-batteries-in-andhra-pradesh.md
 - _posts/2018-10-10-punjab-approves-construction-of-4-000-mw-super-critical-thermal-plant.md
