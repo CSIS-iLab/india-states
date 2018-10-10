@@ -32,4 +32,5 @@ fields:
   config:
     required: true
 pages:
+- _posts/gujarat-auction-equals-lowest-tariff-rate-for-solar.md
 - _posts/2018-10-05-bses-delhi-to-provide-2,000-solar-connections-by-the-end-of-2018.md
