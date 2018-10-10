@@ -79,3 +79,5 @@ fields:
   label: Content_Type
   hidden: true
   default: analysis
+pages:
+- _analysis/states-update-october-10-2018.md
