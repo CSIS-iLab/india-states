@@ -32,6 +32,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/tamil-nadu-outlines-plan-to-set-up-100-000-grid-connected-solar-pumps.md
 - _posts/2018-10-10-acme-solar-commissions-solar-power-plant-at-bhadla-rajasthan.md
 - _posts/2018-10-10-maharashtra-to-set-up-500-electric-vehicle-charging-stations.md
 - _posts/2018-10-10-maharashtra-floats-1-400-mw-solar-tender-despite-poor-earlier-response.md
