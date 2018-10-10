@@ -32,6 +32,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/solar-tender-in-uttar-pradesh-exceeds-capacity.md
 - _posts/2018-10-10-mytrah-energy-to-establish-300-mw-wind-power-plant-in-coimbatore-tamil-nadu.md
 - _posts/2018-10-10-tamil-nadu-outlines-plan-to-set-up-100-000-grid-connected-solar-pumps.md
 - _posts/2018-10-10-acme-solar-commissions-solar-power-plant-at-bhadla-rajasthan.md
