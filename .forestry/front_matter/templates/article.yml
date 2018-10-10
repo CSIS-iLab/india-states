@@ -32,6 +32,8 @@ fields:
   config:
     required: true
 pages:
+- _posts/punjab-approves-construction-of-4-000-mw-super-critical-thermal-plant.md
+- _posts/2018-10-10-odisha-approves-proposal-to-set-up-40mw-solar-plant-in-state.md
 - _posts/2018-10-10-revived-talcher-plant-in-odisha-to-convert-coal-into-gas.md
 - _posts/2018-10-10-solar-tender-in-uttar-pradesh-exceeds-capacity.md
 - _posts/2018-10-10-mytrah-energy-to-establish-300-mw-wind-power-plant-in-coimbatore-tamil-nadu.md
