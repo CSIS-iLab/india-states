@@ -4,7 +4,8 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 date: 2018-10-10 00:00:00 +0000
-tags: []
+tags:
+- Update on India's States
 excerpt: 'Madhya Pradesh approves the Aviation Policy, 2018, providing a subsidy to
   airlines which operate flights under the center’s regional connectivity scheme,
   UDAN; Jammu and Kashmir devolves powers to local government bodies such as panchayats
