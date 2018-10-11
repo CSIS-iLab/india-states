@@ -32,6 +32,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/odisha-s-gridco-to-purchase-40-mw-solar-power-from-national-hydroelectric-power-corporation.md
 - _posts/2018-10-11-himachal-pradesh-offers-cheap-land-for-renewable-energy-projects.md
 - _posts/2018-10-11-uttar-pradesh-approves-500-mw-grid-connected-solar-project.md
 - _posts/2018-10-11-first-wind-energy-project-auctioned-by-solar-energy-corporation-of-india-completed.md
