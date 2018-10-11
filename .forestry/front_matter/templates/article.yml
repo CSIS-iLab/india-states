@@ -32,6 +32,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/first-wind-energy-project-auctioned-by-solar-energy-corporation-of-india-completed.md
 - _posts/2018-10-11-rajasthan-announces-free-electricity-for-farmers.md
 - _posts/2018-10-11-maharashtra-faces-acute-coal-shortage.md
 - _posts/2018-10-11-maharashtra-state-power-corporation-to-begin-trading-solar-power.md
