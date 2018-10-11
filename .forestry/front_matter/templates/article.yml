@@ -32,7 +32,8 @@ fields:
   config:
     required: true
 pages:
-- _posts/maharashtra-faces-acute-coal-shortage.md
+- _posts/rajasthan-announces-free-electricity-for-farmers.md
+- _posts/2018-10-11-maharashtra-faces-acute-coal-shortage.md
 - _posts/2018-10-11-maharashtra-state-power-corporation-to-begin-trading-solar-power.md
 - _posts/2018-10-11-lowest-tariff-bid-achieved-in-madhya-pradesh.md
 - _posts/2018-10-11-new-tender-for-700-mw-of-grid-connected-solar-projects-in-gujarat-released.md
