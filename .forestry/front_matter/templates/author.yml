@@ -12,3 +12,8 @@ fields:
 - type: file
   name: image
   label: Image
+- type: boolean
+  name: current_staff
+  label: Current Staff
+  description: Toggle on if current
+  default: true
