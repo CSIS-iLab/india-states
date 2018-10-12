@@ -17,4 +17,4 @@ fields:
   label: Current Chair Staff
   description: Toggle on if current
   default: true
-  hidden: true
+  hidden: false
