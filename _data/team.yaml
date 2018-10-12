@@ -18,7 +18,7 @@
 - name: Sarah Watson
   title: Associate Fellow
   image: "/uploads/headshots/sarah-watson-headshot2.jpg"
-  current: true
+  current: false
 - name: Sidhanta Mehra
   title: Program Manager and Research Associate
   image: "/uploads/headshots/sid-mehra-headshot.jpg"
