@@ -2,7 +2,7 @@
 title: Jane Nakano
 date: 2017-05-31 15:15:00 +0000
 job_title: Senior Fellow, Energy and National Security Program
-image: "/uploads/JaneNakano%20headshot.jpg"
+image: "/uploads/jane-nakano-headshot.jpg"
 current_staff: true
 
 ---
