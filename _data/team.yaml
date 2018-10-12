@@ -2,15 +2,19 @@
 - name: Richard M. Rossow
   title: Senior Adviser and Wadhwani Chair in U.S.-India Policy Studies
   image: "/uploads/headshots/rick-rossow-headshot.jpg"
+  current: true
 - name: Kartikeya Singh, Ph.D.
   title: Deputy Director and Fellow
   image: "/uploads/headshots/kartikeya-singh-headshot.jpg"
+  current: true
 - name: Aman Thakker
   title: Research Associate
   image: "/aman-thakker-headshot.jpg"
+  current: true
 - name: Afeena Ashfaque
   title: Program Coordinator and Research Assistant
   image: "/afeena-ashfaque-headshot.jpg"
+  current: true
 - name: Sarah Watson
   title: Associate Fellow
   image: "/uploads/headshots/sarah-watson-headshot2.jpg"
