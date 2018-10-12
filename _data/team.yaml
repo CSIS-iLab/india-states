@@ -18,9 +18,12 @@
 - name: Sarah Watson
   title: Associate Fellow
   image: "/uploads/headshots/sarah-watson-headshot2.jpg"
+  current: true
 - name: Sidhanta Mehra
   title: Program Manager and Research Associate
   image: "/uploads/headshots/sid-mehra-headshot.jpg"
+  current: true
 - name: Natalie Tecimer
   title: Program Manager and Research Associate
   image: "/uploads/headshots/natalie-tecimer-headshot.jpg"
+  current: true
