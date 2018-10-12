@@ -1,0 +1,22 @@
+<!--
+	If Get all authors_list
+
+	If author if current {
+		RENDER HERE
+
+	Else
+		RENDER HERE
+}
+
+	Click on author to get full biography in modal
+-->
+
+{% assign authors_list = site.authors %}
+<section class="team-container row">
+	<!-- {{ authors_list }} -->
+  {% for author in authors_list $}
+    
+    <!-- {{ author.name }} -->
+
+  {% endfor %}
+</section>

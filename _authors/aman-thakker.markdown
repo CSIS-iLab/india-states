@@ -1,7 +1,7 @@
 ---
 title: Aman Thakker
 date: 2018-07-03 19:09:00 +0000
-job_title: Research Associate, Wadhwani Chair in U.S.-India Policy Studies
+job_title: Research Associate
 image: "/uploads/headshots/aman-thakker-headshot.jpg"
 current_staff: true
 

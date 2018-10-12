@@ -9,11 +9,11 @@
   status: former
 - name: Aman Thakker
   title: Research Associate
-  image: "/Aman_02.jpg"
+  image: "/uploads/headshots/aman-thakker-headshot.jpg"
   status: current
 - name: Afeena Ashfaque
   title: Program Coordinator and Research Assistant
-  image: "/Afeena_01.jpg"
+  image: "/uploads/headshots/afeena-ashfaque-headshot.jpg"
   status: current
 - name: Sarah Watson
   title: Associate Fellow
@@ -21,7 +21,8 @@
   status: former
 - name: Sidhanta Mehra
   title: Program Manager and Research Associate
-  status: "/uploads/headshots/sid-mehra-headshot.jpg"
+  image: "/uploads/headshots/sid-mehra-headshot.jpg"
+  status: former
 - name: Natalie Tecimer
   title: Program Manager and Research Associate
   image: "/uploads/headshots/natalie-tecimer-headshot.jpg"
