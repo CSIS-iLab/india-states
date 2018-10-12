@@ -1,7 +1,7 @@
 ---
 label: team.yaml
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: Team
   label: Team
@@ -22,5 +22,10 @@ fields:
     type: file
     hidden: false
     default: ''
+  - type: boolean
+    name: current
+    label: Current?
+    hidden: false
+    default: true
   hidden: false
   default: ''

@@ -2,7 +2,7 @@
 title: Afeena Ashfaque
 date: 2018-05-23 20:39:00 +0000
 job_title: Program Coordinator and Research Assistant
-image: "/Afeena_01-1.jpg"
+image: "/afeena-ashfaque-headshot.jpg"
 current_staff: true
 
 ---
