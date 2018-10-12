@@ -29,3 +29,5 @@ fields:
     default: true
   hidden: false
   default: ''
+pages:
+- _data/team.yaml
