@@ -2,7 +2,7 @@
 <section class="team-container row">
 	{% for person in site.data.team %}
 	{% if person.current %}
-		<div class="team-personContainer col-xs-12 col-md-4">
+		<div class="team-personContainer col-xs-12 col-md-3">
 			{% if jekyll.environment == 'production' and site.cloudinary_url %}
 	          <img src="{{ person.image | prepend: site.url | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
 	        {% else %}
@@ -20,7 +20,7 @@
 <section class="team-container row">
 	{% for person in site.data.team %}
 	{% unless person.current %}
-		<div class="team-personContainer col-xs-12 col-md-4">
+		<div class="team-personContainer col-xs-12 col-md-3">
 			{% if jekyll.environment == 'production' and site.cloudinary_url %}
 	          <img src="{{ person.image | prepend: site.url | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
 	        {% else %}
