@@ -17,5 +17,3 @@ The website has two ways to sort the information: by state, or by sector. If yo
 For more from the Wadhwani Chair in U.S.-India Policy Studies, check out:
 - Our [website](https://www.csis.org/programs/wadhwani-chair-us-india-policy-studies)
 - Our Modi Reforms Scorecard, tracking national level reforms at [http://indiareforms.csis.org/](http://indiareforms.csis.org/)
-
-<h2 class="sectionTitle">Wadhwani Chair Team</h2>
