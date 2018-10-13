@@ -12,9 +12,3 @@ fields:
 - type: file
   name: image
   label: Image
-- type: boolean
-  name: current_staff
-  label: Current Chair Staff
-  description: Toggle on if current
-  default: true
-  hidden: false
