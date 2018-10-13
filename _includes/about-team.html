@@ -1,5 +1,7 @@
+<h2 class="sectionTitle">Wadhwani Chair Team</h2>
 <section class="team-container row">
 	{% for person in site.data.team %}
+	{% if person.current %}
 		<div class="team-personContainer col-xs-12 col-md-4">
 			{% if jekyll.environment == 'production' and site.cloudinary_url %}
 	          <img src="{{ person.image | prepend: site.url | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
@@ -10,6 +12,25 @@
 			<strong class="team-name">{{ person.name }}</strong><br />
 			<span class="team-title">{{ person.title | escape }}</span>
 		</div>
+	{% endif %}
+	{% endfor %}
+</section>
+
+<h2 class="sectionTitle">Former Team Members</h2>
+<section class="team-container row">
+	{% for person in site.data.team %}
+	{% unless person.current %}
+		<div class="team-personContainer col-xs-12 col-md-4">
+			{% if jekyll.environment == 'production' and site.cloudinary_url %}
+	          <img src="{{ person.image | prepend: site.url | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+	        {% else %}
+	          <img src="{{ person.image | default:'/assets/img/anon-author.svg' | relative_url }}" alt='{{ person.name }} Image'/>
+	        {% endif %}
+			<br />
+			<strong class="team-name">{{ person.name }}</strong><br />
+			<span class="team-title">{{ person.title | escape }}</span>
+		</div>
+	{% endunless %}
 	{% endfor %}
 </section>
 
