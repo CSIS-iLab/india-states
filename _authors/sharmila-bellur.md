@@ -1,7 +1,7 @@
 ---
 title: Sharmila Bellur
 job_title: Research Intern, Energy and National Security Program
-image: "/uploads/headshots/sharmila-bellur-headshot.jpg"
+image: "/_uploads/headshots/sharmila-bellur-headshot.jpg"
 current_staff: true
 
 ---
