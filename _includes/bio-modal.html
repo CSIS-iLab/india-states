@@ -1,0 +1,48 @@
+
+{% for %}
+<div class="bio-modal">
+
+
+<img src="{{}}"
+
+</div>
+
+<div class="member-directory">
+
+  <div class="group {{ group.type }}">
+    <h2>{{ group.title }} <a name="{{ group.type }}"></a></h2>
+    {% else %}
+    <h3 class="group__title">{{ group.title }} <a name="{{ group.type }}"></a></h3>
+    {% endif %}
+
+    {% for member in site.data[group.type] %}
+    <div class="group__member">
+      <a class="group__member-anchor" name="{{ member['Last Name'] | append: member['First Name'] | slugify }}"></a>
+
+      {% assign file = member['Last Name'] | append: "_" | append: member['First Name'] | append: ".jpg" %}
+      {% assign path = site.cloudinary_url | append: "r_max/v2/health-commission/" %}
+      {% assign placeholder = "Anon.jpg"  %}
+
+      <img class="group__member__photo" onerror="this.src='{{ path }}{{ placeholder }}'" src="{{ path }}{{ file }}" />
+
+      <div class="group__member__text">
+        <div class="bio-name">{{ member['Display Name'] }}</div>
+        <div class="bio-title">{{ member['Short Title'] }}</div>
+        <p class="bio-short">{{ member['Short Bio'] }}</p>
+        <button class="btn member-bio" data-id="{{group.type}}_{{ forloop.index0 }}" aria-label="{{ site.data.language.about_the_commission.bio_button | append: ' of ' | append: member['Display Name'] }}">{{ site.data.language.about_the_commission.bio_button }}</button>
+      </div>
+
+    </div>
+    {% endfor %}
+
+    {% unless forloop.first or forloop.last %}
+
+    <a href="#" class="back-to-top">
+      {{ site.data.language.about_the_commission.back_to_top }} <i class="icon-arrow-up"></i>
+    </a>
+    {% endunless %}
+  </div>
+  {% endfor %}
+
+</div>
+{% endif %}

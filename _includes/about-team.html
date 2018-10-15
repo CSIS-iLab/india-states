@@ -9,7 +9,7 @@
 	          <img src="{{ person.image | default:'/assets/img/anon-author.svg' | relative_url }}" alt='{{ person.name }} Image'/>
 	        {% endif %}
 			<br />
-			<strong class="team-name">{{ person.name }}</strong><br />
+			<a href="#{{ member['Last Name'] | append: member['First Name'] | slugify }}"><strong class="team-name">{{ person.name }}</strong><br /></a>
 			<span class="team-title">{{ person.title | escape }}</span>
 		</div>
 	{% endif %}
