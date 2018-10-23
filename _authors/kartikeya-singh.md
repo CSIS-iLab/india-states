@@ -1,7 +1,7 @@
 ---
 title: Kartikeya Singh
 job_title: Deputy Director and Fellow, Wadhwani Chair in U.S.-India Policy Studies
-image: "/kartikeya-singh-headshot.jpg"
+image: "/uploads/kartikeya-singh-headshot.jpg"
 current_staff: true
 
 ---
