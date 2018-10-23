@@ -32,14 +32,12 @@ fields:
   config:
     required: true
 pages:
-- _posts/2018-10-18-punjab-state-power-corporation-limited-to-schedule-power-supply-based-on-use-type.md
-- _posts/2018-10-18-punjab-state-power-corporation-limited-passes-cost-of-increased-surcharge-to-consumers.md
-- _posts/2018-10-18-seci-extends-submission-deadline-for-150-mw-floating-solar-project.md
-- _posts/2018-10-18-uttar-pradesh-concludes-auction-for-500-mw-of-solar-projects.md
-- _posts/2018-10-18-essar-power-commissions-600-mw-unit-at-mahan-power-plant-in-madhya-pradesh.md
-- _posts/2018-10-18-tender-announced-for-1-500-mw-of-grid-connected-solar-projects-across-three-solar-parks-in-madhya-pradesh.md
 - _posts/2018-10-18-ntpc-announces-tender-for-wind-solar-hybrid-project-at-kudgi-karnataka.md
-- _posts/2018-10-18-seven-companies-to-supply-1-900-mw-to-five-states.md
+- _posts/2018-10-18-tender-announced-for-1-500-mw-of-grid-connected-solar-projects-across-three-solar-parks-in-madhya-pradesh.md
+- _posts/2018-10-18-essar-power-commissions-600-mw-unit-at-mahan-power-plant-in-madhya-pradesh.md
+- _posts/2018-10-18-seci-extends-submission-deadline-for-150-mw-floating-solar-project.md
+- _posts/2018-10-18-punjab-state-power-corporation-limited-passes-cost-of-increased-surcharge-to-consumers.md
+- _posts/2018-10-18-punjab-state-power-corporation-limited-to-schedule-power-supply-based-on-use-type.md
 - _posts/2018-10-10-gujarat-auction-equals-lowest-tariff-rate-for-solar.md
 - _posts/2018-10-10-maharashtra-floats-1-400-mw-solar-tender-despite-poor-earlier-response.md
 - _posts/2018-10-10-maharashtra-to-set-up-500-electric-vehicle-charging-stations.md
