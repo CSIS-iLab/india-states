@@ -4,7 +4,8 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 date: 2018-10-17 00:00:00 +0000
-tags: []
+tags:
+- Update on India's States
 excerpt: 'President Ram Nath Kovind approved The Industrial Disputes (Assam Amendment)
   Bill, 2017; Maharashtra announces an ambitious plan to supply solar-powered agricultural
   pumps at highly subsidized rates to 100,000 farmers; Essar Power commissions the
