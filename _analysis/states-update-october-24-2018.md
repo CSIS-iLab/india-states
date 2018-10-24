@@ -26,7 +26,7 @@ author:
 ---
 **Big News**
 
-The center asks Telangana to return $25.8 million granted to the state under the Pradhan Mantri Awas Yojana; Maharashtra approves vehicle for fast-tracking development of the Dharavi slums; the Ministry of Civil Aviation clears a proposal to connect Guwahati airport with seven neighboring countries; Sterlite Power announces it has commissioned the Northern Region System Strengthening project two months ahead of schedule; Punjab amends its industrial policy to give investment incentives, such as GST concessions approval for global tendering; and more.
+The center asks Telangana to return $25.8 million granted to the state under the Pradhan Mantri Awas Yojana; Maharashtra approves vehicle for fast-tracking development of the Dharavi slums; the Ministry of Civil Aviation clears a proposal to connect Guwahati airport with seven neighboring countries; Sterlite Power announces it has commissioned the Northern Region System Strengthening project in Jammu and Kashmir two months ahead of schedule; Punjab amends its industrial policy to give investment incentives, such as GST concessions approval for global tendering; and more.
 
 **Center – State relations**
 
@@ -118,7 +118,7 @@ The Himachal Pradesh Electricity Regulatory Commission has issued new draft regu
 
 **Jammu and Kashmir**
 
-Power transmission infrastructure developer Sterlite Power announced it has commissioned a $408.29 million Northern Region System Strengthening two months ahead of schedule. The 257-mile project will ensure reliable power access for the valley by augmenting the state’s power transmission capacity by at least 33 percent. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/sterlite-power-commissions-rs-3000-crore-kashmir-transmission-project/66214652) **In detail:** [Press Release](https://www.sterlitepower.com/press-release/sterlite-power-commissions-nrss-29-kashmir-project-transmission-project-2-months-ahead-schedule)
+Power transmission infrastructure developer Sterlite Power announced it has commissioned a $408.29 million Northern Region System Strengthening project in Jammu and Kashmir two months ahead of schedule. The 257-mile project will ensure reliable power access for the valley by augmenting the state’s power transmission capacity by at least 33 percent. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/sterlite-power-commissions-rs-3000-crore-kashmir-transmission-project/66214652) **In detail:** [Press Release](https://www.sterlitepower.com/press-release/sterlite-power-commissions-nrss-29-kashmir-project-transmission-project-2-months-ahead-schedule)
 
 **Kerala**
 
