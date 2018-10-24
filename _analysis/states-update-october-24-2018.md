@@ -27,11 +27,11 @@ published: false
 ---
 **Big News**
 
-The center asks Telangana to return $25.8 million granted to the state under the Pradhan Mantri Awas Yojana; Maharashtra approves vehicle for fast-tracking development of the Dharavi slums; the Ministry of Civil Aviation clears a proposal to connect Guwahati airport with seven neighboring countries; Sterlite Power announces it has commissioned the Northern Region System Strengthening project two months ahead of schedule; Punjab amends its industrial policy to give investment incentives, such as GST concessions approval for global tendering; and more. 
+The center asks Telangana to return $25.8 million granted to the state under the Pradhan Mantri Awas Yojana; Maharashtra approves vehicle for fast-tracking development of the Dharavi slums; the Ministry of Civil Aviation clears a proposal to connect Guwahati airport with seven neighboring countries; Sterlite Power announces it has commissioned the Northern Region System Strengthening project two months ahead of schedule; Punjab amends its industrial policy to give investment incentives, such as GST concessions approval for global tendering; and more.
 
 **Center – State relations**
 
-The Power Ministry announced a $13.6 million award for states that achieve 100 percent household electrification ahead of schedule under the Saubhagaya scheme. Apart from distribution companies, the employees would also collectively get a $68,000 award for completing the task of electrifying every household under the $2.2 billion Saubhagaya scheme. 
+The Power Ministry announced a $13.6 million award for states that achieve 100 percent household electrification ahead of schedule under the Saubhagaya scheme. Apart from distribution companies, the employees would also collectively get a $68,000 award for completing the task of electrifying every household under the $2.2 billion Saubhagaya scheme.
 
 **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/states-to-get-rs-100-cr-award-for-being-efficient-under-saubhagaya-scheme/66223914) **In detail:** [Press Release](http://pib.nic.in/newsite/PrintRelease.aspx?relid=184197)
 
@@ -61,7 +61,7 @@ Chief Minister Manohar Lal Khattar said his government is ready to discuss the d
 
 **Karnataka**
 
-The Karnataka Renewable Energy Development Limited has issued a tender for the allotment of 100 MW of grid connected solar projects in five talukas across the state. The bid submission deadline is November 12, 2018. The minimum capacity set for this tender is 20 MW while the maximum for any given taluka will be 100 MW. **Source:** [Mercom](https://mercomindia.com/karnataka-solar-tender-100-mw-talukas/) **In detail:** [Tender details](http://kredlinfo.in/Solargrid_100MW.aspx)
+The Karnataka Renewable Energy Development Limited has issued a tender for the allotment of 100 MW of grid connected solar projects in five talukas, or counties, across the state. The bid submission deadline is November 12, 2018. The minimum capacity set for this tender is 20 MW while the maximum for any given taluka will be 100 MW. **Source:** [Mercom](https://mercomindia.com/karnataka-solar-tender-100-mw-talukas/) **In detail:** [Tender details](http://kredlinfo.in/Solargrid_100MW.aspx)
 
 The Karnataka Electricity Regulatory Commission has implemented proposed changes to the renewable purchase obligation (RPO) regulations passed in 2011, which dictated that the Bangalore Electricity Supply Company purchase a minimum of 13 percent of its total energy from renewable sources. Under the amended RPO, this requirement has been reduced to 12 percent. **Source:** [Energy Infra Post](http://energyinfrapost.com/karnataka-proposes-reduction-bescoms-rpo-target-13-12/)
 
