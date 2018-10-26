@@ -16,7 +16,7 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll"
+gem "jekyll", "~> 3.8.4"
 gem "public_suffix", "3.0.3"
 gem "algoliasearch", "1.6.1"
 

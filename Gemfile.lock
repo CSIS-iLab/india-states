@@ -67,7 +67,7 @@ PLATFORMS
 
 DEPENDENCIES
   algoliasearch (= 1.6.1)
-  jekyll
+  jekyll (~> 3.8.4)
   jekyll-feed (~> 0.6)
   jekyll-sitemap
   public_suffix (= 3.0.3)
@@ -77,4 +77,4 @@ RUBY VERSION
    ruby 2.3.1p112
 
 BUNDLED WITH
-   1.16.2
+   1.16.6
