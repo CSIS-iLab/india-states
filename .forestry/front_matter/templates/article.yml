@@ -32,6 +32,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/haryana-issues-new-guidelines-for-mw-scale-projects.md
 - _posts/2018-10-30-delhi-power-minister-launches-second-phase-of-solar-city-initiative.md
 - _posts/2018-10-30-bihar-meets-universal-electricity-access-target-ahead-of-december-31-deadline.md
 - _posts/2018-10-18-ntpc-announces-tender-for-wind-solar-hybrid-project-at-kudgi-karnataka.md
