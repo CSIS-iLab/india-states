@@ -4,7 +4,8 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 date: 2018-10-24 00:00:00 +0000
-tags: []
+tags:
+- Update on India's States
 excerpt: 'The center asks Telangana to return $25.8 million granted to the state under
   the Pradhan Mantri Awas Yojana; Maharashtra approves vehicle for fast-tracking development
   of the Dharavi slums; the Ministry of Civil Aviation clears a proposal to connect
