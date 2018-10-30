@@ -80,6 +80,7 @@ fields:
   hidden: true
   default: analysis
 pages:
+- _analysis/asian-development-offers-loan-to-eesl-for-demand-side-energy-efficiency-projects.md
 - _analysis/states-update-october-24-2018.md
 - _analysis/states-update-october-30-2018.md
 - _analysis/states-update-october-17-2018.md
