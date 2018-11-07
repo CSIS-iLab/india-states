@@ -80,6 +80,7 @@ fields:
   hidden: true
   default: analysis
 pages:
+- _analysis/states-update-november-7-2018.md
 - _analysis/states-update-october-24-2018.md
 - _analysis/states-update-october-30-2018.md
 - _analysis/states-update-october-17-2018.md
