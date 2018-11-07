@@ -4,7 +4,8 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 date: 2018-11-07 16:45
-tags: []
+tags:
+- Update on India's States
 excerpt: India leaps into 77th place from 100th in latest World Bank Ease of Doing
   Business Report; Andhra Pradesh is ranked number one in the country with an average
   growth of 10.5 percent; by recording 13.6 percent annual growth rate in power consumption,
@@ -32,7 +33,7 @@ India leaps into 77th place from 100th in latest World Bank Ease of Doing Busine
 
 The Housing and Urban Affairs Ministry approved the construction of 215,000 affordable houses for the poor in six states under the Pradhan Mantri Awas Yojna (Urban).
 
-**Source:** [**Business Standard**](https://www.business-standard.com/article/economy-policy/centre-approves-construction-of-215-000-houses-in-6-states-under-pmay-u-118103001149_1.html) **In detail:** [**Press Release **](http://pib.nic.in/newsite/PrintRelease.aspx?relid=184479)
+**Source:** [**Business Standard**](https://www.business-standard.com/article/economy-policy/centre-approves-construction-of-215-000-houses-in-6-states-under-pmay-u-118103001149_1.html) **In detail:** [**Press Release**](http://pib.nic.in/newsite/PrintRelease.aspx?relid=184479)
 
 Under the Ministry of Power’s first pilot scheme for reviving stressed thermal power projects without power sale contracts, Bihar, West Bengal, Telangana, and Tamil Nadu have agreed to procure power for three years from these projects.
 
