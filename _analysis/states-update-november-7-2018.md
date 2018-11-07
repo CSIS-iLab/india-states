@@ -191,7 +191,7 @@ The Himachal Pradesh Electricity Regulatory Commission (HPERC) has issued HPERC 
 
 **Kerala**
 
-The Kerala government signed an MOU with the National Health Agency for the implementation of the center’s flagship health insurance scheme called the prime minister’s Jan Arogya Yojana or Ayushman Bharat program.
+Kerala signs MOU with central government to join the flagship Ayushman Bharat healthcare program. 
 
 **Source:** [**The Week**](https://www.theweek.in/news/biz-tech/2018/11/01/Kerala-signs-MoU-for-implementation-of-Ayushman-Bharat.htl)
 
