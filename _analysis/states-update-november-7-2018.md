@@ -5,13 +5,12 @@ is_analysis: true
 content_type: analysis
 date: 2018-11-07 16:45
 tags: []
-excerpt: According to the World Bank report 2019 on ease of doing business, India
-  has jumped from 23 ranks from 100 in 2017-18 to 77 in 2018-19; Andhra Pradesh is
-  ranked number one in the country with an average growth of 10.5 percent; by recording
-  13.6 percent annual growth rate in power consumption, Telangana stands first in
-  the country;  Kerala government signed an MOU with the National Health Agency to
-  implement Ayushman Bharat program; Odisha rolls out the Odisha Aerospace & Defence
-  Manufacturing Policy, 2018; and more.
+excerpt: India leaps into 77th place from 100th in latest World Bank Ease of Doing
+  Business Report; Andhra Pradesh is ranked number one in the country with an average
+  growth of 10.5 percent; by recording 13.6 percent annual growth rate in power consumption,
+  Telangana stands first in the country;  Kerala signs MOU with central government
+  to join the flagship Ayushman Bharat healthcare program; Odisha rolls out the Odisha
+  Aerospace & Defence Manufacturing Policy, 2018; and more
 states: []
 sectors: []
 subsectors: []
@@ -25,10 +24,9 @@ author:
 published: false
 
 ---
-
 **Big News**
 
-According to the World Bank report 2019 on ease of doing business, India has jumped from 23 ranks from 100 in 2017-18 to 77 in 2018-19; Andhra Pradesh is ranked number one in the country with an average growth of 10.5 percent; by recording 13.6 percent annual growth rate in power consumption, Telangana stands first in the country;  Kerala government signed an MOU with the National Health Agency to implement Ayushman Bharat program; Odisha rolls out the Odisha Aerospace & Defence Manufacturing Policy, 2018; and more.
+India leaps into 77th place from 100th in latest World Bank Ease of Doing Business Report; Andhra Pradesh is ranked number one in the country with an average growth of 10.5 percent; by recording 13.6 percent annual growth rate in power consumption, Telangana stands first in the country;  Kerala signs MOU with central government to join the flagship Ayushman Bharat healthcare program; Odisha rolls out the Odisha Aerospace & Defence Manufacturing Policy, 2018; and more  .
 
 **Center – State relations**
 
