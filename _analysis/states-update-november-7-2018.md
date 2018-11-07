@@ -49,7 +49,7 @@ Around 500 mills across Haryana, Uttar Pradesh, and Rajasthan will stop operatio
 
 According to the World Bank’s 2019 Ease of Doing Business report, India has taken a huge leap of 23 ranks from 100th place in 2017-18 to 77th place in 2018-19.
 
-**Source:** [**Times of India**](https://timesofindia.indiatimes.com/business/india-business/trading-across-borders-improvement-helped-india-surge-23-ranks-in-ease-of-doing-biz/articleshow/66479133.cms) **In detail:** [**Press Release**](http://www.pib.nic.in/PressReleaseIframePage.aspx?PRID=1551719)**,** [**World Bank Rankings **](http://www.doingbusiness.org/en/rankings)
+**Source:** [**Times of India**](https://timesofindia.indiatimes.com/business/india-business/trading-across-borders-improvement-helped-india-surge-23-ranks-in-ease-of-doing-biz/articleshow/66479133.cms) **In detail:** [**Press Release**](http://www.pib.nic.in/PressReleaseIframePage.aspx?PRID=1551719)**,**[ **World Bank Rankings**](http://www.doingbusiness.org/en/rankings)
 
 **Andhra Pradesh**
 
