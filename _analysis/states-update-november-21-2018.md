@@ -3,7 +3,7 @@ title: 'States Update: November 21, 2018'
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-date: 2018-11-21 14:07:00 +0000
+date: 2018-11-21 05:07:00 +0000
 tags:
 - Update on India's States
 excerpt: Great Eastern Energy Corporation announces it has found prospective shale
