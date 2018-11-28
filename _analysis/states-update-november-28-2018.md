@@ -6,7 +6,12 @@ content_type: analysis
 date: 2018-11-28 17:19:07 +0000
 tags:
 - Update on India's States
-excerpt: ''
+excerpt: 'Andhra Pradesh freezes electric power tariff hikes ahead of 2019 election
+  and expands power subsidies; Maharashtra approved legislation to give job and education
+  quotas to the Marathi community; Uttar Pradesh announces a plan to merge all the
+  government controlled cooperative banks into a single entity; West Bengal allows
+  single-bid tenders for smaller contracts; Governor of Jammu & Kashmir dissolves
+  the state assembly; and more. '
 states: []
 sectors: []
 subsectors: []
