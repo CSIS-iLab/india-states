@@ -26,7 +26,7 @@ author:
 ---
 **Big News**
 
-Andhra Pradesh freezes electric power tariff hikes ahead of 2019 election and expands power subsidies; Maharashtra approved legislation to give job and education quotas to the Marathi community; Uttar Pradesh announces a plan to merge all the government controlled cooperative banks into a single entity; West Bengal allows single-bid tenders for smaller contracts; Governor of Jammu & Kashmir dissolves the state assembly; and more. 
+Andhra Pradesh freezes electric power tariff hikes ahead of 2019 election and expands power subsidies; Maharashtra approved legislation to give job and education quotas to the Marathi community; Uttar Pradesh announces a plan to merge all the government controlled cooperative banks into a single entity; West Bengal allows single-bid tenders for smaller contracts; Governor of Jammu & Kashmir dissolves the state assembly; and more.
 
 **Center – State relations**
 
@@ -50,7 +50,7 @@ The Delhi cabinet granted administrative approval to procure 1,000 low-floor air
 
 **Gujarat**
 
-A memorandum of understanding (MOU) was signed in the presence of Gujarat’s chief minister, Vijay Rupani, establishing a first-of-its-kind desalination plant at Jodiya in Jamnagar. The plant, with a daily capacity of 100 million liters, will have a reinforced concrete cement sump, connecting pipeline, and pumping machinery. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/mou-signed-for-states-first-desalination-plant/articleshowprint/66673008.cms)          
+A memorandum of understanding (MOU) was signed in the presence of Gujarat’s chief minister, Vijay Rupani, establishing a first-of-its-kind desalination plant at Jodiya in Jamnagar. The plant, with a daily capacity of 100 million liters, will have a reinforced concrete cement sump, connecting pipeline, and pumping machinery. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/mou-signed-for-states-first-desalination-plant/articleshowprint/66673008.cms)
 
 **Haryana**
 
@@ -72,7 +72,7 @@ The Maharashtra Electricity Regulatory Commission, the state power regulator, re
 
 The Maharashtra government signed an MOU with Holtec Asia, a subsidiary of Holtec International, to set up a nuclear equipment manufacturing facility in the state. Holtec has expressed an interest in investing $680 million to build a facility in India dedicated towards manufacturing high-end nuclear power plant equipment. With this investment, Maharashtra will be the first state in the country to have a nuclear equipment manufacturing facility. **Source:** [Indian Express](https://indianexpress.com/article/cities/mumbai/mumbai-government-signs-mou-with-holtec-for-nuclear-equipment-facility-5458272/)
 
-The Maharashtra government signed MOUs with Energy Efficiency Services Ltd (EESL) to implement gas-based trigeneration projects in selective facilities including government-owned hospitals, guest houses, hostels, offices and other government buildings. The agreements were signed between EESL and the Medical Education & Drugs Department, the Public Works Department, the General Administration Department, and Tribal Development Department. 
+The Maharashtra government signed MOUs with Energy Efficiency Services Ltd (EESL) to implement gas-based trigeneration projects in selective facilities including government-owned hospitals, guest houses, hostels, offices and other government buildings. The agreements were signed between EESL and the Medical Education & Drugs Department, the Public Works Department, the General Administration Department, and Tribal Development Department.
 
 **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/maharashtra-signs-pacts-with-eesl-to-implement-7-mw-power-projects/66753063)
 
@@ -114,7 +114,7 @@ The West Bengal Assembly unanimously passed the West Bengal Land Reforms (Amendm
 
 **Assam**
 
-Quantum Materials Corporation signed an MOU with Amtronics CC for the development and commercial manufacture of ultra-high definition display panels, solid state lighting LEDs, and quantum dot driven thin-film solar cells in Assam. **Source:** [Energy Infra Post](http://energyinfrapost.com/assam-us-firm-manufacture-quantum-dot-driven-solar-cells-association-state-psu-amtron/)       
+Quantum Materials Corporation signed an MOU with Amtronics CC for the development and commercial manufacture of ultra-high definition display panels, solid state lighting LEDs, and quantum dot driven thin-film solar cells in Assam. **Source:** [Energy Infra Post](http://energyinfrapost.com/assam-us-firm-manufacture-quantum-dot-driven-solar-cells-association-state-psu-amtron/)
 
 **Himachal Pradesh**
 
@@ -132,7 +132,7 @@ Jammu & Kashmir governor Satya Pal Malik dissolved the state legislative assembl
 
 **Manipur**
 
-The Manipur government launched the Manipur Cab Services, aimed at helping the poor, providing employment to unemployed youth, and ensuring sustainable livelihood for various people in the state. **Source:** [The Sentinel](https://www.sentinelassam.com/news/manipur-introduces-manipur-cab-services-to-generate-more-employment-opportunities-for-youth/) 
+The Manipur government launched the Manipur Cab Services, aimed at helping the poor, providing employment to unemployed youth, and ensuring sustainable livelihood for various people in the state. **Source:** [The Sentinel](https://www.sentinelassam.com/news/manipur-introduces-manipur-cab-services-to-generate-more-employment-opportunities-for-youth/)
 
 **Meghalaya**
 
@@ -143,8 +143,6 @@ The Ministry of Tribal Affairs  has released $18 million for various works prop
 **Odisha**
 
 The Gas Authority of India Limited, Bharat Gas Resources, and Adani Gas Limited announced they will invest around $482 million in 17 districts in Odisha to provide piped natural gas to households, as well as commercial and industrial segments under the central government’s City Gas Distribution project. The project is expected to provide employment to around 20,000 people of the state. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhubaneswar/rs-3400cr-to-be-invested-in-odisha-for-city-gas-distribution-project/articleshowprint/66694326.cms)
-
- 
 
 **Punjab**
 
