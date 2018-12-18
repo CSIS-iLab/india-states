@@ -32,6 +32,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/power-consumers-in-uttar-pradesh-spared-tariff-hike.md
 - _posts/2018-12-18-center-allocates-tamil-nadu-with-550-mw-of-power.md
 - _posts/2018-12-18-the-petroleum-and-natural-gas-regulatory-board-issues-bid-to-retail-natural-gas-in-50-cities.md
 - _posts/2018-12-18-goa-launches-single-window-clearance-portal-for-rooftop-solar-projects.md
