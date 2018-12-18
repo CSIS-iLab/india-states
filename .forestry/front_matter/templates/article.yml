@@ -32,8 +32,8 @@ fields:
   config:
     required: true
 pages:
-- _posts/goa-launches-single-window-clearance-portal-for-rooftop-solar-projects.md
 - _posts/2018-12-18-the-petroleum-and-natural-gas-regulatory-board-issues-bid-to-retail-natural-gas-in-50-cities.md
+- _posts/2018-12-18-goa-launches-single-window-clearance-portal-for-rooftop-solar-projects.md
 - _posts/2018-12-18-odisha-launches-new-solar-pump-subsidy-scheme-for-farmers.md
 - _posts/2018-12-18-central-electricity-regulatory-commission-amends-power-purchase-agreements-with-gujarat-power-plants.md
 - _posts/2018-12-18-himachal-pradesh-sets-new-renweable-purchase-obligation-rates.md
