@@ -1,6 +1,6 @@
 ---
 title: Great Eastern Energy Corporation announces resource upgrade at block in West
-  Benga
+  Bengal
 content_type: articles
 breadcrumbs: articles
 date: 2018-12-18 16:54:21 +0000
@@ -17,4 +17,4 @@ details: []
 is_analysis: false
 
 ---
-The Great Eastern Energy Corporation announced a resource upgrade at its Raniganj (South) block in West Bengal, saying it has found prospective shale resources with a valuation of over $2.78 billion.   
+The Great Eastern Energy Corporation announced a resource upgrade at its Raniganj (South) block in West Bengal, saying it has found prospective shale resources with a valuation of over $2.78 billion. 
