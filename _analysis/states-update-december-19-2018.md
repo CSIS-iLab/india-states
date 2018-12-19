@@ -20,8 +20,8 @@ details: []
 author:
 - Aman Thakker
 breadcrumbs: ''
-is_analysis: false
-content_type: ''
+is_analysis: true
+content_type: 'analysis'
 
 ---
 **Big News**
@@ -30,7 +30,7 @@ Bihar announces a ban on use of plastic bags and sheets; Delhi approves slum red
 
 **Center – State relations**
 
-Nothing critical to report this week. 
+Nothing critical to report this week.
 
 **Andhra Pradesh**
 
@@ -72,7 +72,7 @@ According to data in Maharashtra, 36 percent of individuals trained under the st
 
 **Rajasthan**
 
-Nothing critical to report this week. 
+Nothing critical to report this week.
 
 **Tamil Nadu**
 
@@ -98,7 +98,7 @@ The Uttar Pradesh government announced a decision to replace the open electricit
 
 **West Bengal**
 
-Chief Minister Mamata Banerjee announced that between 2011 and 2018, West Bengal has recorded an increase in solar power generation from 1.2 MW to 53.2 MW. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/rapid-progress-made-in-augmenting-energy-from-non-conventional-118121400206_1.html) **In detail:** [Twitter Announcement](https://twitter.com/MamataOfficial/status/1073391903121403904) 
+Chief Minister Mamata Banerjee announced that between 2011 and 2018, West Bengal has recorded an increase in solar power generation from 1.2 MW to 53.2 MW. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/rapid-progress-made-in-augmenting-energy-from-non-conventional-118121400206_1.html) **In detail:** [Twitter Announcement](https://twitter.com/MamataOfficial/status/1073391903121403904)
 
 **Best of the Rest**
 
@@ -122,7 +122,7 @@ Smile Train India, a non-government organization, signed an MOU with the Nationa
 
 **Jammu and Kashmir**
 
-The Jammu & Kashmir State Administration Council approved an amendment to the Ranbir Penal Code (RPC), inserting a new section defining the offense of “sextortion.” Under Section 354E of the RPC, the new law explicitly bans sexual exploitation of women by public servants and by those in positions of authority. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/jk-law-to-stop-sextortion-of-women/article25744927.ece) 
+The Jammu & Kashmir State Administration Council approved an amendment to the Ranbir Penal Code (RPC), inserting a new section defining the offense of “sextortion.” Under Section 354E of the RPC, the new law explicitly bans sexual exploitation of women by public servants and by those in positions of authority. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/jk-law-to-stop-sextortion-of-women/article25744927.ece)
 
 The Jammu and Kashmir government will set up its first Real Estate Regulatory Authority in the state to promote regulated and planned growth of the real estate sector. **Source:** [Economic Times](https://realty.economictimes.indiatimes.com/news/regulatory/jammu-kashmir-government-to-set-up-rera/67102435)
 
