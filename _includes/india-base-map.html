@@ -2,12 +2,11 @@
 {% assign listLimit = dataset.size | divided_by: 2 %}
 {% assign maximum = 0 %}
 {% assign minimum = 0 %}
-
 <div class="goal-interactiveContainer row">
   <div class="col-xs-6 col-md-3">
     <ul class="map-statesList">
       {% for row in dataset limit: listLimit %}
-        <li data-map-id="{{ row.state | replace: ' ', '_' | downcase }}" data-map-index="{% increment currentRow %}">
+        <li data-map-id="{{ row.state | replace: ' ', '_' | downcase }}" data-map-index="{{ forloop.index0 }}">
           {{ row.state | escape }}
         </li>
       {% endfor %}
@@ -16,7 +15,7 @@
   <div class="col-xs-6 col-md-3">
     <ul class="map-statesList">
       {% for row in dataset offset: listLimit %}
-        <li data-map-id="{{ row.state | replace: ' ', '_' | downcase }}" data-map-index="{% increment currentRow %}">
+        <li data-map-id="{{ row.state | replace: ' ', '_' | downcase }}" data-map-index="{{ forloop.index0 | plus: listLimit }}">
           {{ row.state | escape }}
         </li>
       {% endfor %}
