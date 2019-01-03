@@ -21,7 +21,7 @@ author:
 - Aman Thakker
 breadcrumbs: ''
 is_analysis: true
-content_type: 'analysis'
+content_type: analysis
 
 ---
 **Big News**
