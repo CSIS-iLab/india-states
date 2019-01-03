@@ -7,8 +7,8 @@ fields:
   label: Title
   name: title
 - type: include
-  name: ''
-  label: ''
+  name: subsectors
+  label: Subsectors
   template: sub-categories-dropdown
 - type: text
   name: data_source
