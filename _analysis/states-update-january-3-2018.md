@@ -20,13 +20,13 @@ details: []
 author:
 - Aman Thakker
 breadcrumbs: ''
-is_analysis: false
-content_type: ''
+is_analysis: true
+content_type: 'analysis'
 
 ---
 **Big News**
 
-Maharashtra increases salaries for state government employees; President Kovind bifurcates High Court of Judicature at Hyderabad into separate High Courts for Andhra Pradesh and for Telangana; Uttarakhand becomes first state to offer universal secondary and tertiary health coverage for all households in the state; Chhattisgarh returns land acquired from tribal farmers in Bastar in 2005 for a now-dead Tata Steel project; and more. 
+Maharashtra increases salaries for state government employees; President Kovind bifurcates High Court of Judicature at Hyderabad into separate High Courts for Andhra Pradesh and for Telangana; Uttarakhand becomes first state to offer universal secondary and tertiary health coverage for all households in the state; Chhattisgarh returns land acquired from tribal farmers in Bastar in 2005 for a now-dead Tata Steel project; and more.
 
 **Center – State relations**
 
@@ -34,11 +34,11 @@ In a survey of 100,000 households in India’s 112 “backward” districts cond
 
 **Andhra Pradesh**
 
-Nothing critical to report this week. 
+Nothing critical to report this week.
 
 **Bihar**
 
-Nothing critical to report this week. 
+Nothing critical to report this week.
 
 **New Delhi**
 
@@ -60,7 +60,7 @@ The Karnataka Electricity Regulatory Commission set the generic tariff for grid-
 
 **Madhya Pradesh**
 
-Nothing critical to report this week. 
+Nothing critical to report this week.
 
 **Maharashtra**
 
