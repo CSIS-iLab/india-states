@@ -7,6 +7,8 @@ fields:
   name: title
   label: Title
 - type: include
+  name: subsectors
+  label: Subsectors
   template: sub-categories-sortable-list
 - type: include
   template: sources
