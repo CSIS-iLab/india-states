@@ -20,8 +20,8 @@ details: []
 author:
 - Aman Thakker
 breadcrumbs: ''
-is_analysis: false
-content_type: ''
+is_analysis: true
+content_type: analysis
 
 ---
 **Big News**
@@ -92,7 +92,7 @@ The Telangana government issued an ordinance amending the Telangana Panchayat Ra
 
 **Uttar Pradesh**
 
-The Uttar Pradesh government tabled its second Supplementary Budget of the current fiscal 2018-19 totalling over $1.14 billion. In the first Supplementary Budget tabled in August 2018, the government had sought additional funds worth $4.97 billion for ongoing projects. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/yogi-government-tables-supplementary-budget-of-over-rs-80-billion-118121900568_1.html)     
+The Uttar Pradesh government tabled its second Supplementary Budget of the current fiscal 2018-19 totalling over $1.14 billion. In the first Supplementary Budget tabled in August 2018, the government had sought additional funds worth $4.97 billion for ongoing projects. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/yogi-government-tables-supplementary-budget-of-over-rs-80-billion-118121900568_1.html)    
 
 India's largest online health camp, myUpchar, launched its “Saathi” app and “Health Card” in Uttar Pradesh to provide healthcare services in rural areas of the state. myUpchar and its partners partner will collect the basic details like weight, height, blood pressure, glucose, pulse, and temperature from these areas and share those on the app with doctors. **Source:** [Economic Times](https://health.economictimes.indiatimes.com/news/health-it/online-health-consultation-app-launched-in-up/67171211)
 
