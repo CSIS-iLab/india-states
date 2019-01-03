@@ -11,8 +11,12 @@ fields:
   label: Subsectors
   template: sub-categories-sortable-list
 - type: include
+  name: sources
+  label: sources
   template: sources
 - type: include
+  name: details
+  label: details
   template: details
 - type: text
   name: content_type

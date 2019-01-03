@@ -52,6 +52,8 @@ fields:
   name: last_updated_at
   label: Last Updated At
 - type: include
+  name: sources
+  label: sources
   template: sources
 - type: text
   name: content_type
