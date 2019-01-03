@@ -22,6 +22,7 @@ author:
 breadcrumbs: ''
 is_analysis: true
 content_type: analysis
+published: false
 
 ---
 **Big News**
