@@ -28,7 +28,7 @@ author:
 ---
 **Big News**
 
-Andhra Pradesh adopts the states Solar Power Policy, 2018, which outlines a goal of installing 18 GW of renewable energy by 2022; New Delhi invokes the Essential Services Maintenance Act for the supply and distribution of electricity ahead of a planned strike by electricity employees in the national capital; Jharkhand and Odisha launch new Universal Basic Income schemes for farmers in their states; the center extended the Armed Forces Special Powers Act (AFSPA) in Nagaland for six more months; Maharashtra and Uttar Pradesh complete the center’s household electrification drive within the stipulated deadline of December 31; and more. 
+Andhra Pradesh adopts the states Solar Power Policy, 2018, which outlines a goal of installing 18 GW of renewable energy by 2022; New Delhi invokes the Essential Services Maintenance Act for the supply and distribution of electricity ahead of a planned strike by electricity employees in the national capital; Jharkhand and Odisha launch new Universal Basic Income schemes for farmers in their states; the center extended the Armed Forces Special Powers Act (AFSPA) in Nagaland for six more months; Maharashtra and Uttar Pradesh complete the center’s household electrification drive within the stipulated deadline of December 31; and more.
 
 **Center – State relations**
 
@@ -60,7 +60,7 @@ The Gujarat Urja Vikas Nigam Limited (GUVNL) has issued request for selection fo
 
 **Haryana**
 
-Haryana chief minister Manohar Lal launched the Litigation Management System, a portal designed and developed by the state government for departments, corporations, boards, and other state bodies to monitor the status of the cases related to them. **Source:** [Daily Pioneer](https://www.dailypioneer.com/2019/state-editions/haryana-cm-launches-litigation-management-system.html) **In detail:** [Litigation Management System Portal](http://lmshry.gov.in) 
+Haryana chief minister Manohar Lal launched the Litigation Management System, a portal designed and developed by the state government for departments, corporations, boards, and other state bodies to monitor the status of the cases related to them. **Source:** [Daily Pioneer](https://www.dailypioneer.com/2019/state-editions/haryana-cm-launches-litigation-management-system.html) **In detail:** [Litigation Management System Portal](http://lmshry.gov.in)
 
 In order to meet its renewable purchase obligation, the Haryana Power Purchase Center has issued a tender for 300 MW of grid-connected solar projects to be developed in the state. The bid-submission deadline is January 28, 2019, and an upper tariff ceiling of $0.043/kilowatt-hour (kWh) has been set for this tender. **Source:** [Mercom](https://mercomindia.com/haryana-solar-tender-300-mw/) **In detail:** [Tender details](http://uhbvn.org.in/staticContent/documents/Tenders/2019/2_NIT_77_CE_PCKL_03YA.pdf)
 
@@ -126,7 +126,7 @@ State-run oil company Oil and Natural Gas Corporation said it will pump in $863.
 
 **Jharkhand**
 
-Jharkhand has launched a universal basic income scheme for farmers in the state, paying farmers a total of $7,195 per acre every year to over 2 million small and marginal farmers, at an estimated annual cost of $323.7 million, starting April 2019. **Source:** [Financial Express](https://www.financialexpress.com/economy/universal-basic-income-for-all-jharkhand-odisha-come-up-with-their-own-versions/1430296/)
+Jharkhand has launched a universal basic income scheme for farmers in the state, paying farmers a total of $71.95 per acre every year to the over 2,276,000 small and marginal farmers, at an estimated annual cost of $323.7 million, starting April 2019. **Source:** [Financial Express](https://www.financialexpress.com/economy/universal-basic-income-for-all-jharkhand-odisha-come-up-with-their-own-versions/1430296/)
 
 **Jammu and Kashmir**
 
