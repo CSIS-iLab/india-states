@@ -1,7 +1,7 @@
     /*=========================================
 =            Print Stylesheets            =
 =========================================*/
-    
+
     @media print {
         *,
         *:before,
@@ -27,7 +27,7 @@
 
             &:after {
 
-            	content: 'Printed from Engaging India States, ©2017 by the Center for Strategic and International Studies. All rights reserved.';
+            	content: 'Printed from Engaging India States, ©2019 by the Center for Strategic and International Studies. All rights reserved.';
             	margin-top: 1cm;
             	font-size: 12pt;
             }
@@ -44,9 +44,9 @@
             page-break-after: avoid;
         }
         article {
-          
+
         }
-       
+
         img {
             page-break-inside: avoid;
         }
