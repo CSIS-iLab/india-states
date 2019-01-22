@@ -11,11 +11,11 @@ feature_images:
       Images)
 size: '62,922'
 population: 49.7
-party_affiliation: Telugu Desam Party (TDP) & Bharatiya Janata Party (BJP)
+party_affiliation: Telugu Desam Party (TDP)
 legislative_seats: 175
 rajya_seats: 11
 lok_seats: 25
 gdp: "$71.74"
----
 
-Over the last 15 years, Andhra Pradesh has won renown for the extraordinary development of the IT industry in its capital city of Hyderabad. The current state of Andhra Pradesh, however, lost most of the sector when its former territory was divided in two to create the state of Telangana. Under the vigorous and forward-looking leadership of Chief Minister Chandrababu Naidu, Andhra Pradesh is attempting to rebuild by making itself the most business-friendly state in India.
+---
+The new state of Andhra Pradesh has charted an aggressive course for becoming the most business-friendly state in India since it was divided from the state of Telangana in 2014.  With nearly 50 million people and a long coastline, the state aims to become a logistics hub linking India to global markets.  The government is taking advantage of the opportunity to start greenfield developments to develop several ports, airports, and develop a well-designed state capital at Amaravati.  The state’s agriculture-based economy makes it the largest producer of fruits and oil palm and the second largest producer of silk in the country. 
