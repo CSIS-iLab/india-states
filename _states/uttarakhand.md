@@ -17,6 +17,6 @@ feature_images:
     credit: Hindu devotees perform evening prayers on the banks of the river Ganges
       on Makar Sankranti during the Kumbh Mela festival in Haridwar. (MANAN VATSYAYANA/AFP/Getty
       Images)
----
 
-Due to the strong growth in capital investments, Uttarakhand is one of the fastest growing states in India. Uttarakhand, which was broken off from Uttar Pradesh in 2001, is divided between the plains and the Himalayan foothills and is home to some of the holiest religious sites in India.
+---
+Uttarakhand, which was broken off from Uttar Pradesh in 2001, is divided between the plains and the Himalayan foothills and is home to some of the holiest religious sites in India.  Due to the strong growth in capital investments, Uttarakhand is one of the fastest growing states in India.  The four focus areas for investment in the state are agro-based industries, tourism, pharmaceuticals, and information technology.  
