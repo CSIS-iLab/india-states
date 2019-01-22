@@ -16,6 +16,6 @@ feature_images:
     image: "/uploads/states/arunachal-pradesh-sunflowers.jpg"
     credit: Chakma women work in a sunflower field in Diyun. (PARTHAJIT DATTA/AFP/Getty
       Images)
----
 
-Arunachal Pradesh is the largest by area of the so-called "Seven Sisters" of northeastern India. With a predominantly agrarian economy, Arunachal Pradesh has the lowest density of population compared to other states in India, and much of the state is uninhabitable due to its extreme terrain. While Arunachal Pradesh has some hydroelectric projects underway, its primary significant comes from the disputed border with China, which has been a source of friction for over 50 years.
+---
+Arunachal Pradesh is the largest by area of the so-called “Seven Sisters” of northeastern India. With a predominantly agrarian economy, Arunachal Pradesh has the lowest population density of any Indian state. Its terrain of dense forests, mountains and unique Tibetan Buddhist culture makes it ideal for adventure and religious tourism.  The power sector plays a significant role in the state’s development with a potential of 50,000 megawatts (MW) of hydropower capacity.  The state has three international borders with the longest, an 1,080 kilometer stretch shared with China, being a source of conflict between the two countries.
