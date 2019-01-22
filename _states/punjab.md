@@ -16,6 +16,6 @@ feature_images:
     image: "/uploads/states/punjab-solar.jpg"
     credit: Workers construct part of the France-India Solar Direct Punjab Solar Park
       project in Muradwala. (NARINDER NANU/AFP/Getty Images
----
 
-Thanks to the Green Revolution, for 50 years Punjab has been the breadbasket of India. It's large, prosperous farms still provide one of the highest standards of living of any Indian state. But Punjab has struggled in recent years thanks to the fall in food prices and its failure to build 21st-century industries such as agriprocessing. It doesn't help that the state's previous government was widely perceived as ineffective and complicit in large-scale corruption; it remains to be seen whether the new Congress government can bring change.
+---
+Thanks to the Green Revolution, for 50 years Punjab has been the breadbasket of India. It’s large, prosperous farms still provide one of the highest standards of living of any Indian state. But Punjab has struggled in recent years thanks to the fall in food prices and its failure to build 21st-century industries such as agro-processing. It doesn’t help that the state’s previous government was widely perceived as ineffective and complicit in large-scale corruption; the current government has been focusing on supporting the food processing, light engineering, textile and garments, and power sector industries.  
