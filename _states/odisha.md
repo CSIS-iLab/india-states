@@ -16,6 +16,6 @@ feature_images:
     image: "/uploads/states/odisha-hindu-gathering.jpg"
     credit: Hindu devotees gather as three giant chariots are pulled during the Rath
       Yatra of Lord Jagannath in Puri. (STR/AFP/GettyImages)
----
 
-Odisha struggles with significant challenges, including a difficult neighborhood, persistent left-wing violence, and interior districts that are some of the poorest and most isolated in India. The state government, led by the Biju Janata Dal, has largely responded with populist measures that have won it unusual stability in office. Increased pressure from the opposition, however, may prompt the government to rethink its approach.
+---
+Odisha struggles with significant challenges, including a difficult neighborhood, persistent left-wing violence, and interior districts that are some of the poorest and most isolated in India. The state government, led by the Biju Janata Dal, has largely responded with populist measures that have won it unusual stability in office.  Odisha was an early adopter of power sector reforms; more recently its capital, Bhubaneswar, was the first ranked “Smart City” in the country.  Paired with relative political stability, Odisha’s stature as an investment destination is rising.   
