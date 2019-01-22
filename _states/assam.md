@@ -16,6 +16,6 @@ feature_images:
     image: "/uploads/states/assam-harvesting-tea.jpg"
     credit: Indian tea plantation workers make their way to pick leaves at a tea garden
       in Sonitpur district. (BIJU BORO/AFP/Getty Images)
----
 
-Assam is most populous and economically active of the northeastern states and thus acts as the nexus between the mainland and the northeast. Assam has historically failed to attract major industries, however, and its primary economic drivers are tea plantations and minor oil resources. Illegal immigration from Bangladesh is perceived as a major problem and has driven increased religious conflict in the state over the past 10 years. The BJP recently took control of the state legislature for the first time ever; increased alignment with the central government may improve the state's prospects.
+---
+Assam is the most populous and economically active of the northeastern states and thus acts as the nexus between the mainland and the northeast. Due to insurgencies and armed conflict spanning several decades, Assam struggled to attract major industries, however, and its primary economic drivers are agriculture, led by a thriving tea industry and energy resources – the state accounts for 15% of India’s total crude oil and 50% of the onshore natural gas output. With the settling of several conflicts, the state is poised to build out its pharmaceuticals, information technology, petrochemicals and tourism industries.   However, illegal immigration from Bangladesh is perceived as a major problem and has driven increased religious conflict in the state over the past 10 years. 
