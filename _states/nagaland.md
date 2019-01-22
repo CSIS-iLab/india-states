@@ -17,6 +17,6 @@ legislative_seats: 60
 rajya_seats: 1
 lok_seats: 1
 gdp: "$2.74"
----
 
-Nagaland was created as the homeland for the Naga people, an ethnic group that has fostered one of India's longest-running insurgencies. The state's unsecured border with northern Myanmar has benefited armed groups but has not led to significant licit trade. The state's politics are dominated by the simmering conflict, with a single party uniting all interest groups. Economic development has long been low on the agenda. 
+---
+Nagaland was created as the homeland for the Naga people, an ethnic group that has fostered one of India’s longest-running insurgencies. The state’s unsecured border with northern Myanmar has benefited armed groups but has not led to significant licit trade. The state’s politics are dominated by the simmering conflict which can only be resolved if one party is able to unify the interests and voices of various factions. Economic development has long been low on the agenda however the state has potential for developing its extractives industries in addition to adding value to its agriculture sector and boosting its tourism potential.  
