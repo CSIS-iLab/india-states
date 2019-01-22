@@ -16,6 +16,6 @@ legislative_seats: 68
 rajya_seats: 3
 lok_seats: 4
 gdp: "$12.76"
----
 
-Mountainous Himachal Pradesh, although a relatively well-off state, is also one of India's slowest growing economies. Almost 90 percent of the state's population lives in rural areas, and the economy is thus largely driven by agriculture and hydropower generation. Himachal Pradesh's difficult terrain, lack of infrastructure, and status as a backwater that shares a high-altitude border with China have made industries slow to enter the state.
+---
+North India’s power generator, mountainous Himachal Pradesh is a relatively well-off state that accounts for 26% of India’s hydro power potential.  Almost 90 percent of the state’s population lives in rural areas, and the economy is thus largely driven by agriculture. Himachal Pradesh’s difficult terrain, lack of infrastructure, and status as a backwater that shares a high-altitude border with China have made industries slow to enter the state.  However, the state has a growing number of tourists who are interested in adventure and spiritual tourism – the latter is bolstered by the fact that the state is home to the Tibetan government in exile.  Himachal Pradesh has also emerged as the largest hub for drug manufacturing units in Asia with over 300 pharmaceutical companies operating in the state.  
