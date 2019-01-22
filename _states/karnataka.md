@@ -2,7 +2,7 @@
 title: Karnataka
 size: '74,051'
 population: 61.1
-party_affiliation: Indian National Congress (INC)
+party_affiliation: Indian National Congress (INC) & Janata Dal Secular (JD(S))
 legislative_seats: 224
 rajya_seats: 12
 lok_seats: 20
