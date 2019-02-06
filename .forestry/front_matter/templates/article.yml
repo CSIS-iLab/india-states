@@ -6,6 +6,9 @@ fields:
 - type: text
   name: title
   label: Title
+- type: datetime
+  label: date
+  name: date
 - type: include
   name: subsectors
   label: Subsectors
