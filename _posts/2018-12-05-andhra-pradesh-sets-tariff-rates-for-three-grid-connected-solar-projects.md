@@ -18,4 +18,4 @@ details:
 is_analysis: false
 
 ---
-he Andhra Pradesh Electricity Regulatory Commission has set a tariff rate of $0.042/kilo-watt hour (kWh) for three grid-connected solar photovoltaic projects in the state which aggregate to 82 megawatts (MW).
+The Andhra Pradesh Electricity Regulatory Commission has set a tariff rate of $0.042/kilo-watt hour (kWh) for three grid-connected solar photovoltaic projects in the state which aggregate to 82 megawatts (MW).
