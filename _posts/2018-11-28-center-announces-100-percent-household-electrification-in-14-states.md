@@ -2,7 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: Center announces 100 percent household electrification in 14 states
-date: 2018-11-28 05:00:00 +0000
+date: 2018-12-05 05:00:00 +0000
 states:
 - Center-State Relations
 sectors:
