@@ -1,7 +1,6 @@
 ---
 label: Sub-Categories (states/sectors/subsectors)
 hide_body: false
-is_partial: true
 fields:
 - type: list
   name: states

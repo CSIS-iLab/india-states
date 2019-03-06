@@ -1,7 +1,6 @@
 ---
 label: team.yaml
 hide_body: false
-is_partial: false
 fields:
 - name: Team
   label: Team

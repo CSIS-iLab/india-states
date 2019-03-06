@@ -1,7 +1,6 @@
 ---
 label: Sub Categories (sectors/subsectors)
 hide_body: false
-is_partial: true
 fields:
 - type: tag_list
   name: sectors

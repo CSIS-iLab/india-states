@@ -1,7 +1,6 @@
 ---
 label: Details
 hide_body: false
-is_partial: true
 fields:
 - type: field_group_list
   name: details

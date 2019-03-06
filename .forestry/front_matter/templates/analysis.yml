@@ -1,7 +1,6 @@
 ---
 label: Analysis
 hide_body: false
-is_partial: false
 fields:
 - type: text
   label: Title
@@ -82,6 +81,7 @@ fields:
   hidden: true
   default: analysis
 pages:
+- _analysis/states-update-march-6-2019.md
 - _analysis/states-update-february-27-2019.md
 - _analysis/states-update-february-21-2019.md
 - _analysis/states-update-february-13-2019.md
