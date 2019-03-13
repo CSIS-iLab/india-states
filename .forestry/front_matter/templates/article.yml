@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-09-rajasthan-issues-amendments-to-renewable-energy-tariff-regulations.md
 - _posts/2019-01-09-maharashtra-announces-100-percent-electrification-in-state.md
 - _posts/2019-01-09-merc-orders-maharashtra-discom-to-refund-excess-charges-collected.md
 - _posts/2019-01-09-maharashtra-issues-wind-solar-hybrid-tender.md
