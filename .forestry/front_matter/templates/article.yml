@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-09-seci-issues-tender-to-build-7-5-gw-of-solar-power-projects-in-jammu-and-kashmir.md
 - _posts/2019-01-09-ongc-to-invest-863-4-million-to-drill-200-wells-in-assam.md
 - _posts/2019-01-09-bharat-heavy-electrical-announces-it-won-order-to-set-up-660-mw-supercritical-thermal-power-plant-in-west-bengal.md
 - _posts/2019-01-09-uttar-pradesh-announces-all-households-electrified-in-the-state.md
