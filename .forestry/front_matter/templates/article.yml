@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-16-bihar-issues-request-for-proposals-for-15-mw-of-rooftop-solar.md
 - _posts/2019-01-09-aditya-birla-renewables-signed-long-term-ppa-with-odisha-s-gridco-for-75-mw-solar-plant.md
 - _posts/2019-01-09-seci-issues-tender-to-build-7-5-gw-of-solar-power-projects-in-jammu-and-kashmir.md
 - _posts/2019-01-09-ongc-to-invest-863-4-million-to-drill-200-wells-in-assam.md
