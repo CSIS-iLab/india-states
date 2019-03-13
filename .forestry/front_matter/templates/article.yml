@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-09-madhya-pradesh-issues-tariff-order-for-small-hydro-projects.md
 - _posts/2019-01-09-karnataka-fixes-new-tariff-for-wind-projects.md
 - _posts/2019-01-09-ntpc-issues-tender-for-smart-meters-in-haryana.md
 - _posts/2019-01-09-harayana-issues-tender-for-300-mw-of-solar-projects.md
