@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-24-karnataka-awards-100-mw-of-solar-projects-across-five-talukas.md
 - _posts/2019-01-24-central-electricity-regulatory-commission-proposes-new-generic-tariffs-for-renewable-energy.md
 - _posts/2019-01-16-punjab-provides-subsidies-to-support-installation-of-biogass-plants-for-farmers.md
 - _posts/2019-01-16-assam-issues-tender-for-70-mw-of-solar-projects.md
