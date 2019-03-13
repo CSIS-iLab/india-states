@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-16-rajasthan-releases-draft-amendments-on-deviation-settlement-mechanism-for-grid-connected-power.md
 - _posts/2019-01-16-maharashtra-releases-pending-details-of-1-400-mw-solar-tender.md
 - _posts/2019-01-16-haryana-issues-order-approving-purchase-of-paddy-straw-biomass-based-power.md
 - _posts/2019-01-16-eesl-announces-completion-of-project-to-replace-50-000-conventional-electrical-meters-in-delhi-with-smart-meters.md
