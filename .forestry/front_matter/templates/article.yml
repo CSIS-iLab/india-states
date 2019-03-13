@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-24-uttar-pradesh-announces-tender-for-500-mw-solar-projects.md
 - _posts/2019-01-24-bharat-heavy-electricals-wins-order-to-set-up-129-mw-of-solar-plants-in-telangana.md
 - _posts/2019-01-24-rajashtan-issues-amendments-to-renewable-purchase-obligations.md
 - _posts/2019-01-24-merc-grants-maharashtra-discom-leeway-in-paying-dues-to-wind-power-generators.md
