@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-09-bharat-heavy-electrical-announces-it-won-order-to-set-up-660-mw-supercritical-thermal-power-plant-in-west-bengal.md
 - _posts/2019-01-09-uttar-pradesh-announces-all-households-electrified-in-the-state.md
 - _posts/2019-01-09-vikam-solar-wins-control-to-install-140-mw-solar-plant-in-uttar-pradeshr.md
 - _posts/bharat-heavy-electricals-commissions-800-mw-thermal-power-plant-in-telangana.md
