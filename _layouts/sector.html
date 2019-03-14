@@ -10,7 +10,7 @@ layout: default
       {% if jekyll.environment == 'production' and site.cloudinary_url %}
         <div class="archive-featureImage" style="background-image:url('{{page.feature_image | prepend: site.url | prepend: site.cloudinary_url}}'"></div>
       {% else %}
-        <div class="archive-featureImage" style="background-image:url('{{page.feature_image}}'"></div>
+        <div class="archive-featureImage" style="background-image:url('{{page.feature_image}}')"></div>
       {% endif %}
   {% endif %}
   <header class="archive-header">
