@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-30-delhi-offers-incentives-for-consumers-purchases-power-from-waste-to-energy-plants.md
 - _posts/2019-01-30-bihar-approves-plan-to-install-smart-meters-in-all-households.md
 - _posts/2019-01-24-powergrid-and-jammu-kashmir-switch-on-new-transmission-line-to-power-ladakh-and-kargil.md
 - _posts/2019-01-24-ntpc-invites-bids-to-develop-15-mw-floating-solar-projects-in-himachal-pradesh.md
