@@ -177,6 +177,7 @@ include:
 - ".travis.yml"
 exclude:
 - ".forestry"
+- vendor
 sector_overview_post_limit: 4
 post_archive_posts_per_page: 10
 newsletter_link: https://www.tfaforms.com/4601801
