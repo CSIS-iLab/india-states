@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-30-gerc-announced-new-regulations-for-wind-and-solar-generation.md
 - _posts/2018-11-28-pm-modi-launches-new-program-for-supply-of-compressed-natural-gas.md
 - _posts/2018-11-28-no-increase-in-electricity-tariffs-for-andhra-pradesh-consumers-in-2019-2020.md
 - _posts/2018-11-28-maharashtra-to-install-gas-generation-projects-in-government-buildings.md
