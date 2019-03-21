@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-02-21-andhra-pradesh-distribution-companies-issue-tender-for-600-mw-of-wind-solar-hybrid-projects.md
 - _posts/2019-02-13-the-president-of-india-approves-14-mw-grid-connected-solar-projects-in-jammu-kashmir.md
 - _posts/2019-02-13-jharkhand-issues-tender-for-2mw-canal-top-solar-project.md
 - _posts/2019-02-13-national-hydroelectric-power-corporation-issues-tender-for-1-082-16-kilowatts-of-solar-projects-in-himachal-pradesh.md
