@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-02-13-andhra-pradesh-announces-a-new-electric-mobility-policy.md
 - _posts/2019-02-13-ntpc-notifies-telangana-karnataka-and-andhra-pradesh-that-it-will-regulate-power-supply-due-to-non-payment-of-dues.md
 - _posts/2019-02-13-telangana-and-jharkhand-will-receive-85-percent-of-electricity-generated-from-central-power-projects-in-their-state.md
 - _posts/2019-02-06-punjab-removes-ceiling-on-subsidy-for-electricity-consumption.md
