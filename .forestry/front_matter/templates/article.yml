@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-02-13-tamil-nadu-releases-new-solar-energy-policy.md
 - _posts/2019-02-13-tamil-nadu-proposes-feed-in-tariff-for-solar-power-procurement.md
 - _posts/2019-02-13-rajasthan-electricity-regulatory-commission-invites-suggestions-for-regulations-on-renewable-purchase-obligations.md
 - _posts/2019-02-13-haryana-power-purchase-center-releases-120-mw-tender-for-solar-power.md
