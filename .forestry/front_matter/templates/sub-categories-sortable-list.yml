@@ -51,6 +51,7 @@ fields:
       type: simple
     options:
     - Energy
+    - Health
 - type: list
   name: subsectors
   label: Subsectors
@@ -66,3 +67,11 @@ fields:
     - Oil and Gas
     - Power
     - Renewables
+    - Delivery Systems
+    - " Financing and Payment "
+    - Health Areas
+    - " Health IT"
+    - " Healthcare Regulation"
+    - " Healthcare Workforce"
+    - " Pharmaceuticals and Devices"
+    - " Social Determinants of Health"
