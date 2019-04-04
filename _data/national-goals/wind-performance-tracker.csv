@@ -1,37 +1,37 @@
-state,national_contribution,state_target,state_achieved,state_percentage
-Andaman and Nicobar Islands,0.00,0,0,0.00
-Andhra Pradesh,17.67,8100,3,043.05,17.67
-Arunachal Pradesh,0.00,0,0,0.00
-Assam,0.00,0,0,0.00
-Bihar,0.00,0,0,0.00
-Chandigarh,0.00,0,0,0.00
-Chhattisgarh,0.00,0,0,0.00
-Dadra and Nagar Haveli,0.00,0,0,0.00
-Daman and Diu,0.00,0,0,0.00
-Delhi,0.00,0,0,0.00
-Goa,0.00,0,0,0.00
-Gujarat,44.87,8800,3948.61,44.87
-Haryana,0.00,0,0,0.00
-Himachal Pradesh,0.00,0,0,0.00
-Jammu and Kashmir,0.00,0,0,0.00
-Jharkhand,0.00,0,0,0.00
-Karnataka,46.28,6200,2869.15,46.28
-Kerala,0.00,0,43.5,0.00
-Lakshwadeep,0.00,0,0,0.00
-Madhya Pradesh,34.53,6200,2141.1,34.53
-Maharashtra,61.23,7600,4653.83,61.23
-Manipur,0.00,0,0,0.00
-Meghalaya,0.00,0,0,0.00
-Mizoram,0.00,0,0,0.00
-Nagaland,0.00,0,0,0.00
-Odisha,0.00,0,0,0.00
-Puducherry,0.00,0,0,0.00
-Punjab,0.00,0,0,0.00
-Rajasthan,46.44,8600,3993.95,46.44
-Sikkim,0.00,0,0,0.00
-Tamil Nadu,63.98,11900,7613.86,63.98
-Telangana,3.89,2000,128.10,3.89
-Tripura,0.00,0,0,0.00
-Uttar Pradesh,0.00,0,0,0.00
-Uttarakhand,0.00,0,0,0.00
-West Bengal,0.00,0,0,0.00
+state,national_contribution,state_target,state_achieved,state_percentage,
+Andaman and Nicobar Islands,0,0,0,0,
+Andhra Pradesh,17.67,8100,3,43.05,17.67
+Arunachal Pradesh,0,0,0,0,
+Assam,0,0,0,0,
+Bihar,0,0,0,0,
+Chandigarh,0,0,0,0,
+Chhattisgarh,0,0,0,0,
+Dadra and Nagar Haveli,0,0,0,0,
+Daman and Diu,0,0,0,0,
+Delhi,0,0,0,0,
+Goa,0,0,0,0,
+Gujarat,44.87,8800,3948.61,44.87,
+Haryana,0,0,0,0,
+Himachal Pradesh,0,0,0,0,
+Jammu and Kashmir,0,0,0,0,
+Jharkhand,0,0,0,0,
+Karnataka,46.28,6200,2869.15,46.28,
+Kerala,0,0,43.5,0,
+Lakshwadeep,0,0,0,0,
+Madhya Pradesh,34.53,6200,2141.1,34.53,
+Maharashtra,61.23,7600,4653.83,61.23,
+Manipur,0,0,0,0,
+Meghalaya,0,0,0,0,
+Mizoram,0,0,0,0,
+Nagaland,0,0,0,0,
+Odisha,0,0,0,0,
+Puducherry,0,0,0,0,
+Punjab,0,0,0,0,
+Rajasthan,46.44,8600,4310,46.44,
+Sikkim,0,0,0,0,
+Tamil Nadu,63.98,11900,7613.86,63.98,
+Telangana,3.89,2000,128.1,3.89,
+Tripura,0,0,0,0,
+Uttar Pradesh,0,0,0,0,
+Uttarakhand,0,0,0,0,
+West Bengal,0,0,0,0,
