@@ -1,6 +1,6 @@
 ---
 title: Wind Performance Tracker
-date: 2017-09-15 12:55:00 Z
+date: 2017-09-15 12:55:00 +0000
 sectors: Energy
 subsectors: Renewables
 data_source: wind-performance-tracker
@@ -20,7 +20,7 @@ progressbars:
     The eight states that have been assigned wind power capacity targets are Andhra Pradesh, Gujarat, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, Tamil Nadu and Telangana.
 
     This chart tracks the progress each state has made towards reaching its own target for wind power capacity.
-last_updated_at: 2019-01-3 00:00:00 Z
+last_updated_at: 2019-04-05 00:00:00 +0000
 sources:
 - name: 'Ministry of New and Renewable Energy: State-wise percentage of wind potential
     utilized'
@@ -28,6 +28,6 @@ sources:
 - name: 'Ministry of New and Renewable Energy: State-wise breakup of wind targets
     to be achieved by 2022'
   url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
----
 
+---
 In 2014, Prime Minister Narendra Modi set a goal of reaching 60 GW of wind power generation capacity by 2022. In order to achieve this ambitious target, eight state governments were identified to increase their rate of wind capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each of these eight states a wind capacity target. The Indian States Wind Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.
