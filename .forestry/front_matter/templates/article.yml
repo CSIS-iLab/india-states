@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/rise-in-tb-cases-notified-from-private-sector.md
 - _posts/2019-03-25-controlled-distribution-of-new-tb-drugs-may-help-resistant-patients.md
 - _posts/2019-01-30-gerc-announced-new-regulations-for-wind-and-solar-generation.md
 - _posts/2019-01-30-haryana-electricity-regulatory-commission-approves-new-power-purchase-agreements-for-23-mw-of-projects.md
