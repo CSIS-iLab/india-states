@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-01-05-nutritional-support-to-tb-patients-under-npy-scheme.md
 - _posts/2019-03-04-vulnerable-sections-identified-kerala-moves-to-make-state-tb-free.md
 - _posts/2019-03-15-new-tb-program-launched-in-private-hospitals.md
 - _posts/2019-03-24-rise-in-tb-cases-notified-from-private-sector.md
