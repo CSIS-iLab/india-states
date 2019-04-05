@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2018-11-23-tamil-nadu-to-increase-tb-detection-clinics.md
 - _posts/2018-11-24-maharashtra-joins-forces-with-private-players-to-eliminate-tuberculosis.md
 - _posts/2018-11-26-nutrition-support-emerges-as-key-component-of-india-s-tb-elimination-plan.md
 - _posts/2018-11-29-city-opened-its-first-lab-to-check-drug-sensitivity-in-tb-patients.md
