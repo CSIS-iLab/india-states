@@ -16,3 +16,4 @@ details: []
 is_analysis: false
 
 ---
+The Maharashtra government created a Transgender Welfare Board to provide formal education, employment opportunities, conduct health programs, and give legal help to members of the transgender community.

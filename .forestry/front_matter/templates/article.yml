@@ -40,8 +40,8 @@ fields:
   config:
     required: true
 pages:
-- _posts/2019-02-27-center-asks-west-bengal-to-return-funds-for-ayushman-bharat.md
 - _posts/2019-02-27-maharashtra-creates-transgender-welfare-board.md
+- _posts/2019-02-27-center-asks-west-bengal-to-return-funds-for-ayushman-bharat.md
 - _posts/2018-04-04-health-ministry-hands-over-charge-of-tb-program-to-aids-control-body.md
 - _posts/2018-04-07-haryana-government-announces-special-benefits-to-tb-patients.md
 - _posts/2018-05-16-india-s-first-anti-tb-drug-resistance-survey-reveals-the-shortcomings-of-the-tuberculosis-control-program.md
