@@ -16,3 +16,4 @@ details: []
 is_analysis: false
 
 ---
+The center has asked the West Bengal government to return the $27.16 million it had received for the central government’s Ayushman Bharat health insurance program, along with any interest earned, following the state’s withdrawal from the program.
