@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-06-new-medical-institute-to-be-established-in-rewari-district.md
 - _posts/2019-03-06-cm-kejriwal-presents-delhi-s-2019-20-budget.md
 - _posts/2019-02-27-incentive-offered-to-attract-specialist-doctors-to-punjab.md
 - _posts/2019-02-27-school-girls-in-odisha-to-receive-free-sanitary-pads.md
