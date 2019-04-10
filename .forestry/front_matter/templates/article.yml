@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-04-03-mou-signed-to-develop-primary-healthcare-centers.md
 - _posts/2019-04-03-west-bengal-returns-ayushman-bharat-funds.md
 - _posts/2019-03-06-new-medical-institute-to-be-established-in-rewari-district.md
 - _posts/2019-03-06-cm-kejriwal-presents-delhi-s-2019-20-budget.md
