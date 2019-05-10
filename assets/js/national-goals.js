@@ -13,7 +13,22 @@ $(function() {
         return $(this).data("progress-percent");
       });
 
-      var max = Math.max(...allData, 100);
+      var max = 0;
+      findMax()
+
+      function findMax() {
+        var currentNumber;
+        
+        // Iterate through allData
+        for (var i = 0; i < allData.length; i++) {
+          currentNumber = allData[i];
+
+          if (currentNumber > max) {
+            max = currentNumber;
+          };
+        };
+      };
+
       var percent = $(this).data("progress-percent") / max;
       var getProgressWrapWidth = $(this).width();
       var progressTotal = percent * getProgressWrapWidth;
