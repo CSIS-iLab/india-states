@@ -9,10 +9,26 @@ $(function() {
   // SIGNATURE PROGRESS
   function moveProgressBar() {
     $(".progress-wrap").each(function() {
-      var getPercent = $(this).data("progress-percent") / 100;
+      var allData = $(".progress-wrap").map(function() {
+        return $(this).data("progress-percent");
+      });
+
+      var max = Math.max(...allData, 100);
+      var percent = $(this).data("progress-percent") / max;
       var getProgressWrapWidth = $(this).width();
-      var progressTotal = getPercent * getProgressWrapWidth;
+      var progressTotal = percent * getProgressWrapWidth;
+      calculateWidth(progressTotal);
       var animationLength = 2500;
+      var totalWidth;
+
+      function calculateWidth(progressTotal) {
+        if (progressTotal > 500) {
+          totalWidth =
+            window.innerWidth > 1000 ? progressTotal - 150 : progressTotal - 50;
+        } else {
+          totalWidth = progressTotal;
+        }
+      }
 
       // on page load, animate percentage bar to data percentage length
       // .stop() used to prevent animation queueing
@@ -21,7 +37,7 @@ $(function() {
         .stop()
         .animate(
           {
-            width: progressTotal - 10
+            width: totalWidth
           },
           animationLength
         );
