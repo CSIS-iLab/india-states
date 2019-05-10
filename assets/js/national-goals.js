@@ -8,12 +8,19 @@ $(function() {
 
   // SIGNATURE PROGRESS
   function moveProgressBar() {
-    $(".progress-wrap").each(function() {
-      var allData = $(".progress-wrap").map(function() {
+    var allData = Array.from(
+      $(".progress-wrap").map(function() {
         return $(this).data("progress-percent");
-      });
+      })
+    );
 
-      var max = Math.max(...allData, 100);
+    allData.push(100);
+
+    var max = allData.reduce(function(a, b) {
+      return Math.max(a, b);
+    });
+
+    $(".progress-wrap").each(function() {
       var percent = $(this).data("progress-percent") / max;
       var getProgressWrapWidth = $(this).width();
       var progressTotal = percent * getProgressWrapWidth;
