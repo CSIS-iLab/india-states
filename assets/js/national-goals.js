@@ -7,28 +7,26 @@ $(function() {
   });
 
   // SIGNATURE PROGRESS
-
   function moveProgressBar() {
     $(".progress-wrap").each(function() {
-
       var allData = $(".progress-wrap").map(function() {
         return $(this).data("progress-percent");
       });
-    
-      var max = Math.max( ...allData, 100 )
-      // console.log($(this).data("progress-percent"))
-      var percent = $(this).data("progress-percent")  / max
+
+      var max = Math.max(...allData, 100);
+      var percent = $(this).data("progress-percent") / max;
       var getProgressWrapWidth = $(this).width();
       var progressTotal = percent * getProgressWrapWidth;
-      calculateWidth(progressTotal)
+      calculateWidth(progressTotal);
       var animationLength = 2500;
-      var totalWidth
+      var totalWidth;
 
-      function calculateWidth (progressTotal) {
+      function calculateWidth(progressTotal) {
         if (progressTotal > 500) {
-          totalWidth = progressTotal - 150
+          totalWidth =
+            window.innerWidth > 1000 ? progressTotal - 150 : progressTotal - 50;
         } else {
-          totalWidth = progressTotal
+          totalWidth = progressTotal;
         }
       }
 
