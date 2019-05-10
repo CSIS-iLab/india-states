@@ -14,7 +14,7 @@ $(function() {
       });
 
       var max = 0;
-      findMax()
+      findMax();
 
       function findMax() {
         var currentNumber;
