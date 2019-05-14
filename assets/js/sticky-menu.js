@@ -21,6 +21,9 @@ $(function() {
           top: headerHeight,
           width: stickyWidth
         });
+
+        tocTop = tocBox.top + window.scrollY - headerHeight;
+        tocBottom = tocBox.bottom + window.scrollY - headerHeight;
       }
 
       var bottom = thisBox.bottom + window.scrollY;
