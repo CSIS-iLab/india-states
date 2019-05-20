@@ -4,9 +4,17 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: heading
+  label: DATA
 - type: document
-  path: _data/test.json
-  label: solar
+  path: _data/national-goals/wind-performance-tracker.json
+  label: Wind Performance Tracker
+  match: "**/*"
+- type: document
+  path: _data/national-goals/solar-performance-tracker.json
+  label: Solar Performance Tracker
+- type: heading
+  label: CONTENT
 - type: directory
   path: ''
   label: Pages
