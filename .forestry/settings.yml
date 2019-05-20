@@ -5,9 +5,8 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
-  path: _data/sector-icons.yml
+  path: _data/test.json
   label: solar
-  match: "**/*"
 - type: directory
   path: ''
   label: Pages
