@@ -9,7 +9,6 @@ sections:
 - type: document
   path: _data/national-goals/wind-performance-tracker.json
   label: Wind Performance Tracker
-  match: "**/*"
 - type: document
   path: _data/national-goals/solar-performance-tracker.json
   label: Solar Performance Tracker
