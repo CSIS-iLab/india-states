@@ -5,7 +5,7 @@ content_type: analysis
 title: 'States Update: May 29, 2019'
 date: 2019-05-29 04:00:00 +0000
 tags:
-- Update on Indian States
+- Update on India's States
 excerpt: 'Tamil Nadu stops conducting auctions for wind and solar energy projects
   following poor response to its tenders; Telangana releases a draft Blockchain Policy;
   Maharashtra announces progress on the Maharashtra Land Titling Act, which will create
