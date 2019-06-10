@@ -1,6 +1,6 @@
 ---
 title: A Lot Rides on UDAY
-date: 2016-06-29 00:00:00 Z
+date: 2016-06-29T00:00:00.000+00:00
 tags:
 - UDAY Distribution
 author:
@@ -21,8 +21,8 @@ excerpt: The central government has a limited set of tools to reform India’s b
   though ultimately state leaders will need to decide if this is a real turning point
   in how they manage their power grids.
 pdf: https://csis-prod.s3.amazonaws.com/s3fs-public/publication/160613_USIndiaInsight_June.pdf
----
 
+---
 In November 2015, Minister for Power Piyush Goyal announced a new program to bail out India’s struggling electricity utility companies, the <a href="http://bit.ly/28UCBJX">Ujwal DISCOM Assurance Yojana&nbsp;(UDAY)</a>. Weakness in the electric power sector remains one of India’s biggest obstacles to faster human and economic development. UDAY is not the first attempt to bail out the struggling state electricity utilities, but it has developed fairly strong momentum, and it has crucial features in terms of timing and commitments that make it qualitatively different from past bailouts. UDAY’s success is critical for India’s attempt to expand electricity access and for “Make in India.” Perhaps most notably for the Obama administration, UDAY can provide fiscal space for India to meet its significant clean energy commitments.
 
 India’s state-run electricity utilities sit on a mountain of debt, totaling nearly $63 billion as of March 2015, nearly equivalent to 4 percent of India’s GDP. This debt has grown 75 percent in the last three years alone. There are multiple causes for the low efficiency of India’s electric power utilities, primarily: deeply subsidized rates based on political considerations instead of sound financial management of the electricity sector, electricity stolen during transmission/distribution, corruption in the collection process, and faulty equipment.
