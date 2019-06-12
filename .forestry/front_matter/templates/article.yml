@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/upc-energy-group-adani-green-energy-renew-power-and-orange-renewables-have-won-gujarat-solar-auction.md
 - _posts/karnataka-electricity-regulatory-commission-approved-construction-of-solar-projects.md
 - _posts/gujarat-state-electricity-corporation-limited-has-issued-a-tender-to-set-up-solar-power-projects-at-dhuvaran-and-raghanesda-ultra-mega-solar-park.md
 - _posts/energy-efficiency-services-limited-eesl-launched-a-super-efficient-air-conditioning-program-in-south-and-west-delhi.md
