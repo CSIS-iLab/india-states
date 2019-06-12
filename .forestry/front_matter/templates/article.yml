@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/maharashtra-state-electricity-distribution-company-limited-has-issued-a-tender-to-install-electric-vehicle-charging-stations.md
 - _posts/maharashtra-state-electricity-distribution-company-limited-announces-solar-power-purchase-agreements.md
 - _posts/madhya-pradesh-electricity-regulatory-commission-turns-down-petition-to-revise-wind-power-rates.md
 - _posts/madhya-pradesh-removes-cap-on-electricity-consumption.md
