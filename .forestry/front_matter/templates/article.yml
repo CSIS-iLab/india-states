@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/vikram-solar-announces-200mw-solar-power-project-for-andhra-pradesh.md
 - _posts/2019-02-27-andhra-pradesh-doesn-t-increase-prices-for-power-for-2019-2020.md
 - _posts/jammu-and-kashmir-government-unveil-new-healthcare-policy-to-encourage-investment.md
 - _posts/2019-06-05-assam-launches-campaign-targeting-diarrhea.md
