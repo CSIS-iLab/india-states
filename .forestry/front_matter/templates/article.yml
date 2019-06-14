@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-06-gujarat-forces-wind-project-bidders-to-specify-at-least-three-partners-for-execution-of-projects.md
 - _posts/2019-03-06-delhi-announces-new-electricity-subsidy-for-agricultural-consumers.md
 - _posts/2019-03-06-bihar-maintains-power-tariff-levels-despite-requests-from-discoms.md
 - _posts/2019-03-06-seci-issues-three-new-tender-for-renewable-energy-in-three-states.md
