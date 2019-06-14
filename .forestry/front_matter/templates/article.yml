@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-06-center-approves-gas-grid-project-for-india-s-northeast.md
 - _posts/2019-03-27-punjab-to-offer-free-power-to-obcs-and-those-below-the-poverty-line.md
 - _posts/solar-energy-corporation-of-india-s-tender-for-rajasthan-solar-projects-has-been-oversubscribed.md
 - _posts/maharashtra-state-electricity-distribution-company-limited-has-issued-a-tender-to-install-electric-vehicle-charging-stations.md
