@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-06-center-invests-in-assam-s-ethanol-and-renewable-bamboo-fuel-project.md
 - _posts/2019-03-06-uttar-pradesh-announces-new-tariffs-for-ev-charging-station.md
 - _posts/2019-03-06-gujarat-forces-wind-project-bidders-to-specify-at-least-three-partners-for-execution-of-projects.md
 - _posts/2019-03-06-delhi-announces-new-electricity-subsidy-for-agricultural-consumers.md
