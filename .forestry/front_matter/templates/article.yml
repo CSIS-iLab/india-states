@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-14-seci-issues-tender-for-250-mw-of-floating-solar-in-tamil-nadu.md
 - _posts/2019-03-14-rajasthan-successfully-concludes-auction-for-750-mw-of-solar-power.md
 - _posts/2019-03-14-maharashtra-approves-establishment-of-two-supercritical-thermal-power-plants.md
 - _posts/2019-03-14-haryana-approves-amendments-to-its-solar-policy.md
