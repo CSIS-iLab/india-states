@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-27-center-issues-guidelines-for-installation-of-solar-pumps-and-grid-connected-solar-plants-by-farmers.md
 - _posts/2019-03-20-nhpc-announces-it-plans-to-acquire-a-stressed-plant-in-sikkim.md
 - _posts/2019-03-20-himachal-pradesh-issues-draft-order-for-rooftop-solar-based-on-net-metering.md
 - _posts/2019-03-20-west-bengal-issues-tender-for-2mw-of-grid-connected-rooftop-solar-projects.md
