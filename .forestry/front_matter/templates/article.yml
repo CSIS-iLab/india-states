@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-27-west-bengal-issues-tender-for-7-mw-solar-project.md
 - _posts/2019-03-27-rajasthan-issues-amendments-to-regulations-on-renewable-energy-certification-and-rpo-compliance.md
 - _posts/2019-03-27-maharashtra-issues-draft-open-access-regulations.md
 - _posts/2019-03-27-madhya-pradesh-issues-tender-for-25-mw-of-grid-connected-rooftop-solar.md
