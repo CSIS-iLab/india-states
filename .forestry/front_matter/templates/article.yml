@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-20-delhi-discom-commissions-four-solar-microgrids.md
 - _posts/2019-03-20-bihar-issues-request-for-proposals-for-10-mw-of-rooftop-solar.md
 - _posts/2019-03-20-eesl-awards-contract-to-french-utility-to-install-smart-meters-in-bihar-and-andhra-pradesh.md
 - _posts/2019-03-20-center-approves-plan-to-generate-40-000-mw-from-rooftop-solar.md
