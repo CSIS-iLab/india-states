@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-27-seci-invites-bids-for-a-solar-power-plant-in-jammu-and-kashmir.md
 - _posts/2019-03-27-himachal-pradesh-issues-draft-rooftop-solar-net-metering-regulations.md
 - _posts/2019-03-27-center-approves-plan-for-open-cast-coal-mining-in-chhattisgarh.md
 - _posts/2019-03-27-west-bengal-issues-tender-for-7-mw-solar-project.md
