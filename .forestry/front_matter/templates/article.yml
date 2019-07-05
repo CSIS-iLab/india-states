@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/himachal-pradesh-issues-draft-order-for-rooftop-solar-based-on-net-metering.md
 - _posts/2019-03-20-west-bengal-issues-tender-for-2mw-of-grid-connected-rooftop-solar-projects.md
 - _posts/2019-03-20-seci-issues-tender-for-275-mw-of-solar-projects-in-uttar-pradesh.md
 - _posts/2019-03-20-uttar-pradesh-announces-a-liberal-tariff-chart-for-ev-charging-stations.md
