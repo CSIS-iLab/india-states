@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-14-gujarat-auction-for-1-000-mw-of-solar-receives-no-bids.md
 - _posts/2019-03-14-gujarat-releases-small-scale-distribution-solar-policy.md
 - _posts/2019-03-14-delhi-approves-power-sale-agreement-between-seci-and-tata-power-delhi-distribution-limited.md
 - _posts/2019-03-14-andhra-pradesh-reduces-average-length-of-ppas-to-five-years.md
