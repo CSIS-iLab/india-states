@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-20-center-introduces-financial-incentives-for-solar-park-creation.md
 - _posts/2019-03-14-the-union-cabinet-approves-acquisition-of-a-hydroelectric-power-plant-in-sikkim.md
 - _posts/2019-03-14-punjab-waives-electricity-bills-for-select-groups.md
 - _posts/2019-07-05-odisha-approves-establishment-of-integrated-refinery.md
