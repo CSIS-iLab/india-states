@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-20-maharashtra-issues-tender-for-grid-interactive-solar-power-plants.md
 - _posts/2019-03-20-maharashtra-issues-order-to-begin-process-to-amend-net-metering-regulations.md
 - _posts/2019-03-20-maharashtra-issues-tender-for-off-grid-solar-projects.md
 - _posts/2019-03-20-haryana-amends-guidelines-for-ground-mounted-and-rooftop-solar.md
