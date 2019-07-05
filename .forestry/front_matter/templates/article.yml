@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-03-20-rajasthan-finalizes-new-regulations-for-determination-of-tariffs-for-renewables.md
 - _posts/2019-03-20-ge-renewable-energy-announces-it-won-a-grid-modernization-project-in-rajasthan.md
 - _posts/2019-03-20-maharashtra-issues-tender-for-grid-interactive-solar-power-plants.md
 - _posts/2019-03-20-maharashtra-issues-order-to-begin-process-to-amend-net-metering-regulations.md
