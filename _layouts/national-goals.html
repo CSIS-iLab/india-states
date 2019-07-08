@@ -53,6 +53,10 @@ layout: default
   </header>
 
   <section class="goal-interactiveContainer">
+    {% if page.iframe %}
+      <iframe allow="fullscreen" frameborder="0" height="770" scrolling="no" src="{{ page.iframe }}" style="display: block; max-width: 1400px; margin: auto;" width="100%"></iframe>
+    {% endif %}
+    s
     <div class="content-wrapper fullWidthContent">
     {% if page.show_map %}
       <h2 class="sectionTitle">{{ page.map.title | escape }}</h2>
@@ -74,7 +78,7 @@ layout: default
   <section class="goal-sourcesContainer">
     <div class="content-wrapper fullWidthContent">
     <hr />
-    
+
     <span class="articleMeta">Sources:</span><br />
       {% for source in page.sources %}
           <a href="{{ source.url }}" target="_blank">{{ source.name }} <img src="{{ "/assets/img/external-link-icon.svg" | relative_url }}" title="{{ source.name }}" alt="Go to" /></a><br />
