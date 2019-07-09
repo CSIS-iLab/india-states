@@ -2,7 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: Odisha approves establishment of integrated refinery
-date: 
+date: 2019-07-10 04:00:00 +0000
 states:
 - Odisha
 sectors:
