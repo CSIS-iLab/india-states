@@ -6,17 +6,11 @@ show_progressbars: false
 iframe: https://csis-ilab.github.io/mapbox-custom/india-energy
 last_updated_at: 2019-07-03 00:00:00 +0000
 sources:
-- name: 'Ministry of New and Renewable Energy: State-wise commissioning of solar power
-    projects'
-  url: http://mnre.gov.in/file-manager/UserFiles/grid-connected-solar-power-project-installed-capacity.pdf
-- name: 'Ministry of New and Renewable Energy: Solar Energy Installed Capacity Touched
-    13652 MW '
-  url: http://pib.nic.in/newsite/PrintRelease.aspx?relid=169824
-- name: 'Ministry of New and Renewable Energy: State-wise breakup of solar targets
-    to be achieved by 2022'
-  url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
-- name:
-  url:
+- name: 'United States Agency for International Development (USAID)'
+- name: 'Overseas Private Investment Corporation (OPIC)'
+- name: 'U.S. Trade & Development Agency (USTDA)'
+- name: 'U.S. Department of Energy (DOE)'
+- name: 'U.S. Export – Import Bank (EXIM)'
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+The United States and India have a long history of collaboration in the energy sector.  Collaboration takes many forms including financial and technical assistance, grants for feasibility studies, and the support of joint research supported by governments and private sector in both countries.  Participating in this endeavor are many U.S. federal government agencies as well as the U.S. private sector.  This tracker aims to give a comprehensive view of the footprint of U.S. government supported and private sector-led investments in India’s energy sector.  This map will be periodically updated and we invite private sector stakeholders to notify us of their ongoing projects so that we may highlight them.
