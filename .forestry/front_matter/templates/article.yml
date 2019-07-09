@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-04-10-report-finds-india-cancelled-5-300-mw-of-winning-renewable-energy-bids-in-2018-due-to-high-bid-rates.md
 - _posts/2019-04-03-mizoram-issues-tender-for-2-300-solar-inverter-chargers.md
 - _posts/2019-04-03-seci-issues-extension-for-bids-for-a-50-mw-solar-project-in-kerala.md
 - _posts/2019-04-03-assam-issues-tender-for-7-mw-of-grid-connected-solar.md
