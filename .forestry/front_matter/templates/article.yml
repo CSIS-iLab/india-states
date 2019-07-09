@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-04-03-maharashtra-approves-proposal-for-power-purchase-by-tata-power.md
 - _posts/2019-04-03-gujarat-invites-electric-meter-testing-labs-to-register-with-the-state.md
 - _posts/2019-04-03-andra-pradesh-issues-amendments-to-interim-balancing-and-settlement-regulations.md
 - _posts/2019-04-03-aperc-issues-order-on-biomass-industrial-waste-and-bagasse-powered-power-projects.md
