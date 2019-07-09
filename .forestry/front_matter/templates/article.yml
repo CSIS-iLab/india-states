@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-04-10-tata-projects-wins-order-from-nuclear-power-corporation-of-india.md
 - _posts/2019-04-10-haryana-discom-announces-division-of-feeders-to-double-capacity.md
 - _posts/2019-04-10-ge-transmission-and-distribution-india-win-contract-in-gujarat.md
 - _posts/2019-04-10-ntpc-issues-tender-for-3-mw-of-solar-power-projects-in-bihar.md
