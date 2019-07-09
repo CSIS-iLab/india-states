@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-04-17-national-hydro-power-corporation-invites-bids-for-a-40-mw-solar-power-project.md
 - _posts/2019-04-17-uperc-isssues-new-regulations-on-captive-and-renewable-energy-generating-plants.md
 - _posts/2019-04-17-fourth-partner-energy-announces-commissioning-of-eight-solar-projects.md
 - _posts/2019-04-17-coastal-tamil-nadu-power-limited-ordered-to-reapply-for-new-clearances-for-thermal-power-project.md
