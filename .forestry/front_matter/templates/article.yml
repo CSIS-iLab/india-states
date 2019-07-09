@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-04-24-cerc-orders-national-load-dispatch-center-to-issue-renewable-energy-certificates-to-a-10-mw-hydro-project.md
 - _posts/2019-04-17-uttarakhand-issues-tender-for-the-installation-of-40-mw-worth-of-solar-projects.md
 - _posts/2019-04-17-national-hydro-power-corporation-invites-bids-for-a-40-mw-solar-power-project.md
 - _posts/2019-04-17-uperc-isssues-new-regulations-on-captive-and-renewable-energy-generating-plants.md
