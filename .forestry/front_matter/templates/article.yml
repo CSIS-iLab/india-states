@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/tamil-nadu-issues-new-generic-tariffs-for-solar-procurement.md
 - _posts/2019-04-10-the-appellate-tribunal-for-electricity-rules-that-no-additional-surcharge-can-be-levied-on-captive-users.md
 - _posts/2019-04-10-maharashtra-orders-companies-to-comply-with-rpos.md
 - _posts/2019-04-10-karnataka-power-corporation-announces-tender-for-700-solar-modules.md
