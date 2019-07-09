@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-04-24-seci-invites-bids-for-150-mw-worth-of-solar-power-projects-in-telangana.md
 - _posts/2019-04-24-andhra-pradesh-approves-new-tariff-rate-for-5-mw-of-waste-to-energy-projects.md
 - _posts/2019-04-24-data-from-ministry-of-power-shows-state-discoms-ow-3-94-billion-in-overdue-payments.md
 - _posts/2019-04-24-cerc-orders-national-load-dispatch-center-to-issue-renewable-energy-certificates-to-a-10-mw-hydro-project.md
