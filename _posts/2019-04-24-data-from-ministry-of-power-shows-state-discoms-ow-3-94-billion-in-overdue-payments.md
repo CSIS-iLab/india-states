@@ -1,7 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: Data from Ministry of Power shows state discoms ow $3.94 billion in overdue
+title: Data from Ministry of Power shows state discoms owe $3.94 billion in overdue
   payments
 date: 2019-04-24 04:00:00 +0000
 states:
