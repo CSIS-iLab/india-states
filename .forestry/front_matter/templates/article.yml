@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-04-17-madhya-pradesh-invites-bids-for-25-mw-of-rooftop-solar-projects.md
 - _posts/2019-04-17-renew-power-announces-it-has-commissioned-300-mw-solar-plant-in-karnataka.md
 - _posts/2019-04-17-haryana-electricity-regulatory-commission-approves-new-power-purchase-agreements-for-3-mw-of-projects.md
 - _posts/2019-04-17-cerc-approves-a-revised-power-purchases-agreement-between-adani-power-and-its-mundra-power-project.md
