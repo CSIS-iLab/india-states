@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-01-center-approves-odisha-s-rooftop-solar-proposal.md
 - _posts/2019-05-01-rajasthan-clarifies-tariff-rates-for-delayed-projects.md
 - _posts/2019-05-01-gujarat-state-fertilizers-chemicals-commissions-10-mw-solar-project.md
 - _posts/2019-05-01-gujarat-announces-new-increase-in-power-tariffs-for-fy-2019-2020.md
