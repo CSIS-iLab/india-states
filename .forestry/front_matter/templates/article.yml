@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-08-karnataka-to-halt-all-new-solar-projects.md
 - _posts/2019-05-08-previously-cancelled-gujarat-solar-auction-receives-bids-at-low-ceiling-price.md
 - _posts/2019-05-08-bihar-blocks-company-from-carrying-forward-shortfall-in-rpo-to-next-year.md
 - _posts/2019-05-01-center-approves-odisha-s-rooftop-solar-proposal.md
