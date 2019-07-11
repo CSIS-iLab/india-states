@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-08-tamil-nadu-to-use-gps-technology-to-measure-performance-of-wind-projects.md
 - _posts/2019-05-08-azure-power-commissions-150-mw-project-at-solar-park-in-rajasthan.md
 - _posts/2019-05-08-maharashtra-increases-generic-tariff-for-solar-projects.md
 - _posts/2019-05-08-karnataka-to-halt-all-new-solar-projects.md
