@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-08-uttarakhand-extends-deadline-for-tender-for-40-mw-of-solar-projects.md
 - _posts/2019-05-08-seci-issues-tender-to-set-up-a-14-mw-solar-plant-in-jammu-and-kashmir.md
 - _posts/2019-05-08-national-hydroelectric-power-corporation-invited-bids-for-rooftop-and-small-solar-plants-in-himachal-pradesh.md
 - _posts/2019-05-08-west-bengal-discom-issues-tender-for-200-mw-of-solar-power.md
