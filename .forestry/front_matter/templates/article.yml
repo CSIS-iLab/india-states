@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/meghalaya-faces-severe-power-crisis.md
 - _posts/2019-05-15-kerala-announces-project-to-ensure-two-sources-of-power-for-all-rural-and-urban-areas.md
 - _posts/2019-05-15-himachal-pradesh-electricity-regulatory-commission-hperc-issues-draft-amendments-to-regulation-on-deviation-settlement-mechanism.md
 - _posts/2019-05-15-adani-green-energy-announces-it-commissioned-a-50-mw-solar-power-project-in-uttar-pradesh.md
