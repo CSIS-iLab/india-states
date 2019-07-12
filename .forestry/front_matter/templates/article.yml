@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-15-despite-four-extensions-gujarat-solar-tender-fails-to-attract-developers.md
 - _posts/2019-05-15-mnre-holds-consultations-with-states-on-renewable-energy-parks.md
 - _posts/2019-05-15-cerc-sides-with-power-producers-on-performance-bank-guarantee-and-postponing-commissioning-date.md
 - _posts/2019-05-15-cerc-provides-relief-to-developers-regarding-safeguard-duty-of-imports-of-solar-cells.md
