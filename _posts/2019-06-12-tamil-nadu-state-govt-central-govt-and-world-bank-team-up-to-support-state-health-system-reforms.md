@@ -3,7 +3,7 @@ content_type: articles
 breadcrumbs: articles
 title: Tamil Nadu state govt, central govt, and World Bank team up to support state
   health system reforms
-date: 2019-06-12 04:00:00 +0000
+date: 2019-06-12T04:00:00.000+00:00
 states:
 - Tamil Nadu
 sectors:
@@ -19,4 +19,4 @@ details:
 is_analysis: false
 
 ---
-The central government, the state government, and the World Bank signed a loan agreement to provide $287 million for the Tamil Nadu Health System Reform Program to improve the quality of health care, reduce the burden of non-communicable diseases, and fill equity gaps in reproductive and child health services in the state of Tamil Nadu.
+The central government, the state government, and the World Bank signed a loan agreement to provide $287 million for the Tamil Nadu Health System Reform Program to improve the quality of health care, reduce the burden of non-communicable diseases, and fill equity gaps in reproductive and child health services in the state of Tamil Nadu. 
