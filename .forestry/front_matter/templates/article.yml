@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-29-tata-power-renewable-energy-wins-auction-for-1-000-mw-of-projects-to-be-built-in-gujarat.md
 - _posts/2019-05-29-andhra-pradesh-approves-solar-rooftop-program-proposed-by-discom.md
 - _posts/2019-05-22-kerala-invites-bids-for-installing-rooftop-solar-on-village-council-owned-buildings-in-thiruvananthapuram.md
 - _posts/2019-05-22-kerala-issues-tender-for-1-500-electric-buses.md
