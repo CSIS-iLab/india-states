@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-22-azure-power-announces-commissioning-of-150-mw-solar-plant-in-rajasthan.md
 - _posts/2019-05-22-seci-successfully-auctions-250-mw-of-solar-projects-in-maharashtra.md
 - _posts/2019-05-22-cerc-allows-gmr-group-to-run-power-plant-on-imported-coal.md
 - _posts/meghalaya-faces-severe-power-crisis.md
