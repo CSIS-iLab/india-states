@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: June 5, 2019'
-date: 2019-06-05 04:00:00 +0000
+date: 2019-06-05T04:00:00.000+00:00
 tags: []
 excerpt: 'The center issues a third tender to create solar projects in Maharashtra,
   Andhra Pradesh, and Jharkhand to address more efficient use of empty land; Karnataka
@@ -25,7 +25,7 @@ author:
 ---
 **Big News**
 
-The center issues a third tender to create solar projects in Maharashtra, Andhra Pradesh, and Jharkhand to address more efficient use of empty land; Karnataka increases electricity bills following a request from electricity supply companies; Tamil Nadu accepts proposal to permit all shops to remain open for 24 hours a day; Chief ministers from Andhra Pradesh, Arunachal Pradesh, and Odisha sworn into office; and more.
+The center issues a third tender to create solar projects in Maharashtra, Andhra Pradesh, and Jharkhand to address more efficient use of empty land; Karnataka increases electricity bills following a request from electricity supply companies; Tamil Nadu accepts proposal to permit all shops to remain open for 24 hours a day; Chief ministers from Andhra Pradesh, Arunachal Pradesh, and Odisha sworn into office; and more. 
 
 **Center – State relations**
 
