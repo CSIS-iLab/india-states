@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: June 26, 2019'
-date: 2019-06-26 04:00:00 +0000
+date: 2019-06-26T04:00:00.000+00:00
 tags: []
 excerpt: Madhya Pradesh and Rajasthan join Modi’s PM Kisan Nidhi farmers’ welfare
   scheme after long-standing opposition; Goa and Maharashtra pass new reservation
@@ -26,7 +26,7 @@ author:
 ---
 **Big News**
 
-Madhya Pradesh and Rajasthan join Modi’s PM Kisan Nidhi farmers’ welfare scheme after long-standing opposition; Goa and Maharashtra pass new reservation policies for certain social groups; Madhya Pradesh announces new subsidies for farmers in the event of crop loss; Haryana and Jammu and Kashmir cancel several hydropower projects; Telangana opens the world’s largest lift irrigation project; Nagaland and Puducherry ban single-use plastics; Uttar Pradesh moves towards open access to the electric power market; and more.
+Madhya Pradesh and Rajasthan join Modi’s PM Kisan Nidhi farmers’ welfare scheme after long-standing opposition; Goa and Maharashtra pass new reservation policies for certain social groups; Madhya Pradesh announces new subsidies for farmers in the event of crop loss; Haryana and Jammu and Kashmir cancel several hydropower projects; Telangana opens the world’s largest lift irrigation project; Nagaland and Puducherry ban single-use plastics; Uttar Pradesh moves towards open access to the electric power market; and more. 
 
 **Center – State relations**
 
