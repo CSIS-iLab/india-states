@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-22-cerc-allows-gmr-group-to-run-power-plant-on-imported-coal.md
 - _posts/meghalaya-faces-severe-power-crisis.md
 - _posts/2019-05-15-kerala-announces-project-to-ensure-two-sources-of-power-for-all-rural-and-urban-areas.md
 - _posts/2019-05-15-himachal-pradesh-electricity-regulatory-commission-hperc-issues-draft-amendments-to-regulation-on-deviation-settlement-mechanism.md
