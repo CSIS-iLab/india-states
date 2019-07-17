@@ -2,7 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: 'Assam launches campaign targeting diarrhea '
-date: 2019-06-05 04:00:00 +0000
+date: 2019-06-05T04:00:00.000+00:00
 states:
 - Assam
 sectors:
@@ -16,4 +16,4 @@ details: []
 is_analysis: false
 
 ---
-The National Health Mission in Assam has launched an Intensified Diarrhoea Control Fortnight campaign, targeting 3.4 million children.
+The National Health Mission in Assam has launched an Intensified Diarrhoea Control Fortnight campaign, targeting 3.4 million children. 
