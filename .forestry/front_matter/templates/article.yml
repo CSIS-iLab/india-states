@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-22-the-transmission-corporation-of-telangana-asks-ntpc-to-defer-second-phase-of-2-400-mw-of-the-telangana-super-thermal-power-project.md
 - _posts/2019-05-22-farmers-protest-hydrocarbon-project-in-tamil-nadu.md
 - _posts/2019-05-22-azure-power-announces-commissioning-of-150-mw-solar-plant-in-rajasthan.md
 - _posts/2019-05-22-seci-successfully-auctions-250-mw-of-solar-projects-in-maharashtra.md
