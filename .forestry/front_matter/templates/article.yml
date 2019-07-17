@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-05-22-kerala-issues-tender-for-1-500-electric-buses.md
 - _posts/2019-05-22-national-institute-of-solar-energy-invites-bids-for-800-solar-dryer-and-space-heating-systems-in-jammu-and-kashmir.md
 - _posts/2019-05-22-the-joint-electricity-regulatory-commission-for-the-state-of-goa-and-union-territories-issued-draft-net-metering-regulations.md
 - _posts/2019-05-22-joint-electricity-regulatory-commission-for-the-state-of-goa-and-union-territories-has-issued-draft-regulations-on-tariffs-from-renewable-sources.md
