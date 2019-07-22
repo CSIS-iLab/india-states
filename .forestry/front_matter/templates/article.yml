@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-07-03-niti-aayog-release-second-state-health-index.md
 - _posts/2019-06-26-rajasthan-approves-ayushman-bharat.md
 - _posts/2019-06-19-tamil-nadu-infant-mortality-rate-drops.md
 - _posts/2019-07-10-andhra-pradesh-establishes-committee-to-investigate-corruption-in-high-priced-power-purchase-agreements.md
