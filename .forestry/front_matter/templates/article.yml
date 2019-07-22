@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-07-10-andhra-pradesh-establishes-committee-to-investigate-corruption-in-high-priced-power-purchase-agreements.md
 - _posts/punjab-issues-tender-for-54-mw-of-solar-biomass-hybrid-projects.md
 - _posts/2019-07-03-himachal-pradesh-increases-power-tariffs-for-all-except-those-below-the-poverty-line.md
 - _posts/arunachal-pradesh-announces-tender-for-1-mw-of-off-grid-solar-projects.md
