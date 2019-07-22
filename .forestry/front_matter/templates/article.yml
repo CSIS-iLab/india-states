@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-06-26-uttar-pradesh-power-utility-signs-power-supply-agreement-for-460-mw-of-wind-power.md
 - _posts/2019-06-26-uttar-pradesh-electricity-regulatory-commission-issues-draft-open-access-regulations.md
 - _posts/2019-06-26-uttar-pradesh-power-utility-proposes-increasing-electricity-tariffs-by-more-than-25-percent.md
 - _posts/state-owned-coal-minor-in-tamil-nadu-commissioned-a-100-mw-power-plant.md
