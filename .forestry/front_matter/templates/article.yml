@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-07-03-eesl-issues-tender-for-100-mw-of-solar-projects-in-maharashtra.md
 - _posts/2019-07-03-cleanmax-solar-announces-investment-of-86-8-million-in-haryana.md
 - _posts/2019-07-03-inox-wind-commissions-site-capable-of-supporting-power-evacuation-of-over-600-mw-in-gujarat.md
 - _posts/2019-07-03-delhi-deploys-the-first-electric-vehicles-under-its-freight-pilot-program.md
