@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-07-03-inox-wind-commissions-site-capable-of-supporting-power-evacuation-of-over-600-mw-in-gujarat.md
 - _posts/2019-07-03-delhi-deploys-the-first-electric-vehicles-under-its-freight-pilot-program.md
 - _posts/2019-07-03-ntpc-and-powergrid-corporation-of-india-jointly-set-up-the-national-electricity-distribution-company.md
 - _posts/2019-07-03-minister-of-power-orders-discoms-to-maintain-assured-payment-guarantees-with-banks-for-electricity-purchases.md
