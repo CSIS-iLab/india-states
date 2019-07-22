@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-06-26-haryana-begins-installing-smart-pre-paid-meters-as-part-of-a-pilot-project.md
 - _posts/2019-06-26-haryana-issues-two-tends-to-build-73-mw-of-grid-connected-solar-projects.md
 - _posts/2019-06-26-haryana-cancels-eight-controversial-mini-hydropower-projects.md
 - _posts/2019-06-12-bihar-to-install-prepaid-meters-in-state-by-august-2020.md
