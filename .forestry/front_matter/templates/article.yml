@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-07-03-minister-of-power-orders-discoms-to-maintain-assured-payment-guarantees-with-banks-for-electricity-purchases.md
 - _posts/2019-06-26-kerala-signs-a-power-purchase-agreement-from-a-waste-to-energy-project.md
 - _posts/2019-06-26-kerala-signs-a-power-supply-agreement-for-200-mw-of-wind-power.md
 - _posts/2019-06-26-jammu-kashmir-terminates-construction-contracts-for-a-hydro-electric-power-project-due-to-poor-progress-of-work.md
