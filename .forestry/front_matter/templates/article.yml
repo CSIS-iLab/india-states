@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-07-03-center-and-world-bank-sign-loan-to-improve-health-in-ap.md
 - _posts/2019-07-03-center-and-world-bank-to-eliminate-tb-in-india.md
 - _posts/2019-07-03-niti-aayog-release-second-state-health-index.md
 - _posts/2019-06-26-rajasthan-approves-ayushman-bharat.md
