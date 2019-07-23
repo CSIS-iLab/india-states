@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/2019-07-10-himachal-pradesh-sets-tariff-for-a-300-mw-hydropower-project.md
 - _posts/2019-07-17-center-to-support-new-hospital-in-sikkim.md
 - _posts/2019-07-03-sex-ratio-at-birth-declines-in-telangana.md
 - _posts/2019-07-03-center-and-world-bank-sign-loan-to-improve-health-in-ap.md
