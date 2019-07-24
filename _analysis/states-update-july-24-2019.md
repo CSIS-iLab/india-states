@@ -2,8 +2,8 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: July 24, 2019 '
-date: 2019-07-24 04:00:00 +0000
+title: 'States Update: July 24, 2019'
+date: 2019-07-24 10:00:00 +0000
 tags: []
 excerpt: Gujarat emerges as top state for funding MSMEs; Andhra Pradesh discoms face
   disputes on solar power tariffs; Karnataka speaker struggles to hold a vote of no
@@ -118,5 +118,3 @@ Goa chief minister Pramod Sawant presented the budget for FY 2019-20 with a gros
 **Tripura**
 
 The Asian Development Bank will provide $223 million for upgrades in power generation, transmission and distribution projects in Tripura. **Source:** [Live Mint](https://www.livemint.com/news/india/asian-development-bank-to-give-rs-1-540-crore-for-tripura-power-projects-1563458913674.html)
-
-***
