@@ -5,11 +5,11 @@ content_type: analysis
 title: 'States Update: August 21, 2019 '
 date: 2019-08-21T04:00:00.000+00:00
 tags: []
-excerpt: 'Jammu & Kashmir’s administration announces an investor summit for October;
-  Nagaland launches a start-up portal; Uttar Pradesh takes the lead in installation
-  of smart electricity meters; Delhi and Kerala make moves on electric vehicle charging;
-  Tamil Nadu creates two new districts; Odisha launches online land revenue payment
-  system; and more. '
+excerpt: NITI Aayog ranks states’ water management- Gujarat on top; Ministry of New
+  & Renewable Energy ranks states’ rooftop solar policies- Karnataka on top; Andhra
+  softens on re-opening the states’ power contracts with generators; Delhi working
+  with World Bank to assess energy storage capacity; Madhya Pradesh expands electric
+  power subsidies; Uttar Pradesh launches new electric vehicle policy; and more.
 states: []
 sectors: []
 subsectors: []
