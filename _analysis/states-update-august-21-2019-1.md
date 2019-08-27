@@ -25,39 +25,33 @@ published: false
 ---
 **Big News**
 
-Jammu & Kashmir’s administration announces an investor summit for October; Nagaland launches a start-up portal; Uttar Pradesh takes the lead in installation of smart electricity meters; Delhi and Kerala make moves on electric vehicle charging; Tamil Nadu creates two new districts; Odisha launches online land revenue payment system; and more.
+NITI Aayog ranks states’ water management- Gujarat on top; Ministry of New & Renewable Energy ranks states’ rooftop solar policies- Karnataka on top; Andhra softens on re-opening the states’ power contracts with generators; Delhi working with World Bank to assess energy storage capacity; Madhya Pradesh expands electric power subsidies; Uttar Pradesh launches new electric vehicle policy; and more.
 
 **Center – State relations**
 
-The Joint Electricity Regulatory Commission (JERC) has issued draft regulations for determining tariffs from renewable energy sources including solar, wind and small hydro for the state of Goa and union territories. **Source:** [Mercom](https://mercomindia.com/jerc-tariff-solar-wind-small-hydro-goa/) **In detail:** [Tariff details](http://jercuts.gov.in/writereaddata/UploadFile/draftgenericorder637003641834862278.pdf)
+Gujarat continues to be the top performer in water management even as Andhra Pradesh, Madhya Pradesh and Himachal Pradesh have further increased their scores over the last three years, according to a report by NITI Aayog. Meanwhile, states, including Jharkhand, Uttar Pradesh, Odisha and Bihar, continued to be in the low-performing category. **Source:** [Live Mint](https://www.livemint.com/politics/policy/gujarat-ranks-on-top-in-water-management-niti-aayog-report-1566564624402.html) **In detail:** [Press Release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1582772)
 
-The JERC for the state of Goa and union territories has finalized net metering regulations. **Source:** [Mercom](https://mercomindia.com/goa-net-metering-regulations-solar/) **In details**: [Net Metering Regulations](http://jercuts.gov.in/writereaddata/UploadFile/solar%20pv%20grid%20regulation.pdf)
+Karnataka has emerged as the best state for setting up a roof top solar project, according to a survey released by the Center. The state rooftop solar attractiveness index–SARAL released by the Ministry of New and Renewable Energy said that Telangana, Gujarat and Andhra Pradesh were among the top four states with a rating of A++. The states were evaluated on the basis of on their attractiveness for rooftop development. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/karnataka-ranks-best-in-roof-top-solar-development/articleshow/70772978.cms) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=192752)
 
-Energy Efficiency Services Limited (EESL) along with the union Ministry of Power, announced completed installation of over 500,000 smart meters in the country, as called for in the pan-India programme launched a year ago. Among states in India, Uttar Pradesh took the first place with over 400,000 smart-meter installations in 13 of its cities. **Source:** [Financial Express](https://www.financialexpress.com/economy/over-5-lakh-smart-meters-installed-in-a-year-mostly-in-uttar-pradesh/1674854/)
+Union Home Minister Amit Shah, on August 22, chaired the 24th meeting of the Western Zonal Council, a forum for the Center and states to exchange ideas on issues like health, security and social welfare, in Goa. Chief ministers of three states - Devendra Fadnavis (Maharashtra), Vijay Rupani (Gujarat), Pramod Sawant (Goa) - and representatives from the Union Territories of Daman and Diu, and Dadra and Nagar Haveli attended the meeting. **Source:** [Money Control](https://www.moneycontrol.com/news/politics/amit-shah-chairs-western-zonal-council-meet-in-goa-4361511.html)
 
-Under the 'Samarth’ program, sixteen states have signed pacts with the Ministry of Textiles to accelerate the skill development of 400,000 workers in the textile sector. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/economy/textiles-ministry-partners-with-16-states-for-skilling-4-lakh-under-samarth-scheme/article29092868.ece) **In detail:** [Press Release](http://pib.gov.in/newsite/PrintRelease.aspx?relid=192628)
+The Center has approved release of over $615.8 million to Odisha, Karnataka and Himachal Pradesh for the damage caused by natural calamities in these states during the last financial year. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/centre-approves-rs-4432-cr-to-odisha-karnataka-himachal-for-calamities-in-2018-19/articleshow/70752996.cms) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=192719)
 
 **Andhra Pradesh**
 
-The Andhra Pradesh state government has issued notifications for tenders valued at $686.1 million for projects linked to the Polavaram irrigation program, against the central government’s advice. The notifications have been issued for a hydro project valued at $434.1 million and a headworks project valued at $252.07 million. **Source:** [NDTV](https://www.ndtv.com/andhra-pradesh-news/chief-minister-jagan-reddy-defies-central-advisory-on-polavaram-2086740)
-
-Japan has alerted the Andhra Pradesh chief minister that the state’s efforts to cut renewable energy tariffs by reviewing signed-and-sealed contracts has raised concerns with foreign investors and damaged the business environment. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/japan-cautions-andhra-pradesh-against-reworking-green-power-pacts/articleshow/70668370.cms)
+Andhra Pradesh government has softened its stand on the controversial plan to reopen the power purchase agreements (PPAs) inked under the previous TDP government. Union power and new and renewable energy minister Raj Kumar Singh said that he has seen a communication wherein the Andhra Pradesh state government has clarified that they will not open all power purchase agreements (PPAs), but only in those cases where malfeasance is established. **Source:** [Live Mint](https://www.livemint.com/industry/energy/andhra-govt-softens-stand-on-power-purchase-agreements-signed-tdp-r-k-singh-1566380718553.html)
 
 **Bihar**
 
-The Bihar state government has approved a draft Sand Mining Policy attempting to regulate the sector and protect the environment. **Source:** [Money Control](https://www.moneycontrol.com/news/politics/cabinet-gives-nod-to-bihar-sand-mining-policy-2019-4335261.html)
+Nothing critical to report this week.
 
 **New Delhi**
 
-The New Delhi government waived the vehicle fitness test fee and reduced various other charges in a bid to offer relief to over 90,000 auto drivers. **Source:** [Financial Express](https://www.financialexpress.com/india-news/kejriwals-election-sop-delhi-government-waives-off-fitness-test-fee-cuts-penalties-on-auto-drivers/1675125/)
-
-Energy Efficiency Services Limited (EESL) under the Ministry of Power has initiated a project to install 300 electric vehicle (EV) charging stations in the national capital and surrounding urban centres. **Source:** [News18](https://www.news18.com/news/auto/delhi-ncr-to-get-additional-300-electric-vehicle-charging-stations-in-6-months-2274451.html)
+Tata Power Delhi Distribution Ltd (Tata Power-DDL), a distribution arm of Tata Power, has entered into an agreement with International Finance Corporation (IFC), a member of the World Bank Group, to assess storage capacity requirement in its area. **Source:** [Saurenergy](https://www.saurenergy.com/solar-energy-news/tata-power-ddl-ifc-collaborate-to-assess-battery-storage-demand)
 
 **Gujarat**
 
-The Gujarat Electricity Regulatory Commission (GERC) has passed an order allowing Gujarat Urja Vikas Nigam Limited and the other distribution companies in the state to procure power from small solar projects with a capacity of up to 4 megawatts (MW) to meet their renewable purchase obligations. **Source:** [Mercom](https://mercomindia.com/gujarat-commission-discoms-power-solar-rpo/)
-
-The Indian arm of Singapore-based Sembcorp Industries said that it has commissioned a 200 MW wind power project in Bhuj. With this addition to an existing 250 MW capacity on site, the company now owns and operates the largest wind project auctioned through the Solar Energy Corporation of India (SECI). **Source:** [Times of India](https://timesofindia.indiatimes.com/business/india-business/sembcorp-commissions-200-mw-wind-power-project-in-bhuj-sees-rise-in-profitability/articleshowprint/70700660.cms)
+Nothing critical to report this week.
 
 **Haryana**
 
@@ -65,70 +59,76 @@ The Haryana Government has designed a new policy governing the establishment of 
 
 **Karnataka**
 
-With the approval to establish a waste-to-energy plant in Kannahalli for the next 30 years, the Bruhat Bengaluru Mahanagara Palike is expected to treat 500 tonnes of municipal solid waste which will be used to generate 40 MW of electricity daily. **Source:** [Deccan Herald](https://www.deccanherald.com/city/govt-approves-waste-to-energy-plant-in-kannahalli-754391.html)
+Karnataka Chief Minister BS Yediyurappa expanded his Cabinet with the induction of 17 ministers, but minutes after the swearing in ceremony several legislators openly expressed their discontent, saying that he had ignored them. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/news/national/karnataka-gets-17-member-cabinet/article29183634.ece)
 
 **Madhya Pradesh**
 
-Nothing critical to report this week.
+The Madhya Pradesh government decided to provide electricity at $0.013 per unit to all domestic consumers using up to 100 units every month, with an upper cap of 150 units. The proposal was cleared at a cabinet meeting chaired by Chief Minister Kamal Nath. “Till now, this subsidised scheme of providing 100 units per month at a rate of $0.013 per unit was meant for poor labourers registered under Indira Griha Jyoti Yojana.” **Source:** [Financial Express](https://www.financialexpress.com/economy/madhya-pradesh-government-subsidised-power-scheme-scope-expanded-1-crore-to-benefit/1679502/)
 
 **Maharashtra**
 
-The Maharashtra government has identified the Information Technology Directorate to be the nodal agency for the implementation of blockchain technology to be used in agricultural marketing, supply chain management, vehicle registration and document management systems. **Source:** [DNA](https://www.dnaindia.com/mumbai/report-maharashtra-to-use-blockchain-technology-in-agriculture-marketing-vehicle-registration-2782991)
+Maharashtra government has formed a 12-member Investment Promotion Council chaired by state chief minister. The surge in investment, the government believes, will help achieve the $1 trillion economy target by 2025 from the present level of $475 billion. **Source:** [DNA](https://www.dnaindia.com/mumbai/report-maharashtra-sets-up-council-to-promote-investments-2784975)
 
 **Rajasthan**
 
-Nothing critical to report this week.
+Ashok Gehlot-led Rajasthan tops a 16 state-chart detailing implementation of the free medicine scheme run under the National Health Mission, according to NHM Secretary Manoj Jhalani. **Source:** [E health](https://ehealth.eletsonline.com/2019/08/rajasthan-tops-free-medicine-supply-scheme/)
 
 **Tamil Nadu**
 
-The state of Tamil Nadu will now have two new districts to provide people with easier access to state services. **Source:** [The News Minute](https://www.thenewsminute.com/article/tn-s-vellore-district-be-split-3-tirupathur-and-ranipet-become-new-districts-107258)
+With a view to save water for irrigation, Chief Minister Edappadi K Palaniswamiy announced a ploughing subsidy of $8.33 per acre to promote direct sowing of paddy in delta districts. “This grant will be given for 500,000 acres where direct sowing is adopted. For this purpose, $4.1 million has been allocated,” the chief minister said in a statement. **Source:** [New Indian Express](http://www.newindianexpress.com/states/tamil-nadu/2019/aug/24/tamil-nadu-government-announces-grant-for-direct-paddy-sowing-2023535.html)
 
 **Telangana**
 
-Nothing critical to report this week.
+Google and the Telangana government signed a Memorandum of Understanding (MOU) to increase and improve local language content online using Google’s digital publishing tool - Navlekha. **Source:** [Live mint](https://www.livemint.com/companies/news/google-collaborates-with-telangana-government-for-digital-telangana-1566383271600.html)
 
 **Uttar Pradesh**
 
-EESL has attracted investments worth $378.1 million for a smart meter project in Uttar Pradesh. Under the ambitious project, EESL will install four million electricity meters in the premises of state power consumers within the next three years. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/eesl-lines-up-rs-2-700-cr-investments-for-smart-meter-project-in-up-119081300755_1.html)
+Uttar Pradesh government announced Electric Vehicle Manufacturing & Mobility Policy 2019 to promote e-mobility. This policy provides attractive fiscal and non-fiscal incentives to attract investments and increase electric mobility in the state. It also promotes the early adoption of electric vehicles in the state and creates demand in the sector. This policy will come into effect on the date of its notification and will remain in force for a period of 5 years. **Source:** [Electric Vehicles.in](https://electricvehicles.in/uttar-pradesh-electric-vehicle-manufacturing-mobility-policy-2019/) **In detail:** [Uttar Pradesh Electric Vehicle Manufacturing and Mobility Policy 2019](https://electricvehicles.in/wp-content/uploads/2019/08/Uttar-Pradesh-Electric-Vehicle-Policy-2019.pdf)
+
+In a severe blow to Uttar Pradesh Power Corporation (UPPCL), Power System Operation Corporation (Posoco) has blocked the company from purchasing any electricity from power exchanges due to alleged lapses. UPPCL has faced the action for deliberately keeping state power generating companies, including independent power producers, out of the ambit of the Union power ministry’s order regarding implementation of a payment security mechanism-based scheduling of power at intra-state level. **Source:** [Financial Express](https://www.financialexpress.com/economy/uppcl-banned-from-buying-power-from-exchanges-on-alleged-lapses/1684740/)
+
+Petrol and diesel will cost more in Uttar Pradesh from Tuesday after the state government hiked Value Added Tax (VAT) on both. The VAT on petrol is now up to 26.80 percent, raising the cost $0.013 per liter, while the VAT on diesel has risen to 17.48 percent, raising the cost $0.03 per literThe new and hiked prices came into effect at midnight on Monday. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-to-get-costly-in-uttar-pradesh-from-today/articleshow/70749055.cms)
+
+Uttar Pradesh chief minister Yogi Adityanath allocated portfolios to the 6 newly sworn-in ministers of his cabinet, while also making changes to the departments held by other members of his cabinet. **Source:** [First post](https://www.firstpost.com/politics/yogi-adityanath-allocates-portfolios-to-newly-sworn-in-ministers-after-cabinet-reshuffle-jai-pratap-singh-in-charge-of-health-dept-7211931.html)
 
 **West Bengal**
 
-Nothing critical to report this week.
+Energy Efficiency Services Ltd (EESL) will install 100,000 smart LED streetlights in Kolkata and Bidhannagar Municipal Corporation areas. EESL plans to supply 56,000 LED street lights to municipal bodies outside Kolkata. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/eesl-to-install-1-56-lakh-smart-led-streetlight-in-west-bengal/articleshow/70791795.cms)
 
 **Best of the Rest**
 
 **Assam**
 
-The Assam Energy Development Agency has issued a tender to set up 8 MW of rooftop photovoltaic (PV) solar projects with a net metering facility. The deadline for submitting bids is August 29, 2019. **Source:** [Mercom](https://mercomindia.com/assam-tender-rooftop-solar-residential/)
+State-run hydro power giant NHPC is likely to begin construction of the 2,000 MW Lower Subansiri power plant in October this year as it has received the requisite approval from the Assam government, an official said. NHPC had inked a memorandum of agreement (MoA) with Arunachal Pradesh for setting up the project in 2010. However, since the project falls in the territories of both Arunachal Pradesh and Assam, the latter's approval was needed as well. **Source:** [Money Control](https://www.moneycontrol.com/news/business/companies/nhpc-likely-to-begin-construction-of-2-gw-at-assams-lower-subansiri-hydro-plant-in-october-4369611.html)
 
 **Chhattisgarh**
 
 The Chhattisgarh government has introduced a rebate on power tariffs to specific units. As per the decision of the state government, mini steel plants operating captive power plants of up to one MW will be eligible for a discount of $0.011 per unit of power consumed. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/chhattisgarh-offers-power-rebate-to-ailing-steel-units-industry-wants-more-119081401232_1.html)
 
-**Goa**
+**Jharkhand**
 
-Goa’s state government has revised and reduced the fuel and power purchase cost adjustments for July, August, and September. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/goa/power-consumers-get-relief-as-fppca-revised-lower-than-last-quarter/articleshowprint/70707714.cms)
-
-**Himachal Pradesh**
-
-State-owned Satluj Jal Vidyut Nigam Limited (SJVNL) won contracts from the Himachal Pradesh government for two hydro power units (the 138 MW Bardang and 210 MW Purthi projects). **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/renewable/sjvnl-bags-two-hydro-power-projects-from-himachal-pradesh-govt/70685146)
-
-The Himachal Pradesh government signed 25 memorandums of understanding valued at $700.19 million with various industrial firms during the “Domestic Road” show under “Rising Himachal Global Investors” meeting in Chandigarh. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/himachal-signs-rs-5k-cr-mous-with-industries/articleshowprint/70682949.cms)
+Supply of domestic Piped Natural Gas (PNG) was launched in Ranchi on Friday, within 15 months of Prime Minister Narendra Modi laying the project’sfoundation .Two Compressed Natural Gas (CNG) stations were also inaugurated for refilling CNG-run private and commercial vehicles in the Jharkhand capital. Supply of domestic Piped Natural Gas (PNG) was launched in Ranchi on Friday, within 15 months of Prime Minister Narendra Modi laying the project’sfoundation .Two Compressed Natural Gas (CNG) stations were also inaugurated for refilling CNG-run private and commercial vehicles in the Jharkhand capital. Source: [Energy Infra Post](https://energyinfrapost.com/cng-png-project-launched-jharkhand/) [Energy Infra Post](https://energyinfrapost.com/cng-png-project-launched-jharkhand/)
 
 **Jammu and Kashmir**
 
-Seeking to attract businesses to Jammu and Kashmir, the state administration announced a three-day global investors summit to be held in Srinagar from October 12. **Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/special-status-gone-jammu-and-kashmir-to-host-investors-meet-from-oct-12-in-srinagar/story-jUQLODgf2Fax3QHOC5FhDL.html)
+Assembly elections in Jammu and Kashmir are likely to be conducted only after the process of delimitation of Assembly seats is finished, which is expected to take about 14 months. Therefore, the polls are likely to be deferred until 2021according to sources in the Election Commission of India (ECI). **Source:** [News nation](https://www.newsnation.in/india-news/j-k-assembly-polls-likely-to-be-conducted-after-14-months-report-article-235283.html)
 
 **Kerala**
 
-The Kerala state government’s nodal agency, Kerala State Electricity Board Limited (KSEB), is inviting bids from agencies interested in setting up 64 electric vehicle (EV) charging stations across the state. **Source:** [Sau Energy](https://www.saurenergy.com/ev-storage/kerala-seeking-agencies-setting-up-ev-charging-stations)
-
-**Nagaland**
-
-Nagaland’s government launched the state’s ‘Start-up India’ portal. The portal has been started to enable start-ups from the state to register online and apply for recognition under ‘Start-up Nagaland’ by logging in to the portal. **Source:** [Indian Wire](https://www.theindianwire.com/startups/nagaland-launches-portal-boost-startup-ecosystem-state-161019/) **In Detail:** [Start-up Nagaland](http://www.startup.nagaland.gov.in/)
+Kerala government has approved a proposal to frame a new law for the appointment of women as drivers in State Public Sector Undertakings and various departments of the Kerala Government. According to the Chief Minister of Kerala, Pinarayi Vijayan, the new law will ensure gender equality in driver posts. **Source:** [Jagran Josh](https://www.jagranjosh.com/current-affairs/kerala-cabinet-approves-appointment-of-women-drivers-for-govt-psu-vehicles-1566448338-1)
 
 **Odisha**
 
-Odisha’s state government approved the establishment of the Odisha Maritime Board for administration, control and management of non-major ports and non-nationalized inland waterways. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/odisha-govt-nod-to-set-up-maritime-board/article29114328.ece)
+The High Level-Clearance Authority (HLCA), the apex body to approve investments in Odisha, has given its go-ahead to five new projects, with a total value of $28.3 billion. Four of the five proposed investments were in non-mineral-based sectors, endorsing the state government's aspiration to diversify and lure investors beyond its historical strengths of mining, metals and power. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/odisha-clears-rs-2-04-trn-investments-focus-on-sectors-other-than-mining-119082000328_1.html)
 
-Odisha Chief Minister Naveen Patnaik inaugurated the state’s online land revenue payment system. **Source:** [Odisha TV](https://odishatv.in/odisha/online-land-revenue-payment-system-introduced-in-odisha-393776)
+Central Electricity Supply Utility of Odisha (CESU) has inked a pact with Smart Power India (SPI), a subsidiary of Rockefeller Foundation, to work on a model to improve electricity access and reliability in rural areas of Odisha. As per the agreement, CESU and SPI will work together to develop and implement a model distribution zone in a selected area to demonstrate improvements in electricity service by enhancing reliability and customer services. **Source:** [New Indian Express](http://www.newindianexpress.com/cities/bhubaneswar/2019/aug/22/central-electricity-supply-utility-of-odisha-inks-pact-with-smart-power-india-to-improve-electricity-access-in-odisha-2022593.html)
+
+**Punjab**
+
+The Punjab government rolled out a mega health insurance scheme clubbing the Center's Ayushman Bharat plan with its own, a combination which it said will benefit 4.6 million families covering 76 percent of the state's population. **Source:** [Economic Times](https://health.economictimes.indiatimes.com/news/policy/punjab-rolls-out-mega-health-insurance-scheme-says-will-cover-76-pc-of-states-population/70763709)
+
+The Punjab government inked a Memorandum of Understanding (MoU) with the UN Development Program (UNDP) for the implementation of the Sustainable Development Goals (SDGs). **Source:** [Millennium Post](http://www.millenniumpost.in/nation/punjab-inks-pact-with-undp-to-implement-sdgs-370069)
+
+**Tripura**
+
+The Center has signed a Memorandum of Understanding (MoU) with Bangladesh for transporting 20 liquefied petroleum gas (LPG) bullet trucks through the Mongla port in Bangladesh to cater to the growing petroleum demand in Tripura. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/agartala/centre-signs-mou-to-use-bangla-port-for-tripura/articleshowprint/70825710.cms)
