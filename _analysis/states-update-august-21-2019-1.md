@@ -2,7 +2,7 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: August 21, 2019 '
+title: 'States Update: August 28, 2019 '
 date: 2019-08-21T04:00:00.000+00:00
 tags: []
 excerpt: NITI Aayog ranks states’ water management- Gujarat on top; Ministry of New
