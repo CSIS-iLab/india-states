@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: August 28, 2019 '
-date: 2019-08-21T04:00:00.000+00:00
+date: 2019-08-28 04:00:00 +0000
 tags: []
 excerpt: NITI Aayog ranks states’ water management- Gujarat on top; Ministry of New
   & Renewable Energy ranks states’ rooftop solar policies- Karnataka on top; Andhra
