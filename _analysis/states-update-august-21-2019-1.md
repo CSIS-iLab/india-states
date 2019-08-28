@@ -62,7 +62,7 @@ Karnataka Chief Minister BS Yediyurappa expanded his Cabinet with the induction 
 
 **Madhya Pradesh**
 
-The Madhya Pradesh government decided to provide electricity at $0.013 per unit to all domestic consumers using up to 100 units every month, with an upper cap of 150 units. The proposal was cleared at a cabinet meeting chaired by Chief Minister Kamal Nath. “Till now, this subsidised scheme of providing 100 units per month at a rate of $0.013 per unit was meant for poor labourers registered under Indira Griha Jyoti Yojana.” **Source:** [Financial Express](https://www.financialexpress.com/economy/madhya-pradesh-government-subsidised-power-scheme-scope-expanded-1-crore-to-benefit/1679502/)
+The Madhya Pradesh government decided to provide electricity at $0.013 per unit to all domestic consumers using up to 100 units every month, with an upper cap of 150 units. The proposal was cleared at a cabinet meeting chaired by Chief Minister Kamal Nath. “Till now, this subsidised scheme of providing 100 units per month at a rate of $0.013 per unit was meant for poor laborers registered under Indira Griha Jyoti Yojana.” **Source:** [Financial Express](https://www.financialexpress.com/economy/madhya-pradesh-government-subsidised-power-scheme-scope-expanded-1-crore-to-benefit/1679502/)
 
 **Maharashtra**
 
