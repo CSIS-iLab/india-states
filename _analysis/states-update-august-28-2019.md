@@ -2,8 +2,8 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: August 28, 2019 '
-date: 2019-08-28 04:00:00 +0000
+title: 'States Update: September 3, 2019 '
+date: 2019-09-03 04:00:00 +0000
 tags: []
 excerpt: NITI Aayog ranks states’ water management- Gujarat on top; Ministry of New
   & Renewable Energy ranks states’ rooftop solar policies- Karnataka on top; Andhra
@@ -25,75 +25,77 @@ published: false
 ---
 **Big News**
 
-NITI Aayog ranks states’ water management- Gujarat on top; Ministry of New & Renewable Energy ranks states’ rooftop solar policies- Karnataka on top; Andhra softens on re-opening the states’ power contracts with generators; Delhi working with World Bank to assess energy storage capacity; Madhya Pradesh expands electric power subsidies; Uttar Pradesh launches new electric vehicle policy; and more.
+The Appellate Tribunal for Electricity blocks Andhra’s moves to harm power PPAs; Delhi government waives water arrears; Australia’s IEEFA expects Gujarat to add 46 GW of renewable power in 10 years; Haryana passes a new Enterprises Promotion Bill; Rajasthan launches a new health insurance program; Rajasthan and Utah sign an energy cooperation agreement; Rajasthan expands water subsidies; Tamil Nadu chief minister visits London; Assam finalizes National Register of Citizens list; Chhattisgarh expands job reservations; Tripura assembly passes Essential Services Maintenance Act; and more.
 
 **Center – State relations**
 
-Gujarat continues to be the top performer in water management even as Andhra Pradesh, Madhya Pradesh and Himachal Pradesh have further increased their scores over the last three years, according to a report by NITI Aayog. Meanwhile, states, including Jharkhand, Uttar Pradesh, Odisha and Bihar, continued to be in the low-performing category. **Source:** [Live Mint](https://www.livemint.com/politics/policy/gujarat-ranks-on-top-in-water-management-niti-aayog-report-1566564624402.html) **In detail:** [Press Release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1582772)
+Union Home Minister Amit Shah chaired a review meeting, including seven chief ministers of states affected by Left Wing Extremism (LWE) and said that LWE is one of the most significant internal security challenges faced by the nation over the last several decades. **Source:** [DNA](https://www.dnaindia.com/india/report-union-home-minister-amit-shah-chairs-review-with-seven-cms-of-naxal-hit-states-2785226)
 
-Karnataka has emerged as the best state for setting up a roof top solar project, according to a survey released by the Center. The state rooftop solar attractiveness index–SARAL released by the Ministry of New and Renewable Energy said that Telangana, Gujarat and Andhra Pradesh were among the top four states with a rating of A++. The states were evaluated on the basis of on their attractiveness for rooftop development. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/karnataka-ranks-best-in-roof-top-solar-development/articleshow/70772978.cms) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=192752)
+The environment ministry released over $6.54 billion to 27 states for compensatory afforestation and other green activities, including prevention of forest fire, biodiversity management, and soil conservation. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/centre-gives-over-rs-47000-cr-to-27-states-for-green-activities/articleshow/70893919.cms) **In detail:** [Press Release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1583452)
 
-Union Home Minister Amit Shah, on August 22, chaired the 24th meeting of the Western Zonal Council, a forum for the Center and states to exchange ideas on issues like health, security and social welfare, in Goa. Chief ministers of three states - Devendra Fadnavis (Maharashtra), Vijay Rupani (Gujarat), Pramod Sawant (Goa) - and representatives from the Union Territories of Daman and Diu, and Dadra and Nagar Haveli attended the meeting. **Source:** [Money Control](https://www.moneycontrol.com/news/politics/amit-shah-chairs-western-zonal-council-meet-in-goa-4361511.html)
+Following a high-level cabinet meeting, Union Ministers Prakash Javadekar and Piyush Goyal said at a press conference that the government has approved the establishment of 75 new medical colleges in the country. Javadekar said that the addition would lead to the creation 15,700 more Bachelor of Medicine, Bachelor of Surgery (MBBS) seats in India. **Source:** [Business Today](https://www.businesstoday.in/current/economy-politics/union-cabinet-approves-establishment-of-75-new-medical-colleges-to-add-15700-mbbs-seats/story/375900.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=192842)
 
-The Center has approved release of over $615.8 million to Odisha, Karnataka and Himachal Pradesh for the damage caused by natural calamities in these states during the last financial year. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/centre-approves-rs-4432-cr-to-odisha-karnataka-himachal-for-calamities-in-2018-19/articleshow/70752996.cms) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=192719)
-
-**Andhra Pradesh**
-
-Andhra Pradesh government has softened its stand on the controversial plan to reopen the power purchase agreements (PPAs) inked under the previous TDP government. Union power and new and renewable energy minister Raj Kumar Singh said that he has seen a communication wherein the Andhra Pradesh state government has clarified that they will not open all power purchase agreements (PPAs), but only in those cases where malfeasance is established. **Source:** [Live Mint](https://www.livemint.com/industry/energy/andhra-govt-softens-stand-on-power-purchase-agreements-signed-tdp-r-k-singh-1566380718553.html)
+Kerala, Tamil Nadu, Himachal Pradesh, and Puducherry topped the charts in the child well-being index, a tool designed to measure and tracks children’s well-being comprehensively. Meghalaya, Jharkhand, and Madhya Pradesh featured at the bottom, as per a report released by the non-government organization World Vision India and research institute IFMR LEAD. The report is an attempt to look at how India fairs on child well-being using a composite child well-being index. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/kerala-tn-himachal-tops-indias-child-well-being-index-says-report/article29272084.ece)
 
 **Bihar**
 
-Nothing critical to report this week.
+The Nitish Kumar government banned 12 pan masala brands in Bihar for a period of one year for containing magnesium carbonate which causes health problems, an official said. The decision was taken by the state government following the presence of magnesium carbonate in all the 20 samples of pan masala collected from nine districts by food safety officers. **Source:** [First Post](https://www.firstpost.com/india/bihar-govt-bans-12-pan-masala-brands-for-one-year-after-magnesium-carbonate-found-in-samples-collected-from-nine-districts-7261891.html)
+
+The Bihar Renewable Energy Development Agency (BREDA) has issued two requests for proposal inviting bidders to develop grid-connected floating solar power projects. While one project of up to 2 megawatts (MW) will be developed on private water bodies, another 2 MW is slated to be developed on a government-owned body of water. **Source:** [Mercom](https://mercomindia.com/bihar-tender-floating-solar-projects/)
 
 **New Delhi**
 
-Tata Power Delhi Distribution Ltd (Tata Power-DDL), a distribution arm of Tata Power, has entered into an agreement with International Finance Corporation (IFC), a member of the World Bank Group, to assess storage capacity requirement in its area. **Source:** [Saurenergy](https://www.saurenergy.com/solar-energy-news/tata-power-ddl-ifc-collaborate-to-assess-battery-storage-demand)
+The Delhi cabinet has approved free rides for women on DTC buses as well as its cluster buses. Women will be able to commute on DTC buses for free from October 29, which is also Bhai Duj. **Source:** [Business Today](https://www.businesstoday.in/current/economy-politics/women-in-delhi-to-get-free-rides-on-dtc-cluster-buses-from-october-29/story/376024.html)
+
+In a bid to clean records of consumers and make them pay their pending bills, Delhi chief minister Arvind Kejriwal announced a one-time waiver of water arrears. **Source:** [Live Mint](https://www.livemint.com/politics/policy/arvind-kejriwal-announces-a-one-time-waiver-on-water-bill-arrears-in-delhi-1566895891767.html)
+
+The Delhi department of excise, entertainment & luxury tax, in a bizarre order, wants bar counters, whether at hotels/restaurants or bars attached to liquor shops, to dispose of the alcohol lying on their shelves un-exhausted or un-served within 3-8 days, depending on the type and price of the drink. **Source:** [Financial Express](https://www.financialexpress.com/opinion/delhi-excise-department-puts-out-a-bizarre-policy-to-counter-adulteration-of-liquor-at-bar-counters/1690747/)
 
 **Gujarat**
 
-Nothing critical to report this week.
+The Institute for Energy Economics and Financial Analysis (IEEFA) has identified Gujarat as one of five leading Indian states for renewable energy. The Australia-based think-tank expects Gujarat to add a staggering 46 gigawatts of new renewable energy generation capacity by fiscal 2029-30. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/ieefa-state-can-lead-renewable-energy-race/articleshowprint/70866615.cms)
 
 **Haryana**
 
-The Haryana Government has designed a new policy governing the establishment of underground and overhead connectivity and communication infrastructure. **Source:** [The Tribune](https://www.tribuneindia.com/news/haryana/fresh-policy-framed-for-setting-up-mobile-towers/818538.html)
+In an attempt to boost the state’s economy, the state cabinet gave its approval to the Haryana Enterprises Promotion (Amendment) Bill, 2019, in a meeting headed by Chief Minister Manohar Lal Khattar. The proposed bill aims to make the existing Enterprises Promotion Act, 2016 more industry-friendly and increase the scope of services. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/gurgaon/cabinet-gives-nod-to-bill-to-help-boost-business-in-state/articleshowprint/70929836.cms)
 
 **Karnataka**
 
-Karnataka Chief Minister BS Yediyurappa expanded his Cabinet with the induction of 17 ministers, but minutes after the swearing in ceremony several legislators openly expressed their discontent, saying that he had ignored them. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/news/national/karnataka-gets-17-member-cabinet/article29183634.ece)
+Nothing critical to report this week.
 
 **Madhya Pradesh**
 
-The Madhya Pradesh government decided to provide electricity at $0.013 per unit to all domestic consumers using up to 100 units every month, with an upper cap of 150 units. The proposal was cleared at a cabinet meeting chaired by Chief Minister Kamal Nath. “Till now, this subsidised scheme of providing 100 units per month at a rate of $0.013 per unit was meant for poor laborers registered under Indira Griha Jyoti Yojana.” **Source:** [Financial Express](https://www.financialexpress.com/economy/madhya-pradesh-government-subsidised-power-scheme-scope-expanded-1-crore-to-benefit/1679502/)
+Nothing critical to report this week.
 
 **Maharashtra**
 
-Maharashtra government has formed a 12-member Investment Promotion Council chaired by state chief minister. The surge in investment, the government believes, will help achieve the $1 trillion economy target by 2025 from the present level of $475 billion. **Source:** [DNA](https://www.dnaindia.com/mumbai/report-maharashtra-sets-up-council-to-promote-investments-2784975)
+Nothing critical to report this week.
 
 **Rajasthan**
 
-Ashok Gehlot-led Rajasthan tops a 16 state-chart detailing implementation of the free medicine scheme run under the National Health Mission, according to NHM Secretary Manoj Jhalani. **Source:** [E health](https://ehealth.eletsonline.com/2019/08/rajasthan-tops-free-medicine-supply-scheme/)
+The Ashok Gehlot-led Congress government in Rajasthan has decided to launch a new Health Insurance Scheme in the state by combining the Ayushman Bharat scheme of the Modi dispensation and the Bhamashah scheme brought during former chief minister Vasundhara Raje's term. **Source:** [India Today](https://www.indiatoday.in/india/story/rajasthan-gehlot-govt-launch-health-scheme-ayushman-bharat-bhamashah-1592838-2019-08-29)
+
+The Rajasthan Government’s Department of Energy and the United States of America’s Utah Governor’s Office of Energy Development signed a memorandum of understanding (MOU) as part of the U.S.-India State and Urban Initiative in Jaipur recently. The MOU will ensure cooperation between Utah and Rajasthan for mitigating challenges in the energy sector. As per the MOU, Utah will help Rajasthan in the integration of resources and technology for renewable energy through policy exchanges, facilitating transfer of technology for energy storage, scheduling and forecasting, electric mobility, and strengthening of power transmission networks. **Source**: [eGov](https://egov.eletsonline.com/2019/08/rajasthan-government-signs-mou-with-utah-governor-energy-development-office/)
+
+The Rajasthan government decided to provide 70 liters per person per day free water in 13 desert districts of the state via the Public Health and Engineering department, according to an official release. Chief minister Ashok Gehlot has approved the proposal moved by the state finance department, the release said. **Source:** [The Wire](https://thewire.in/government/rajasthan-provide-70-litres-free-water-per-person-in-desert-districts)
 
 **Tamil Nadu**
 
-With a view to save water for irrigation, Chief Minister Edappadi K Palaniswamiy announced a ploughing subsidy of $8.33 per acre to promote direct sowing of paddy in delta districts. “This grant will be given for 500,000 acres where direct sowing is adopted. For this purpose, $4.1 million has been allocated,” the chief minister said in a statement. **Source:** [New Indian Express](http://www.newindianexpress.com/states/tamil-nadu/2019/aug/24/tamil-nadu-government-announces-grant-for-direct-paddy-sowing-2023535.html)
+On his visit to London, Chief Minister Edappadi K Palaniswami signed three key partnership agreements in the health sector on skills, tropical diseases, and other elements of healthcare. **Source:** [The New Indian Express](http://www.newindianexpress.com/states/tamil-nadu/2019/aug/30/tamil-nadu-cm-edappadi-palaniswami-signs-three-health-pacts-on-first-day-of-london-tour-2026263.html) **In detail:** [Press Release](http://cms.tn.gov.in/sites/default/files/press_release/pr290819g.jpg)
 
 **Telangana**
 
-Google and the Telangana government signed a Memorandum of Understanding (MOU) to increase and improve local language content online using Google’s digital publishing tool - Navlekha. **Source:** [Live mint](https://www.livemint.com/companies/news/google-collaborates-with-telangana-government-for-digital-telangana-1566383271600.html)
+Start-up incubator T-Hub and Telangana government announced the launch of its three-month accelerator program T-Angel to support technology start-ups in healthcare, real estate, entertainment, sports, education, and finance sectors and to make them investible. **Source:** [Financial Express](https://www.financialexpress.com/industry/sme/hyderabads-t-hub-steps-up-startup-game-to-take-on-bengaluru-delhi-mumbai-to-become-hub-for-entrepreneurs/1689783/)
+
+The Telangana government has created a digital database of 45,000 job vacancies in several companies and organizations. Telangana labor minister Malla Reddy launched the application DEEP (Digital Employment Exchange of Telangana) to improve the employment ecosystem in the state. “It will allow free interaction between job seekers and job providers on the platform that is powered by artificial intelligence and machine learning technologies,” Telangana IT and industries secretary Jayesh Ranjan has said. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/news/national/digital-employment-exchange-unveiled-in-telangana/article29261784.ece)
 
 **Uttar Pradesh**
 
-Uttar Pradesh government announced Electric Vehicle Manufacturing & Mobility Policy 2019 to promote e-mobility. This policy provides attractive fiscal and non-fiscal incentives to attract investments and increase electric mobility in the state. It also promotes the early adoption of electric vehicles in the state and creates demand in the sector. This policy will come into effect on the date of its notification and will remain in force for a period of 5 years. **Source:** [Electric Vehicles.in](https://electricvehicles.in/uttar-pradesh-electric-vehicle-manufacturing-mobility-policy-2019/) **In detail:** [Uttar Pradesh Electric Vehicle Manufacturing and Mobility Policy 2019](https://electricvehicles.in/wp-content/uploads/2019/08/Uttar-Pradesh-Electric-Vehicle-Policy-2019.pdf)
-
-In a severe blow to Uttar Pradesh Power Corporation (UPPCL), Power System Operation Corporation (Posoco) has blocked the company from purchasing any electricity from power exchanges due to alleged lapses. UPPCL has faced the action for deliberately keeping state power generating companies, including independent power producers, out of the ambit of the Union power ministry’s order regarding implementation of a payment security mechanism-based scheduling of power at intra-state level. **Source:** [Financial Express](https://www.financialexpress.com/economy/uppcl-banned-from-buying-power-from-exchanges-on-alleged-lapses/1684740/)
-
-Petrol and diesel will cost more in Uttar Pradesh from Tuesday after the state government hiked Value Added Tax (VAT) on both. The VAT on petrol is now up to 26.80 percent, raising the cost $0.013 per liter, while the VAT on diesel has risen to 17.48 percent, raising the cost $0.03 per literThe new and hiked prices came into effect at midnight on Monday. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/oil-gas/petrol-diesel-to-get-costly-in-uttar-pradesh-from-today/articleshow/70749055.cms)
-
-Uttar Pradesh chief minister Yogi Adityanath allocated portfolios to the 6 newly sworn-in ministers of his cabinet, while also making changes to the departments held by other members of his cabinet. **Source:** [First post](https://www.firstpost.com/politics/yogi-adityanath-allocates-portfolios-to-newly-sworn-in-ministers-after-cabinet-reshuffle-jai-pratap-singh-in-charge-of-health-dept-7211931.html)
+The ban on plastic with thickness less than 50 microns will come into force in Uttar Pradesh from Sunday with a fine up to $1,392 and six months of imprisonment for violators, according to a state government order. **Source:** [First Post](https://www.firstpost.com/india/uttar-pradesh-govt-bans-plastic-less-than-50-microns-thick-violators-face-fine-up-to-rs-1-lakh-six-month-jail-term-7262281.html)
 
 **West Bengal**
 
-Energy Efficiency Services Ltd (EESL) will install 100,000 smart LED streetlights in Kolkata and Bidhannagar Municipal Corporation areas. EESL plans to supply 56,000 LED street lights to municipal bodies outside Kolkata. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/eesl-to-install-1-56-lakh-smart-led-streetlight-in-west-bengal/articleshow/70791795.cms)
+The West Bengal assembly passed a bill against mob assault and incidents of lynching, with the legislation providing for life imprisonment to those injuring a person and capital punishment for causing death. **Source:** [Business Today](https://www.businesstoday.in/current/economy-politics/west-bengal-assembly-passes-bill-against-mob-assault-lynching/story/376542.html)
 
 **Best of the Rest**
 
