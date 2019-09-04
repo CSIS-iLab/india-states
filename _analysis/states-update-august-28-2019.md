@@ -5,11 +5,14 @@ content_type: analysis
 title: 'States Update: September 4, 2019 '
 date: 2019-09-04 04:00:00 +0000
 tags: []
-excerpt: NITI Aayog ranks states’ water management- Gujarat on top; Ministry of New
-  & Renewable Energy ranks states’ rooftop solar policies- Karnataka on top; Andhra
-  softens on re-opening the states’ power contracts with generators; Delhi working
-  with World Bank to assess energy storage capacity; Madhya Pradesh expands electric
-  power subsidies; Uttar Pradesh launches new electric vehicle policy; and more.
+excerpt: The Appellate Tribunal for Electricity blocks Andhra’s moves to harm power
+  PPAs; Delhi government waives water arrears; Australia’s IEEFA expects Gujarat to
+  add 46 GW of renewable power in 10 years; Haryana passes a new Enterprises Promotion
+  Bill; Rajasthan launches a new health insurance program; Rajasthan and Utah sign
+  an energy cooperation agreement; Rajasthan expands water subsidies; Tamil Nadu chief
+  minister visits London; Assam finalizes National Register of Citizens list; Chhattisgarh
+  expands job reservations; Tripura assembly passes Essential Services Maintenance
+  Act; and more.
 states: []
 sectors: []
 subsectors: []
