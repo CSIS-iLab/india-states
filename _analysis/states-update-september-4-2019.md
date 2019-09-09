@@ -26,45 +26,45 @@ author:
 published: false
 
 ---
-**Big News**
+Andhra Pradesh approves new sand mining policy; Delaware and Gujarat sign sister state agreement; Haryana boosts water and power subsidies for farmers; Karnataka widens ambit of its Solar Park policy; Rajasthan releases draft wind and solar policies; Tamil Nadu’s chief minister, K. Palaniswami, visits New York to meet investors; Uttar Pradesh increases electric power rates; West Bengal passes resolution opposing the National Register of Citizens in Assam; Assam re-tenders 70 MW of solar projects due to lack of interest; Chhattisgarh drops land rates for industrial zones; Meghalaya introduces new law regulating private universities; and more.
 
-The Appellate Tribunal for Electricity blocks Andhra’s moves to harm power PPAs; Delhi government waives water arrears; Australia’s IEEFA expects Gujarat to add 46 GW of renewable power in 10 years; Haryana passes a new Enterprises Promotion Bill; Rajasthan launches a new health insurance program; Rajasthan and Utah sign an energy cooperation agreement; Rajasthan expands water subsidies; Tamil Nadu chief minister visits London; Assam finalizes National Register of Citizens list; Chhattisgarh expands job reservations; Tripura assembly passes Essential Services Maintenance Act; and more.
+**Center – State Relations**
 
-**Center – State relations**
+The Ministry of New and Renewable Energy (MNRE) has issued a clarification regarding the subsidy applicable for rooftop solar installations by individual residential households under phase-II of grid-connected rooftop solar program. In its official memorandum, the MNRE states that subsidy under Phase-II of the grid-connected rooftop solar program will be available to all eligible households for installation of rooftop solar as per regulations of respective State Electricity Regulatory Commission and program implementation guidelines. **Source:** [Mercom](https://mercomindia.com/mnre-residential-solar-rooftop-subsidy/) **In detail:** [Subsidy details](https://mnre.gov.in/sites/default/files/schemes/Clarification.PDF)
 
-Union Home Minister Amit Shah chaired a review meeting, including seven chief ministers of states affected by Left Wing Extremism (LWE) and said that LWE is one of the most significant internal security challenges faced by the nation over the last several decades. **Source:** [DNA](https://www.dnaindia.com/india/report-union-home-minister-amit-shah-chairs-review-with-seven-cms-of-naxal-hit-states-2785226)
+**Andhra Pradesh**
 
-The environment ministry released over $6.54 billion to 27 states for compensatory afforestation and other green activities, including prevention of forest fire, biodiversity management, and soil conservation. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/centre-gives-over-rs-47000-cr-to-27-states-for-green-activities/articleshow/70893919.cms) **In detail:** [Press Release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1583452)
+The state cabinet approved the new sand mining policy to curb sand mafia in Andhra Pradesh. As part of this AP Mineral Development Corporation will undertake sand mining and transport to prevent any irregularities. **Source:** [Sakshi Post](https://english.sakshi.com/andhrapradesh/2019/09/04/cabinet-approves-new-sand-mining-policy-to-be-regulated-by-apmdc)
 
-Following a high-level cabinet meeting, Union Ministers Prakash Javadekar and Piyush Goyal said at a press conference that the government has approved the establishment of 75 new medical colleges in the country. Javadekar said that the addition would lead to the creation 15,700 more Bachelor of Medicine, Bachelor of Surgery (MBBS) seats in India. **Source:** [Business Today](https://www.businesstoday.in/current/economy-politics/union-cabinet-approves-establishment-of-75-new-medical-colleges-to-add-15700-mbbs-seats/story/375900.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=192842)
+Andhra Pradesh chief minister Y S Jagan Mohan Reddy met with officials from the Shanghai-based New Development Bank (NDB), who have sanctioned a loan of $836.3 million for the state. The NDB delegation said that the loan will be approved soon. The amount is set to be used by the state government for social infrastructure projects. **Source:** [The News Minute](https://www.thenewsminute.com/article/andhra-pradesh-get-rs-6000-crore-loan-shanghai-based-new-development-bank-108451)
 
-Kerala, Tamil Nadu, Himachal Pradesh, and Puducherry topped the charts in the child well-being index, a tool designed to measure and tracks children’s well-being comprehensively. Meghalaya, Jharkhand, and Madhya Pradesh featured at the bottom, as per a report released by the non-government organization World Vision India and research institute IFMR LEAD. The report is an attempt to look at how India fairs on child well-being using a composite child well-being index. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/kerala-tn-himachal-tops-indias-child-well-being-index-says-report/article29272084.ece)
+The Andhra Pradesh cabinet approved the decision to merge the debt-ridden Andhra Pradesh State Road Transport Corporation with the state government, creating a Public Transport Department for the state. **Source:** [The News Minute](https://www.thenewsminute.com/article/andhra-cabinet-approves-apsrtcs-merger-state-government-108390)
+
+The Andhra Pradesh cabinet approved the cancellation of the Polavaram hydel power project contract with Navayuga Engineering Company Ltd. (NECL), worth $448.3 million and called for new tenders with a reverse-tendering process. This comes after the High Court’s order to cancel the termination orders of NECL issued by the state government from taking up the hydel project. **Source:** [Deccan Chronicle](https://www.deccanchronicle.com/nation/current-affairs/050919/andhra-pradesh-cabinet-scraps-polavaram-deal.html)
+
+The Andhra Pradesh government accorded permission to Andhra Pradesh Power Finance Corp to raise $697 million through a bond issue. The bond issue will be raised through private placed Andhra Pradesh Power Bonds. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/vijayawada/appfc-gets-nod-for-rs-5000-crore-bond-issue/articleshowprint/70999608.cms)
 
 **Bihar**
 
-The Nitish Kumar government banned 12 pan masala brands in Bihar for a period of one year for containing magnesium carbonate which causes health problems, an official said. The decision was taken by the state government following the presence of magnesium carbonate in all the 20 samples of pan masala collected from nine districts by food safety officers. **Source:** [First Post](https://www.firstpost.com/india/bihar-govt-bans-12-pan-masala-brands-for-one-year-after-magnesium-carbonate-found-in-samples-collected-from-nine-districts-7261891.html)
-
-The Bihar Renewable Energy Development Agency (BREDA) has issued two requests for proposal inviting bidders to develop grid-connected floating solar power projects. While one project of up to 2 megawatts (MW) will be developed on private water bodies, another 2 MW is slated to be developed on a government-owned body of water. **Source:** [Mercom](https://mercomindia.com/bihar-tender-floating-solar-projects/)
+Nothing critical to report this week.
 
 **New Delhi**
 
-The Delhi cabinet has approved free rides for women on DTC buses as well as its cluster buses. Women will be able to commute on DTC buses for free from October 29, which is also Bhai Duj. **Source:** [Business Today](https://www.businesstoday.in/current/economy-politics/women-in-delhi-to-get-free-rides-on-dtc-cluster-buses-from-october-29/story/376024.html)
-
-In a bid to clean records of consumers and make them pay their pending bills, Delhi chief minister Arvind Kejriwal announced a one-time waiver of water arrears. **Source:** [Live Mint](https://www.livemint.com/politics/policy/arvind-kejriwal-announces-a-one-time-waiver-on-water-bill-arrears-in-delhi-1566895891767.html)
-
-The Delhi department of excise, entertainment & luxury tax, in a bizarre order, wants bar counters, whether at hotels/restaurants or bars attached to liquor shops, to dispose of the alcohol lying on their shelves un-exhausted or un-served within 3-8 days, depending on the type and price of the drink. **Source:** [Financial Express](https://www.financialexpress.com/opinion/delhi-excise-department-puts-out-a-bizarre-policy-to-counter-adulteration-of-liquor-at-bar-counters/1690747/)
+Delhi has dropped by six places in the ranking of the world's most livable cities, descending to rank 118th on the list. The ranking came in, September 4, after an annual survey by the Economist Intelligence Unit. While New Delhi has registered the biggest decline in Asia this year, Mumbai also fell two places since last year to rank 119th on the list. **Source:** [News 18](https://www.news18.com/news/india/delhi-slips-six-places-in-worlds-most-liveable-cities-ranking-here-are-a-few-likely-reasons-2297759.html)
 
 **Gujarat**
 
-The Institute for Energy Economics and Financial Analysis (IEEFA) has identified Gujarat as one of five leading Indian states for renewable energy. The Australia-based think-tank expects Gujarat to add a staggering 46 gigawatts of new renewable energy generation capacity by fiscal 2029-30. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/ieefa-state-can-lead-renewable-energy-race/articleshowprint/70866615.cms)
+Gujarat government and the state of Delaware signed a sister state memorandum of understanding (MOU). The MOU was signed in Gandhinagar, by Gujarat’s chief minister and Delaware’s secretary of state. **Source:** [All India Radio](http://www.newsonair.com/News?title=Gujarat-Govt%2C-Delaware-State-of-America-sign-MoU-for-sister-state&id=371134)
 
 **Haryana**
 
-In an attempt to boost the state’s economy, the state cabinet gave its approval to the Haryana Enterprises Promotion (Amendment) Bill, 2019, in a meeting headed by Chief Minister Manohar Lal Khattar. The proposed bill aims to make the existing Enterprises Promotion Act, 2016 more industry-friendly and increase the scope of services. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/gurgaon/cabinet-gives-nod-to-bill-to-help-boost-business-in-state/articleshowprint/70929836.cms)
+Ahead of assembly polls, the BJP-led Haryana government announced a $662.1 million interest and penalty waiver on crop loans taken from cooperative banks, benefiting around 1 million farmers in the state. **Source:** [Live Mint](https://www.livemint.com/news/india/eye-on-polls-haryana-govt-waives-rs-4-750-cr-of-interest-penalty-on-crop-loans-1567421765340.html)
+
+Haryana government announced to waive surcharge on electricity bills of tube wells. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/haryana-waives-surcharge-on-electricity-bill-for-tubewells/70970047)
 
 **Karnataka**
 
-Nothing critical to report this week.
+The Karnataka cabinet has decided to introduce amendments to the Karnataka Solar Policy (2014-21), which would lower the output requirement for solar parks from 100 MW to 25 MW, and make more plants eligible for subsidies from the center. **Source**: [The Hindu](https://www.thehindu.com/news/national/karnataka/government-to-amend-policy-to-declare-25-mw-plants-as-solar-parks/article29355778.ece)
 
 **Madhya Pradesh**
 
@@ -72,68 +72,62 @@ Nothing critical to report this week.
 
 **Maharashtra**
 
-Nothing critical to report this week.
+The Asian Development Bank will provide $200 million to upgrade rural roads to all-weather standards in 34 districts of Maharashtra with an aim to improve road safety and better connectivity with markets. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/adb-to-provide-usd-200-mn-to-upgrade-maharashtra-rural-roads-119090601178_1.html)
 
 **Rajasthan**
 
-The Ashok Gehlot-led Congress government in Rajasthan has decided to launch a new Health Insurance Scheme in the state by combining the Ayushman Bharat scheme of the Modi dispensation and the Bhamashah scheme brought during former chief minister Vasundhara Raje's term. **Source:** [India Today](https://www.indiatoday.in/india/story/rajasthan-gehlot-govt-launch-health-scheme-ayushman-bharat-bhamashah-1592838-2019-08-29)
+The Rajasthan Renewable Energy Corporation has issued a draft version of its policy on wind and wind-solar hybrid projects. Rajasthan aims to deploy 2,000 MW of wind power capacity to ulfil the renewable purchase obligation of state distribution companies. **Source:** [Mercom](https://mercomindia.com/rajasthan-applications-registration-wind-projects-rec/) **In detail:** [Draft Rajasthan Wind & Wind-Solar Hybrid Policy 2019](http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Common/Rajasthan%20Wind%20%26%20Wind-Solar%20Hybrid%20Policy%202019.pdf)
 
-The Rajasthan Government’s Department of Energy and the United States of America’s Utah Governor’s Office of Energy Development signed a memorandum of understanding (MOU) as part of the U.S.-India State and Urban Initiative in Jaipur recently. The MOU will ensure cooperation between Utah and Rajasthan for mitigating challenges in the energy sector. As per the MOU, Utah will help Rajasthan in the integration of resources and technology for renewable energy through policy exchanges, facilitating transfer of technology for energy storage, scheduling and forecasting, electric mobility, and strengthening of power transmission networks. **Source**: [eGov](https://egov.eletsonline.com/2019/08/rajasthan-government-signs-mou-with-utah-governor-energy-development-office/)
-
-The Rajasthan government decided to provide 70 liters per person per day free water in 13 desert districts of the state via the Public Health and Engineering department, according to an official release. Chief minister Ashok Gehlot has approved the proposal moved by the state finance department, the release said. **Source:** [The Wire](https://thewire.in/government/rajasthan-provide-70-litres-free-water-per-person-in-desert-districts)
+The state government of Rajasthan has come up with a new draft solar policy. The proposed policy package aims to establish the state as a global hub for solar with 50 GW of installed generation capacity within 5-6 years. It envisages an R&D hub for the deployment of renewable energy technologies and solar-wind hybrid projects, with a focus on improving efficiency and reducing balance-of-system costs. **Source:** [Pv-Magazine](https://www.pv-magazine-india.com/2019/09/03/rajasthan-eyes-50-gw-solar-in-5-6-years/) **In detail:** [Draft Rajasthan Solar Energy Policy 2019](http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Home%20Page/Rajasthan%20Solar%20Energy%20Policy%202019.pdf)
 
 **Tamil Nadu**
 
-On his visit to London, Chief Minister Edappadi K Palaniswami signed three key partnership agreements in the health sector on skills, tropical diseases, and other elements of healthcare. **Source:** [The New Indian Express](http://www.newindianexpress.com/states/tamil-nadu/2019/aug/30/tamil-nadu-cm-edappadi-palaniswami-signs-three-health-pacts-on-first-day-of-london-tour-2026263.html) **In detail:** [Press Release](http://cms.tn.gov.in/sites/default/files/press_release/pr290819g.jpg)
+More than 16 firms in the United States have committed investments to the tune of over $376.3 million in Tamil Nadu during the ongoing visit of Chief Minister K Palaniswami to that country, the state government said. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/foreign-trade/palaniswami-us-visit-tamil-nadu-attracts-investments-worth-over-rs-2700-crore/articleshow/70972771.cms)
 
 **Telangana**
 
-Start-up incubator T-Hub and Telangana government announced the launch of its three-month accelerator program T-Angel to support technology start-ups in healthcare, real estate, entertainment, sports, education, and finance sectors and to make them investible. **Source:** [Financial Express](https://www.financialexpress.com/industry/sme/hyderabads-t-hub-steps-up-startup-game-to-take-on-bengaluru-delhi-mumbai-to-become-hub-for-entrepreneurs/1689783/)
-
-The Telangana government has created a digital database of 45,000 job vacancies in several companies and organizations. Telangana labor minister Malla Reddy launched the application DEEP (Digital Employment Exchange of Telangana) to improve the employment ecosystem in the state. “It will allow free interaction between job seekers and job providers on the platform that is powered by artificial intelligence and machine learning technologies,” Telangana IT and industries secretary Jayesh Ranjan has said. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/news/national/digital-employment-exchange-unveiled-in-telangana/article29261784.ece)
+Nothing critical to report.
 
 **Uttar Pradesh**
 
-The ban on plastic with thickness less than 50 microns will come into force in Uttar Pradesh from Sunday with a fine up to $1,392 and six months of imprisonment for violators, according to a state government order. **Source:** [First Post](https://www.firstpost.com/india/uttar-pradesh-govt-bans-plastic-less-than-50-microns-thick-violators-face-fine-up-to-rs-1-lakh-six-month-jail-term-7262281.html)
+Uttar Pradesh’s power sector watchdog approved 8-15 percent tariff hike for different categories of rural and urban consumers. Interestingly, the power tariffs had remained unchanged during 2018-19 in run up to the Lok Sabha elections. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/up-power-regulator-gives-consumers-a-shock-with-8-15-tariff-hike-119090301069_1.html) **In detail:** [Tariff details](http://www.uperc.org/App_File/UPPTCLTARIFFORDERFY2019-2027-AUGUST2019-pdf827201963241PM.pdf)
 
 **West Bengal**
 
-The West Bengal assembly passed a bill against mob assault and incidents of lynching, with the legislation providing for life imprisonment to those injuring a person and capital punishment for causing death. **Source:** [Business Today](https://www.businesstoday.in/current/economy-politics/west-bengal-assembly-passes-bill-against-mob-assault-lynching/story/376542.html)
+In an unprecedented show of solidarity, the West Bengal legislative assembly passed a resolution opposing the National Register of Citizens (NRC) in Assam. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/west-bengal-assembly-rules-out-nrc/article29352838.ece)
 
 **Best of the Rest**
 
 **Assam**
 
-State-run hydro power giant NHPC is likely to begin construction of the 2,000 MW Lower Subansiri power plant in October this year as it has received the requisite approval from the Assam government, an official said. NHPC had inked a memorandum of agreement (MoA) with Arunachal Pradesh for setting up the project in 2010. However, since the project falls in the territories of both Arunachal Pradesh and Assam, the latter's approval was needed as well. **Source:** [Money Control](https://www.moneycontrol.com/news/business/companies/nhpc-likely-to-begin-construction-of-2-gw-at-assams-lower-subansiri-hydro-plant-in-october-4369611.html)
+The Armed Forces (Special Powers) Act has been extended for six months in Assam effective from August 28 after reviewing the law and order situation in the state. The act, which empowers security forces to conduct operations and arrest anyone anywhere without prior notice, has been in effect since November 1990. **Source:** [Deccan Herald](https://www.deccanherald.com/national/east-and-northeast/afspa-extended-for-six-months-from-aug-28-in-assam-759787.html)
+
+The Assam Power Generation Corporation Limited has retendered 70 MW of grid-connected solar projects to be developed at Amguri Solar Park in Sivasagar district of the state. The tender was initially floated in January 2019. “The response from the developers was poor due to the upper tariff cap of $0.049 per unit, or kilowatt-hour (kWh). We have now revised the ceiling to $0.056/kWh,” an APGCL official said. **Source:** [Mercom](https://mercomindia.com/assam-retenders-70mw-solar/)
 
 **Chhattisgarh**
 
-The Chhattisgarh government has introduced a rebate on power tariffs to specific units. As per the decision of the state government, mini steel plants operating captive power plants of up to one MW will be eligible for a discount of $0.011 per unit of power consumed. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/chhattisgarh-offers-power-rebate-to-ailing-steel-units-industry-wants-more-119081401232_1.html)
+The Asian Development Bank and the government of India signed a $350 million loan to rehabilitate and upgrade about 528 miles of state highways and major district roads in Chhattisgarh, which will improve transport connectivity and enhance people’s access to basic services and livelihood opportunities. **Source:** [Asian Development Bank Press Release](https://www.adb.org/news/adb-india-sign-350-million-loan-improve-road-connectivity-chhattisgarh)
+
+In a bid to boost industrial development in the state, the Chhattisgarh government announced that land allotment rates in industrial areas will be reduced by 30 percent in next few months. Additionally, the land would be provided at cheaper rates, and capital, interest subsidy, tax rebates and several other benefits would be provided for the establishment of food processing, minor forest produce, and herbal-based industries, said Chief Minister Bhupesh Baghel. **Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/chhattisgarh-govt-to-reduce-land-allotment-rates-in-industrial-areas-by-30/story-lXySaqLmysZuXY6lo9YgYK.html)
 
 **Jharkhand**
 
-Supply of domestic Piped Natural Gas (PNG) was launched in Ranchi on Friday, within 15 months of Prime Minister Narendra Modi laying the project’sfoundation .Two Compressed Natural Gas (CNG) stations were also inaugurated for refilling CNG-run private and commercial vehicles in the Jharkhand capital. Supply of domestic Piped Natural Gas (PNG) was launched in Ranchi on Friday, within 15 months of Prime Minister Narendra Modi laying the project’sfoundation .Two Compressed Natural Gas (CNG) stations were also inaugurated for refilling CNG-run private and commercial vehicles in the Jharkhand capital. Source: [Energy Infra Post](https://energyinfrapost.com/cng-png-project-launched-jharkhand/) [Energy Infra Post](https://energyinfrapost.com/cng-png-project-launched-jharkhand/)
+Jharkhand chief minister Raghubar Das inaugurated Pradhan Mantri Ujjwala Yojna. "In 2014, only 25 percent of the people had access to Ujjwala Gas and now \[the\] Modi government is trying to make it accessible to all the poor families regardless of their religion and caste.” **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/oil-and-gas/jharkhand-cm-launches-pradhan-mantri-ujjwala-yojna-in-gumla/70962400)
 
 **Jammu and Kashmir**
 
-Assembly elections in Jammu and Kashmir are likely to be conducted only after the process of delimitation of Assembly seats is finished, which is expected to take about 14 months. Therefore, the polls are likely to be deferred until 2021according to sources in the Election Commission of India (ECI). **Source:** [News nation](https://www.newsnation.in/india-news/j-k-assembly-polls-likely-to-be-conducted-after-14-months-report-article-235283.html)
+Union Minister of State (Independent Charge) for Development of North Eastern Region, Jitendra Singh, said that the model of development initiated in the northeast will be implemented in Jammu and Kashmir and Ladakh. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/govt-to-implement-ne-growth-model-in-jk-and-ladakh-jitendra-singh/articleshow/70986807.cms)
 
-**Kerala**
+**Meghalaya**
 
-Kerala government has approved a proposal to frame a new law for the appointment of women as drivers in State Public Sector Undertakings and various departments of the Kerala Government. According to the Chief Minister of Kerala, Pinarayi Vijayan, the new law will ensure gender equality in driver posts. **Source:** [Jagran Josh](https://www.jagranjosh.com/current-affairs/kerala-cabinet-approves-appointment-of-women-drivers-for-govt-psu-vehicles-1566448338-1)
+The state government introduced the Meghalaya Private University Regulatory of Establishment and Maintenance of Standard Bill, 2019 on the opening day of the autumn session of the assembly. **Source:** [The Sentinel Assam](https://www.sentinelassam.com/north-east-india-news/meghalaya-news/bill-to-regulate-meghalaya-private-university-introduced-in-assembly/)
 
-**Odisha**
+**Mizoram**
 
-The High Level-Clearance Authority (HLCA), the apex body to approve investments in Odisha, has given its go-ahead to five new projects, with a total value of $28.3 billion. Four of the five proposed investments were in non-mineral-based sectors, endorsing the state government's aspiration to diversify and lure investors beyond its historical strengths of mining, metals and power. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/odisha-clears-rs-2-04-trn-investments-focus-on-sectors-other-than-mining-119082000328_1.html)
+The center has approved $48.7 million for the ninth phase of Bru repatriation from six relief camps of neighboring Tripura, according to a senior home department official. **Source:** [Arunachal Times](https://arunachaltimes.in/index.php/2019/09/07/centre-approved-rs-350cr-for-9th-phase-of-bru-repatriation-mizoram-official/)
 
-Central Electricity Supply Utility of Odisha (CESU) has inked a pact with Smart Power India (SPI), a subsidiary of Rockefeller Foundation, to work on a model to improve electricity access and reliability in rural areas of Odisha. As per the agreement, CESU and SPI will work together to develop and implement a model distribution zone in a selected area to demonstrate improvements in electricity service by enhancing reliability and customer services. **Source:** [New Indian Express](http://www.newindianexpress.com/cities/bhubaneswar/2019/aug/22/central-electricity-supply-utility-of-odisha-inks-pact-with-smart-power-india-to-improve-electricity-access-in-odisha-2022593.html)
-
-**Punjab**
-
-The Punjab government rolled out a mega health insurance scheme clubbing the Center's Ayushman Bharat plan with its own, a combination which it said will benefit 4.6 million families covering 76 percent of the state's population. **Source:** [Economic Times](https://health.economictimes.indiatimes.com/news/policy/punjab-rolls-out-mega-health-insurance-scheme-says-will-cover-76-pc-of-states-population/70763709)
-
-The Punjab government inked a Memorandum of Understanding (MoU) with the UN Development Program (UNDP) for the implementation of the Sustainable Development Goals (SDGs). **Source:** [Millennium Post](http://www.millenniumpost.in/nation/punjab-inks-pact-with-undp-to-implement-sdgs-370069)
+With over 1.9 million people excluded from the final NRC in Assam, the government of neighboring Mizoram has asked its officials not to issue temporary Inner Line Permits to those whose names did not figure in the citizens register. **Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/mizoram-not-to-issue-temporary-inner-line-permits-to-those-excluded-from-assam-nrc/story-NXgkNaaIZvurHQFPFeSg8I.html)
 
 **Tripura**
 
-The Center has signed a Memorandum of Understanding (MoU) with Bangladesh for transporting 20 liquefied petroleum gas (LPG) bullet trucks through the Mongla port in Bangladesh to cater to the growing petroleum demand in Tripura. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/agartala/centre-signs-mou-to-use-bangla-port-for-tripura/articleshowprint/70825710.cms)
+The autumn session of Tripura assembly concluded amid a walkout by the Opposition Members of the legislative assembly, with four bills passed on the final day including the Essential Services Maintenance Bill, which would stop government employees from organizing strikes. The other bills that were passed include: Tripura Electricity Duty Bill; The Salaries, Allowances, Pension and Other Benefits of the Ministers; Speaker, Deputy Speaker, Leader of Opposition, Government Chief Whip Bill; and the Members of the Legislative Assembly (5th amendment) Bill. **Source:** [Indian Express](https://indianexpress.com/article/north-east-india/tripura/tripura-assembly-passes-esma-amid-opposition-walkout-biplab-deb-5963097/)[ of India](https://timesofindia.indiatimes.com/city/agartala/centre-signs-mou-to-use-bangla-port-for-tripura/articleshowprint/70825710.cms)
