@@ -5,14 +5,14 @@ content_type: analysis
 title: 'States Update: September 11, 2019 '
 date: 2019-09-11 04:00:00 +0000
 tags: []
-excerpt: The Appellate Tribunal for Electricity blocks Andhra’s moves to harm power
-  PPAs; Delhi government waives water arrears; Australia’s IEEFA expects Gujarat to
-  add 46 GW of renewable power in 10 years; Haryana passes a new Enterprises Promotion
-  Bill; Rajasthan launches a new health insurance program; Rajasthan and Utah sign
-  an energy cooperation agreement; Rajasthan expands water subsidies; Tamil Nadu chief
-  minister visits London; Assam finalizes National Register of Citizens list; Chhattisgarh
-  expands job reservations; Tripura assembly passes Essential Services Maintenance
-  Act; and more.
+excerpt: "Andhra Pradesh approves new sand mining policy; Delaware and Gujarat sign
+  sister state agreement; Haryana boosts water and power subsidies for farmers; Karnataka
+  widens ambit of its Solar Park policy; Rajasthan releases draft wind and solar policies;
+  Tamil Nadu’s chief minister, K. Palaniswami, visits New York to meet investors;
+  Uttar Pradesh increases electric power rates; West Bengal passes resolution opposing
+  the National Register of Citizens in Assam; Assam re-tenders 70 MW of solar projects
+  due to lack of interest; Chhattisgarh drops land rates for industrial zones; Meghalaya
+  introduces new law regulating private universities; and more.   \n\n"
 states: []
 sectors: []
 subsectors: []
@@ -20,7 +20,9 @@ is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
-details: []
+details:
+- name: ''
+  url: ''
 author:
 - Afeena Ashfaque
 published: false
