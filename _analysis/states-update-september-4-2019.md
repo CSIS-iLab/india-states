@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: September 11, 2019 '
-date: 2019-09-11 04:00:00 +0000
+date: 2019-09-11 16:00:00 +0000
 tags: []
 excerpt: "Andhra Pradesh approves new sand mining policy; Delaware and Gujarat sign
   sister state agreement; Haryana boosts water and power subsidies for farmers; Karnataka
