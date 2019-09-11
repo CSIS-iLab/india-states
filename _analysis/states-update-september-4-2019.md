@@ -25,7 +25,6 @@ details:
   url: ''
 author:
 - Afeena Ashfaque
-published: false
 
 ---
 Andhra Pradesh approves new sand mining policy; Delaware and Gujarat sign sister state agreement; Haryana boosts water and power subsidies for farmers; Karnataka widens ambit of its Solar Park policy; Rajasthan releases draft wind and solar policies; Tamil Nadu’s chief minister, K. Palaniswami, visits New York to meet investors; Uttar Pradesh increases electric power rates; West Bengal passes resolution opposing the National Register of Citizens in Assam; Assam re-tenders 70 MW of solar projects due to lack of interest; Chhattisgarh drops land rates for industrial zones; Meghalaya introduces new law regulating private universities; and more.
