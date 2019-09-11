@@ -2,8 +2,8 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: September 4, 2019 '
-date: 2019-09-04 04:00:00 +0000
+title: 'States Update: September 11, 2019 '
+date: 2019-09-11 04:00:00 +0000
 tags: []
 excerpt: The Appellate Tribunal for Electricity blocks Andhra’s moves to harm power
   PPAs; Delhi government waives water arrears; Australia’s IEEFA expects Gujarat to
