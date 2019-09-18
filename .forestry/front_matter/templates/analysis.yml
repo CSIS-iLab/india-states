@@ -81,6 +81,7 @@ fields:
   hidden: true
   default: analysis
 pages:
+- _analysis/states-update-september-11-2019.md
 - _analysis/states-update-september-4-2019.md
 - _analysis/states-update-august-28-2019.md
 - _analysis/states-update-august-21-2019-1.md
