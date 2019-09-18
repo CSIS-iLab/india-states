@@ -2,17 +2,17 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: September 11, 2019 '
-date: 2019-09-11 16:00:00 +0000
+title: 'States Update: September 18, 2019 '
+date: 2019-09-18 16:00:00 +0000
 tags: []
-excerpt: "Andhra Pradesh approves new sand mining policy; Delaware and Gujarat sign
-  sister state agreement; Haryana boosts water and power subsidies for farmers; Karnataka
-  widens ambit of its Solar Park policy; Rajasthan releases draft wind and solar policies;
-  Tamil Nadu’s chief minister, K. Palaniswami, visits New York to meet investors;
-  Uttar Pradesh increases electric power rates; West Bengal passes resolution opposing
-  the National Register of Citizens in Assam; Assam re-tenders 70 MW of solar projects
-  due to lack of interest; Chhattisgarh drops land rates for industrial zones; Meghalaya
-  introduces new law regulating private universities; and more.   \n\n"
+excerpt: "Maharashtra and Tamil Nadu oppose the center’s plan to enforce advance payments
+  to power generators; Andhra Pradesh convenes committee to review development plans
+  created by the previous government; New Delhi to bring back odd-even days for auto
+  use in November; Gujarat to stop all new permissions for thermal power projects;
+  Haryana to follow Assam with Citizens’ Registry; Multiple states refusing to implement
+  new Motor Vehicles Act which introduces heavy fines for traffic violations; Arunachal
+  Pradesh terminates 22 sanctioned hydropower projects; Jammu & Kashmir tries to expedite
+  power sector reform; Kerala offers draft Net Metering policy; and more. \n\n"
 states: []
 sectors: []
 subsectors: []
@@ -25,111 +25,134 @@ details:
   url: ''
 author:
 - Afeena Ashfaque
-published: false
 
 ---
-Andhra Pradesh approves new sand mining policy; Delaware and Gujarat sign sister state agreement; Haryana boosts water and power subsidies for farmers; Karnataka widens ambit of its Solar Park policy; Rajasthan releases draft wind and solar policies; Tamil Nadu’s chief minister, K. Palaniswami, visits New York to meet investors; Uttar Pradesh increases electric power rates; West Bengal passes resolution opposing the National Register of Citizens in Assam; Assam re-tenders 70 MW of solar projects due to lack of interest; Chhattisgarh drops land rates for industrial zones; Meghalaya introduces new law regulating private universities; and more.
+Maharashtra and Tamil Nadu oppose the center’s plan to enforce advance payments to power generators; Andhra Pradesh convenes committee to review development plans created by the previous government; New Delhi to bring back odd-even days for auto use in November; Gujarat to stop all new permissions for thermal power projects; Haryana to follow Assam with Citizens’ Registry; Multiple states refusing to implement new Motor Vehicles Act which introduces heavy fines for traffic violations; Arunachal Pradesh terminates 22 sanctioned hydropower projects; Jammu & Kashmir tries to expedite power sector reform; Kerala offers draft Net Metering policy; and more.
 
-**Center – State Relations**
+**Center – State relations**
 
-The Ministry of New and Renewable Energy (MNRE) has issued a clarification regarding the subsidy applicable for rooftop solar installations by individual residential households under phase-II of grid-connected rooftop solar program. In its official memorandum, the MNRE states that subsidy under Phase-II of the grid-connected rooftop solar program will be available to all eligible households for installation of rooftop solar as per regulations of respective State Electricity Regulatory Commission and program implementation guidelines. **Source:** [Mercom](https://mercomindia.com/mnre-residential-solar-rooftop-subsidy/) **In detail:** [Subsidy details](https://mnre.gov.in/sites/default/files/schemes/Clarification.PDF)
+Gujarat has one again topped the Logistics Ease Across Different States (LEADS) index followed closely by Punjab and Andhra Pradesh. The LEADS index is based on indicators such as infrastructure, services timelines, traceability, competitiveness, security, operating environment, and efficiency of regulation. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/indicators/gujarat-again-tops-perception-based-national-logistics-index/articleshow/71098706.cms)
+
+The Joint Electricity Regulatory Commission for the state of Goa and the Union Territories has issued the generic tariff applicable for renewable energy projects for the financial year 2019-20. **Source:** [Sauenergy](https://www.saurenergy.com/solar-energy-news/jerc-generic-tariff-renewable-energy-projects) **In detail:** [Generic Tariff order](http://jercuts.gov.in/writereaddata/UploadFile/finalgenricorder637031248973941416.pdf)
+
+The Solar Energy Corporation of India has announced the signing of multiple Power Sale Agreements worth 930 megawatts (MW) with three state-run electricity distribution companies (discoms) from Rajasthan, Uttar Pradesh and Kerala. **Source:** [Sau Energy](https://www.saurenergy.com/solar-energy-news/seci-psa-930-mw-discoms)
+
+Discoms of Maharashtra and Tamil Nadu have opposed the central government panel’s recommendation to make advance payments to power producers. **Source:** [Financial Express](https://www.financialexpress.com/economy/maharashtra-tamil-nadu-oppose-advance-power-payments/1702524/)
+
+State-owned utility Power Grid Corporation of India has won an inter-state power transmission project under a tariff-based competitive bidding process, which would benefit Rajasthan and Madhya Pradesh. **Source:** [Sau Energy](https://www.saurenergy.com/solar-energy-news/pgcil-wins-inter-state-transmission-project-rajasthan)
+
+The 68th Plenary session of the North Eastern Council (NEC) was held in Guwahati from September 8-9, 2019. The Union Home Minister Amit Shah announced that the NEC will earmark 30 percent of its fund for focused funding of priority areas and deprived sections of society in the North East. **Source:** [Orissa Diary](https://orissadiary.com/2-day-68th-plenary-session-north-eastern-council-held-guwahati/) **In detail:** [Press Release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1584544)
 
 **Andhra Pradesh**
 
-The state cabinet approved the new sand mining policy to curb sand mafia in Andhra Pradesh. As part of this AP Mineral Development Corporation will undertake sand mining and transport to prevent any irregularities. **Source:** [Sakshi Post](https://english.sakshi.com/andhrapradesh/2019/09/04/cabinet-approves-new-sand-mining-policy-to-be-regulated-by-apmdc)
+The Andhra Pradesh government set up a five-member committee of urban planning experts to review developmental plans initiated by the government and suggest a comprehensive strategy for the development of the state, including the upcoming capital Amaravati. The committee is to submit its report in six weeks. **Source:** [Live Mint](https://www.livemint.com/news/india/ap-govt-forms-expert-panel-to-review-amaravati-and-other-developmental-plans-1568393239135.html)
 
-Andhra Pradesh chief minister Y S Jagan Mohan Reddy met with officials from the Shanghai-based New Development Bank (NDB), who have sanctioned a loan of $836.3 million for the state. The NDB delegation said that the loan will be approved soon. The amount is set to be used by the state government for social infrastructure projects. **Source:** [The News Minute](https://www.thenewsminute.com/article/andhra-pradesh-get-rs-6000-crore-loan-shanghai-based-new-development-bank-108451)
+NITI Aayog vice-chairman Rajiv Kumar expressed concern over Andhra Pradesh's "huge" revenue deficit and increasing unbudgeted expenditure even as the YSR Congress Party government pitched for "liberal" assistance from the national planning body as well as the 15th Finance Commission, citing losses due to the state's bifurcation. **Source:** [NDTV](https://www.ndtv.com/andhra-pradesh-news/niti-aayog-says-concerned-over-andhra-pradeshs-huge-revenue-deficit-2100648)
 
-The Andhra Pradesh cabinet approved the decision to merge the debt-ridden Andhra Pradesh State Road Transport Corporation with the state government, creating a Public Transport Department for the state. **Source:** [The News Minute](https://www.thenewsminute.com/article/andhra-cabinet-approves-apsrtcs-merger-state-government-108390)
-
-The Andhra Pradesh cabinet approved the cancellation of the Polavaram hydel power project contract with Navayuga Engineering Company Ltd. (NECL), worth $448.3 million and called for new tenders with a reverse-tendering process. This comes after the High Court’s order to cancel the termination orders of NECL issued by the state government from taking up the hydel project. **Source:** [Deccan Chronicle](https://www.deccanchronicle.com/nation/current-affairs/050919/andhra-pradesh-cabinet-scraps-polavaram-deal.html)
-
-The Andhra Pradesh government accorded permission to Andhra Pradesh Power Finance Corp to raise $697 million through a bond issue. The bond issue will be raised through private placed Andhra Pradesh Power Bonds. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/vijayawada/appfc-gets-nod-for-rs-5000-crore-bond-issue/articleshowprint/70999608.cms)
+In a softening of its stance, the Andhra Pradesh government led by Chief Minister Y.S. Jagan Mohan Reddy has communicated its willingness to renegotiate clean energy tariffs with developers. **Source:** [Live Mint](https://www.livemint.com/news/india/in-a-climbdown-andhra-may-give-concessions-to-power-producers-1568139788779.html)
 
 **Bihar**
 
-Nothing critical to report this week.
+Power distribution companies in Bihar only collect 30 percent of the cost of supplying electricity in revenue, according to a study conducted by researchers from the London School of Economics & Political Science (LSE), University of Chicago, and Yale University. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/bihar-collects-only-30-per-cent-of-the-cost-of-electricity-supply-study/71096627) **In Detail:** [University of Chicago](https://epic.uchicago.edu/sites/default/files/Electricity%20is%20not%20a%20right%20growth%20brief.pdf)
 
 **New Delhi**
 
-Delhi has dropped by six places in the ranking of the world's most livable cities, descending to rank 118th on the list. The ranking came in, September 4, after an annual survey by the Economist Intelligence Unit. While New Delhi has registered the biggest decline in Asia this year, Mumbai also fell two places since last year to rank 119th on the list. **Source:** [News 18](https://www.news18.com/news/india/delhi-slips-six-places-in-worlds-most-liveable-cities-ranking-here-are-a-few-likely-reasons-2297759.html)
+New Delhi will enforce strict restrictions on use of private cars from Nov. 4-15 to curb pollution, its chief minister said on Friday, to improve air quality that tends to deteriorate sharply in winter months. **Source:** [Reuters](https://www.reuters.com/article/us-india-pollution/new-delhi-to-slash-use-of-cars-in-november-to-cut-pollution-chief-minister-idUSKCN1VY0JU)
 
 **Gujarat**
 
-Gujarat government and the state of Delaware signed a sister state memorandum of understanding (MOU). The MOU was signed in Gandhinagar, by Gujarat’s chief minister and Delaware’s secretary of state. **Source:** [All India Radio](http://www.newsonair.com/News?title=Gujarat-Govt%2C-Delaware-State-of-America-sign-MoU-for-sister-state&id=371134)
+The state government is setting the stage to launch a campaign against single-use plastics, starting Oct. 2, to mark the 150th anniversary of Mahatma Gandhi’s birth. In addition to a likely ban on single-use plastic, the state government has drawn up a comprehensive plastic collection and segregation plan for the state. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-govt-to-clamp-down-on-single-use-plastics-from-october-2/articleshowprint/71119539.cms)
+
+Gujarat government announced that it will not give fresh permissions for setting up new thermal power stations in the state. **Source:** [Indian Express](https://indianexpress.com/article/india/gujarat-coal-thermal-power-plants-vijay-rupani-solar-carbon-emission-adani-clean-energy-5975547/)
+
+With just 50,000 households coming forward to avail the Gujarat government’s subsidy scheme for solar rooftops in the residential sector in the past three years, the government announced several relaxations including extending the Surya Urja Rooftop Yojana scheme to cover group housing societies and residential welfare associations. By financial year 2021-22, the government targets to cover rooftops of 800,000 households with photovoltaic systems to produce 1,600 MW of solar power. **Source:** [Indian Express](https://indianexpress.com/article/cities/ahmedabad/gujarat-solar-rooftop-subsidy-scheme-targets-8-lakh-homes-in-3-yrs-5980865/)
 
 **Haryana**
 
-Ahead of assembly polls, the BJP-led Haryana government announced a $662.1 million interest and penalty waiver on crop loans taken from cooperative banks, benefiting around 1 million farmers in the state. **Source:** [Live Mint](https://www.livemint.com/news/india/eye-on-polls-haryana-govt-waives-rs-4-750-cr-of-interest-penalty-on-crop-loans-1567421765340.html)
+Haryana will soon prepare a citizens' list along the lines of the recently published Assam National Register of Citizens or NRC, to check illegal immigration, Chief Minister Manohar Lal Khattar said on Sunday. **Source:** [NDTV](https://www.ndtv.com/india-news/nrc-in-haryana-chief-minister-manohar-lal-khattar-says-will-implement-assam-like-citizens-list-in-ha-2101316)
 
-Haryana government announced to waive surcharge on electricity bills of tube wells. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/haryana-waives-surcharge-on-electricity-bill-for-tubewells/70970047)
+Haryana chief minister Manohar Lal launched two insurance schemes for registered small and medium traders in the state namely Mukhyamantri Vyapari Samuhik Niji Durghatna Beema Yojana and Mukhyamantri Vyapari Kshatipurti Beema Yojana. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/haryana-cm-launches-insurance-schemes-for-small-traders/articleshow/71086844.cms)
 
 **Karnataka**
 
-The Karnataka cabinet has decided to introduce amendments to the Karnataka Solar Policy (2014-21), which would lower the output requirement for solar parks from 100 MW to 25 MW, and make more plants eligible for subsidies from the center. **Source**: [The Hindu](https://www.thehindu.com/news/national/karnataka/government-to-amend-policy-to-declare-25-mw-plants-as-solar-parks/article29355778.ece)
+Raising concerns over the health scenario in Karnataka, the infant mortality rate (IMR) in the state has gone up from 24 to 25 in 2017, according to the Sample Registration System 2017. Karnataka had successfully brought down IMR from 28 in 2015 to 24 in 2016. **Source:** [The Hindu](https://www.thehindu.com/news/national/karnataka/rise-in-infant-mortality-rate-in-karnataka/article29403375.ece)
 
 **Madhya Pradesh**
 
-Nothing critical to report this week.
+Madhya Pradesh is among the states which have refused to implement the new Motor Vehicles (Amendment) Act 2019, primarily owing to heavy fines provided in it. Chief Minister Kamal Nath has urged the Union government to reconsider the penalties under the act for traffic violations. **Source:** [Deccan Herald](https://www.deccanherald.com/national/north-and-central/madhya-pradesh-says-no-to-new-mv-act-761175.html)
 
 **Maharashtra**
 
-The Asian Development Bank will provide $200 million to upgrade rural roads to all-weather standards in 34 districts of Maharashtra with an aim to improve road safety and better connectivity with markets. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/adb-to-provide-usd-200-mn-to-upgrade-maharashtra-rural-roads-119090601178_1.html)
+Nothing critical to report this week.
 
 **Rajasthan**
 
-The Rajasthan Renewable Energy Corporation has issued a draft version of its policy on wind and wind-solar hybrid projects. Rajasthan aims to deploy 2,000 MW of wind power capacity to ulfil the renewable purchase obligation of state distribution companies. **Source:** [Mercom](https://mercomindia.com/rajasthan-applications-registration-wind-projects-rec/) **In detail:** [Draft Rajasthan Wind & Wind-Solar Hybrid Policy 2019](http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Common/Rajasthan%20Wind%20%26%20Wind-Solar%20Hybrid%20Policy%202019.pdf)
+Rajasthan launches a public information portal -- promising to provide information about government authorities and departments suo motu to the public in the true spirit of the Right To Information Act. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/rajasthan-launches-information-portal/article29411172.ece) **In detail:** [Jansoochna Portal](http://jansoochna.rajasthan.gov.in/)
 
-The state government of Rajasthan has come up with a new draft solar policy. The proposed policy package aims to establish the state as a global hub for solar with 50 GW of installed generation capacity within 5-6 years. It envisages an R&D hub for the deployment of renewable energy technologies and solar-wind hybrid projects, with a focus on improving efficiency and reducing balance-of-system costs. **Source:** [Pv-Magazine](https://www.pv-magazine-india.com/2019/09/03/rajasthan-eyes-50-gw-solar-in-5-6-years/) **In detail:** [Draft Rajasthan Solar Energy Policy 2019](http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Home%20Page/Rajasthan%20Solar%20Energy%20Policy%202019.pdf)
+The Rajasthan Electricity Regulatory Commission has issued a draft order inviting suggestions and comments to determine pre-fixed levelized tariff and the rate of purchase of excess electricity by the discoms under the government’s KUSUM program that aims to solarize India’s agriculture. **Source:** [Mercom](https://mercomindia.com/rajasthan-excess-power-solar-pumps/) **In detail:** [Draft order](http://www.rerc.rajasthan.gov.in/cnpl/PDFs/KUSUM_order.pdf)
+
+The Rajasthan Renewable Energy Corporation Limited has floated tenders inviting interested bidders to develop 113.5 MW of decentralized solar projects spread across various clusters of the state. The projects would include the installation of solar systems between 0.5 MW and 2 MW and would be developed on a ‘build-own-operate’ basis. **Source:** [Mercom](https://mercomindia.com/rajasthan-develop-solar-projects-clusters/) **In detail:** [Rfs document](http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Home%20Page/Solar%20Tender%20113%20MW.pdf)
 
 **Tamil Nadu**
 
-More than 16 firms in the United States have committed investments to the tune of over $376.3 million in Tamil Nadu during the ongoing visit of Chief Minister K Palaniswami to that country, the state government said. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/foreign-trade/palaniswami-us-visit-tamil-nadu-attracts-investments-worth-over-rs-2700-crore/articleshow/70972771.cms)
+Nothing critical to report this week.
 
 **Telangana**
 
-Nothing critical to report.
+Innolia Energy, a U.S.-based company, has announced the launch of phase one of the $31.6 million integrated solar, lithium ion battery, and electric vehicle assembly facility in Telangana.
+
+**Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/companies/innolia-energy-to-set-up-integrated-solar-lithium-battery-ev-assembly-unit-in-telangana/article29383558.ece)
+
+Telangana has joined the list of states that have refused to implement the new Motor Vehicles Act that has introduced hefty fines for traffic violations. Telangana chief minister K Chandrasekhar Rao has announced that the state does not "intend to harass people" and declared that Telangana will have its own law. **Source:** [India Today](https://www.indiatoday.in/india/story/telangana-says-no-to-hefty-traffic-fines-new-motor-vehicles-act-1599501-2019-09-16)
 
 **Uttar Pradesh**
 
-Uttar Pradesh’s power sector watchdog approved 8-15 percent tariff hike for different categories of rural and urban consumers. Interestingly, the power tariffs had remained unchanged during 2018-19 in run up to the Lok Sabha elections. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/up-power-regulator-gives-consumers-a-shock-with-8-15-tariff-hike-119090301069_1.html) **In detail:** [Tariff details](http://www.uperc.org/App_File/UPPTCLTARIFFORDERFY2019-2027-AUGUST2019-pdf827201963241PM.pdf)
+The Uttar Pradesh Electricity Regulatory Commission has issued draft regulations for captive and renewable energy generating projects in the state. These regulations will be effective from April 1, 2019 to March 31, 2024. **Source:** [Mercom](https://mercomindia.com/uttar-pradesh-banking-charges-solar-wind/) **In detail:** [UPERC (Captive and Renewable Energy Generating Plants) Regulations, 2019(CRE Regulations, 2019)](http://www.uperc.org/App_File/NotifiedCRE_2019-rar94201942021PM.rar)
+
+The Uttar Pradesh cabinet chaired by Chief Minister Yogi Adityanath has cleared a floating solar power plant on Rihand Dam with an investment of $105.4 million. It will be the first water surface floating solar power plant in Uttar Pradesh and the largest in the country. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/renewable/up-govt-clears-states-first-floating-solar-power-plant-on-rihand-dam/71073767)
 
 **West Bengal**
 
-In an unprecedented show of solidarity, the West Bengal legislative assembly passed a resolution opposing the National Register of Citizens (NRC) in Assam. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/west-bengal-assembly-rules-out-nrc/article29352838.ece)
+Nothing critical to report this week.
 
 **Best of the Rest**
 
+**Arunachal Pradesh**
+
+The Arunachal Pradesh government has terminated 22 sanctioned hydro-electric projects with a potential to generate 3,800 MW due to non-performance**. Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/arunachal-pradesh-scraps-22-power-projects-for-non-performance/story-xM3z1Lwq2VQvOkgSdgNbOJ.html)
+
 **Assam**
 
-The Armed Forces (Special Powers) Act has been extended for six months in Assam effective from August 28 after reviewing the law and order situation in the state. The act, which empowers security forces to conduct operations and arrest anyone anywhere without prior notice, has been in effect since November 1990. **Source:** [Deccan Herald](https://www.deccanherald.com/national/east-and-northeast/afspa-extended-for-six-months-from-aug-28-in-assam-759787.html)
+The final list of Assam National Register of Citizens with individual statuses of all the 33 million applicants has been published online. **Source:** [India Today](https://www.indiatoday.in/india/story/assam-nrc-final-status-of-accepted-excluded-citizens-published-online-1599054-2019-09-14)
 
-The Assam Power Generation Corporation Limited has retendered 70 MW of grid-connected solar projects to be developed at Amguri Solar Park in Sivasagar district of the state. The tender was initially floated in January 2019. “The response from the developers was poor due to the upper tariff cap of $0.049 per unit, or kilowatt-hour (kWh). We have now revised the ceiling to $0.056/kWh,” an APGCL official said. **Source:** [Mercom](https://mercomindia.com/assam-retenders-70mw-solar/)
+**Himachal Pradesh**
 
-**Chhattisgarh**
+The Himachal Pradesh agency for renewable energy, Himurja has announced its new program that seeks to deploy 28 MW solar energy projects in the state. The state has invited proposals from local entrepreneurs for setting up ground-mounted solar power projects with capacities ranging from 250 kilowatts (kW) to 500 kW. The projects can be set up on private land owned by the applicant or on leased land. **Source:** [Sauenergy](https://www.saurenergy.com/solar-energy-news/himachal-launches-state-wide-solar-program-to-install-28-mw-capacity)
 
-The Asian Development Bank and the government of India signed a $350 million loan to rehabilitate and upgrade about 528 miles of state highways and major district roads in Chhattisgarh, which will improve transport connectivity and enhance people’s access to basic services and livelihood opportunities. **Source:** [Asian Development Bank Press Release](https://www.adb.org/news/adb-india-sign-350-million-loan-improve-road-connectivity-chhattisgarh)
-
-In a bid to boost industrial development in the state, the Chhattisgarh government announced that land allotment rates in industrial areas will be reduced by 30 percent in next few months. Additionally, the land would be provided at cheaper rates, and capital, interest subsidy, tax rebates and several other benefits would be provided for the establishment of food processing, minor forest produce, and herbal-based industries, said Chief Minister Bhupesh Baghel. **Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/chhattisgarh-govt-to-reduce-land-allotment-rates-in-industrial-areas-by-30/story-lXySaqLmysZuXY6lo9YgYK.html)
+The government of Himachal Pradesh has signed two agreements for setting up 250 MW of solar power projects in the state. The estimated cost of the projects is $139.7 million. The two companies that signed the deal with the Himachal Pradesh government are ReNew Power and CSE Development (India), Private Ltd. **Source:** [Mercom](https://mercomindia.com/himachal-pradesh-solar-projects/)
 
 **Jharkhand**
 
-Jharkhand chief minister Raghubar Das inaugurated Pradhan Mantri Ujjwala Yojna. "In 2014, only 25 percent of the people had access to Ujjwala Gas and now \[the\] Modi government is trying to make it accessible to all the poor families regardless of their religion and caste.” **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/oil-and-gas/jharkhand-cm-launches-pradhan-mantri-ujjwala-yojna-in-gumla/70962400)
+Flipkart, India’s leading e-commerce marketplace, has signed a memorandum of understanding (MOU) with the government of Jharkhand to onboard the Jharkhand’s artisans, weavers, and craftsmen onto Flipkart Samarth – an initiative aimed at enabling and handholding craftsmen from across India to set up an online business. **Source:** [Your Story](https://yourstory.com/2019/09/flipkart-mou-jharkhand-samarth-online-artisans)
 
 **Jammu and Kashmir**
 
-Union Minister of State (Independent Charge) for Development of North Eastern Region, Jitendra Singh, said that the model of development initiated in the northeast will be implemented in Jammu and Kashmir and Ladakh. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/govt-to-implement-ne-growth-model-in-jk-and-ladakh-jitendra-singh/articleshow/70986807.cms)
+The Jammu and Kashmir government announced its first major move to invite private investors to buy land in the region to set up twin medi-cities, or cities with expanded medical infrastructure, was cleared by the State Administrative Council and governor. **Source:** [The Hindu](https://www.thehindu.com/news/national/jk-offers-land-for-twin-medi-cities/article29418747.ece)
 
-**Meghalaya**
+As a part of power sector reforms, the governor’s administration has decided to complete unbundling of Power Development Department and Power Development Corporation before October 31, 2019 when the Union Territory of Jammu and Kashmir and Union Territory of Ladakh would be formally established. **Source:** [Daily Excelsior](https://www.dailyexcelsior.com/govt-intends-to-complete-unbundling-of-pdd-pdc-before-oct-31/)
 
-The state government introduced the Meghalaya Private University Regulatory of Establishment and Maintenance of Standard Bill, 2019 on the opening day of the autumn session of the assembly. **Source:** [The Sentinel Assam](https://www.sentinelassam.com/north-east-india-news/meghalaya-news/bill-to-regulate-meghalaya-private-university-introduced-in-assembly/)
+**Kerala**
 
-**Mizoram**
+The Kerala State Electricity Regulatory Commission has issued a draft of net metering regulations for renewable energy systems. The commission has sought suggestions from the public and other stakeholders after which a final hearing will be scheduled before the finalization of the draft regulations. **Source:** [Mercom](https://mercomindia.com/discom-net-metering-renewable-energy-kerala/) **In detail:** [Kerala State Electricity Regulatory Commission (Renewable Energy and Net Metering) Regulations, 2019](http://www.erckerala.org/regulations/Draft%20RE%20Reg-2019-revised%2030.08.2019.pdf)
 
-The center has approved $48.7 million for the ninth phase of Bru repatriation from six relief camps of neighboring Tripura, according to a senior home department official. **Source:** [Arunachal Times](https://arunachaltimes.in/index.php/2019/09/07/centre-approved-rs-350cr-for-9th-phase-of-bru-repatriation-mizoram-official/)
+**Nagaland**
 
-With over 1.9 million people excluded from the final NRC in Assam, the government of neighboring Mizoram has asked its officials not to issue temporary Inner Line Permits to those whose names did not figure in the citizens register. **Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/mizoram-not-to-issue-temporary-inner-line-permits-to-those-excluded-from-assam-nrc/story-NXgkNaaIZvurHQFPFeSg8I.html)
+Nagaland has launched an IT electricity billing system under the Restructured Accelerated Power Development and Reforms Programme scheme of the government of India in nine towns of Nagaland. **Source:** [Eastern Mirror](https://www.easternmirrornagaland.com/it-electricity-billing-system-launched-in-nagaland/)
 
-**Tripura**
+**Punjab**
 
-The autumn session of Tripura assembly concluded amid a walkout by the Opposition Members of the legislative assembly, with four bills passed on the final day including the Essential Services Maintenance Bill, which would stop government employees from organizing strikes. The other bills that were passed include: Tripura Electricity Duty Bill; The Salaries, Allowances, Pension and Other Benefits of the Ministers; Speaker, Deputy Speaker, Leader of Opposition, Government Chief Whip Bill; and the Members of the Legislative Assembly (5th amendment) Bill. **Source:** [Indian Express](https://indianexpress.com/article/north-east-india/tripura/tripura-assembly-passes-esma-amid-opposition-walkout-biplab-deb-5963097/)[ of India](https://timesofindia.indiatimes.com/city/agartala/centre-signs-mou-to-use-bangla-port-for-tripura/articleshowprint/70825710.cms)
+Government e-Marketplace (GeM), under the Department of Commerce, Ministry of Commerce & Industry and government of Punjab, has signed an MOU to set up a GeM Organizational Transformation Team Project Management Unit in the state. **Source:** [KNN](https://knnindia.co.in/news/newsdetails/state/gem-and-punjab-government-sign-mou-for-setting-up-project-management-unit) **In detail:** [Press Release](https://pib.nic.in/PressReleasePage.aspx?PRID=1584713)
+
+**Uttarakhand**
+
+Following the Manipur model, the Uttarakhand Power Corporation Limited (UCPL) has now decided to install prepaid power meters in state-owned buildings and establishments in a phased manner from next month. The UPCL has purchased over 7,000 prepaid meters to launch the ambitious project which aims to cut down the losses of the discom. According to the records, state government departments owe over $35.1 million to the UPCL. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/dehradun/upcl-to-install-prepaid-power-meters-in-govt-buildings/articleshowprint/71102626.cms)
