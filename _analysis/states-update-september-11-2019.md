@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: September 18, 2019 '
-date: 2019-09-18 16:00:00 +0000
+date: 2019-09-18 04:00:00 +0000
 tags: []
 excerpt: "Maharashtra and Tamil Nadu oppose the center’s plan to enforce advance payments
   to power generators; Andhra Pradesh convenes committee to review development plans
