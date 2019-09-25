@@ -11,3 +11,5 @@ fields:
 - type: file
   name: image
   label: Image
+pages:
+- _authors/kelli-k-clark.md
