@@ -2,15 +2,17 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: September 25, 2019 '
-date: 2019-09-25 04:00:00 +0000
+title: 'States Update: October 2, 2019 '
+date: 2019-10-02 04:00:00 +0000
 tags: []
-excerpt: "Rajasthan, Uttar Pradesh, Bihar, and Assam have worst malnutrition levels;
-  Gujarat amends Solar Power Policy 2015 to expand solar use by MSMEs; Himachal Pradesh
-  simplifies process for non-residents to acquire land; New Solar Energy Policy, 2019
-  in Rajasthan and Electric Vehicle Policy in Tamil Nadu; Telangana signed a new sister-state
-  cleantech agreement with New Jersey; Manipur and Mizoram assemblies each passed
-  legislation that bars non-residents from settling in the states; and more. \n\n"
+excerpt: 'The center pushes back on Andhra Pradesh’s renegotiation of contracts; Andhra
+  Pradesh makes moves towards prohibition of liquor; Delhi extends more power subsidies
+  to consumers; Gujarat to turn 23 captive jetties into commercial ports; Uttar Pradesh’s
+  electricity department launches new anti-theft stations; Assam to hear more appeals
+  from those excluded from the NRC; Jammu and Kashmir prepare for elections; Center
+  releases $3.8 million for Punjab Smart City; and more.
+
+'
 states: []
 sectors: []
 subsectors: []
