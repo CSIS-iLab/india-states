@@ -27,7 +27,7 @@ author:
 ---
 **Big News**
 
-The center pushes back on Andhra Pradesh’s renegotiation of contracts; Andhra Pradesh makes moves towards prohibition of liquor; Delhi extends more power subsidies to consumers; Gujarat to turn 23 captive jetties into commercial ports; Uttar Pradesh’s electricity department launches new anti-theft stations; Assam to hear more appeals from those excluded from the NRC; Center releases $3.8 million for Punjab Smart City; and more.
+The center pushes back on Andhra Pradesh’s renegotiation of contracts; Andhra Pradesh makes moves towards prohibition of liquor; Delhi extends more power subsidies to consumers; Gujarat to turn 23 captive jetties into commercial ports; Uttar Pradesh’s electricity department launches new anti-theft stations; Assam to hear more appeals from those excluded from the NRC; Jammu and Kashmir prepare for elections; Center releases $3.8 million for Punjab Smart City; and more.
 
 **Center – State relations**
 
