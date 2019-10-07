@@ -79,7 +79,7 @@ Tata Power said its subsidiary Tata Power Renewable Energy Ltd (TPREL) has commi
 
 **Tamil Nadu**
 
-The state government announced a new “Tamil Nadu Electric Vehicle Policy 2019” which provides incentives for electric vehicles including a wavier of some permit fees and taxes until 2022 **Source:** [Urban Transport News](https://urbantransportnews.com/tamil-nadu-govt-launches-new-tamil-nadu-electric-vehicle-policy-2019/) **In detail:** [Press Release](http://cms.tn.gov.in/sites/default/files/press_release/pr160919d.JPG)
+The state government announced a new “Tamil Nadu Electric Vehicle Policy 2019” which provides incentives for electric vehicles including a wavier of some permit fees and taxes until 2022 **Source:** [Urban Transport News](https://urbantransportnews.com/tamil-nadu-govt-launches-new-tamil-nadu-electric-vehicle-policy-2019/) **In detail:** [Electric Vehicle Policy](http://www.cogitasia.com/wp-content/uploads/2019/10/Tamil-Nadu-eV-Policy-2019636.pdf)
 
 Tamil Nadu government inked a memorandum of understanding (MOU) with the Bill and Melinda Gates Foundation over fecal sludge treatment plants in corporations, municipalities, and town panchayats across the state with financial assistance of $3.61 million during the next two years. **Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/govt-signs-pact-with-gates-foundation/article29462969.ece)
 
