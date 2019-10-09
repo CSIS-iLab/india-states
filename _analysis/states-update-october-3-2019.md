@@ -2,14 +2,14 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: October 3, 2019 '
-date: 2019-10-03 04:00:00 +0000
+title: 'States Update: October 9, 2019 '
+date: 2019-10-09 04:00:00 +0000
 tags: []
-excerpt: The center pushes back on Andhra Pradesh’s renegotiation of contracts; Delhi
-  extends more power subsidies to consumers; Gujarat to turn 23 captive jetties into
-  commercial ports; Uttar Pradesh’s electricity department launches new anti-theft
-  stations; Assam to hear more appeals from those excluded from the NRC; Jammu and
-  Kashmir prepare for elections; and more.
+excerpt: 'Kerala ranks first on the School Education Quality Index; the center approves
+  flood damage assistance to Bihar and Karnataka; Bihar amends property registration
+  rules; Gujarat eases regulations for new MSMEs; Uttar Pradesh backs out of wind
+  power agreement; journalists strike in Kashmir; Odisha makes rules against single-use
+  plastics; Tripura gets approval to build a Special Economic Zone; and more.  '
 states: []
 sectors: []
 subsectors: []
@@ -22,64 +22,51 @@ details:
   url: ''
 author:
 - Afeena Ashfaque
-published: false
 
 ---
 **Big News**
 
-The center pushes back on Andhra Pradesh’s renegotiation of contracts; Delhi extends more power subsidies to consumers; Gujarat to turn 23 captive jetties into commercial ports; Uttar Pradesh’s electricity department launches new anti-theft stations; Assam to hear more appeals from those excluded from the NRC; Jammu and Kashmir prepare for elections; and more.
+Kerala ranks first on the School Education Quality Index; the center approves flood damage assistance to Bihar and Karnataka; Bihar amends property registration rules; Gujarat eases regulations for new MSMEs; Uttar Pradesh backs out of wind power agreement; journalists strike in Kashmir; Odisha makes rules against single-use plastics; Tripura gets approval to build a Special Economic Zone; and more.
 
 **Center – State relations**
 
-The electricity tribunal has ruled that state regulators cannot alter tariffs determined through competitive bidding, which would have implications for the Andhra Pradesh government’s efforts to review power purchase agreements signed by the previous regime. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/regulators-cant-rejig-bid-based-tariffs-aptel/articleshow/71367589.cms)
+To promote electric vehicles, Power Minister R K Singh approved amendments in guidelines and specifications for charging infrastructure. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/power-ministry-issues-revised-norms-for-ev-charging-infra-to-boost-e-mobility/articleshow/71444886.cms) **In detail:** [Press release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193630)
 
-Union Minister Jitendra Singh launched an "upgraded" version of a one-stop center for all information about the north-eastern states and issues related to the Development of North Eastern Region (DoNER) ministry and the North Eastern Council. The Minister of State for DoNER said work on 205 projects worth $460.3 million have been sanctioned or completed or operationalised with an average of two projects daily. **Source:** [Outlook](https://www.outlookindia.com/newsscroll/jitendra-singh-reviews-doner-min-work-launches-upgraded-dashboard-for-info-on-ne-states/1629056) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193468)
+The School Education Quality Index by NITI Aayog has been released. Kerala was ranked first in overall performance, followed by Rajasthan and Karnataka. **Source:** [All India Radio](http://www.newsonair.com/Main-News-Details.aspx?id=372293) **In detail:** [States ranking](http://social.niti.gov.in/edu-new-ranking)
 
-A forum on IHR Parliamentarians and Legislators committee has been set up and a memorandum of understanding (MOU) on setting up of Water Solutions Centre for the North East Indian states was signed. **Source:** [Morung Express](http://morungexpress.com/mou-signed-set-water-solutions-centre-ne)
+The center approved additional flood damage financial assistance of $56.5 million to Bihar and $169.5 million to Karnataka from the National Disaster Relief Fund. **Source:** [India Today](https://www.indiatoday.in/india/story/centre-announces-rs-1813-75-crore-flood-relief-for-karnataka-bihar-1606383-2019-10-04) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193636)
 
 **Andhra Pradesh**
 
-Taking a major step towards prohibition of liquor in the state, the Andhra Pradesh government will take over 3,500 wine shops from October 1. The government earlier this month announced that the number of liquor outlets will be reduced from 4,380 to 3,500 and will be eventually phased out. **Source:** [News18](https://www.news18.com/news/politics/in-a-bid-to-ban-alcohol-in-state-andhra-pradesh-govt-take-over-liquor-shops-from-october-1-2326507.html)
+Andhra Pradesh chief minister Jagan Mohan Reddy launched the 'YSR Vahana Mitra' welfare scheme in Eluru town of West Godavari district. The scheme provides an annual cash incentive of $141.3 to drivers of autos, taxis and maxi-cabs, who own their vehicles. **Source:** [The News Minute](https://www.thenewsminute.com/article/ap-cm-jagan-launches-ysr-vahana-mitra-welfare-scheme-auto-and-cab-driver-owners-110008)
 
-Cracking the whip on pollutants, the Andhra Pradesh government decided to impose a green tax on pollution caused by industrial houses, in addition to banning single-use plastic. **Source:** [India Today](https://www.indiatoday.in/india/story/andhra-pradesh-impose-green-tax-ban-single-use-plastic-1603754-2019-09-27)
-
-The Andhra Pradesh government, headed by YS Jagan Mohan Reddy, plans to junk blanket incentives and extend them only to sunrise and employment-generating sectors --The new government will unveil a new industrial policy before the next budget.. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/policy/andhra-pradesh-may-junk-blanket-industrial-incentives/articleshow/71288769.cms)
+The Andhra Pradesh government appointed over 126,000 new employees in just two months, under a governance initiative of village and ward secretariats. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/andhra-pradesh-govt-appoints-1-26-lakh-employees-in-one-recruitment-drive/articleshow/71374301.cms)
 
 **Bihar**
 
-The Nitish Kumar government in Bihar signed an (MOU) with the Delhi Metro Rail Corporation for the construction of the first phase of the Patna Metro Rail Project. **Source:** [DMRC](https://www.dnaindia.com/india/report-bihar-inks-memorandum-of-understanding-with-delhi-metro-rail-corporation-for-patna-metro-2792457)
+The Bihar cabinet approved an amendment to the property registration rules in an attempt to reduce land dispute cases. Under the new rules, the seller must produce documents at the time of registry proving that a property is in his or her name. **Source:** [Financial Express](https://www.financialexpress.com/india-news/bihar-cabinet-nod-to-property-registration-rule-amendment/1726894/)
 
 **New Delhi**
 
-The impact of the Delhi Aam Aadmi Party’s scheme to provide free travel to women in over 5,500 public transport buses will be studied by a team of researchers from Harvard University and the World Bank. This new scheme will go into effect at the end of this month. **Source:** [NDTV](https://www.ndtv.com/delhi-news/delhis-free-ride-plan-harvard-university-world-bank-researchers-to-study-impact-2108468)
-
-Tata Power-Delhi Distribution Limited and Havells will jointly deploy Electrical Leakage Circuit Breakers (ELCB) devices across areas of Delhi. ELCBs have been mandated by guidelines issued by the Delhi Electricity Regulatory Commission. . **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/news/national/tata-power-ddl-havells-to-deploy-electrical-leakage-circuit-breakers/article29507675.ece)
-
-Delhi chief minister Arvind Kejriwal extended the benefit of subsidized power connections to tenants in the national capital to 200 units, or kilowatt-hours, of free electricity. Tenants will be issued a pre-paid meter under the scheme. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/delhi-announces-free-200-units-of-electricity-for-tenants/71292080)
+The Delhi Electricity Regulatory Commission (DERC) has fined power distribution companies (discoms) in the city for failing to comply with green energy norms. In an order last month, DERC imposed a fine of $241,628 on Tata Power DDL, and $406,953 each on BSES Yamuna Power Ltd and BSES Rajdhani Power Ltd. **Source:** [Indian Express](https://indianexpress.com/article/cities/delhi/derc-fines-discoms-for-failing-green-norms-6056817/)
 
 **Gujarat**
 
-Amid efforts to restrict consumption of single-use plastic in the country, plastic exports from Gujarat surged by 33 percent to $3.6 billion in fiscal 2018-19 from $ 2.7 billion in 2017-18. Exports of plastics from Gujarat have grown at a compound annual growth rate of 15 percent over the last four fiscals and now account for 45 percent of India’s total plastic exports. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/gujarat-is-indias-top-plastic-exporter/articleshowprint/71319007.cms)
+The Gujarat government said new micro, small and medium enterprise (MSME) units will no longer be required to take various approvals to begin operations for the first three years; a MSME unit can now start operations after getting an acknowledgement certificate from the state nodal agency by submitting 'declaration of intent'. **Source:** [Your Story](https://yourstory.com/smbstory/gujarat-msmes-vijay-rupani)
 
-The Gujarat government announced a new port policy that removes restrictions on 32 captive jetties operating in Gujarat, and turns them into commercial ports. The policy allows ports of any size more than 5 million metric tons to be set up as a commercial port. **Source:** [Indian Express](https://indianexpress.com/article/india/gujarat-new-port-policy-turns-32-captive-jetties-into-commercial-ports-6035148/)
+The Gujarat government has signed a memorandum of understanding (MOU) with the China Association of Small and Medium Enterprises to set up a China Industrial Park at the Dholera Special Investment Region. **Source:** [Financial Express](https://www.financialexpress.com/industry/gujarat-government-inks-mou-to-set-up-china-industrial-park-at-dholera/1722588/)
 
 **Haryana**
 
-Nothing critical to report this week.
+The Haryana Electricity Regulatory Commission has recently approved a petition filed by two discoms seeking the installation of grid-connected solar-powered pumps in the state. The pilot project will involve the installation of 468 such solar pumps, with a combined generational capacity amounting to 2.9 megawatts (MW) and is expected to receive a 30 percent subsidy through the central government’s KUSUM program. **Source:** [Sau Energy](https://www.saurenergy.com/solar-energy-news/herc-approves-proposal-install-468-solar-pumps-haryana) **In detail:** [HERC order](https://herc.gov.in/WriteReadData/Orders/O20190917.pdf)
 
 **Karnataka**
 
-Ranking 17th in the Anaemia Mukt Bharat 2019-20 index, Karnataka has been tasked with reducing its anaemia burden by 3 percent every year as part of the country’s goal for 2022. This can be achieved only by providing iron folic acid supplements to vulnerable groups — children, adolescents, and pregnant women — at regular intervals and ensuring project implementation. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/ranked-17th-state-asked-to-reduce-anaemia-burden-by-3-every-yr/articleshow/71319301.cms) **In detail:** [Anaemia Mukt Bharat 2019-20 index](https://anemiamuktbharat.info/portal/wp-content/uploads/2019/08/AMB_Score_Card_2019-20_Q127-Aug-V4.pdf)
-
-The Karnataka Electricity Regulatory Commission has issued a draft amendment to its guidelines for the procurement of energy through renewable sources. The amendments will allow the inclusion of distribution licensees to avail accreditation under the renewable energy certificate mechanism and impose a cap on average pooled power purchase cost. **Source:** [Mercom](https://mercomindia.com/discoms-can-avail-accreditation-rec-mechanism/) **In detail:** [Draft amendments](https://www.karnataka.gov.in/kerc/Documents/KERC%20Invities%20Commets%20on%20Draft%20KERC%20(Procurement%20of%20Energy%20from%20Renewable%20Sources)%20(Seventh%20Amendment)%20Regulations.pdf)
+Nothing critical to report this week.
 
 **Madhya Pradesh**
 
-Madhya Pradesh will get 40 megwatts (MW) of power from the Northern Grid of the National Thermal Power Corporation for $0.045 per unit tariff, an official said. **Source:** [The Week](https://www.theweek.in/wire-updates/national/2019/09/28/bes2-mp-power-agreement.html)
-
-Country’s first e-waste clinic is going to be established in Bhopal. An agreement regarding this has been made between the Central Pollution Control Board and the Bhopal Municipal Corporation. **Source:** [DB post](https://dbpost.com/madhya-pradesh-e-waste-clinic-to-open-in-bhopal-will-be-first-city-in-country-to-operate-it/)
-
-The Madhya Pradesh Cabinet has given sanction for fixed equity share capital for execution of a new rail line project to connect Indore with the Jawaharlal Nehru Port Trust. The total cost of the project is estimated at $1.26 billion. According to the total cost, the total equity of $57.88 million i.e. 15 percent must be given in 4 years as the capital share of Madhya Pradesh government. **Source:** [DB Post](https://dbpost.com/madhya-pradesh-indore-to-manmad-new-rail-line-to-connect-indore-with-jawaharlal-nehru-port-trust/)
+Nothing critical to report this week.
 
 **Maharashtra**
 
@@ -87,58 +74,66 @@ Nothing critical to report this week.
 
 **Rajasthan**
 
-The state government has sanctioned $85 million for kharif crop loans to over 500,000 farmers. Cooperative minister Udailal Anjana said the loan amount would be deposited in the savings accounts of farmers, who had registered online, by September 30. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/jaipur/rs-600cr-loans-sanctioned-to-over-5-lakh-raj-farmers/articleshowprint/71319994.cms)
+The Rajasthan government announced a ban on pan masala containing magnesium carbonate, nicotine, tobacco, mineral oil, and flavored 'supari.’ Rajasthan has become the third state after Maharashtra and Bihar to announce such a move. **Source:** [First Post](https://www.firstpost.com/india/rajasthan-govt-announces-ban-on-select-categories-of-pan-masala-under-food-safety-act-becomes-third-such-state-after-maharashtra-bihar-7443771.html)
 
-Giving a major boost to medical education in the state, the center approved 10 new medical colleges for Rajasthan. The 10 medical colleges will come up in Jaisalmer, Karauli, Banswara, Alwar, Nagaur, Bundi, Sirohi, Baran, Chittorgarh, and Sriganganagar districts. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/jaipur/centre-approves-10-new-medical-colleges-for-raj/articleshow/71343459.cms)
+Chief Minister Ashok Gehlot launched a scheme under which those suffering from silicosis, a lung disease common among mine workers, will be treated at par with differently abled persons and will get a monthly pension of up to $17.60 (Rs 1,250). **Source:** [Times of India](https://timesofindia.indiatimes.com/city/jaipur/raj-govt-launches-silicosis-policy-for-mining-workers/articleshow/71431702.cms)
 
 **Tamil Nadu**
 
-With the aim of providing seamless and efficient services to citizens, the Tamil Nadu government has decided to implement the e-Office framework, developed by the National Informatics Center, with immediate effect in all government Departments/PSUs/Boards/Agencies under its control. The move entails the processing of all files electronically, in lieu of a manual file processing system. **Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/e-office-set-to-make-government-services-seamless/article29512569.ece)
-
-The Tamil Nadu government has signed an agreement with German development bank KfW to procure new buses complying to Bharat Stage VI norms and those run on batteries. The signing of the agreement with KfW follows the state budget announcement in which through financial assistance totaling $834.3 million from KfW -- 12,000 BSVI compliant and 2,000 electric buses would be purchased. **Source:** [Times Now](https://www.timesnownews.com/india/article/tamil-nadu-government-signs-project-agreement-with-kfw-to-procure-new-buses/496385)
-
-Tamil Nadu chief minister K Palaniswami on September 26 launched several initiatives in the industrial sector totaling over $991.5 million, including signing of MOUs for new investments. **Source:** [Money Control](https://www.moneycontrol.com/news/business/tamil-nadu-cm-k-palaniswami-launches-initiatives-worth-over-rs-7000cr-in-industrial-sector-4478841.html)
+The Tamil Nadu Electricity and Regulatory Commission has approved an increase in miscellaneous charges collected by the Tamil Nadu Generation and Distribution Corporation, which will have an impact on new as well as existing consumers. **Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/tnerc-increases-miscellaneous-charges/article29599534.ece)
 
 **Telangana**
 
-The Comptroller and Auditor General (CAG) report on state’s accounts for 2017-18 has observed that the Telangana government’s attempt to provide uninterrupted continuous free power supply to the agriculture sector has negatively affected the financial position of the two power distribution companies. **Source:** [The Hindu](https://www.thehindu.com/news/cities/Hyderabad/cag-cautions-discoms-against-more-fiscal-problems/article29550676.ece)
+With the employees of Telangana State Road Transport Corporation continuing their strike, Telangana chief minister K. Chandrasekhar Rao has hardened his stance, announcing that there is no chance of any compromise with them. **Source:** [The News Minute](https://www.thenewsminute.com/article/tsrtc-strike-nearly-50000-employees-may-lose-jobs-telangana-cm-kcr-rules-out-talks-110078)
+
+Telangana has raised license application fees and has laid down new excise tax brackets for liquor shops. **Source:** [The News Minute](https://www.thenewsminute.com/article/additional-taxes-hiked-licence-fee-new-liquor-policy-introduced-telangana-109950)
+
+Telangana will embark on a large scale project to transfer blood and medical samples via drones. The initiative is co-designed with the World Economic Forum and Healthnet Global Limited, an Apollo Hospitals Group company. **Source:** [Live Mint](https://www.livemint.com/politics/policy/telangana-goes-for-drone-driven-healthcare-ties-up-with-apollo-hospitals-unit-11570167539303.html)
 
 **Uttar Pradesh**
 
-The Uttar Pradesh Electricity Regulatory Commission has slashed solar power tariffs to a record low of nearly Rs 3 per unit, as it cleared competitive bidding for procurement of 550 MW by state utilities.. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/up-energy-regulator-slashes-solar-tariffs-approves-bidding-for-550-mw-119092900541_1.html)
-
-Faced with frequent cases of electricity pilferage, Uttar Pradesh electricity department has set up exclusive anti-theft stations in nine districts. According to officials, so far 953 cases have been reported in these stations. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/uttar-pradesh-anti-theft-stations-set-up-to-address-electricity-pilferage/71356008)
+The Uttar Pradesh government has suddenly stopped buying electricity from 650 MW of wind power plants. The state government’s excuse for the sudden move is the $0.048-per-unit purchase power tariff that has not been approved by the Central Electricity Regulatory Commission, but the tariff is 7 percent lower than the average power purchase rate of the state. **Source:** [Financial Express](https://www.financialexpress.com/economy/after-andhra-pradesh-now-uttar-pradeshs-turn-to-flout-renewable-ppas/1724933/)
 
 **West Bengal**
 
-Rajiva Sinha will be the new chief secretary of West Bengal, according to Chief Minister Mamata Banerjee. The present incumbent Malay Kumar De is expected to retire on October 7th. **Source:** [India Today](https://www.indiatoday.in/india/story/rajiva-sinha-to-be-the-new-chief-secretary-of-west-bengal-1603538-2019-09-26)
+The West Bengal government has decided to reduce fire license fees by 92 percent in respect to 2017. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/kolkata/fire-license-fees-reduced-by-92-percent-in-west-bengal/articleshowprint/71263962.cms)
+
+The West Bengal cabinet approved the recommendations of the Sixth Pay commission and said it will be implemented starting January 1, 2020. **Source:** [NDTV](https://www.ndtv.com/india-news/sixth-pay-commission-west-bengal-cabinet-approves-implementation-of-6th-pay-commission-2105947)
 
 **Best of the Rest**
 
 **Assam**
 
-The Assam government has issued a notification setting up 200 more appellate Foreigner Tribunals for hearing of appeals of people excluded from the final National Register of Citizens. **Source:** [News18](https://www.news18.com/news/india/assam-govt-issues-notice-to-set-up-200-additional-foreigner-tribunals-in-33-districts-2324265.html)
-
-**Chhattisgarh**
-
-To facilitate the growth of renewable energy generation systems in the state, the Chhattisgarh State Electricity Regulatory Commission has approved the regulations for distributed renewable sources. These regulations would apply to Prosumer Distributed Renewable Energy Systems owned by prosumer or third party. **Source:** [Mercom](https://mercomindia.com/chhattisgarh-regulations-distributed-solar/) **In detail:** [Regulations](http://cserc.gov.in/pdf/Regulations_Notified/82-%20CSERC%20(Grid%20Interactive%20Distributed%20Renewable%20Energy%20Sources)%20Regulations,%202019_English.pdf)
+The Indian Institute of Technology, Guwahati, has signed an MOU with the Pollution Control Board Assam to tackle air pollution problems in Assam, where particle levels exceed the annual average ambient air quality standards. **Source:** [India Today](https://www.indiatoday.in/education-today/news/story/iit-guwahati-signs-mou-with-pollution-control-board-assam-to-tackle-air-pollution-1606238-2019-10-04)
 
 **Jammu and Kashmir**
 
-The Block Development Council elections across Jammu, Kashmir, and Ladakh will be held on October 24, Chief Election Commissioner Shailendra Kumar announced. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/block-development-council-polls-across-jammu-kashmir-ladakh-on-oct-24/articleshow/71368631.cms)
+Journalists in Kashmir held a sit-in protest against the communications blackout and demanded the government restore internet and mobile connectivity. **Source:** [India Today](https://www.indiatoday.in/india/story/kashmir-lockdown-journalists-protest-clampdown-demand-mobile-phones-internet-1605920-2019-10-03)
 
-**Manipur**
+**Kerala**
 
-The Manipur cabinet has decided that any decision on legalising cultivation of marijuana or cannabis for medical and industrial purpose would be taken after getting feedback from the public. **Source:** [Economic Times](https://health.economictimes.indiatimes.com/news/policy/manipur-cabinet-discusses-legislation-on-cannabis-cultivation/71326683)
+An MOU was signed between Kerala government and Union Ministry of Road Transport and Highways, under which the state would contribute 25 percent of land cost towards development of national highways in the state. **Source:** [Devdiscourse](https://www.devdiscourse.com/article/national/693610-ker-govt-signs-mou-with-centre-for-development-of-national)
+
+**Meghalaya**
+
+The Meghalaya government signs a deal with cement makers to turn plastic waste into fuel as part of a “Plastic Challenge” aimed at making the state plastic-free by 2022. The chief minister said the State Pollution Control Board will be monitoring the ambient air quality after the plastic is burned so that no harmful emissions take place. **Source:** [News18](https://www.news18.com/news/india/meghalaya-govt-signs-deal-with-cement-maker-to-turn-plastic-waste-into-fuel-2331433.html)
+
+**Mizoram**
+
+Home Minister Amit Shah has assured Mizoram that the draft Citizenship (Amendment) Bill will be tweaked to accommodate a "special safeguard" aimed at ensuring that it does not override a long-standing provision that checks the unabated entry of outsiders into the state. **Source:** [NDTV](https://www.ndtv.com/india-news/amit-shah-offers-a-tweak-in-citizenship-bill-to-dispel-mizorams-fears-2112475)
 
 **Odisha**
 
-Odisha has signed an MOU with IBM to introduce Stem For Girls in 125 higher secondary schools of Khordha, Ganjam, Cuttack, and Sambalpur districts. The program aims to improve education-to-work and career pathways for girls in government schools. **Source:** [Orissa Diary](https://orissadiary.com/odisha-signed-mou-ibm-introduce-stemforgirls-125-higher-secondary-schools/)
-
-**Punjab**
-
-The center has released $3.8 million as the first installment for the Sultanpur Lodhi Smart City project in Kapurthala district of Punjab. **Source:** [The Tribune](https://www.tribuneindia.com/news/rs-27-crore-released-for-sultanpur-lodhi-smart-city-project/839593.html)
+The state government has prohibited the manufacture, sell, trade, import, storing, carrying, transportation and distribution of the single-use plastics, an official said. The ban will be imposed on polythene carry bags of any shape, thickness and size, and Polyethylene Terephthalate bottles of less than 200 milliliters capacity. **Source:** [India Today](https://www.indiatoday.in/india/story/odisha-bans-single-use-plastic-urban-areas-1605211-2019-10-02)
 
 **Sikkim**
 
-The 15th Finance Commission headed by Chairman N.K. Singh along with its members and senior officials met with the representatives of the trade and industry bodies in Sikkim. The commission observed that Sikkim has been able to sustain a relatively higher growth in income mainly due to the hydropower sector and pharmaceutical industries. **Source:** [Business Standard](https://www.business-standard.com/article/news-cm/fifteenth-finance-commission-meets-representatives-of-trade-and-industry-in-sikkim-119092500173_1.html), [North East Today](https://thenortheasttoday.com/sikkim-demands-rs-71-623-cr-from-15-finance-commission/) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193383)
+NHPC is taking a loan of $635.8 million from state-owned lenders, Power Finance Corporation and Rural Electricity Corporation, to revive the Lanco Teesta project in Sikkim. The Union government-owned hydropower major has become the first public sector unit to take over a stressed asset through a resolution process in the National Company Law Tribunal. **Source:** [Business Standard](https://www.business-standard.com/article/companies/nhpc-to-get-rs-4-500-cr-loan-from-pfc-rec-to-revive-lanco-teesta-project-119100401353_1.html)
+
+**Tripura**
+
+The center has given in-principle approval for setting up of Tripura's first-ever Special Economic Zone at Sabroom. The estimated investment in the project will be around $219 million and be developed by Tripura Industrial Development Corporation Ltd. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/tripura-gets-its-first-ever-sez/articleshow/71451337.cms)
+
+**Uttarakhand**
+
+Chief Minister Trivendra Singh Rawat launched an awareness campaign aimed at stopping power theft. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/uttarakhand-cm-launches-awareness-campaign-to-stop-power-theft/71416201)
