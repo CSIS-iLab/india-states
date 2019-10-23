@@ -101,7 +101,7 @@ In an attempt to ensure that India’s efforts to revive work on the long-pendin
 
 **Himachal Pradesh**
 
-Even with 90 percent of Himachal Pradesh’s population residing in rural areas, the state has ranked among the top three states in India’s Child Well-Being Index, and in the top 10 for improved health index scores in NITI Aayog’s Health Index Report of 2019. **Source:** [Swach India](https://swachhindia.ndtv.com/swasth-report-of-himachal-pradesh-making-a-steady-progress-himachal-improves-in-malnutrition-under-5-status-39078/)
+Even with 90 percent of Himachal Pradesh’s population residing in rural areas, the state has ranked among the top three states in India’s Child Well-Being Index, and in the top 10 for improved health index scores in NITI Aayog’s Health Index Report of 2019. **Source:** [Swach India](https://swachhindia.ndtv.com/swasth-report-of-himachal-pradesh-making-a-steady-progress-himachal-improves-in-malnutrition-under-5-status-39078/) **In Detail:** [NITI Aayog Health Index Report](http://social.niti.gov.in/uploads/sample/health_index_report.pdf) **In Detail:** [India Child Well Being Report](https://www.worldvision.in/wvreports/India-Child-Wellbeing-Report-Web.pdf)
 
 **Jammu and Kashmir**
 
@@ -111,7 +111,7 @@ The Union Cabinet chaired by the Prime Minister Narendra Modi has approved inclu
 
 **Kerala**
 
-The Kerala Startup Mission has signed a memorandum of understanding (MOU) with the Bahrain Economic Development Board to support technology start-ups. The goal of the MOU is to help promote innovation in financial technology, information and communication technology, and related emerging technologies. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/bahrain-kerala-signs-mou-for-cooperation-in-startup-growth-in-state-119101000212_1.html)
+The Kerala Startup Mission has signed a memorandum of understanding (MOU) with the Bahrain Economic Development Board to support technology start-ups. The goal of the MOU is to help promote innovation in financial technology, information and communication technology, and related emerging technologies. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/bahrain-kerala-signs-mou-for-cooperation-in-startup-growth-in-state-119101000212_1.html) **In Detail:** [Press Release](https://bahrainedb.com/latest-news/bahrain-and-kerala-sign-mou-for-cooperation-in-fintech-ict-iot-startups/)
 
 **Manipur**
 
