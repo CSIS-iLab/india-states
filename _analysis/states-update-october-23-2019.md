@@ -2,17 +2,16 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: October 23, 2019 '
-date: 2019-10-23 04:00:00 +0000
+title: 'States Update: October 30, 2019 '
+date: 2019-10-30 04:00:00 +0000
 tags: []
-excerpt: State election results for Maharashtra & Haryana come out on Thursday, October
-  24. Karnataka tops innovation ranking; Andhra Pradesh approves tariffs for three
-  solar parks; air quality worsens in Delhi; Gujarat revises port policy; Madhya Pradesh
-  reduces documents required for real estate transactions, launches a Startup Policy,
-  and approves a new Electric Vehicle Policy; Rajasthan to be sanctioned for not honoring
-  renewable purchase obligation; Uttar Pradesh proposes new standards of performance
-  for discoms; Jammu and Kashmir government issues formal orders for abolition of
-  legislative council; and more
+excerpt: BJP underperforms somewhat but will maintain governments in Maharashtra &
+  Haryana; India moves up 14 places on the World Bank’s ease of doing business ranking;
+  Delhi grants ownership rights to those in unauthorized colonies; Karnataka amends
+  State Solar Policy 2014-21; Telangana Road Transport Corporation continues strike;
+  Assam prohibits parents of more than 2 children from holding government jobs; Odisha
+  signs World Bank climate resilient agriculture loan; Punjab lowers VAT on natural
+  gas; and more.
 states: []
 sectors: []
 subsectors: []
@@ -25,82 +24,69 @@ details:
   url: ''
 author:
 - Afeena Ashfaque
-published: false
 
 ---
 **Big News**
 
-**State election results for Maharashtra & Haryana come out on Thursday, October 24.** Karnataka tops innovation ranking; Andhra Pradesh approves tariffs for three solar parks; air quality worsens in Delhi; Gujarat revises port policy; Madhya Pradesh reduces documents required for real estate transactions, launches a Startup Policy, and approves a new Electric Vehicle Policy; Rajasthan to be sanctioned for not honoring renewable purchase obligation; Uttar Pradesh proposes new standards of performance for discoms; Jammu and Kashmir government issues formal orders for abolition of legislative council; and more
+BJP underperforms somewhat but will maintain governments in Maharashtra & Haryana; India moves up 14 places on the World Bank’s ease of doing business ranking; Delhi grants ownership rights to those in unauthorized colonies; Karnataka amends State Solar Policy 2014-21; Telangana Road Transport Corporation continues strike; Assam prohibits parents of more than 2 children from holding government jobs; Odisha signs World Bank climate resilient agriculture loan; Punjab lowers VAT on natural gas.
 
 **Center – State relations**
 
-Karnataka tops the first-ever innovation ranking of states, followed by Tamil Nadu and Maharashtra, according to NITI Aayog’s India Innovation Index 2019. This index measures the innovation ecosystem of Indian states and union territories in order to help policymakers design policies that drive innovation across regions. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/karnataka-tops-innovation-ranking-of-states-best-investment-destination-in-india-niti-aayog-119101701101_1.html) **In detail:** [India Innovation Index](https://niti.gov.in/sites/default/files/2019-10/India_Innovation_Index_Report_2019.pdf)
+India jumped 14 places to the 63rd position on the World Bank's ease of doing business ranking. **Source:** [First Post](https://www.firstpost.com/business/india-ranks-63-in-world-banks-ease-of-doing-business-improvement-is-outcome-of-narendra-modi-govts-reforms-says-corporate-india-7548751.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193994), [World Bank Report - Doing Business 2020](https://openknowledge.worldbank.org/bitstream/handle/10986/32436/9781464814402.pdf)
 
-Eight road-owning agencies under state governments signed memorandums of understanding (MOUs) with the National Highways Authority of India, which will allow for use of FASTags (smart cards) to pay toll charges even on state roads. **Source:** [Times of India](https://timesofindia.indiatimes.com/india/8-states-sign-mou-with-nhai-for-fastags/articleshowprint/71587035.cms) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193790)
+The 11th meeting of the Standing Committee of the Eastern Zonal Council was held at Patna on October 23, 2019. The committee reviewed the progress water sharing at Phulbari dam, two new railway line projects, and land acquisition for development of Bagdogra airport. **Source:** [Orissa Diary](https://orissadiary.com/11th-meeting-standing-committee-eastern-zonal-council-held-october-23-2019-patna/) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193977)
 
 **Andhra Pradesh**
 
-The Andhra Pradesh government launched a scheme called YSR Navodayam to bail out micro, small, and medium enterprises in the state and provide financial relief by restructuring bank loans before March 31, 2020. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/news/national/andhra-pradesh-cm-launches-scheme-for-msmes/article29725994.ece)
-
-In a respite for renewable developers in the state, the Andhra Pradesh Electricity Regulatory Authority has approved tariffs for three solar park projects. **Source:** [Mercom](https://mercomindia.com/respite-developers-andhra-approves-solar-projects/)
+Nothing critical to report this week.
 
 **Bihar**
 
-Nothing critical to report this week.
+In a pre-Diwali gift for nearly 700,000 government employees and pensioners, the Bihar cabinet hiked the dearness allowance component to 17 percent from the existing 12 percent. **Source:** [Hindustan Times](https://www.hindustantimes.com/patna/5-da-hike-for-bihar-govt-staff-pensioners/story-WEL1CadmiGUr53QNoURIDM.html)
 
 **New Delhi**
 
-The air quality in Delhi has worsened from an air quality index of 161 to 258, now reaching the “poor” air quality distinction. **Source:** [NDTV](https://www.ndtv.com/delhi-news/delhis-overall-air-quality-improves-to-moderate-category-2119721)
+In a move that will benefit 4 million people, the Union Cabinet approved a proposal to grant land ownership rights to people living in unauthorised colonies in Delhi, Union Minister Prakash Javadekar said. **Source:** [India Today](https://www.indiatoday.in/india/story/delhi-centre-regularises-ownership-rights-people-unauthorised-colonies-1612305-2019-10-23)
 
 **Gujarat**
 
-In a bid to boost infrastructure and attract investment in the port and logistics sector, the Gujarat government has revised its 1995 port policy and removed restrictions on 33 private jetties, allowing them to handle third-party cargo. **Source:** [The Hindu](https://www.thehindu.com/business/Economy/gujarat-brings-out-new-port-policy/article29683260.ece)
+Nothing critical to report this week.
 
 **Haryana**
 
-The Supreme Court-mandated Environment Pollution (Prevention and Control) Authority said Haryana's two coal-based power plants in the national capital region will be shut down if they fail to comply with emission norms by next year. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/haryanas-thermal-power-plants-in-ncr-to-be-shut-if-emission-norms-not-met-by-2020-epca/71658246)
+Manohar Lal Khattar took the oath as the Haryana chief minister for a second term and will lead the BJP-JJP (Jannayak Janata Party) coalition government in the state. **Source:** [News18](https://www.news18.com/news/politics/manohar-lal-khattar-takes-oath-as-haryana-cm-for-2nd-term-with-dushyant-chautala-as-deputy-2363991.html)
 
 **Karnataka**
 
-The Dutch government and government of Karnataka have formed a bilateral partnership in order to co-create innovative solutions in the fields of life sciences and healthcare, horticulture and agriculture visited the city. **Source:** [The Hindu](https://www.thehindu.com/news/national/karnataka/netherlands-to-work-with-karnataka-to-tackle-global-challenges/article29729025.ece)
+The Karnataka State Solar Policy 2014-21 has been amended for the third time and addresses three important points – the size limitation of private solar parks, the performance guarantee for group captive projects, and the project completion time for captive, group captive, and independent power producers for third-party sale. **Source:** [Mercom](https://mercomindia.com/karnataka-solar-policy-amended/) **In detail:** [Karnataka Solar Policy 2014-2021](https://kredlinfo.in/solargrid/Solar%20Policy%202014-2021.pdf)
+
+Karnataka accepted software industry body Nasscom’s offer to help the government rewrite labor regulation in a way that it aligns with the changing requirements of private businesses, state labor minister S Suresh Kumar said. **Source:** [Economic Times](https://economictimes.indiatimes.com/tech/ites/nasscom-to-help-karnataka-to-rewrite-labour-regulation/articleshow/71700600.cms)
 
 **Madhya Pradesh**
 
-In a bid to cut down on red-tape, the Madhya Pradesh government on October 15 reduced the required number of the documents for submission from 27 to five under the Real Estate Policy 2019. **Source:** [Money Control](https://www.moneycontrol.com/news/business/real-estate/madhya-pradesh-govt-approves-real-estate-policy-2019-4538281.html)
-
-The state cabinet approved new pro-innovation policies including: Madhya Pradesh Startup Policy; Madhya Pradesh Micro, Small and Medium Enterprises Development Policy, 2019; and important amendments in the Madhya Pradesh Industry Promotion Policy 2014. **Source:** [Times of India](https://timesofindia.indiatimes.com/trend-tracking/mp-cabinet-gives-nod-to-policies-for-startups-tourism/articleshowprint/71601461.cms), [DB Post](https://dbpost.com/rs-1-crore-subsidy-for-establishing-start-up-in-madhya-pradesh/)
-
-The state cabinet approved Electric Vehicle Policy 2019, making plans to introduce 2,200 electric buses into the public transport system in the next four years. **Source:** [Economic Times](https://auto.economictimes.indiatimes.com/news/commercial-vehicle/mhcv/mp-govt-to-introduce-2200-electric-buses-in-next-4-years/71603465) **In detail:** [Draft Madhya Pradesh Electric Vehicle Policy 2019](http://www.mpurban.gov.in/pdf/MPEVDPolicy2019.pdf)
-
-The state cabinet led by Chief Minister Kamal Nath approved amendment to the Madhya Pradesh Minor Minerals Rules 1996, making it possible for large investors to directly obtain excavation leases. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-invest-rs-25-crore-get-direct-mining-lease/articleshowprint/71612304.cms) **In detail:** [Madhya Pradesh Minor Minerals Rule](https://ibm.gov.in/writereaddata/files/10252016175254Mineral%20digest%20MP.pdf)
+The Madhya Pradesh Electricity Regulatory Commission has published the first amendment of its 2018 regulations for forecasting, scheduling, and deviation settlement mechanism for wind and solar projects, extending the time allowed for wind and solar generators to appoint a common qualified coordinating agency. **Source:** [Mercom](https://mercomindia.com/madhya-pradesh-solar-wind-generators-qca/)
 
 **Maharashtra**
 
-The Maharashtra Electricity Regulatory Commission has approved the Maharashtra State Electricity Distribution Company Limited’s procurement of 50 megawatts of bagasse-based co-generation power. **Source:** [Mercom](https://mercomindia.com/maharashtra-msedcl-ppa-bagasse/) **In detail:** [MERC Orders index](https://www.merc.gov.in/faces/merc/common/outputClient.xhtml)
+In Maharashtra, the BJP secured 105 seats with Shiv Sena securing 56 seats, giving the alliance an absolute majority in the Maharashtra assembly. Congress won 44 seats, Nationalist Congress Party won 54. **Source:** [Hindustan Times](https://economictimes.indiatimes.com/news/elections/lok-sabha/maharashtra/maharashtra-2019-assembly-election-result-highlights/articleshow/71732960.cms)
 
 **Rajasthan**
 
-The Rajasthan Electricity Regulatory Commission has issued amended regulations for the Forecasting, Scheduling and Deviation Settlement of Solar and Wind Generation Sources Regulations, 2017. **Source:** [Mercom](https://mercomindia.com/rajasthan-re-generators-deviation-settlement-charges/) **In detail:** [Amendments](http://rerc.rajasthan.gov.in/cnpl/PDFs/Forecasting_Reg_amend.pdf)
-
-The Rajasthan Electricity Regulatory Commission will issue nine companies notices for the non-compliance with the renewable purchase obligation (RPO) order. **Source:** [Mercom](https://mercomindia.com/rajasthan-regulator-issue-non-compliance-rpo/)
+The Rajasthan government has initiated action against the government employees and private firm responsible for the delay of the Kalisindh Thermal Power Project's first and second units in Jhalawar district, which has led to its cost escalation by $28.2 million. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/action-initiated-over-delay-cost-escalation-of-power-project/article29779952.ece)
 
 **Tamil Nadu**
 
-The Tamil Nadu government has raised the dearness allowance for its employees by 5 percent with effect from July. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-govt-hikes-da-for-its-employees/articleshowprint/71634546.cms) **In detail:** [Dearness Allowance to State Government Pensioners](http://cms.tn.gov.in/sites/default/files/go/fin_e_327_2019.pdf)
+The center has sanctioned $275.7 million to Tamil Nadu for setting up six new medical colleges under a centrally-sponsored scheme, bringing the total number of government-owned medical colleges in the state to 29. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/chennai/centre-sanctions-rs-1950-crore-for-6-new-tamil-nadu-medical-colleges/articleshowprint/71730766.cms)
 
 **Telangana**
 
-The Finance and Planning departments of Telangana government signed a tripartite MOU with the Center for Effective Governance of Indian States for "improving socio-economic outcomes and quality of public expenditure" in the state. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/t-gana-govt-signs-mou-with-cegis-119101601385_1.html)
-
-The Bitfury Group, the largest full-service blockchain technology company in the world, will establish a blockchain research and innovation center in Hyderabad in partnership with Telengana’s Blockchain District and the Indian School of Business. **Source:** [CNBCTV18](https://www.cnbctv18.com/technology/bitfury-to-set-up-blockchain-innovation-centre-in-hyderabad-4518871.htm)
-
-Telangana State Road Transport Corporation staff called a state-wide shutdown. Early reports say that over 48,000 employees who joined the protests have now been fired by the government. **Source:** [Deccan Chronicle](http://www.deccanchronicle.com/nation/current-affairs/191019/statewide-shutdown-called-by-telangana-transport-staff-disrupts-daily.html)
+48,000 employees of Telangana Road Transport Corporation have entered day 23 of their indefinite strike. **Source:** [The News Minute](https://www.thenewsminute.com/article/dark-diwali-telangana-rtc-employees-strike-enters-23rd-day-111299)
 
 **Uttar Pradesh**
 
-The Uttar Pradesh (UP) Electricity Regulatory Commission recently approved the power sale agreements between the Uttar Pradesh Power Corporation Limited and Solar Energy Corporation of India at a tariff rate of $0.036 per kilowatt-hour, or unit, for 25 years. **Source:** [Mercom](https://mercomindia.com/uttar-pradesh-seci-psa-solar-tariff/) **In detail:** [UPERC order](http://www.uperc.org/App_File/Pt-no-1473of2019UPPCL-09-10-19-pdf10102019114147AM.pdf)
+The 15th Finance Commission met representatives of panchayat bodies, urban local bodies, trade and industry, and political parties to discuss issues such as the requirement for civic amenities, lack of safe drinking water, and property tax as a source of income. **Source:** [Daily Pioneer](https://www.dailypioneer.com/2019/state-editions/finance-commission-holds-meetings-in-lko.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193930)
 
-The UP Electricity Regulatory Commission has proposed new standards of performance for distribution companies, making them liable to pay fines for poor or disrupted service. **Source:** [Hindustan Times](https://www.hindustantimes.com/cities/uperc-proposes-compensation-for-poor-service-by-discoms/story-eQwbKsK0tQdmqOo4bR5COP.html) **In detail:** [Draft UPERC standards of performance regulations](http://www.uperc.org/App_File/OpenAccessDraft-rar1011201915150PM.rar)
+Uttar Pradesh chief minister Yogi Adityanath launched an all-encompassing emergency helpline number '112' to access police, fire brigade, ambulance and other services under the Emergency Response Support System. **Source:** [India Today](https://www.indiatoday.in/india/story/up-cm-yogi-adityanath-emergency-helpline-112-1613142-2019-10-26)
 
 **West Bengal**
 
@@ -108,28 +94,38 @@ Nothing critical to report this week.
 
 **Best of the Rest**
 
-**Goa**
+**Assam**
 
-Goa chief minister Pramod Sawant announced the signing of 17 MOUs promoting and facilitating various business ventures in Goa at the Vibrant Goa Global Expo 2019. **Source:** [NDTV](https://www.ndtv.com/india-news/goa-government-signs-17-agreements-at-vibrant-goa-global-expo-2019-2119630)
+In an effort to curb population growth, the Assam government has decided that people with more than two children will not be eligible for government jobs after January 1, 2021. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/guwahati/assam-to-implement-two-child-norm-for-government-jobs-from-2021/articleshowprint/71715585.cms)
+
+**Himachal Pradesh**
+
+The Himachal Pradesh cabinet approved a policy to provide cost-effective Ayush services by upgrading Ayurvedic hospitals and dispensaries across the state. **Source:** [Hindustan times](https://www.hindustantimes.com/india-news/hp-cabinet-meet-policies-to-promote-ayurveda-it-tourism-get-govt-nod/story-EXjvOFAyRp2zSsfYtyZbQJ.html)
+
+The Union Civil Aviation Ministry gave in-principle approval for the construction of an international standard airport in Mandi district of Himachal Pradesh with the support of the Airport Authority of India. **Source:** [Times Now](https://www.timesnownews.com/business-economy/economy/article/himachal-pradesh-gets-approval-for-international-standard-airport/507689)
 
 **Jammu and Kashmir**
 
-Jammu and Kashmir government issued formal orders for abolition of the legislative council and the opening of a new administrative secretariat in Ladakh under the Jammu and Kashmir Reorganisation Bill, which was passed in August. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/jammu-kashmir-legislative-council-abolished/articleshow/71637205.cms)
+In the very first Block Development Council elections held in Jammu and Kashmir, voting was recorded at 98 percent. This is the first election since a clampdown was imposed in Kashmir after the central government’s decision on August 5. **Source:** [News 18](https://www.news18.com/news/politics/more-than-98-voting-recorded-in-jammu-and-kashmirs-first-block-development-council-polls-2361597.html)
 
-The Jammu and Kashmir Scheduled Castes, Schedule Tribes and Other Backward Classes Development Corporation has signed an MOU with the National Minorities Development and Finance Corporation, New Delhi in an effort to raise the socio-economic profile of the minorities of the state. **Source:** [Daily Excelsior](https://www.dailyexcelsior.com/sc-st-corporation-signs-mou-with-minorities-corporation/)
+Government employees of the new Union territories — Jammu and Kashmir, and Ladakh — will get salaries and other benefits as per the recommendations of the 7th Pay Commission from October 31, the Union Home Ministry said. **Source:** [Kashmir Observer](https://kashmirobserver.net/2019/10/22/govt-employees-of-uts-of-jkladakh-to-get-7th-cpc-allowances-from-31-oct/)
 
-**Manipur**
+**Kerala**
 
-Tensions are rising between the Tangkhul Nagas and the Kuki tribes inhabiting the hill areas of Manipur, leading the Manipur government to ask all police stations and paramilitary forces stationed across the state to be ready for any emergency. **Source:** [The Wire](https://thewire.in/government/naga-kuki-clash-manipur)
+Kerala Startup Mission has entered into a memorandum of understanding (MOU) with HDFC Bank to facilitate an array of banking services to start-ups in the state through its smart solution SmartUp. **Source:** [Economic Times](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/ksum-ties-up-with-hdfc-bank-for-enabling-market-access-to-startups/articleshow/71754890.cms)
+
+**Mizoram**
+
+BJP Kerala state president P S Sreedharan Pillai has been appointed as Mizoram governor. **Source:** [Times of India](https://timesofindia.indiatimes.com/india/p-s-sreedharan-pillai-is-new-mizoram-governor/articleshowprint/71766540.cms)
 
 **Odisha**
 
-The state government has issued notification for online auction of nine more mining blocks in Odisha. This is the third auction notice in the last 15 days. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-govt-puts-nine-more-mining-blocks-for-auction/articleshowprint/71666462.cms)
+The center, the Odisha government, and the World Bank signed a $165 million loan agreement for implementation of the Odisha integrated irrigation project for climate resilient agriculture. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhubaneswar/new-world-bank-project-to-support-climate-resilient-agriculture-in-odisha/articleshow/71755224.cms) **In detail:** [World Bank Press Release](https://www.worldbank.org/en/news/press-release/2019/10/24/world-bank-support-climate-resilient-agriculture-odisha-smallholder-farmers)
 
-**Tripura**
+Odisha signs MOU with UNICEF for Drink From Tap Mission to provide 24-hour piped drinking water supply. In the first phase, the mission will be launched in 5 areas in Bhubaneswar and 2 areas in Puri. **Source:** [Orissa diary](https://orissadiary.com/odisha-signs-mou-unicef-drink-tap-mission/)
 
-In the wake of widespread protests, Tripura finance minister Jishnu Devvarman defended his government’s move to impose a 6 percent Electricity Duty, claiming the duty will not affect the poor because 52 percent of the population will be exempt. **Source:** [Indian Express](https://indianexpress.com/article/north-east-india/tripura/tripura-finance-minister-defends-imposing-6-electricity-duty-says-minimum-pain-maximum-gain/)
+**Punjab**
 
-**Uttarakhand**
+The Punjab government reduced value added tax (VAT) on natural gas from 14.3 percent to 3 percent. With this, Punjab becomes the state with the lowest VAT on natural gas in the northern region and will also incentivize industrial units in the state to switch to environment-friendly natural gas. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/oil-and-gas/punjab-govt-reduces-vat-on-natural-gas-to-3-pc/71769221)
 
-The Uttarakhand Electricity Regulatory Commission has allowed the Uttarakhand Power Corporation Limited to carry forward the surplus non-solar RPOs of the financial year 2019-20 to meet the deficit of non-solar and solar RPO. **Source:** [Mercom](https://mercomindia.com/uttarakhand-discom-allowed-surplus-solar-rpo-deficits/)
+The Punjab State Electricity Regulatory Commission has approved the procedure for forecasting, scheduling, and deviation settlement of solar and wind generation, which will go into effect from January 1, 2020. **Source:** [Mercom](https://mercomindia.com/punjab-solar-wind-deviation-jan-2020/) **In detail:** [PSERC (Forecasting, Scheduling, Deviation Settlement and Related Matters of Solar and Wind Generation Sources) Regulations, 2019](https://www.pserc.gov.in/pages/notification-no-135.pdf)
