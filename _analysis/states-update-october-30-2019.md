@@ -5,13 +5,11 @@ content_type: analysis
 title: 'States Update: October 30, 2019 '
 date: 2019-10-30 04:00:00 +0000
 tags: []
-excerpt: BJP underperforms somewhat but will maintain governments in Maharashtra &
-  Haryana; India moves up 14 places on the World Bank’s ease of doing business ranking;
-  Delhi grants ownership rights to those in unauthorized colonies; Karnataka amends
-  State Solar Policy 2014-21; Telangana Road Transport Corporation continues strike;
-  Assam prohibits parents of more than 2 children from holding government jobs; Odisha
-  signs World Bank climate resilient agriculture loan; Punjab lowers VAT on natural
-  gas; and more.
+excerpt: 'Delhi faces a public health emergency as air quality worsens; new textile
+  policy in Karnataka; Telangana chief minister announces privatization of bus routes
+  amid strike; Chhattisgarh approves New Industrial Policy; West Bengal bans gutka
+  & pan masala for 1 year; Jharkand state election dates announced- results on December
+  23; the state of Jammu and Kashmir becomes two union territories; and more. '
 states: []
 sectors: []
 subsectors: []
@@ -24,18 +22,17 @@ details:
   url: ''
 author:
 - Afeena Ashfaque
-published: false
 
 ---
 **Big News**
 
-BJP underperforms somewhat but will maintain governments in Maharashtra & Haryana; India moves up 14 places on the World Bank’s ease of doing business ranking; Delhi grants ownership rights to those in unauthorized colonies; Karnataka amends State Solar Policy 2014-21; Telangana Road Transport Corporation continues strike; Assam prohibits parents of more than 2 children from holding government jobs; Odisha signs World Bank climate resilient agriculture loan; Punjab lowers VAT on natural gas.
+Delhi faces a public health emergency as air quality worsens; new textile policy in Karnataka; Telangana chief minister announces privatization of bus routes amid strike; Chhattisgarh approves New Industrial Policy; West Bengal bans gutka & pan masala for 1 year; Jharkand state election dates announced- results on December 23; the state of Jammu and Kashmir becomes two union territories; and more.
 
 **Center – State relations**
 
-India jumped 14 places to the 63rd position on the World Bank's ease of doing business ranking. **Source:** [First Post](https://www.firstpost.com/business/india-ranks-63-in-world-banks-ease-of-doing-business-improvement-is-outcome-of-narendra-modi-govts-reforms-says-corporate-india-7548751.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193994), [World Bank Report - Doing Business 2020](https://openknowledge.worldbank.org/bitstream/handle/10986/32436/9781464814402.pdf)
+The center has announced setting up anti-human trafficking units in all districts with the help of Nirbhaya Fund dedicated to support initiatives that protect the safety of women in India. **Source:** [All India Radio](http://www.newsonair.com/News?title=Govt-announces-setting-up-anti-human-trafficking-units-in-all-districts-with-help-of-Nirbhaya-Fund&id=373919) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=194201)
 
-The 11th meeting of the Standing Committee of the Eastern Zonal Council was held at Patna on October 23, 2019. The committee reviewed the progress water sharing at Phulbari dam, two new railway line projects, and land acquisition for development of Bagdogra airport. **Source:** [Orissa Diary](https://orissadiary.com/11th-meeting-standing-committee-eastern-zonal-council-held-october-23-2019-patna/) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193977)
+Chancellor Angela Merkel of Germany pledged to invest $1.11 billion over the next five years in environmentally-friendly urban mobility in India. **Source:** [New Indian Express](http://www.newindianexpress.com/nation/2019/nov/02/germany-to-invest-rs-7913-crores-for-green-urban-mobility-in-india-2056137.html)
 
 **Andhra Pradesh**
 
@@ -43,11 +40,11 @@ Nothing critical to report this week.
 
 **Bihar**
 
-In a pre-Diwali gift for nearly 700,000 government employees and pensioners, the Bihar cabinet hiked the dearness allowance component to 17 percent from the existing 12 percent. **Source:** [Hindustan Times](https://www.hindustantimes.com/patna/5-da-hike-for-bihar-govt-staff-pensioners/story-WEL1CadmiGUr53QNoURIDM.html)
+Nothing critical to report this week.
 
 **New Delhi**
 
-In a move that will benefit 4 million people, the Union Cabinet approved a proposal to grant land ownership rights to people living in unauthorised colonies in Delhi, Union Minister Prakash Javadekar said. **Source:** [India Today](https://www.indiatoday.in/india/story/delhi-centre-regularises-ownership-rights-people-unauthorised-colonies-1612305-2019-10-23)
+The Environment Pollution (Prevention and Control) Authority declared a public health emergency in Delhi as the pollution levels in the region entered the severe plus category. **Source:** [India Today](https://www.indiatoday.in/mail-today/story/pollution-crisis-health-emergency-declared-delhi-ncr-politicians-play-blame-game-1614971-2019-11-02) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=194225)
 
 **Gujarat**
 
@@ -55,78 +52,78 @@ Nothing critical to report this week.
 
 **Haryana**
 
-Manohar Lal Khattar took the oath as the Haryana chief minister for a second term and will lead the BJP-JJP (Jannayak Janata Party) coalition government in the state. **Source:** [News18](https://www.news18.com/news/politics/manohar-lal-khattar-takes-oath-as-haryana-cm-for-2nd-term-with-dushyant-chautala-as-deputy-2363991.html)
+Nothing critical to report this week.
 
 **Karnataka**
 
-The Karnataka State Solar Policy 2014-21 has been amended for the third time and addresses three important points – the size limitation of private solar parks, the performance guarantee for group captive projects, and the project completion time for captive, group captive, and independent power producers for third-party sale. **Source:** [Mercom](https://mercomindia.com/karnataka-solar-policy-amended/) **In detail:** [Karnataka Solar Policy 2014-2021](https://kredlinfo.in/solargrid/Solar%20Policy%202014-2021.pdf)
+Karnataka now has an integrated emergency helpline number, 112, which will allow residents of the state to call for police, fire and emergency, and ambulance services. **Source:** [The News Minute](https://www.thenewsminute.com/article/karnataka-govt-launches-new-emergency-helpline-number-112-111544)
 
-Karnataka accepted software industry body Nasscom’s offer to help the government rewrite labor regulation in a way that it aligns with the changing requirements of private businesses, state labor minister S Suresh Kumar said. **Source:** [Economic Times](https://economictimes.indiatimes.com/tech/ites/nasscom-to-help-karnataka-to-rewrite-labour-regulation/articleshow/71700600.cms)
+The state cabinet approved a new textile policy for 2019-2024 with a wage subsidy of $14.12 to $21.18 per employee for units employing more than 200 people. Companies that set up units in the six backward districts which falls under Zone 1, will be given higher incentives and subsidies. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-new-textile-policy-to-create-5-lakh-jobs/articleshowprint/71846712.cms)
 
 **Madhya Pradesh**
 
-The Madhya Pradesh Electricity Regulatory Commission has published the first amendment of its 2018 regulations for forecasting, scheduling, and deviation settlement mechanism for wind and solar projects, extending the time allowed for wind and solar generators to appoint a common qualified coordinating agency. **Source:** [Mercom](https://mercomindia.com/madhya-pradesh-solar-wind-generators-qca/)
+Nothing critical to report this week.
 
 **Maharashtra**
 
-In Maharashtra, the BJP secured 105 seats with Shiv Sena securing 56 seats, giving the alliance an absolute majority in the Maharashtra assembly. Congress won 44 seats, Nationalist Congress Party won 54. **Source:** [Hindustan Times](https://economictimes.indiatimes.com/news/elections/lok-sabha/maharashtra/maharashtra-2019-assembly-election-result-highlights/articleshow/71732960.cms)
+Nothing critical to report this week.
 
 **Rajasthan**
 
-The Rajasthan government has initiated action against the government employees and private firm responsible for the delay of the Kalisindh Thermal Power Project's first and second units in Jhalawar district, which has led to its cost escalation by $28.2 million. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/action-initiated-over-delay-cost-escalation-of-power-project/article29779952.ece)
+The state government’s ruling that private vehicles are no longer exempt from the toll tax on state highways, will now come into effect. **Source:** [Economic Times](https://auto.economictimes.indiatimes.com/news/industry/rajasthan-govt-ends-exemption-to-pvt-vehicles-from-toll-tax-on-state-highways/71839581)
 
 **Tamil Nadu**
 
-The center has sanctioned $275.7 million to Tamil Nadu for setting up six new medical colleges under a centrally-sponsored scheme, bringing the total number of government-owned medical colleges in the state to 29. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/chennai/centre-sanctions-rs-1950-crore-for-6-new-tamil-nadu-medical-colleges/articleshowprint/71730766.cms)
+Nothing critical to report this week.
 
 **Telangana**
 
-48,000 employees of Telangana Road Transport Corporation have entered day 23 of their indefinite strike. **Source:** [The News Minute](https://www.thenewsminute.com/article/dark-diwali-telangana-rtc-employees-strike-enters-23rd-day-111299)
+As 50,000 public transportation workers continue to strike in Telangana, Chief Minister K. Chandrasekhar Rao announced that 50 percent of the state's bus routes will be privatized and gave a three-day deadline for protesting Telangana State Road Transport Corporation employees to return to work. **Source:** [Live Mint](https://www.livemint.com/news/india/in-crusade-to-end-strike-in-telangana-kcr-to-privatize-50-of-public-transport-11572715988305.html)
+
+Telangana government has increased the inter-caste marriage incentive from $710 to $3,550 in an attempt to combat the evil of casteism in the society. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/hyderabad/telangana-govt-increases-incentives-for-inter-caste-marriages/articleshowprint/71842348.cms)
 
 **Uttar Pradesh**
 
-The 15th Finance Commission met representatives of panchayat bodies, urban local bodies, trade and industry, and political parties to discuss issues such as the requirement for civic amenities, lack of safe drinking water, and property tax as a source of income. **Source:** [Daily Pioneer](https://www.dailypioneer.com/2019/state-editions/finance-commission-holds-meetings-in-lko.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=193930)
-
-Uttar Pradesh chief minister Yogi Adityanath launched an all-encompassing emergency helpline number '112' to access police, fire brigade, ambulance and other services under the Emergency Response Support System. **Source:** [India Today](https://www.indiatoday.in/india/story/up-cm-yogi-adityanath-emergency-helpline-112-1613142-2019-10-26)
+Nothing critical to report this week.
 
 **West Bengal**
 
-Nothing critical to report this week.
+The West Bengal government has imposed a complete one year ban on the manufacture, storage, distribution, and sale of gutka and pan masala in the state starting November 7, 2019. **Source:** [Jagran Josh](https://www.jagranjosh.com/current-affairs/west-bengal-puts-complete-ban-on-manufacture-storage-sale-of-gutka-pan-masala-1572582367-1)
+
+In order to revive the tea industry and increase employment opportunities, the West Bengal cabinet has decided that 15 percent of the land of a tea garden can be used for construction works. **Source:** [Money Control](https://www.moneycontrol.com/news/business/real-estate/west-bengal-cabinet-allows-construction-at-15-land-of-tea-gardens-4593421.html)
 
 **Best of the Rest**
 
-**Assam**
+**Chhattisgarh**
 
-In an effort to curb population growth, the Assam government has decided that people with more than two children will not be eligible for government jobs after January 1, 2021. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/guwahati/assam-to-implement-two-child-norm-for-government-jobs-from-2021/articleshowprint/71715585.cms)
+The Chhattisgarh government has announced the New Industrial Policy 2019-2024, with a focus on non-core sectors such as aerospace engineering, aircraft repair, food processing and micro, small, and medium enterprises. **Source:** [Business Today](https://www.businesstoday.in/current/economy-politics/chhattisgarh-new-industrial-policy-focus-on-industries-in-naxal-hit-areas-cm-bhupesh-baghel--non-core-sectors/story/388142.html)
 
 **Himachal Pradesh**
 
-The Himachal Pradesh cabinet approved a policy to provide cost-effective Ayush services by upgrading Ayurvedic hospitals and dispensaries across the state. **Source:** [Hindustan times](https://www.hindustantimes.com/india-news/hp-cabinet-meet-policies-to-promote-ayurveda-it-tourism-get-govt-nod/story-EXjvOFAyRp2zSsfYtyZbQJ.html)
+The state government of Himachal Pradesh will hold Rising Himachal Global Investors’ Meet 2019 from November 7-8, 2019 to showcase investment opportunities and boost manufacturing and employment in the state. **Source:** [Business Standard](https://www.business-standard.com/article/news-ani/piyush-goyal-to-attend-rising-himachal-global-investors-meet-2019-119110500926_1.html) **In Detail:** [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1590412#.XcF03IpumjI.twitter)
 
-The Union Civil Aviation Ministry gave in-principle approval for the construction of an international standard airport in Mandi district of Himachal Pradesh with the support of the Airport Authority of India. **Source:** [Times Now](https://www.timesnownews.com/business-economy/economy/article/himachal-pradesh-gets-approval-for-international-standard-airport/507689)
+**Jharkhand**
+
+Voting for the 81 constituencies in Jharkhand Legislative Assembly will be held in five phases, and votes will be counted on December 23, 2019. **Source:** [First Post](https://www.firstpost.com/politics/jharkhand-election-date-2019-ec-announces-five-phase-polling-from-30-nov-votes-to-be-counted-on-23-dec-7586491.html) **In detail:** [Election Commission Press Release](https://eci.gov.in/files/file/11149-schedule-for-general-election-to-the-legislative-assembly-of-jharkhand-2019/)
 
 **Jammu and Kashmir**
 
-In the very first Block Development Council elections held in Jammu and Kashmir, voting was recorded at 98 percent. This is the first election since a clampdown was imposed in Kashmir after the central government’s decision on August 5. **Source:** [News 18](https://www.news18.com/news/politics/more-than-98-voting-recorded-in-jammu-and-kashmirs-first-block-development-council-polls-2361597.html)
+President Ram Nath Kovind took control of the administration of the two new Union territories, Jammu and Kashmir, and Ladakh. **Source:** [Times of India](https://timesofindia.indiatimes.com/india/jammu-and-kashmir-transitions-from-state-into-two-union-territories/articleshow/71835777.cms)
 
-Government employees of the new Union territories — Jammu and Kashmir, and Ladakh — will get salaries and other benefits as per the recommendations of the 7th Pay Commission from October 31, the Union Home Ministry said. **Source:** [Kashmir Observer](https://kashmirobserver.net/2019/10/22/govt-employees-of-uts-of-jkladakh-to-get-7th-cpc-allowances-from-31-oct/)
+The central government has bestowed on itself the authority to declare any area in the newly-created Union Territories of Jammu and Kashmir, and Ladakh as "disturbed" under the controversial Armed Forces (Jammu and Kashmir) Special Powers Act, 1990, which gives sweeping powers to security forces to act against any suspect. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/centre-bestows-on-itself-powers-to-declare-any-area-in-jk-disturbed-under-afspa-119110100967_1.html)
 
-**Kerala**
+**Manipur**
 
-Kerala Startup Mission has entered into a memorandum of understanding (MOU) with HDFC Bank to facilitate an array of banking services to start-ups in the state through its smart solution SmartUp. **Source:** [Economic Times](https://economictimes.indiatimes.com/small-biz/startups/newsbuzz/ksum-ties-up-with-hdfc-bank-for-enabling-market-access-to-startups/articleshow/71754890.cms)
+People continue to fill the streets of Imphal, voicing their apprehension over the Naga peace talks that supposedly reached a conclusion on Thursday. **Source:** [News 18](https://www.news18.com/news/politics/cocomi-sets-3-day-deadline-for-manipur-govt-to-disclose-details-of-naga-talks-2370979.html)
 
-**Mizoram**
+**Meghalaya**
 
-BJP Kerala state president P S Sreedharan Pillai has been appointed as Mizoram governor. **Source:** [Times of India](https://timesofindia.indiatimes.com/india/p-s-sreedharan-pillai-is-new-mizoram-governor/articleshowprint/71766540.cms)
+The Meghalaya state cabinet approved the Amended Meghalaya Residents Safety and Security Bill (MRRSA) 2019, which will create new guidelines for those visiting the state for tourism, work, study or business in an attempt to cut down on illegal immigration. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/meghalaya-adds-more-teeth-to-residents-safety-act-cabinet-issues-ordinance/articleshow/71862735.cms)
 
 **Odisha**
 
-The center, the Odisha government, and the World Bank signed a $165 million loan agreement for implementation of the Odisha integrated irrigation project for climate resilient agriculture. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhubaneswar/new-world-bank-project-to-support-climate-resilient-agriculture-in-odisha/articleshow/71755224.cms) **In detail:** [World Bank Press Release](https://www.worldbank.org/en/news/press-release/2019/10/24/world-bank-support-climate-resilient-agriculture-odisha-smallholder-farmers)
-
-Odisha signs MOU with UNICEF for Drink From Tap Mission to provide 24-hour piped drinking water supply. In the first phase, the mission will be launched in 5 areas in Bhubaneswar and 2 areas in Puri. **Source:** [Orissa diary](https://orissadiary.com/odisha-signs-mou-unicef-drink-tap-mission/)
+The Odisha government has signed a memorandum of understanding (MOU) with Abdul Latif Jameel Poverty Action Lab, an organization co-founded by Nobel laureates Abhijit Banerjee and Esther Duflo, to maximize the impact of anti-poverty programs. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/odisha-govt-partners-with-j-pal-to-minimise-poverty/article29851718.ece)
 
 **Punjab**
 
-The Punjab government reduced value added tax (VAT) on natural gas from 14.3 percent to 3 percent. With this, Punjab becomes the state with the lowest VAT on natural gas in the northern region and will also incentivize industrial units in the state to switch to environment-friendly natural gas. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/oil-and-gas/punjab-govt-reduces-vat-on-natural-gas-to-3-pc/71769221)
-
-The Punjab State Electricity Regulatory Commission has approved the procedure for forecasting, scheduling, and deviation settlement of solar and wind generation, which will go into effect from January 1, 2020. **Source:** [Mercom](https://mercomindia.com/punjab-solar-wind-deviation-jan-2020/) **In detail:** [PSERC (Forecasting, Scheduling, Deviation Settlement and Related Matters of Solar and Wind Generation Sources) Regulations, 2019](https://www.pserc.gov.in/pages/notification-no-135.pdf)
+Chief Minister Captain Amarinder Singh announced that the state government has launched the first of its kind Punjab “job helpline” number for job seekers. **Source:** [India Today](https://www.indiatoday.in/education-today/news/story/cm-amarinder-singh-launches-first-of-its-kind-punjab-job-helpline-for-job-seekers-1615093-2019-11-02)
