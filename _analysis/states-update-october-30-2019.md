@@ -26,7 +26,7 @@ author:
 ---
 **Big News**
 
-Delhi faces a public health emergency as air quality worsens; new textile policy in Karnataka; Telangana chief minister announces privatization of bus routes amid strike; Chhattisgarh approves New Industrial Policy; West Bengal bans gutka & pan masala for 1 year; Jharkand state election dates announced- results on December 23; the state of Jammu and Kashmir becomes two union territories; and more.
+Delhi faces a public health emergency as air quality worsens; new textile policy in Karnataka; Telangana chief minister announces privatization of bus routes amid strike; Chhattisgarh approves New Industrial Policy; West Bengal bans gutka & pan masala for 1 year; Jharkhand state election dates announced- results on December 23; the state of Jammu and Kashmir becomes two union territories; and more.
 
 **Center – State relations**
 
