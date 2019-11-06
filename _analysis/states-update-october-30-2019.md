@@ -58,7 +58,7 @@ Nothing critical to report this week.
 
 Karnataka now has an integrated emergency helpline number, 112, which will allow residents of the state to call for police, fire and emergency, and ambulance services. **Source:** [The News Minute](https://www.thenewsminute.com/article/karnataka-govt-launches-new-emergency-helpline-number-112-111544)
 
-The state cabinet approved a new textile policy for 2019-2024 with a wage subsidy of $14.12 to $21.18 per employee for units employing more than 200 people. Companies that set up units in the six backward districts which falls under Zone 1, will be given higher incentives and subsidies. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-new-textile-policy-to-create-5-lakh-jobs/articleshowprint/71846712.cms)
+The state cabinet approved a new textile policy for 2019-2024 with a wage subsidy of $14.12 to $21.18 per employee for units employing more than 200 people. Companies that set up units in the six backward districts which falls under Zone 1, will be given higher incentives and subsidies. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-new-textile-policy-to-create-5-lakh-jobs/articleshowprint/71846712.cms) **In Detail:** [New Textile and Garment Policy 2019-24](http://www.cogitasia.com/wp-content/uploads/2019/11/New-Textile-Garment-Policy-2019-24.pdf)
 
 **Madhya Pradesh**
 
