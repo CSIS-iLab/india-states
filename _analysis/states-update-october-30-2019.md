@@ -2,8 +2,8 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: October 30, 2019 '
-date: 2019-10-30 04:00:00 +0000
+title: 'States Update: November 6, 2019 '
+date: 2019-11-06 05:00:00 +0000
 tags: []
 excerpt: 'Delhi faces a public health emergency as air quality worsens; new textile
   policy in Karnataka; Telangana chief minister announces privatization of bus routes
