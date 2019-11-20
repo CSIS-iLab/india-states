@@ -128,4 +128,4 @@ The Union Health and Family Welfare Ministry published the Comprehensive Nationa
 
 **Uttarakhand**
 
-The Uttarakhand cabinet announced that start-ups registered outside the state employ local residents for at least 50 percent of their positions in order to operate in the state and get benefits of the policy for start-ups. **Source:**[Indian Express](https://indianexpress.com/article/india/uttarakhand-cabinet-nod-to-new-rules-for-start-ups-6118737/)
+The Uttarakhand cabinet announced that start-ups registered outside the state must employ local residents for at least 50 percent of their positions in order to operate in the state and get benefits of the policy for start-ups. **Source:**[Indian Express](https://indianexpress.com/article/india/uttarakhand-cabinet-nod-to-new-rules-for-start-ups-6118737/)
