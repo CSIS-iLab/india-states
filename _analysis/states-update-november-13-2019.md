@@ -2,7 +2,7 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: November 13, 2019 '
+title: 'States Update: November 20, 2019 '
 date: 2019-11-20 05:00:00 +0000
 tags: []
 excerpt: Andhra Pradesh moves towards English medium schools; Maharashtra under President’s
