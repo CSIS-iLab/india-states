@@ -78,7 +78,7 @@ According to state legal affairs minister PC Sharma, the cultivation of cannabis
 
 **Maharashtra**
 
-The Maharashtra power-sharing struggle continues. On November 23, Devendra Fadnavis (BJP) took oath as chief minister with Ajit Pawar (NCP) on oath as deputy chief minister. After a Supreme Court sided with Shiv Sena-NCP-Congress request for an immediate floor test to prove majority, both Fadnavis and Pawar resigned. Now Uddhav Thackeray (Shiv Sena) is set to be sworn in as chief minister on November 28 . **Source:** [Hindustan Times](https://www.thehindu.com/news/national/other-states/uddhav-thackeray-stakes-claim-to-form-government-in-maharashtra/article30090391.ece)
+The Maharashtra power-sharing struggle continues. On November 23, Devendra Fadnavis (BJP) took oath as chief minister with Ajit Pawar (NCP) on oath as deputy chief minister. After the Supreme Court sided with a Shiv Sena-NCP-Congress request for an immediate floor test to prove majority, both Fadnavis and Pawar resigned. Now Uddhav Thackeray (Shiv Sena) is set to be sworn in as chief minister on November 28 . **Source:** [Hindustan Times](https://www.thehindu.com/news/national/other-states/uddhav-thackeray-stakes-claim-to-form-government-in-maharashtra/article30090391.ece)
 
 **Rajasthan**
 
