@@ -2,8 +2,8 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: November 20, 2019 '
-date: 2019-11-20 05:00:00 +0000
+title: 'States Update: November 27, 2019 '
+date: 2019-11-27 05:00:00 +0000
 tags: []
 excerpt: Andhra Pradesh moves towards English medium schools; Maharashtra under President’s
   rule; Telangana transport employee strike continues; Concerns rise in northeast
@@ -24,20 +24,27 @@ details:
   url: ''
 author:
 - Afeena Ashfaque
-published: false
 
 ---
 **Big News**
 
-Andhra Pradesh moves towards English medium schools; Maharashtra under President’s rule; Telangana transport employee strike continues; Concerns rise in northeast over Citizenship (Amendment) Bill; Haryana issues draft regulations to allow a single electricity meter for multi-establishment institutions; Kerala to continue providing off-grid solar incentives; Tamil Nadu fight over renewable power tariffs escalates; Uttarakhand cabinet approves new regulations for start-ups to expand employment of locals; and more.
+Andhra Pradesh cancels all existing bars licenses, releases new solar & wind policies; Haryana creates a Department of Foreign Cooperation; Karnataka approves night-shift employment of women; BJP’s Devendra Fadnavis takes chief minister seat in Maharashtra with NCP coalition – resigns 80 hours later; Rajasthan releases Startup and Innovation Policy 2019; Telangana transportation strike ends after 52 days; Assam releases new land policy 2019; Kerala passes MSME Facilitation Bill 2019; and more.
 
-**Center – State Relations**
+**Center – State relations**
 
 Nothing critical to report this week.
 
 **Andhra Pradesh**
 
-Andhra Pradesh chief minister YS Jagan Mohan Reddy has launched the Nadu-Nedu program. This program aims to transform government schools into technology-driven, competitive, English medium schools that prepare students for the future job market. **Source:** [India Today](https://www.indiatoday.in/education-today/news/story/rs-12-000-crore-nadu-nedu-programme-in-andhra-pradesh-to-turn-govt-schools-into-competitive-institutions-1619317-2019-11-15)
+The Andhra Pradesh government has canceled the licenses of all existing bars in the state, under a new Bar Policy 2020-2021. The new license application fee is set at $13,937 and the state will charge additional non-refundable annual registration charges of up to $209,300. **Source:** [NDTV](https://www.ndtv.com/andhra-pradesh-news/andhra-pradesh-government-cancels-licenses-of-all-bars-in-state-2137192) **In detail:** [Bar Policy 2020-2021](https://apegazette.cgg.gov.in/gazettes/1574420904669.pdf)
+
+The Andhra Pradesh government has decided to set up a maritime board that will come into effect December 16. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/vijayawada/ap-maritime-board-to-start-functioning-from-december-16/articleshow/72190683.cms)
+
+German development bank KfW has agreed to lend $241.8 million to the Andhra Pradesh government for expanding Zero-Budget Natural Farming in the state. The state government is asking for another $345.5 million from the Department of Economic Affairs. **Source:** [Money Control](https://www.moneycontrol.com/news/business/kfw-to-lend-rs-1735cr-to-andhra-pradesh-for-zero-budget-natural-farming-4660431.html)
+
+The Andhra Pradesh government has amended its solar and wind power policies, taking even more control over setting tariffs from power generation units. **Source:** [Financial Express](https://www.financialexpress.com/economy/andhra-pradesh-tightens-renewable-energy-norms/1768431/)
+
+The winter session of the Andhra Pradesh Legislative Assembly is likely to begin on December 9, instead of December 2 as originally proposed. **Source:** [The Hindu](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-assembly-session-likely-from-december-9/article30053793.ece)
 
 **Bihar**
 
@@ -45,49 +52,51 @@ Nothing critical to report this week.
 
 **New Delhi**
 
-Delhi electricity distribution company BSES announced that BSES Rajdhani Power Ltd has partnered with Australia's Power Ledger, a global leader in blockchain technology. The partnership hopes to launch consumer-to-consumer solar power trading on a trial basis. **Source:** [News 18](https://www.news18.com/news/tech/bses-has-launched-a-blockchain-based-platform-for-consumers-to-trade-power-2386439.html) **In Detail:** [Press Release](https://www.bsesdelhi.com/documents/55701/1190197189/Blockchain_November_13_Eng.pdf)
+Nothing critical to report this week.
 
 **Gujarat**
 
-The Gujarat government announced a relief package of $97.7 million for over 400,000 farmers in the state whose crops have been damaged due to excess rains this year. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/agriculture/gujarat-announces-rs-700-crore-relief-package-for-rain-hit-farmers/articleshow/72041832.cms)
+Gujarat government launched a web portal to allow industrial units to make online application for waiver of electricity duty. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/power-duty-waiver-system-goes-online-in-gujarat/articleshow/72178855.cms) **In Detail:** [Collector of Elecricity Duty](http://ceiced.ncode.in/CED/)
+
+The Gujarat government unveiled the integrated online revenue applications 2.0, which brings nineteen services under the revenue department online. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/gujarat-govt-unveils-integrated-online-revenue-services-system-119112201423_1.html)
 
 **Haryana**
 
-Haryana Electricity Regulation Commission has invited various stakeholders to share their comments on the draft Single Point Supply Regulations 2019 by November 28. **Source:** [Punjab News Express](http://www.punjabnewsexpress.com/regional/news/-haryana-electricity-regulation-commission-herc-invites-comments-on-draft-single-point-supply-regulations-2019-97183.aspx) **In detail:** [Draft regulation](https://herc.gov.in/writereaddata/pdf/d20191031.pdf)
+The Haryana state government has decided to create a new department called the Department of Foreign Cooperation to focus on initiatives taken by the state for the promotion of investment, youth employment, and welfare of Non-Resident Indians. **Source:** [Jagran Josh](https://www.jagranjosh.com/current-affairs/haryana-to-set-up-new-foreign-cooperation-department-1574141027-1)
 
 **Karnataka**
 
-Nothing critical to report this week.
+The Karnataka government approved night-shift employment of women workers in the factories registered under the Factories Act 1948, thus signalling a growing shift in the mindsets of lawmakers who have resisted earlier attempts over concerns of safety and exploitation. **Source:** [Live Mint](https://www.livemint.com/news/world/karnataka-govt-allows-women-to-work-in-night-shift-in-factories-11574266954545.html)
+
+The Asian Development Bank will provide a $91 million loan to modernize the Vijayanagara Channel irrigation systems and prepare river basin management plans in the Krishna river. **Source:** [Outlook](https://www.outlookindia.com/newsscroll/adb-to-provide-usd-91-mn-loan-for-vijayanagara-channel/1665600) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=194564)
+
+The first flight has departed from Kalaburagi airport, built at a cost of $25.2 million on 742 acres of land. **Source:** [Deccan Herald](https://www.deccanherald.com/state/kalaburagi/cm-yediyurappa-inaugurates-kalaburagi-airport-778977.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=194904)
 
 **Madhya Pradesh**
 
-Nothing critical to report this week.
+According to state legal affairs minister PC Sharma, the cultivation of cannabis will be legalized in the state for medicinal or industrial purposes. **Source:** [News18](https://www.news18.com/news/buzz/after-uttarakhand-madhya-pradesh-is-now-planning-to-legalize-cannabis-in-the-state-2395801.html)
 
 **Maharashtra**
 
-The Asian Infrastructure Investment Bank will extend a $500 million long-term project loan to Mumbai Urban Transport Corporation and invest $75 million in Tata Cleantech Capital. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/infrastructure/mumbai-infra-gets-a-500-million-aiib-boost/articleshow/72071604.cms) **In Detail:** [Press Release](https://www.aiib.org/en/news-events/news/2019/20191115_001.html)
-
-Maharashtra has been placed under President's rule. Although election results were announced weeks ago, there is still no government in sight in the state as the power-sharing struggle continues. **Source:** [India Today](https://www.indiatoday.in/india/story/maharashtra-politics-live-updates-bjp-congress-ncp-sonia-gandhi-sharad-pawar-meeting-on-shiv-sena-govt-formation-1619970-2019-11-18)
+The Maharashtra power-sharing struggle continues. On November 23, Devendra Fadnavis (BJP) took oath as chief minister with Ajit Pawar (NCP) on oath as deputy chief minister. After a Supreme Court sided with Shiv Sena-NCP-Congress request for an immediate floor test to prove majority, both Fadnavis and Pawar resigned. Now Uddhav Thackeray (Shiv Sena) is set to be sworn in as chief minister on November 28 . **Source:** [Hindustan Times](https://www.thehindu.com/news/national/other-states/uddhav-thackeray-stakes-claim-to-form-government-in-maharashtra/article30090391.ece)
 
 **Rajasthan**
 
-The Rajasthan government has decided to open its huge potash reserves to the private sector through auctions. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/jaipur/rajasthan-to-open-its-huge-potash-deposits-for-private-sector/articleshow/72079964.cms)
+The Rajasthan government released the draft of Startup and Innovation Policy 2019 as part of its Rajasthan Innovation Vision for reforms in the state’s entrepreneurship ecosystem. The policy is available in public domain for comments from stakeholders and members of the ecosystem by December 7, 2019. **Source:** [Financial Express](https://www.financialexpress.com/industry/sme/rajasthan-government-releases-draft-of-startup-and-innovation-policy-2019/1772647/) **In detail:** [Rajasthan Startup & Innovation Policy 2019 – Draft](https://istart.rajasthan.gov.in/Rajasthan_Startup_&_Innovation_Policy_2019_(DRAFT).pdf)
+
+The Congress Party in Rajasthan has registered impressive victories in urban local body polls, winning 11 of 17 municipal councils. The BJP was able to win only three municipal councils in the Rajasthan local body elections. **Source:** [India Today](https://www.indiatoday.in/india/story/rajasthan-local-urban-body-elections-congress-victory-bjp-ashok-gehlot-1620478-2019-11-19)
 
 **Tamil Nadu**
 
-The state government has identified locations for setting up six new medical colleges and released $83.7 million for kickstarting the construction work. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-sanctions-600-crore-for-six-medical-colleges/articleshow/72031255.cms)
-
-The Appellate Tribunal for Electricity has asked the Tamil Nadu Electricity Regulatory Commission to pass a new tariff order for power procured from renewable sources. **Source:** [Mercom](https://mercomindia.com/aptel-asks-tamil-nadu-commission-review-renewables/)
+Tamil Nadu emerges as the top state in terms of solar capacity, at 32.6 gigawatts by the end of the third quarter of 2019, according to report by Mercom Capital Group. **Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-tops-solar-capacity-in-third-quarter-a-report-says/article30038095.ece)
 
 **Telangana**
 
-The transport employee strike that began on October 5 continues, while parties on both sides await the high court’s verdict on the impasse. **Source:** [News18](https://www.news18.com/news/india/telangana-transport-strike-cops-shift-fasting-union-leader-to-hospital-2390217.html)
+The Telangana State Road Transport Corporation Joint Action Committee called off its 52 day long strike, but tension prevailed in different parts of Hyderabad on Tuesday when nearly 800 employees who tried to resume their duties were detained by the police. **Source:** [Live Mint](https://www.livemint.com/news/india/tsrtc-employees-taken-into-custody-by-police-during-attempt-to-rejoin-duty-11574771879751.html)
 
 **Uttar Pradesh**
 
-To keep a check on non-payment of electricity dues, the Yogi Adityanath government in Uttar Pradesh has ordered over 500,000 prepaid power meters to be installed in all government offices, official residences of ministers and politicians. **Source:** [India Today](https://www.indiatoday.in/india/story/up-power-ministry-installs-prepaid-metre-as-electricity-dues-of-govt-offices-bungalows-cross-rs-13-000-crore-1619273-2019-11-15)
-
-Major clashes broke out between farmers and Uttar Pradesh Police after the farmers staged a protest demanding compensation for their land acquired by the government for residential projects in the district. **Source:** [Times Now](https://www.timesnownews.com/india/article/cops-farmers-clash-over-smart-city-project-on-disputed-land-in-unnao/516350)
+Nothing critical to report this week.
 
 **West Bengal**
 
@@ -95,38 +104,22 @@ Nothing critical to report this week.
 
 **Best of the Rest**
 
-**Arunachal Pradesh**
-
-The Agricultural and Processed Food Products Export Development Authority held the first ever international buyer seller meet on agriculture and horticulture produce in Arunachal Pradesh. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/agriculture/first-ever-international-buyer-seller-meet-in-arunachal-pradesh/articleshow/72073082.cms) **In Detail:** [Press Release](https://commerce.gov.in/PressRelease.aspx?Id=6735)
-
-The state government has convened a cabinet meeting on November 18 to discuss the controversial Citizenship (Amendment) Bill, which is likely to be tabled in the Winter Session of Parliament. **Source:** [News 18](https://www.news18.com/news/politics/arunachal-pradesh-convenes-cabinet-meet-on-monday-to-discuss-citizenship-amendment-bill-2389439.html)
-
 **Assam**
 
-Protests broke out across Assam on Friday against the controversial Citizenship (Amendment) Bill. Opposition parties have criticized the bill as discriminatory on religious grounds, saying it deliberately omits Muslims. **Source:** [Scroll.in](https://scroll.in/latest/943895/citizenship-bill-protests-break-out-in-assam-as-bjp-set-to-introduce-legislation-in-parliament)
+Assam chief minister Sarbananda Sonowal released the new Land Policy 2019 prepared by Revenue and Disaster Management Department. The policy aims to address flooding and erosion in the state, restricting development near rivers, and allowing the government to allot land to displaced farmers. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/assam-chief-minister-sarbananda-sonowal-releases-new-land-policy/articleshow/72173055.cms) **In Detail:** [Assam Land Policy 2019](https://landrevenue.assam.gov.in/sites/default/files/swf_utility_folder/departments/revenue_com_oid_6/latest/land_policy_2019_.pdf)
 
-The government of Assam launched a project for transformation of the Inland Water Transport system on the National Waterways in the state of Assam. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/assam-govt-launches-project-to-transform-inland-water-transport/articleshow/71996243.cms)
-
-The Assam government has passed its first export policy to boost exports in nine focus areas, including tea, wellness, hospitality, and health tourism. **Source:** [Times of India](https://timesofindia.indiatimes.com/business/india-business/assam-gets-its-first-export-policy/articleshow/72059365.cms)
-
-Assam Industries and Commerce Department has signed a memorandum of understanding with Malaysia India Business Council to improve the two-way trade and investment between India and Malaysia. **Source:** [Money Control](https://www.moneycontrol.com/news/business/economy/assam-industries-commerce-dept-signs-mou-with-malaysia-india-business-council-4625901.html)
-
-**Chhattisgarh**
-
-The Chhattisgarh cabinet chaired by Chief Minister Bhupesh Baghel gave its nod for the merger and integration of various health schemes running in the State into one. **Source:** [Economic Times](https://health.economictimes.indiatimes.com/news/policy/chhattisgarh-cabinet-gives-nod-to-integrated-healthcare-scheme/72084175)
+The Assam cabinet has approved Assam Bamboo and Cane Policy. The policy aims at protection of biodiversity, enhancement of resources, enhancing employment opportunity and livelihood security for the local people. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/assam-cabinet-approves-assam-bamboo-and-cane-policy/articleshow/72130401.cms)
 
 **Kerala**
 
-The Kerala State Electricity Regulatory Commission has extended the validity of its incentives for off-grid solar projects by extending the program by another two years. **Source:** [Mercom](https://mercomindia.com/kerala-extends-validity-consumer-incentives-off-grid-solar/)
+The state assembly passed Kerala Micro-Small-Medium Enterprises Facilitation Bill 2019. According to the new bill, investments up to $13,937 will not require any prior license from the state government for the first three years, after which necessary licenses must be procured within six months. **Source:** [India Today](https://www.indiatoday.in/business/story/kerala-to-ease-procedures-for-msmes-can-operate-without-license-for-3-years-1621346-2019-11-21)
+
+The Kerala government decided to ban single-use-plastic products from January 1, 2020. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/kerala-govt-bans-single-use-plastic-from-january-one/articleshow/72174112.cms)
 
 **Meghalaya**
 
-The state cabinet approved the Meghalaya Excise Amendment Rules, 2019 which aimed at improving revenue collection in the state. **Source:** [North East Now](https://nenow.in/north-east-news/meghalaya/meghalaya-to-charge-liquor-fee-from-military-paramilitary-forces.html)
+The Meghalaya government is seeking to amend the Meghalaya Residents’ Safety and Security Act of 2016 through an Ordinance, which will make it compulsory to those visiting the state for more than 24 hours to get a permit. **Source:** [The National Herald](https://www.nationalheraldindia.com/india/meghalaya-draft-ordinance-awaits-nod-to-make-permits-compulsory-for-visitors)
 
-**Punjab**
+**Mizoram**
 
-The Union Health and Family Welfare Ministry published the Comprehensive National Nutrition Survey 2016-2018. Despite being one of the most affluent states in the country, Punjab has the highest prevalence of iron deficiency among children across all three age groups. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/children-low-on-micronutrients-in-punjab/articleshow/72079222.cms) **In detail:** [Comprehensive National Nutrition Survey 2016-2018 report](https://www.popcouncil.org/uploads/pdfs/2019RH_CNNSreport.pdf)
-
-**Uttarakhand**
-
-The Uttarakhand cabinet announced that start-ups registered outside the state must employ local residents for at least 50 percent of their positions in order to operate in the state and get benefits of the policy for start-ups. **Source:**[Indian Express](https://indianexpress.com/article/india/uttarakhand-cabinet-nod-to-new-rules-for-start-ups-6118737/)
+The state assembly passed the Mizoram Salaries, Allowances and Pension of Members of Legislative Assembly (amendment) Bill, raising the monthly salary and allowances of a member of the legislative assembly from
