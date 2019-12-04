@@ -31,9 +31,9 @@ The Asian Development Bank approves loans to EESL, Tamil Nadu, and West Bengal; 
 
 **Center – State Relations**
 
-The Asian Development Bank (ADB) has approved a loan of $250 million as part of an assistance package to Energy Efficiency Services Limited, to expand energy efficiency investments in India. **Source:** [Business Standard](https://www.business-standard.com/article/news-cm/adb-provides-us-250-million-to-expand-energy-efficiency-investments-in-india-119112800420_1.html) **In detail:** [ADB Press Release](https://www.adb.org/news/adb-provides-250-million-expand-energy-efficiency-investments-india)
+The Asian Development Bank (ADB) has approved a loan of $250 million as part of an assistance package to Energy Efficiency Services Limited, to expand energy efficiency investments in India. **Source:** [Business Standard](https://www.business-standard.com/article/news-cm/adb-provides-us-250-million-to-expand-energy-efficiency-investments-in-india-119112800420_1.html) **In Detail:** [ADB Press Release](https://www.adb.org/news/adb-provides-250-million-expand-energy-efficiency-investments-india)
 
-The latest School Education Quality Index released by the Niti Aayog found that 18 out of 20 large states improved their overall scores between 2015-16 and 2016-17. Haryana, Assam, Uttar Pradesh, Odisha, and Gujarat showed high rates of improvement. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/school-education-quality-index-gujarat-jumps-two-spots/articleshowprint/72284769.cms) **In detail:** [School Education Quality Index Report](https://niti.gov.in/sites/default/files/2019-09/seqi_document.pdf)
+The latest School Education Quality Index released by the Niti Aayog found that 18 out of 20 large states improved their overall scores between 2015-16 and 2016-17. Haryana, Assam, Uttar Pradesh, Odisha, and Gujarat showed high rates of improvement. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/school-education-quality-index-gujarat-jumps-two-spots/articleshowprint/72284769.cms) **In Detail:** [School Education Quality Index Report](https://niti.gov.in/sites/default/files/2019-09/seqi_document.pdf)
 
 **Andhra Pradesh**
 
@@ -55,7 +55,7 @@ Nothing critical to report.
 
 The Comptroller and Auditor General of India’s latest revenue sector report on Haryana for the 2017-18 fiscal highlights an increase in tax and non-tax revenues up to 21 percent. **Source:** [Hindustan Times](https://www.hindustantimes.com/chandigarh/haryana-registered-up-to-21-tax-revenue-growth-from-2013-18/story-IRjOA17KsVDC2SeOwqqzrI.html) **In Detail:** State Finances Audit Report
 
-The Haryana Electricity Regulatory Commission has issued an updated version of its regulations for rooftop solar grid-interactive systems in response to a petition filed by the Haryana Renewable Energy Development Agency. The changes include provisions for net metering facilities. **Source:** [Mercom](https://mercomindia.com/haryana-discoms-allow-net-metering-cap-rooftop-solar/) **In detail:** [Rooftop Solar Grid Interactive Systems Based on Net Metering](https://herc.gov.in/writereaddata/pdf/r20191025.pdf)
+The Haryana Electricity Regulatory Commission has issued an updated version of its regulations for rooftop solar grid-interactive systems in response to a petition filed by the Haryana Renewable Energy Development Agency. The changes include provisions for net metering facilities. **Source:** [Mercom](https://mercomindia.com/haryana-discoms-allow-net-metering-cap-rooftop-solar/) **In Detail:** [Rooftop Solar Grid Interactive Systems Based on Net Metering](https://herc.gov.in/writereaddata/pdf/r20191025.pdf)
 
 **Karnataka**
 
@@ -75,7 +75,7 @@ Nothing critical to report this week.
 
 **Tamil Nadu**
 
-The ADB and the government of India signed a $451 million loan to strengthen power connectivity between the southern and northern parts of the Chennai-Kanyakumari Industrial Corridor, which is part of the East Coast Economic Corridor, in Tamil Nadu. **Source:** [Business Standard](https://www.business-standard.com/article/news-cm/adb-india-sign-451-million-loan-to-strengthen-power-connectivity-in-tamil-nadu-119112900169_1.html) **In detail:** [ADB Press Release](https://www.adb.org/news/adb-provides-451-million-strengthen-power-connectivity-tamil-nadu)
+The ADB and the government of India signed a $451 million loan to strengthen power connectivity between the southern and northern parts of the Chennai-Kanyakumari Industrial Corridor, which is part of the East Coast Economic Corridor, in Tamil Nadu. **Source:** [Business Standard](https://www.business-standard.com/article/news-cm/adb-india-sign-451-million-loan-to-strengthen-power-connectivity-in-tamil-nadu-119112900169_1.html) **In Detail:** [ADB Press Release](https://www.adb.org/news/adb-provides-451-million-strengthen-power-connectivity-tamil-nadu)
 
 The Tamil Nadu government signed nine new MOUs at the Investment and Skill Development Conclave organized by the Tamil Nadu government and presided over by Chief Minister Edappadi K Palaniswami. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/news/national/tamil-nadu-signs-mous-worth-5000-crore/article30125115.ece) **In Detail:** [Investment & Skill Development Conclave MoU Press Release](https://cms.tn.gov.in/sites/default/files/press_release/pr301119_856.pdf)
 
@@ -89,7 +89,7 @@ Uttar Pradesh is set to become the first state in India to launch blockchain-ena
 
 **West Bengal**
 
-The ADB has approved the release of a $150 million loan for West Bengal to boost capital investment and infrastructure in the state. **Source:** [Devdiscourse](https://www.devdiscourse.com/article/business/759367-west-bengal-to-receive-second-tranche-of-adbs-policy-based-program-loan) **In detail:** [ADB Press Release](https://www.adb.org/news/adb-releases-second-150-million-loan-budgetary-support-west-bengal)
+The ADB has approved the release of a $150 million loan for West Bengal to boost capital investment and infrastructure in the state. **Source:** [Devdiscourse](https://www.devdiscourse.com/article/business/759367-west-bengal-to-receive-second-tranche-of-adbs-policy-based-program-loan) **In Detail:** [ADB Press Release](https://www.adb.org/news/adb-releases-second-150-million-loan-budgetary-support-west-bengal)
 
 **Best of the Rest**
 
@@ -113,7 +113,7 @@ The center will sponsor a new $45.3 million government medical college in Kupwar
 
 The Manipur cabinet has decided to convene the winter session of the assembly from December 18 to deliberate on several key issues including the Naga peace talks and the Citizenship (Amendment) Bill. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/imphal/manipur-assembly-session-from-december-18/articleshow/72316374.cms)
 
-The Union Ministry of Shipping on November 27 approved the long pending demand of Manipur government for the development of Loktak Inland Waterways project in the state. **Source:** [Business Standard](https://www.business-standard.com/article/news-ani/centre-approves-loktak-inland-waterways-project-in-manipur-119112800002_1.html) **In detail:** [Press Release](https://www.business-standard.com/article/news-ani/centre-approves-loktak-inland-waterways-project-in-manipur-119112800002_1.html)
+The Union Ministry of Shipping on November 27 approved the long pending demand of Manipur government for the development of Loktak Inland Waterways project in the state. **Source:** [Business Standard](https://www.business-standard.com/article/news-ani/centre-approves-loktak-inland-waterways-project-in-manipur-119112800002_1.html) **In Detail:** [Press Release](https://www.business-standard.com/article/news-ani/centre-approves-loktak-inland-waterways-project-in-manipur-119112800002_1.html)
 
 **Odisha**
 
