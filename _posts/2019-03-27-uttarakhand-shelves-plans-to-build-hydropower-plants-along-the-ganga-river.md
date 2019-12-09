@@ -1,13 +1,15 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: Uttarakhand shelves plans to build hydropower plants along the Ganga River
-date: 2019-03-27 04:00:00 +0000
+title: Title
+date: 2019-03-27T04:00:00.000+00:00
 states:
-- Uttarakhand
+- Sikkim
 sectors:
+- Health
 - Energy
 subsectors:
+- " Healthcare Regulation"
 - Renewables
 sources:
 - name: Daily News Analysis
@@ -16,4 +18,4 @@ details: []
 is_analysis: false
 
 ---
-The Uttarakhand government shelved its plans to build small hydropower projects in the fragile Bhagirathi Eco-Sensitive Zone— created to protect Ganga River’s most pristine stretch between the towns of Gaumukh and Uttarkashi.
+This is a test
