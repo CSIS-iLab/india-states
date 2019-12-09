@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/regulators-can-t-rejig-bid-based-tariffs-andhra-pradesh-tribunal-for-electricity.md
 - _posts/2019-09-18-govt-intends-to-complete-unbundling-of-pdd-pdc-before-oct-31.md
 - _posts/2019-03-27-uttarakhand-shelves-plans-to-build-hydropower-plants-along-the-ganga-river.md
 - _posts/2019-03-27-delhi-approves-power-sale-agreement-between-seci-and-tata-power-delhi-distribution-limited.md
