@@ -20,3 +20,4 @@ details:
 is_analysis: false
 
 ---
+The central government is holding a two day conference for Energy Ministers and top officials of state energy departments to celebrate achieving near universal household electrification under the Saubhagya scheme and focus on the importance of renewable energy.
