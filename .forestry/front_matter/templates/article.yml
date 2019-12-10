@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/aptel-asks-tamil-nadu-commission-to-review-its-tariff-order-for-renewables.md
 - _posts/haryana-electricity-regulation-commission-herc-invites-comments-on-draft-single-point-supply-regulations-2019.md
 - _posts/bses-has-launched-a-blockchain-based-platform-for-consumers-to-trade-power.md
 - _posts/tamil-nadu-tops-solar-capacity-in-third-quarter-report-says.md
