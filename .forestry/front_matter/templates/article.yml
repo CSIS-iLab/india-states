@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/tamil-nadu-tops-solar-capacity-in-third-quarter-report-says.md
 - _posts/power-duty-waiver-system-goes-online-in-gujarat.md
 - _posts/andhra-pradesh-government-takes-more-control-over-tariffs-for-wind-solar.md
 - _posts/2019-12-04-jammu-and-kashmir-centre-sanctions-rs325-crore-for-medical-college-for-handwara.md
