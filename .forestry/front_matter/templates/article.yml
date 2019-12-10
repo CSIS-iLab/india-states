@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/children-low-on-micronutrients-in-punjab.md
 - _posts/chhattisgarh-cabinet-gives-nod-to-integrated-healthcare-scheme.md
 - _posts/tamil-nadu-sanctions-rs-600-crore-for-six-medical-colleges.md
 - _posts/kerala-extends-validity-of-consumer-incentives-for-off-grid-solar-systems-by-2-years.md
