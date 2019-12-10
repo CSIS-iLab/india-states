@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/bses-has-launched-a-blockchain-based-platform-for-consumers-to-trade-power.md
 - _posts/tamil-nadu-tops-solar-capacity-in-third-quarter-report-says.md
 - _posts/power-duty-waiver-system-goes-online-in-gujarat.md
 - _posts/andhra-pradesh-government-takes-more-control-over-tariffs-for-wind-solar.md
