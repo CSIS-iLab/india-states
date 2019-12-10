@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/centre-andhra-reach-a-compromise-on-green-contracts.md
 - _posts/adb-india-sign-451-million-loan-to-strengthen-power-connectivity-in-tamil-nadu.md
 - _posts/jammu-and-kashmir-centre-sanctions-rs325-crore-for-medical-college-for-handwara.md
 - _posts/odisha-government-to-privatize-four-state-owned-power-distribution-firms.md
@@ -47,7 +48,6 @@ pages:
 - _posts/uttar-pradesh-to-become-first-state-to-launch-blockchain-enabled-solar-power-trading.md
 - _posts/haryana-discoms-to-allow-net-metering-until-rooftop-solar-capacity-reaches-500-mw.md
 - _posts/2019-12-04-eesl-south-delhi-municipal-corporation-sign-mou-to-install-75-charging-stations.md
-- _posts/centre-andhra-reach-a-compromise-on-green-contracts.md
 - _posts/2019-10-03-mp-to-get-40-mw-power-from-northern-grid.md
 - _posts/2019-11-28-adb-provides-us-250-million-to-expand-energy-efficiency-investments-in-india.md
 - _posts/we-will-turn-consumers-into-prosumers-says-union-power-minister-at-2-day-energy-conference.md
