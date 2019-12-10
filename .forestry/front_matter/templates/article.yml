@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/andhra-pradesh-government-takes-more-control-over-tariffs-for-wind-solar.md
 - _posts/2019-12-04-jammu-and-kashmir-centre-sanctions-rs325-crore-for-medical-college-for-handwara.md
 - _posts/odisha-government-to-privatize-four-state-owned-power-distribution-firms.md
 - _posts/centre-andhra-reach-a-compromise-on-green-contracts.md
