@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/odisha-government-to-privatize-four-state-owned-power-distribution-firms.md
 - _posts/goa-to-extend-solar-ppa-with-ntpc-by-3-more-years.md
 - _posts/uttar-pradesh-to-become-first-state-to-launch-blockchain-enabled-solar-power-trading.md
 - _posts/adb-india-sign-451-million-loan-to-strengthen-power-connectivity-in-tamil-nadu.md
