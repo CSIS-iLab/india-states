@@ -8,7 +8,6 @@ states:
 sectors:
 - Energy
 subsectors:
-- " Financing and Payment "
 - Power
 sources:
 - url: https://www.livemint.com/industry/energy/odisha-government-to-privatize-four-state-owned-power-distribution-firms-11574879252138.html
