@@ -40,6 +40,7 @@ fields:
   config:
     required: true
 pages:
+- _posts/uttar-pradesh-to-become-first-state-to-launch-blockchain-enabled-solar-power-trading.md
 - _posts/adb-india-sign-451-million-loan-to-strengthen-power-connectivity-in-tamil-nadu.md
 - _posts/haryana-discoms-to-allow-net-metering-until-rooftop-solar-capacity-reaches-500-mw.md
 - _posts/2019-12-04-eesl-south-delhi-municipal-corporation-sign-mou-to-install-75-charging-stations.md
