@@ -10,7 +10,6 @@ sectors:
 - Energy
 subsectors:
 - Power
-- Delivery Systems
 sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/news-cm/adb-india-sign-451-million-loan-to-strengthen-power-connectivity-in-tamil-nadu-119112900169_1.html
