@@ -61,7 +61,7 @@ Nothing critical to report this week.
 
 **Karnataka**
 
-The state government issued a notification revising rules governing recruitment in industries under the Karnataka Industrial Employment (Standing Orders) Rules 1961. This revision directs private sector companies to give job priority to Kannadigas, residents of Karnataka who have lived in the state for over 15 years and can read, speak, and write Kannada "reasonably well". **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-amends-rules-to-give-kannadigas-priority-in-private-sector-jobs/articleshowprint/72418630.cms)
+The state government issued a notification revising the Karnataka Industrial Employment (Standing Orders) Rules 1961. This notification directs private companies to give job priority to Kannadigas, residents of Karnataka who have lived in the state for over 15 years and can read, speak, and write Kannada "reasonably well". **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-amends-rules-to-give-kannadigas-priority-in-private-sector-jobs/articleshowprint/72418630.cms)
 
 **Madhya Pradesh**
 
