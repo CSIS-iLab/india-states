@@ -8,7 +8,6 @@ states:
 sectors:
 - Energy
 subsectors:
-- " Financing and Payment "
 - Energy Efficiency
 sources:
 - name: Business Standard
