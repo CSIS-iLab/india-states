@@ -2,7 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: 'Regulators can’t rejig bid-based tariffs: Andhra Pradesh Tribunal for Electricity'
-date: 2019-10-03 16:05:33 +0000
+date: 2019-10-03 04:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
@@ -10,7 +10,7 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: The Economic Times
+- name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/regulators-cant-rejig-bid-based-tariffs-aptel/articleshow/71367589.cms
 details: []
 is_analysis: false
