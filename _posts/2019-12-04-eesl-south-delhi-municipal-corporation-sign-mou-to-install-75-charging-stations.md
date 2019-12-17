@@ -1,8 +1,8 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: EESL, South Delhi Municipal Corporation sign MoU to install 75 charging stations.
-date: 2019-12-04 05:00:00 +0000
+title: EESL, South Delhi Municipal Corporation sign MoU to install 75 charging stations
+date: 2019-12-04T05:00:00.000+00:00
 states:
 - Delhi
 sectors:
