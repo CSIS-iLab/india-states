@@ -1,7 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: Ranked 17th, Karnataka asked to reduce anaemia burden by 3% every year.
+title: Ranked 17th, Karnataka asked to reduce anaemia burden by 3% every year
 date: 2019-10-03 04:00:00 +0000
 states:
 - Karnataka
