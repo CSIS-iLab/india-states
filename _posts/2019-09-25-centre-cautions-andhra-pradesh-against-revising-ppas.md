@@ -4,7 +4,7 @@ breadcrumbs: articles
 title: Centre cautions Andhra Pradesh against revising PPAs
 date: 2019-09-25 04:00:00 +0000
 states:
-- Andhra Pradesh
+- Center-State Relations
 sectors:
 - Energy
 subsectors:
