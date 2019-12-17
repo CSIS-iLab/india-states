@@ -2,7 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: Govt intends to complete unbundling of PDD, PDC before Oct 31
-date: 2019-09-18 16:02:01 +0000
+date: 2019-09-18 04:00:00 +0000
 states:
 - Jammu and Kashmir
 sectors:
