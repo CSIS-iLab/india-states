@@ -8,7 +8,7 @@ states:
 sectors:
 - Energy
 subsectors:
-- Power
+- Renewables
 sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/up-energy-regulator-slashes-solar-tariffs-approves-bidding-for-550-mw-119092900541_1.html
