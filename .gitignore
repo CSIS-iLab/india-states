@@ -4,3 +4,4 @@ vendor
 .jekyll-metadata
 .bundle/
 .DS_Store
+.jekyll-cache/
