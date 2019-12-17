@@ -15,4 +15,4 @@ details: []
 is_analysis: false
 
 ---
-Haryana government announced to waive surcharge on electricity bills of tube wells.
+Haryana government announced it would waive the surcharge on electricity bills of tube wells.
