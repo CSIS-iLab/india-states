@@ -70,7 +70,7 @@ PLATFORMS
 DEPENDENCIES
   algoliasearch (= 1.6.1)
   jekyll (~> 4.0)
-  jekyll-feed (~> 0.6)
+  jekyll-feed
   jekyll-sitemap
   tzinfo-data
 

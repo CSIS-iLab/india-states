@@ -181,10 +181,10 @@ function jekyllBuild(done) {
 }
 
 exports.default = series(
-  parallel(sassTask, webpackTask, imagesTask),
+  parallel(sassTask, imagesTask),
   jekyllBuild,
   serve,
   watchTask
 )
 
-exports.build = series(parallel(sassTask, webpackTask, imagesTask), jekyllBuild)
+exports.build = series(parallel(sassTask, imagesTask), jekyllBuild)

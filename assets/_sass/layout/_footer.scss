@@ -1,0 +1,201 @@
+/*==============================
+=            Footer            =
+==============================*/
+
+footer.site-footer {
+  .footer-mainContainer {
+    background-image: url('../img//map-footer.svg');
+    background-repeat: no-repeat;
+    background-color: $base-blue;
+    padding: 2rem 0;
+    @include box-shadow(0px, 5px, 4px, 0, rgba(0, 0, 0, 0.2), false);
+
+    @include breakpoint('medium') {
+      background-position: right;
+    }
+
+    .footer-logoContainer {
+      p {
+        margin-top: 1rem;
+      }
+    }
+
+    .footer-tweetsContainer {
+      padding-top: 2rem;
+      padding-bottom: 2rem;
+
+      @include breakpoint('medium') {
+        padding: 0 2rem;
+      }
+
+      /*----------  Twitter Widget  ----------*/
+      a.twitter-timeline {
+        /* Text */
+        font: normal 12px/18px Helvetica, Arial, sans-serif;
+        color: #333;
+        white-space: nowrap;
+      }
+
+      a.twitter-timeline:hover,
+      a.twitter-timeline:focus {
+        background-color: #dedede;
+      }
+
+      /* Color Highlight for keyboard navigation */
+
+      a.twitter-timeline:focus {
+        outline: none;
+        border-color: #0089cb;
+      }
+    }
+
+    p {
+      color: $light-blue;
+      font-family: $font__ExpoSerif;
+      @include fontSize(14px);
+    }
+
+    address {
+      color: $white;
+      font-family: $font__ExpoSerif;
+      @include fontSize(14px);
+      font-style: normal;
+      line-height: 1.4;
+    }
+
+    .footer-title {
+      color: $white;
+      font-family: $font__MuseoSans;
+      @include fontSize(20px);
+      margin-top: 0;
+      margin-bottom: 1rem;
+
+      &.socialMedia {
+        margin-top: 2rem;
+      }
+    }
+
+    .footer-socialIcon {
+      max-width: 30px;
+      height: auto;
+      margin-right: 5px;
+    }
+
+    a {
+      color: $white;
+      box-shadow: none;
+    }
+  }
+
+  .footer-copyrightContainer {
+    background-color: $darkest-blue;
+    font-family: $font__ExpoSerif;
+    @include fontSize(14px);
+    color: $light-blue;
+    padding: 5px 0;
+
+    a {
+      box-shadow: none;
+    }
+  }
+
+  /*----------  Homepage Footer  ----------*/
+  &.home-footer {
+    background-color: $light-gray;
+    width: 100%;
+
+    @include breakpoint('medium') {
+      background-color: transparent;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+    }
+
+    .footer-mainContainer {
+      background-image: none;
+      background-color: transparent;
+      box-shadow: none;
+      margin-top: -1px;
+
+      .row {
+        align-items: flex-end;
+      }
+
+      .csis-logo {
+        height: 35px;
+
+        & path {
+          fill: $light-blue;
+        }
+      }
+
+      #Newsletter {
+        display: inline-block;
+        margin-left: 5px;
+      }
+
+      .newsletter {
+        background-color: $color__homepage-footer-gray;
+        color: $white;
+        font-family: $font__MuseoSans;
+        padding: 0.4rem 0.8rem 0.2rem;
+        display: inline-block;
+        position: relative;
+        bottom: 9px;
+        margin-left: 5px;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+        border-radius: 2px;
+      }
+
+      .newsletter:hover {
+        background-color: $medium-gray;
+      }
+
+      .footer-socialIcon {
+        @include breakpoint('medium') {
+          margin-left: 5px;
+          margin-right: 0;
+        }
+
+        path {
+          fill: $color__homepage-footer-gray;
+        }
+      }
+
+      .footer-copyright {
+        color: $color__homepage-footer-gray;
+        @include fontSize(13px);
+        padding-top: 0.5rem;
+        font-family: $font__MuseoSans;
+
+        div {
+          margin-top: 0;
+        }
+
+        a:not(.newsletter) {
+          color: $color__homepage-footer-gray;
+          &:hover {
+            color: $darkest-blue;
+          }
+        }
+
+        a:hover {
+          svg path {
+            fill: $medium-gray;
+          }
+        }
+
+        @include breakpoint('medium') {
+          padding-top: 0rem;
+          text-align: right;
+
+          div {
+            margin-top: 0;
+          }
+        }
+      }
+    }
+  }
+}
