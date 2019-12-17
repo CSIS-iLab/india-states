@@ -73,6 +73,9 @@ module.exports = {
     mode: 'production',
     module: {
       rules: []
+    },
+    externals: {
+      jquery: 'jQuery'
     }
   }
 }

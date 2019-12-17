@@ -1,64 +1,68 @@
-$(function() {
+import $ from 'jquery'
+
+const NationalGoals = () => {
   // on page load...
-  moveProgressBar();
+  moveProgressBar()
   // on browser resize...
   $(window).resize(function() {
-    moveProgressBar();
-  });
+    moveProgressBar()
+  })
 
   // SIGNATURE PROGRESS
   function moveProgressBar() {
-    var allData = Array.from(
-      $(".progress-wrap").map(function() {
-        return $(this).data("progress-percent");
+    let allData = Array.from(
+      $('.progress-wrap').map(function() {
+        return $(this).data('progress-percent')
       })
-    );
+    )
 
-    allData.push(100);
+    allData.push(100)
 
-    var max = allData.reduce(function(a, b) {
-      return Math.max(a, b);
-    });
+    let max = allData.reduce(function(a, b) {
+      return Math.max(a, b)
+    })
 
-    $(".progress-wrap").each(function() {
-      var percent = $(this).data("progress-percent") / max;
-      var getProgressWrapWidth = $(this).width();
-      var progressTotal = percent * getProgressWrapWidth;
-      calculateWidth(progressTotal);
-      var animationLength = 2500;
-      var totalWidth;
+    $('.progress-wrap').each(function() {
+      let percent = $(this).data('progress-percent') / max
+      let getProgressWrapWidth = $(this).width()
+      let progressTotal = percent * getProgressWrapWidth
+      calculateWidth(progressTotal)
+      let animationLength = 2500
+      let totalWidth
 
       function calculateWidth(progressTotal) {
         if (progressTotal > 500) {
           totalWidth =
-            window.innerWidth > 1000 ? progressTotal - 150 : progressTotal - 50;
+            window.innerWidth > 1000 ? progressTotal - 150 : progressTotal - 50
         } else {
-          totalWidth = progressTotal;
+          totalWidth = progressTotal
         }
       }
 
       // on page load, animate percentage bar to data percentage length
       // .stop() used to prevent animation queueing
       $(this)
-        .children(".progress-bar")
+        .children('.progress-bar')
         .stop()
         .animate(
           {
             width: totalWidth
           },
           animationLength
-        );
-    });
+        )
+    })
   }
 
-  var tooltips = document.querySelectorAll(".tip-content");
+  let tooltips = document.querySelectorAll('.tip-content')
 
   window.onmousemove = function(e) {
-    var x = e.clientX + 20 + "px",
-      y = e.clientY + 20 + "px";
-    for (var i = 0; i < tooltips.length; i++) {
-      tooltips[i].style.top = y;
-      tooltips[i].style.left = x;
+    let x = e.clientX + 20 + 'px',
+      y = e.clientY + 20 + 'px'
+    for (let i = 0; i < tooltips.length; i++) {
+      tooltips[i].style.top = y
+      tooltips[i].style.left = x
     }
-  };
-});
+  }
+}
+
+export default NationalGoals

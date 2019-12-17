@@ -1,27 +1,33 @@
+import $ from 'jquery'
+
 /*========================================
 =            Smooth Scrolling            =
 ========================================*/
-$(function() {
+const SmoothScroll = () => {
   // Add smooth scrolling to all links
-  $("a.smoothScroll").on('click', function(event) {
-
+  $('a.smoothScroll').on('click', function(event) {
     // Make sure this.hash has a value before overriding default behavior
-    if (this.hash !== "") {
+    if (this.hash !== '') {
       // Prevent default anchor click behavior
-      event.preventDefault();
+      event.preventDefault()
 
       // Store hash
-      var hash = this.hash;
+      const hash = this.hash
 
       // Using jQuery's animate() method to add smooth page scroll
       // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
-      $('html, body').animate({
-        scrollTop: $(hash).offset().top - 200
-      }, 800, function(){
-   
-        // Add hash (#) to URL when done scrolling (default click behavior)
-        window.location.hash = hash;
-      });
-    } // End if
-  });
-});
+      $('html, body').animate(
+        {
+          scrollTop: $(hash).offset().top - 200
+        },
+        800,
+        function() {
+          // Add hash (#) to URL when done scrolling (default click behavior)
+          window.location.hash = hash
+        }
+      )
+    }
+  })
+}
+
+export default SmoothScroll
