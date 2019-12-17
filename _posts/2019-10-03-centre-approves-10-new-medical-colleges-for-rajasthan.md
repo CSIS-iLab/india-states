@@ -1,7 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: Centre approves 10 new medical colleges for Rajasthan.
+title: Centre approves 10 new medical colleges for Rajasthan
 date: 2019-10-03 04:00:00 +0000
 states:
 - Rajasthan
