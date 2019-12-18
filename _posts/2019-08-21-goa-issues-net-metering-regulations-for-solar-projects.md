@@ -18,4 +18,4 @@ details:
 is_analysis: false
 
 ---
-The JERC for the state of Goa and union territories has finalized the net metering regulations.
+The Joint Electricity Regulatory Commission (JERC) for the state of Goa and union territories has finalized the net metering regulations.
