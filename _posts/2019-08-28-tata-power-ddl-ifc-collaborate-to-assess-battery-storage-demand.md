@@ -10,7 +10,7 @@ sectors:
 subsectors:
 - Power
 sources:
-- name: Sauenergy
+- name: Saur Energy
   url: https://www.saurenergy.com/solar-energy-news/tata-power-ddl-ifc-collaborate-to-assess-battery-storage-demand
 details: []
 is_analysis: false
