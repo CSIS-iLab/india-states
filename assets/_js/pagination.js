@@ -123,12 +123,14 @@ const Pagination = () => {
     }
 
     // Get the start and end indicies of posts to display
+    let start_item
+    let end_item
     if (current_page > 1) {
-      let start_item = posts_per_page * (current_page - 1)
-      let end_item = posts_per_page * current_page - 1
+      start_item = posts_per_page * (current_page - 1)
+      end_item = posts_per_page * current_page - 1
     } else {
-      let start_item = 0
-      let end_item = posts_per_page - 1
+      start_item = 0
+      end_item = posts_per_page - 1
     }
 
     // Empty's pagination container of previous posts
@@ -136,6 +138,7 @@ const Pagination = () => {
 
     // Choose which post object we want to use based on sort_field
     let posts
+    let showSubheaders
     if (sort_field == 'date') {
       if (subsector) {
         posts = postsPaginateMainObject[subsector]
@@ -206,6 +209,7 @@ const Pagination = () => {
   function paginationPostRender(posts, showSubheaders, subsector) {
     $.each(posts, function(index, post) {
       // Check if we want to display subheaders. If we do, we only want to show it once per page
+      let total
       if (post.state) {
         let stateID = post.state.replace(' ', '')
         if (showSubheaders && $('#' + stateID).length == 0) {
@@ -263,10 +267,11 @@ const Pagination = () => {
     $('.pagination-pagesContainer').empty()
 
     // Only show the pagination bar if we have more than 1 page
+    let hash
     if (total_pages > 1) {
       // Create the hash link based on the sorted field and date
       if (subsector) {
-        let hash =
+        hash =
           '#subsector=' +
           subsector +
           '&amp;sort=' +
@@ -275,8 +280,7 @@ const Pagination = () => {
           sort_order +
           '&amp;page='
       } else {
-        let hash =
-          '#sort=' + sort_field + '&amp;order=' + sort_order + '&amp;page='
+        hash = '#sort=' + sort_field + '&amp;order=' + sort_order + '&amp;page='
       }
 
       // Convert current page to integer
@@ -299,27 +303,31 @@ const Pagination = () => {
         )
       }
 
+      let startPoint
+      let endPoint
+
       // Render each page button
       if (total_pages > 5 && current_page >= 4) {
-        let startPoint = current_page - 2
+        startPoint = current_page - 2
         if (current_page + 2 > total_pages) {
-          let endPoint = total_pages
+          endPoint = total_pages
         } else {
-          let endPoint = current_page + 2
+          endPoint = current_page + 2
         }
       } else if (total_pages > 5 && current_page < 4) {
-        let startPoint = 1
-        let endPoint = 5
+        startPoint = 1
+        endPoint = 5
       } else {
-        let startPoint = 1
-        let endPoint = total_pages
+        startPoint = 1
+        endPoint = total_pages
       }
 
+      let activeClass
       for (let i = startPoint; i <= endPoint; i++) {
         if (i == current_page) {
-          let activeClass = 'active'
+          activeClass = 'active'
         } else {
-          let activeClass = ''
+          activeClass = ''
         }
         $('.pagination-pagesContainer').append(
           "<a href='" +
