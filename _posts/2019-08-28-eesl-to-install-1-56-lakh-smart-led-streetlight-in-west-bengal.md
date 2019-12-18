@@ -16,4 +16,4 @@ details: []
 is_analysis: false
 
 ---
-Energy Efficiency Services Ltd (EESL) will install 100,000 smart LED streetlights in Kolkata and Bidhannagar Municipal Corporation areas. EESL plans to supply 56,000 LED street lights to municipal bodies outside Kolkata**.**
+Energy Efficiency Services Ltd (EESL) will install 100,000 smart LED streetlights in Kolkata and Bidhannagar Municipal Corporation areas. EESL plans to supply 56,000 LED street lights to municipal bodies outside Kolkata.
