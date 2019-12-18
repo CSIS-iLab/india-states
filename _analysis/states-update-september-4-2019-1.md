@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: December 18, 2019'
-date: 2019-09-18 04:00:00 +0000
+date: 2019-12-18 05:00:00 +0000
 tags: []
 excerpt: 'Protests erupt over the Citizenship Amendment Act; Andhra Pradesh enables
   state to levy new taxes; Karnataka issues order recognizing third-party solar rooftop
