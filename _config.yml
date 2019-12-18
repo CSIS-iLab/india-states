@@ -5,7 +5,7 @@ collections:
   analysis:
     title: Analysis
     output: true
-    path: "/:path/:title/"
+    path: '/:path/:title/'
   posts:
     title: Articles
     output: true
@@ -15,32 +15,32 @@ collections:
   national-goals:
     title: National Goals
     output: true
-    path: "/:path/:title/"
+    path: '/:path/:title/'
   resources:
     title: Resources
     output: false
   sectors:
     title: Sectors
     output: true
-    path: "/:path/:title/"
+    path: '/:path/:title/'
   states:
     title: States
     output: true
-    path: "/:path/:title/"
+    path: '/:path/:title/'
   subsectors:
     title: Subsectors
     output: false
-    path: "/:path/:title/"
+    path: '/:path/:title/'
   uploads:
     title: Uploads
     output: true
 defaults:
   - scope:
-      path: ""
+      path: ''
       type: posts
     values:
       layout: post
-      permalink: "/articles/:title/"
+      permalink: '/articles/:title/'
       states: []
       sectors: []
       subsectors: []
@@ -54,7 +54,7 @@ defaults:
       is_analysis: false
       breadcrumbs: articles
   - scope:
-      path: ""
+      path: ''
       type: analysis
     values:
       layout: post
@@ -77,7 +77,7 @@ defaults:
       content_type: Analysis
       is_analysis: true
   - scope:
-      path: ""
+      path: ''
       type: states
     values:
       layout: state
@@ -98,7 +98,7 @@ defaults:
       content_type: State
       breadcrumbs: states
   - scope:
-      path: ""
+      path: ''
       type: sectors
     values:
       layout: sector
@@ -106,14 +106,14 @@ defaults:
       content_type: Sector
       breadcrumbs: sectors
   - scope:
-      path: ""
+      path: ''
       type: subsectors
     values:
       layout: sector
       sector:
       content_type: Subsector
   - scope:
-      path: ""
+      path: ''
       type: national-goals
     values:
       layout: national-goals
@@ -121,14 +121,14 @@ defaults:
       subsectors:
       data_source:
       data_label:
-      data_missing_message: "There is currently no data available for "
+      data_missing_message: 'There is currently no data available for '
       show_map: true
       show_progressbars: true
       map:
         title: National Target Contribution
         description:
         legend_title: Contribution to National Target
-        value_suffix: "%"
+        value_suffix: '%'
       progressbars:
         title: Individual State Targets
         description:
@@ -140,14 +140,14 @@ defaults:
       content_type: National Goal
       breadcrumbs: goals
   - scope:
-      path: ""
+      path: ''
       type: resources
     values:
       link:
       type:
       content_type: Resource
   - scope:
-      path: ""
+      path: ''
       type: authors
     values:
       job_title:
@@ -159,13 +159,13 @@ description:
   policymakers, & journalists who seek to engage with India’s state governments.
 baseurl:
 url: https://indianstates.csis.org
-date_format: "%B %-d, %Y"
+date_format: '%B %-d, %Y'
 post_meta_limit: 5
 post_meta_sector_limit: 3
 google_analytics: UA-70098597-2
 facebook: CsisIndiaChair
-facebook_default_image: "/assets/img/facebook-standard-image-min.jpg"
-twitter_default_image: "/assets/img/twitter-standard-image-min.jpg"
+facebook_default_image: '/assets/img/facebook-standard-image-min.jpg'
+twitter_default_image: '/assets/img/twitter-standard-image-min.jpg'
 twitter:
   username: IndiaStatesCSIS
 algolia:
@@ -203,3 +203,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - yarn.lock
+  - .jekyll-cache
