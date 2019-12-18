@@ -35,128 +35,129 @@ collections:
     title: Uploads
     output: true
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/articles/:title/"
-    states: []
-    sectors: []
-    subsectors: []
-    sources:
-    - name: 
-      url: 
-    details:
-    - name: 
-      url: 
-    content_type: Articles
-    is_analysis: false
-    breadcrumbs: articles
-- scope:
-    path: ''
-    type: analysis
-  values:
-    layout: post
-    excerpt: 
-    states: []
-    sectors: []
-    subsectors: []
-    is_featured: false
-    feature_image: 
-    feature_image_credit: 
-    sources:
-    - name: 
-      url: 
-    details:
-    - name: 
-      url: 
-    author: []
-    pdf: 
-    breadcrumbs: analysis
-    content_type: Analysis
-    is_analysis: true
-- scope:
-    path: ''
-    type: states
-  values:
-    layout: state
-    feature_images:
-      primary:
-        image: 
-        credit: 
-      secondary:
-        image: 
-        credit: 
-    size: 
-    population: 
-    party_affiliation: 
-    legislative_seats: 
-    rajya_seats: 
-    lok_seats: 
-    gdp: 
-    content_type: State
-    breadcrumbs: states
-- scope:
-    path: ''
-    type: sectors
-  values:
-    layout: sector
-    feature_image: 
-    content_type: Sector
-    breadcrumbs: sectors
-- scope:
-    path: ''
-    type: subsectors
-  values:
-    layout: sector
-    sector: 
-    content_type: Subsector
-- scope:
-    path: ''
-    type: national-goals
-  values:
-    layout: national-goals
-    sectors: []
-    subsectors: 
-    data_source: 
-    data_label: 
-    data_missing_message: 'There is currently no data available for '
-    show_map: true
-    show_progressbars: true
-    map:
-      title: National Target Contribution
-      description: 
-      legend_title: Contribution to National Target
-      value_suffix: "%"
-    progressbars:
-      title: Individual State Targets
-      description: 
-    state_text: achieves
-    last_updated_at: 
-    sources:
-      name: 
-      url: 
-    content_type: National Goal
-    breadcrumbs: goals
-- scope:
-    path: ''
-    type: resources
-  values:
-    link: 
-    type: 
-    content_type: Resource
-- scope:
-    path: ''
-    type: authors
-  values:
-    job_title: 
-    image: 
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: "/articles/:title/"
+      states: []
+      sectors: []
+      subsectors: []
+      sources:
+        - name:
+          url:
+      details:
+        - name:
+          url:
+      content_type: Articles
+      is_analysis: false
+      breadcrumbs: articles
+  - scope:
+      path: ""
+      type: analysis
+    values:
+      layout: post
+      excerpt:
+      states: []
+      sectors: []
+      subsectors: []
+      is_featured: false
+      feature_image:
+      feature_image_credit:
+      sources:
+        - name:
+          url:
+      details:
+        - name:
+          url:
+      author: []
+      pdf:
+      breadcrumbs: analysis
+      content_type: Analysis
+      is_analysis: true
+  - scope:
+      path: ""
+      type: states
+    values:
+      layout: state
+      feature_images:
+        primary:
+          image:
+          credit:
+        secondary:
+          image:
+          credit:
+      size:
+      population:
+      party_affiliation:
+      legislative_seats:
+      rajya_seats:
+      lok_seats:
+      gdp:
+      content_type: State
+      breadcrumbs: states
+  - scope:
+      path: ""
+      type: sectors
+    values:
+      layout: sector
+      feature_image:
+      content_type: Sector
+      breadcrumbs: sectors
+  - scope:
+      path: ""
+      type: subsectors
+    values:
+      layout: sector
+      sector:
+      content_type: Subsector
+  - scope:
+      path: ""
+      type: national-goals
+    values:
+      layout: national-goals
+      sectors: []
+      subsectors:
+      data_source:
+      data_label:
+      data_missing_message: "There is currently no data available for "
+      show_map: true
+      show_progressbars: true
+      map:
+        title: National Target Contribution
+        description:
+        legend_title: Contribution to National Target
+        value_suffix: "%"
+      progressbars:
+        title: Individual State Targets
+        description:
+      state_text: achieves
+      last_updated_at:
+      sources:
+        name:
+        url:
+      content_type: National Goal
+      breadcrumbs: goals
+  - scope:
+      path: ""
+      type: resources
+    values:
+      link:
+      type:
+      content_type: Resource
+  - scope:
+      path: ""
+      type: authors
+    values:
+      job_title:
+      image:
 permalink: pretty
 email: IndiaStates@csis.org
-description: Engaging Indian States is a comprehensive tool for businesses, researchers,
+description:
+  Engaging Indian States is a comprehensive tool for businesses, researchers,
   policymakers, & journalists who seek to engage with India’s state governments.
-baseurl: 
+baseurl:
 url: https://indianstates.csis.org
 date_format: "%B %-d, %Y"
 post_meta_limit: 5
@@ -173,18 +174,32 @@ algolia:
 algolia_search_api: b9011cf7f49e60630161fcacf0e37d02
 cloudinary_url: https://res.cloudinary.com/csisilab/image/fetch/
 markdown: kramdown
-include:
-- ".travis.yml"
-exclude:
-- ".forestry"
-- vendor
 sector_overview_post_limit: 4
 post_archive_posts_per_page: 10
 newsletter_link: https://www.tfaforms.com/4601801
-newsletter_description: On a weekly basis the CSIS Wadhwani Chair in U.S.-India Policy
+newsletter_description:
+  On a weekly basis the CSIS Wadhwani Chair in U.S.-India Policy
   Studies publishes the “Update on India’s States,” a newsletter featuring the most
   significant socioeconomic and political developments from thirteen of India’s very
   powerful states, including the national capital and union territory of New Delhi.
 national_goals_data_dir: national-goals
-sass:
-  style: compressed
+
+exclude:
+  - frasco.config.js
+  - Gemfile
+  - Gemfile.lock
+  - gulp_tasks
+  - gulpfile.js
+  - INCLUDES.md
+  - LICENSE
+  - node_modules
+  - npm-debug.log
+  - package.json
+  - package-lock.json
+  - prettier.config.js
+  - README.md
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - yarn.lock

@@ -1,0 +1,67 @@
+{
+  "name": "india-states",
+  "version": "0.0.0",
+  "description": "The website for the Engaging Indian States project by the CSIS Wadhwani Chair.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "start-limit": "gulp --limit_posts 10",
+    "browsersync": "gulp browsersync",
+    "browsersync-production": "gulp browsersync --jekyllEnv='production'",
+    "build": "gulp build --jekyllEnv='production'",
+    "netlify:build": "gulp build --jekyllEnv='production'",
+    "eslint": "gulp eslint",
+    "imagemin": "gulp imagemin",
+    "production": "gulp --jekyllEnv='production'",
+    "sass": "gulp sass",
+    "watch": "gulp watch",
+    "forestry:preview": "gulp --jekyllEnv='production' --forestry --preview --port 8080 --host 0.0.0.0",
+    "forestry:publish": "gulp build --jekyllEnv='production' --forestry --port 8080 --host 0.0.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CSIS-iLab/csis-jekyll-starter.git"
+  },
+  "keywords": [
+    "Autoprefixer",
+    "Browsersync",
+    "gulp",
+    "imagemin",
+    "Jekyll",
+    "PostCSS",
+    "Sass",
+    "Webpack"
+  ],
+  "author": "CSIS iDeas Lab",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "autoprefixer": "^9.3.1",
+    "browser-sync": "^2.26.5",
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-prettier": "^2.7.0",
+    "fancy-log": "^1.3.3",
+    "gulp": "^4.0.2",
+    "gulp-babel": "^8.0.0",
+    "gulp-eslint": "^5.0.0",
+    "gulp-imagemin": "^6.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-watch": "^5.0.1",
+    "imagemin-pngquant": "^6.0.0",
+    "prettier": "^1.14.3",
+    "require-dir": "^1.1.0",
+    "through2": "^3.0.1",
+    "vinyl-named": "^1.1.0",
+    "webpack": "^4.23.1",
+    "webpack-stream": "^5.1.1",
+    "yargs": "^12.0.2"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}

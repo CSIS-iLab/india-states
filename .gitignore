@@ -1,7 +1,36 @@
-_site
-vendor
+# Sass
 .sass-cache
+*.scssc
+
+# Editors
+sftp-config.json
+.vscode
+
+# Jekyll
+_site
 .jekyll-metadata
-.bundle/
+/.bundle
+/vendor
+.jekyll-cache
+
+# Compiled Files
+/assets/css/**/*.css
+/assets/js/*.js
+
+# Node.js
+node_modules/
+
+# Logfiles and tempfiles
+*.log
+/log/*
+!/log/.keep
+/tmp
+
+# Other unneeded files
+doc/
+*.swp
+*~
+.project
 .DS_Store
-.jekyll-cache/
+.idea
+.secret
