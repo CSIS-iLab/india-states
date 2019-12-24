@@ -2,7 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: PM Ujjwala Yojana beneficiaries in Jharkhand to get free LPG refill
-date: 
+date: 2019-12-19 05:00:00 +0000
 states:
 - Jharkhand
 sectors:
