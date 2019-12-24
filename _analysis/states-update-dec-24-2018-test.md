@@ -2,17 +2,17 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: Dec 24, 2018 test'
+title: 'States Update: Dec 24, 2019'
 date: 2019-12-24 05:00:00 +0000
 tags: []
-excerpt: "Big News\nJharkhand election results show JMM-Congress has unseated BJP;
-  AIIB loaning $210 million for irrigation & solar projects in West Bengal & Rajasthan;
-  Modi government climbs down from plan to adopt a National Register for Citizens;
-  ADB signs $490 million loan deal with Madhya Pradesh for roads; Maharashtra’s new
-  government in give-away mode; Rajasthan launches new solar, wind, industry policies;
-  Uttar Pradesh releases new Open Access regulations; Arunachal Pradesh cabinet approves
-  new Industrial & Investment Policy 2019; Meghalaya cabinet approves a new Environment
-  Protection & Restoration Fund (MEPRF); and more. \n"
+excerpt: "Jharkhand election results show JMM-Congress has unseated BJP; AIIB loaning
+  $210 million for irrigation & solar projects in West Bengal & Rajasthan; Modi government
+  climbs down from plan to adopt a National Register for Citizens; ADB signs $490
+  million loan deal with Madhya Pradesh for roads; Maharashtra’s new government in
+  give-away mode; Rajasthan launches new solar, wind, industry policies; Uttar Pradesh
+  releases new Open Access regulations; Arunachal Pradesh cabinet approves new Industrial
+  & Investment Policy 2019; Meghalaya cabinet approves a new Environment Protection
+  & Restoration Fund (MEPRF); and more. \n"
 states: []
 sectors: []
 subsectors: []
@@ -25,7 +25,6 @@ details:
   url: ''
 author:
 - Afeena Ashfaque
-published: false
 
 ---
 **Big News**
