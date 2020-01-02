@@ -25,7 +25,6 @@ author:
 - Afeena Ashfaque
 
 ---
-
 Kerala, Himachal Pradesh, and Andhra Pradesh top SDG India Index 2019; Andhra Pradesh considers decentralization of state capital; Delhi passes new electric vehicle policy; Karnataka allows shops to be open 24x7; Maharashtra discom opposes net metering for rooftop solar due to high sales by consumers; Chief ministers of Rajasthan and West Bengal actively oppose Citizenship Amendment Act; Tamil Nadu tops good governance index; JMM leader Hemant Soren becomes chief minister of Jharkhand; Punjab may revoke power subsidies to “rich” farmers; Kerala and Uttarakhand plan special sessions to extend SC/ST reservation for 10 years; Odisha streamlines certificates; and more.
 
 **Center – State relations**
@@ -90,7 +89,7 @@ In a bid to strengthen power distribution system in the state, the Uttar Pradesh
 
 **West Bengal**
 
-Cementing her fierce opposition against the Citizenship Amendment Act and National Register of Citizens, West Bengal Chief Minister Mamata Banerjee declared that government would not allow any detention center to be built in the state. **Source:** [Deccan Chronicle](https://www.deccanchronicle.com/nation/politics/281219/mamata-banerjee-says-will-not-allow-detention-centre-in-west-bengal.html)
+Cementing her fierce opposition against the Citizenship Amendment Act and National Register of Citizens, West Bengal chief minister Mamata Banerjee declared that government would not allow any detention center to be built in the state. **Source:** [Deccan Chronicle](https://www.deccanchronicle.com/nation/politics/281219/mamata-banerjee-says-will-not-allow-detention-centre-in-west-bengal.html)
 
 **Best of the Rest**
 
