@@ -8,6 +8,8 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    required: true
 - type: tag_list
   name: tags
   label: Tags
