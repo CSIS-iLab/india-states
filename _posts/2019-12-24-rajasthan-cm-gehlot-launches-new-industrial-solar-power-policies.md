@@ -13,6 +13,10 @@ sources:
 - name: Economic Times
   url: https://energy.economictimes.indiatimes.com/news/renewable/rajasthan-cm-gehlot-launches-new-industrial-solar-power-policies/72895403
 details:
+- name: Rajasthan Wind and Hybrid Energy Policy, 2019
+  url: http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Home%20Page/Rajasthan%20Wind%20and%20Hybrid%20Energy%20Policy2019.pdf
+- name: Rajasthan Solar Energy Policy, 2019
+  url: http://energy.rajasthan.gov.in/content/dam/raj/energy/rrecl/pdf/Home%20Page/Rajasthan%20Solar%20Energy%20Policy2019.pdf
 - name: Press Release (Hindi)
   url: http://dipr.rajasthan.gov.in/content/dipr/en/news-detail.182960.html
 is_analysis: false
