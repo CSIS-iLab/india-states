@@ -2,7 +2,7 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: Dec 24, 2019'
+title: 'States Update: December 24, 2019'
 date: 2019-12-24 05:00:00 +0000
 tags: []
 excerpt: Jharkhand election results show JMM-Congress has unseated BJP; AIIB loaning
