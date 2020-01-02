@@ -8,6 +8,7 @@ states:
 sectors:
 - Energy
 subsectors:
+- Coal
 - Power
 sources:
 - name: Financial Express
