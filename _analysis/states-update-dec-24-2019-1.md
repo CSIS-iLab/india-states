@@ -2,17 +2,17 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: Dec 24, 2019'
-date: 2019-12-24 05:00:00 +0000
+title: 'States Update: January 2, 2020'
+date: 2020-01-02 05:00:00 +0000
 tags: []
-excerpt: Jharkhand election results show JMM-Congress has unseated BJP; AIIB loaning
-  $210 million for irrigation & solar projects in West Bengal & Rajasthan; Modi government
-  climbs down from plan to adopt a National Register for Citizens; ADB signs $490
-  million loan deal with Madhya Pradesh for roads; Maharashtra’s new government in
-  give-away mode; Rajasthan launches new solar, wind, industry policies; Uttar Pradesh
-  releases new Open Access regulations; Arunachal Pradesh cabinet approves new Industrial
-  & Investment Policy 2019; Meghalaya cabinet approves a new Environment Protection
-  & Restoration Fund (MEPRF); and more.
+excerpt: 'Kerala, Himachal Pradesh, and Andhra Pradesh top SDG India Index 2019; Andhra
+  Pradesh considers decentralization of state capital; Delhi passes new electric vehicle
+  policy; Karnataka allows shops to be open 24x7; Maharashtra discom opposes net metering
+  for rooftop solar due to high sales by consumers; Chief ministers of Rajasthan and
+  West Bengal actively oppose Citizenship Amendment Act; Tamil Nadu tops good governance
+  index; JMM leader Hemant Soren becomes chief minister of Jharkhand; Punjab may revoke
+  power subsidies to “rich” farmers; Kerala and Uttarakhand plan special sessions
+  to extend SC/ST reservation for 10 years; Odisha streamlines certificates; and more. '
 states: []
 sectors: []
 subsectors: []
@@ -23,26 +23,21 @@ sources: []
 details: []
 author:
 - Afeena Ashfaque
-published: false
 
 ---
 **Big News**
 
-Jharkhand election results show JMM-Congress has unseated BJP; AIIB loaning $210 million for irrigation & solar projects in West Bengal & Rajasthan; Modi government climbs down from plan to adopt a National Register for Citizens; ADB signs $490 million loan deal with Madhya Pradesh for roads; Maharashtra’s new government in give-away mode; Rajasthan launches new solar, wind, industry policies; Uttar Pradesh releases new Open Access regulations; Arunachal Pradesh cabinet approves new Industrial & Investment Policy 2019; Meghalaya cabinet approves a new Environment Protection & Restoration Fund (MEPRF); and more.
+Kerala, Himachal Pradesh, and Andhra Pradesh top SDG India Index 2019; Andhra Pradesh considers decentralization of state capital; Delhi passes new electric vehicle policy; Karnataka allows shops to be open 24x7; Maharashtra discom opposes net metering for rooftop solar due to high sales by consumers; Chief ministers of Rajasthan and West Bengal actively oppose Citizenship Amendment Act; Tamil Nadu tops good governance index; JMM leader Hemant Soren becomes chief minister of Jharkhand; Punjab may revoke power subsidies to “rich” farmers; Kerala and Uttarakhand plan special sessions to extend SC/ST reservation for 10 years; Odisha streamlines certificates; and more.
 
 **Center – State relations**
 
-The Beijing-based Asian Infrastructure Investment Bank (AIIB) announced a total loan of $210 million for irrigation and solar energy projects in West Bengal and Rajasthan, respectively.**Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/aiib-announces-usd-210-million-loan-for-irrigation-solar-energy-projects-in-india-119122000963_1.html) **In detail:** [Press Release](https://www.aiib.org/en/news-events/news/2019/20191220_001.html)
+Kerala, Himachal Pradesh, and Andhra Pradesh have emerged as top performing states in NITI Aayog's Sustainable Development Goals India Index 2019. Bihar, Jharkhand, and Arunachal Pradesh are the worst performing states in this year's index. **Source:** [Money Control](https://www.moneycontrol.com/news/india/kerala-himachal-pradesh-andhra-pradesh-lead-performers-in-nitis-sdg-index-4771191.html) **In detail:** [SDG India Index & Dashboard 2019-20](https://niti.gov.in/sites/default/files/2019-12/SDG-India-Index-2.0_27-Dec.pdf)
 
-The Asian Development Bank (ADB) and the government of India on December 16, 2019, signed a $250 million loan to Energy Efficiency Services Limited to expand energy efficiency investments in India that will benefit agricultural, residential, and institutional consumers.**Source:** [Business Standard](https://www.business-standard.com/article/news-cm/india-signs-250-million-loan-agreement-with-adb-to-expand-energy-efficiency-investments-in-india-119121800949_1.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=195939)
-
-As protests against the new citizenship law swelled nationwide and following a pushback from state governments and its allies, the first voices from the government and the ruling Bharatiya Janata Party (BJP) were heard climbing down on the plan for a pan-India National Register for Citizens (NRC). Bihar chief minister Nitish Kumar said the NRC would not be implemented in Bihar. **Source:** [Indian Express](https://indianexpress.com/article/india/protests-swell-allies-push-back-govt-signals-a-climbdown-on-all-india-nrc-6177764/)
-
-After West Bengal and Kerala, the Rajasthan government now has refused to work on compiling the National Population Register (NPR), mandated by the central government to record “basic information” on citizens. **Source:** [Times of India](https://timesofindia.indiatimes.com/india/after-west-bengal-and-kerala-rajasthan-blocks-npr/articleshow/72921028.cms)
+The southern state of Tamil Nadu has earned the top position in the composite ranking for the good governance index followed by Maharashtra and Karnataka, according to data provided by the Personnel Ministry. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/tamil-nadu-tops-good-governance-index-among-big-states-maharashtra-and-karnataka-get-second-third-slot/articleshow/72978601.cms) **In detail:** [Good Governance Index](http://164.100.117.97/WriteReadData/userfiles/GGI%20ppt_GGD_24.12.2019-Final.pptx)
 
 **Andhra Pradesh**
 
-The Andhra Pradesh government signed a memorandum of understanding (MOU) with the National Mineral Development Corporation for supply of iron ore to the proposed integrated steel plant in Kadapa district. [**Source:** Money Control](https://www.moneycontrol.com/news/business/andhra-pradesh-govt-signs-mou-with-nmdc-for-supply-of-iron-ore-to-kadapa-steel-plant-4741421.html); [AP State Portal](https://www.ap.gov.in/?p=41031)
+The Andhra Pradesh government set up a high-power committee to examine recommendations of the G. N. Rao-led expert committee on decentralization of the state’s capital between Amaravati, Visakhapatnam, and Kurnool. **Source:** [Live Mint](https://www.livemint.com/news/india/andhra-forms-panel-to-look-into-suggestions-on-decentralization-of-state-capital-11577604896968.html)
 
 **Bihar**
 
@@ -50,17 +45,11 @@ Nothing critical to report this week.
 
 **New Delhi**
 
-The Delhi Jal Board signed a water-sharing MOU with the government of Himachal Pradesh to get more water for the city. **Source:** [Indian Express](https://indianexpress.com/article/cities/delhi/delhi-jal-board-signs-mou-with-himachal-govt-6178291/)
-
-The Delhi government decided to raise the circle rates of agricultural land in national capital and it will now range between $316,002 to $702,227 per acre. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/delhi-govt-raises-circle-rates-of-agricultural-land/articleshow/72867562.cms)
-
-Delhi chief minister Arvind Kejriwal launched the much awaited free WiFi hotspot scheme, while parts of the city faced an internet shutdown. **Source:** [Live Mint](https://www.livemint.com/news/india/arvind-kejriwal-launches-free-wifi-hotspots-while-delhi-faces-internet-shutdown-11576765074018.html)
-
-The Energy and Resources Institute (TERI) has issued a tender for the commissioning of Battery Energy Storage Systems on a turnkey basis under the UI-ASSIST initiative with the BSES Rajdhani (BRPL) in Delhi. **Source:** [Sau Energy](https://www.saurenergy.com/solar-energy-news/teri-tenders-battery-energy-storage-systems-delhi)
+In a bid to curb severe air pollution in the national capital region, the Delhi cabinet passed a new electric vehicle policy. The government will provide subsidy to promote e-vehicles and form an electric vehicle board to implement the policy. **Source:** [Indian Express](https://indianexpress.com/article/cities/delhi/delhi-govt-passes-electric-vehicle-policy-to-tackle-air-pollution-5-lakh-evs-to-be-registered-in-5-years-6181542/) **In detail:** [Delhi Electric Vehicle Policy](http://transport.delhi.gov.in/sites/default/files/All-PDF/Electric%20Policy%202018.pdf)
 
 **Gujarat**
 
-The National Stock Exchange (NSE) said it has entered into a pact with the Gujarat government to work jointly for the promotion and development of Micro Small and Medium Enterprises (MSMEs) in the state. **Source:** [Economic Times](https://economictimes.indiatimes.com/markets/stocks/news/nse-joins-hands-with-gujarat-govt-to-promote-msmes/articleshow/72906438.cms); [NSE Press Release](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwjGk-Wzx8zmAhVJ1VkKHbCQBRsQFjACegQIAxAC&url=http%3A%2F%2Fdocs.publicnow.com%2FviewDoc.asp%3Ffilename%3D37163%255CEXT%255CC68C01BB4509A869BE8D2182923C8733BE84F617_1B8383051A206D7ACD45D298ADA62C703E1353E7.PDF&usg=AOvVaw3Zf4NA-hs5EJLKWxdwjTSf)
+The Gujarat Electricity Regulatory Commission has issued a draft notification regarding the second set of amendments for its net metering regulations for grid-connected rooftop solar systems. **Source:** [Mercom](https://mercomindia.com/gujarat-net-metering-rules-rooftop-solar/) **In detail:** [Draft GERC (Net Metering Rooftop Solar PV Grid Interactive Systems) (Second Amendment) Regulations, 2019](https://www.gercin.org/wp-content/uploads/2019/12/Draft-Notification_for-Net-Metering-Regulation_181219.final_.pdf)
 
 **Haryana**
 
@@ -68,25 +57,25 @@ Nothing critical to report this week.
 
 **Karnataka**
 
-Nothing critical to report this week.
+The government of Karnataka has allowed all shops and commercial establishments in the state, employing 10 or more persons, to be open on a 24 hours a week, 7 days a year basis on all days of the year for a period of three years. **Source:** [KNN India](https://knnindia.co.in/news/newsdetails/state/karnataka-govt-gives-nod-to-open-shops-24x7-for-3-years) **In detail:** [Karnataka Notification](https://www.rai.net.in/E-Mailers/Advocacy-update/24x7-store-opening-permission-Karnataka.pdf)
+
+The Pavagada Solar Park has now become the world’s largest operational solar park, providing over 2,000 MW of electricity generation to Karnataka. **Source:** [Mercom](https://mercomindia.com/karnatakas-pavagada-solar-operational/) **In detail:** [MNRE List of Solar parks](https://mnre.gov.in/scheme-documents), [KSPDCL Pavagada information](http://kspdcl.in/Aboutus_kan.htm)
 
 **Madhya Pradesh**
 
-ADB and the government of India signed a $490 million loan for a public-private partnership project to upgrade about 1,000 miles of state highways and major district roads from single-lane to two-lane widths in the state of Madhya Pradesh. **Source:** [Business Standard](https://www.business-standard.com/article/news-cm/india-signs-490-million-loan-agreement-with-adb-to-upgrade-madhya-pradesh-roads-119122000468_1.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=196000)
+Nothing critical to report this week.
 
 **Maharashtra**
 
-The state government has started disbursing power subsidy of up to $0.05 per unit, or kilowatt-hour, to power looms, spinning mills, and garment units in the state.**Source:** [Business Standard](https://www.business-standard.com/article/markets/relief-for-textile-units-in-maharashtra-as-state-govt-offers-power-subsidy-119122000038_1.html)
+The government of Maharashtra has imposed a ban on the sale and transport of molasses within the state as well as export to overseas until September 30, 2020. **Source:** [Financial Express](https://www.financialexpress.com/industry/maharashtra-bans-export-of-molasses/1806018/)
 
-The state legislature passed the Maharashtra Municipal Corporation (Amendment) Bill, 2019, to do away with the existing system of electing four corporators from every ward. **Source:** [Indian Express](https://indianexpress.com/article/cities/mumbai/maharashtra-legislature-passes-bill-to-scrap-four-corporators-per-ward-system-6178956/)
+The Maharashtra Electricity Regulatory Commission has allowed the Maharashtra State Power Generation Company Limited and Maharashtra State Electricity Distribution Company Limited to procure solar power at rates discovered through competitive bidding. **Source:** [Mercom](https://mercomindia.com/maharashtra-approves-tariff-50-mw-solar-projects/)
 
-The Maharashtra government announced a loan waiver of up to $2,809 for farmers, with a cut off date of September 30, 2019. **Source:** [India Today](https://www.indiatoday.in/india/story/maharashtra-cm-announces-loan-waiver-upto-rs-2-lakh-for-farmers-1630373-2019-12-21)
+State discom Maharashtra State Electricity Distribution Company Limited has opposed the net metering system for solar rooftop consumers and demanded net billing after incurring a loss of $31.3 million due to solar rooftop consumers. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/nagpur/msedcl-claims-loss-due-to-solar-rooftop/articleshow/72971489.cms) **In detail:** [MSEDCL Draft regulations](https://www.mahadiscom.in/wp-content/uploads/2019/11/26.10.2019-Draft-MERC-Grid-Interactive-Rooftop-RE-Generating-Systems-Regulations-2019.pdf)
 
 **Rajasthan**
 
-Chief Minister Ashok Gehlot launched the new Industrial Development Policy-2019, Solar Energy Policy-2019, Wind and Hybrid Energy Policy-2019, Rajasthan Investment Promotion Scheme-2019 and Chief Minister's Small-Scale Industries Promotion Scheme-2019.**Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/renewable/rajasthan-cm-gehlot-launches-new-industrial-solar-power-policies/72895403) **In detail:** [Press Release](http://dipr.rajasthan.gov.in/content/dipr/en/news-detail.182960.html) (Hindi)
-
-Chief Minister Gehlot also launched a $140.5 million fund for empowering the state’s women. The “Priydarshini Indira Mahila Shakti Nidhi” fund will be used to empower women through various schemes of the state government, including granting loans of up to $140,561 to women self-help groups. **Source:** [India Today](https://www.indiatoday.in/education-today/news/story/rajasthan-government-launches-rs-1-000-crore-fund-for-women-empowerment-1629552-2019-12-19); [Bureau of Investment Promotion Rajasthan](http://industries.rajasthan.gov.in/content/industries/bip/downloads/policies-schemes.html)
+Rajasthan chief minister Ashok Gehlot led a massive peaceful march called the Samvidhan Bacho rally against the amended citizenship law and demanded that the center repeal the act, saying it is against the constitution and an attempt to divide people in the name of religion. **Source:** [India Today](https://www.indiatoday.in/india/story/caa-nrc-protests-rajasthan-nearly-3-lakh-carry-out-peaceful-march-1630590-2019-12-22)
 
 **Tamil Nadu**
 
@@ -94,58 +83,48 @@ Nothing critical to report this week.
 
 **Telangana**
 
-WE Hub, India’s first state led incubator to foster and promote women entrepreneurship to start-up, scale-up and accelerate with global market access, today announced its partnership with Start-up India, DPIIT. **Source:** [Business World](http://bwsmartcities.businessworld.in/article/WE-Hub-Partners-with-Startup-India-DPIIT-To-Launch-WING-Program-for-Women-Entrepreneurs-in-Telangana/23-12-2019-180935/)
+Nothing critical to report this week.
 
 **Uttar Pradesh**
 
-The Uttar Pradesh Electricity Regulatory Commission has come up with open access regulations, termed as the Uttar Pradesh Electricity Regulatory Commission (terms and conditions for open access) Regulations, 2019. As per the regulations, long-term open access customers will have the highest priority, followed by the medium-term open access customers and then short-term open access customers. **Source:** [Mercom](https://mercomindia.com/long-term-open-access-customers-uttar-pradesh/) **In detail:** [Open Access Regulations 2019](http://www.uperc.org/App_File/NotifiedOpenAccessRegulation2019-rar12112019114540AM.rar)
+In a bid to strengthen power distribution system in the state, the Uttar Pradesh government has made a fresh budgetary allocation under the Integrated Power Development Scheme (IPDS), and the Deendayal Upadhyay Rural Electrification (DURES) scheme. According to a government order issued by the power department, $9.78 million and $1.3 million have been released for DURES and IPDS, respectively. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/lucknow/more-funds-for-discoms-to-light-up-entire-uttar-pradesh/articleshowprint/73023760.cms)
 
 **West Bengal**
 
-The Mamata Banerjee government clarified that the update of the NPR had been put on hold for the time being (not called off for good), because of the protests over the amended citizenship law and the NRC. **Source:** [The Telegraph](https://www.telegraphindia.com/states/west-bengal/npr-on-hold-not-scrapped-in-west-bengal/cid/1729266)
+Cementing her fierce opposition against the Citizenship Amendment Act and National Register of Citizens, West Bengal Chief Minister Mamata Banerjee declared that government would not allow any detention center to be built in the state. **Source:** [Deccan Chronicle](https://www.deccanchronicle.com/nation/politics/281219/mamata-banerjee-says-will-not-allow-detention-centre-in-west-bengal.html)
 
 **Best of the Rest**
 
-**Arunachal Pradesh**
-
-The Arunachal Pradesh cabinet approved the Arunachal Pradesh State Industrial and Investment Policy 2019. The policy is aimed at leveraging the huge potential for industrial growth in the state, along with providing employment opportunities to local youths through incentives in a range of thrust industries. **Source:** [The Telegraph](https://www.telegraphindia.com/states/north-east/arunachal-pradesh-nod-to-2-policies/cid/1728896)
-
 **Assam**
 
-The BJP-led Assam government on Saturday has decided to adopt several important schemes, and measures by aiming to protect the Assamese language, and the land rights of indigenous people. **Source:** [India Today](https://www.indiatoday.in/india/story/assam-govt-to-approach-centre-to-declare-assamese-as-state-language-1630426-2019-12-21)
+State-run ONGC has received environment clearance for carrying out onshore exploration, development and production of oil and gas in 100 locations in non-forest area of Assam. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-gets-green-nod-for-rs-3500-cr-project-in-assam/72981386)
 
 **Chhattisgarh**
 
-The Chhattisgarh State Electricity Regulatory Commission (CSERC) has specified the terms and conditions of tariffs for renewable energy sources for the sale of power to distribution licensees. **Source:** [Mercom](https://mercomindia.com/chhattisgarh-commission-lays-out-tariff-renewable-projects/) **In detail:** [CSERC Regulations](http://www.cserc.gov.in/pdf/Regulations_Notified/83-CSERC%20RE%20traiff%20Regulations%202019%20(English).pdf)
+After Congress’ defeat of the Bharatiya Janata Party, all 10 municipal corporations are set to be ruled by one party for the first time in Chhattisgarh’s two-decade history. **Source:** [The Wire](https://thewire.in/politics/congress-sweeps-civic-body-elections-in-chhattisgarh)
 
-Chhattisgarh chief minister Bhupesh Baghel said that if the NRC is implemented, over half the population in the state will not be able to prove their citizenship as they neither have land nor land records. **Source:** [India Today](https://www.indiatoday.in/india/story/over-half-chhattisgarh-population-not-able-prove-citizenship-nrc-cm-bhupesh-baghel-1630325-2019-12-21)
+**Himachal Pradesh**
+
+Keeping in view the state's vulnerability to multiple natural and man-induced hazards, the Himachal Pradesh cabinet decided to constitute a state disaster response force. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/shimla/hp-cabinet-decides-to-constitute-states-own-disaster-response-force/articleshow/73012761.cms)
 
 **Jharkhand**
 
-Jharkhand Assembly election result: The Jharkhand Mukti Morcha (JMM)-Indian National Congress (INC) alliance wins with JMM winning 30 seats; BJP with 25 seats; INC with 16 seats; and others with ten seats out of the total 81 seats in the state legislature. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/news/national/counting-of-votes-for-jharkhand-assembly-election-begins/article30377349.ece)
-
-**Jammu and Kashmir**
-
-The Jammu and Kashmir administration signed an MOU with the United Nations Development Programme India to strengthen immunization supply chain system in the union territory, according to an official spokesperson.Source: [Outlook India](https://www.outlookindia.com/newsscroll/jk-inks-mou-with-undp-to-strengthen-immunization-supply-chain-system/1688197)
+Jharkhand Mukti Morcha leader and chief minister-designate Hemant Soren took his oath as the 11th chief minister of Jharkhand on Sunday, December 29. Two other ministers, one each from Congress and the Rashtriya Janata Dal, were also sworn-in. **Source:** [India Today](https://www.indiatoday.in/india/story/jharkhand-chief-minister-oath-taking-hemant-soren-swearing-in-ceremony-live-updates-december-29-1632295-2019-12-29) **In Detail:** [Press Release](http://prdjharkhand.in/view_press_release_photo.php?prid=24572)
 
 **Kerala**
 
-Central Government has given in-principle approval to the $9.3 billion Kerala semi-high speed rail project (Thiruvananthapuram-Kasaragod semi-high speed rail corridor) announced Kerala chief minister Pinarayi Vijayan on Dec 17, 2019. **Source:** [Metro Rail News](https://www.metrorailnews.in/centre-approves-kerala-semi-high-speed-rail-project-dpr-of-rs-66079-cr/)
-
-**Meghalaya**
-
-The Meghalaya cabinet approved the guidelines of the Meghalaya Environment Protection & Restoration Fund for the implementation and utilization of funds in coal mining-affected areas. **Source:** [North East Now](https://nenow.in/north-east-news/meghalaya/meghalaya-cabinet-approves-guidelines-for-environment-protection-fund.html); [Meghalaya Government](http://meghalaya.gov.in/megportal/pressrelease)
+A special session of the Kerala assembly convened on December 31 to ratify the Constitution (126th) Amendment Bill, which proposes to extend the quota to scheduled castes and scheduled tribes in the Lok Sabha and state assemblies by another 10 years. **Source:** [The Hindu](https://www.thehindu.com/news/national/kerala/special-session-of-kerala-assembly-on-december-31/article30425898.ece)
 
 **Odisha**
 
-The Odisha cabinet approved the Agriculture Policy 2020 that aims to ensure agricultural growth, and to increase farmers’ income with the help of an eight-point strategy called SAMRIDHI. and strengthening institutions. Source: [Times of India](https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-cabinet-approves-agriculture-policy-2020/articleshow/72852820.cms); [Odisha Cabinet](https://cabinet.odisha.gov.in/)
-
-Tata Power claimed to have emerged as the successful bidder to own the licence for distribution and retail supply of electricity in Odisha's five circles. **Source:** [Live Mint](https://www.livemint.com/companies/news/tata-power-to-own-licence-for-distribution-retail-supply-of-electricity-in-odisha-11577084270891.html)
+Chief Minister Naveen Patnaik launched an online platform for the issuance of income certificates, residence certificates, caste certificates, and all miscellaneous certificates based on self-certification without any fees. The government also announced that from now on, no department shall ask for solvency certificates. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/odisha-govt-launches-online-platform-for-issuance-of-certificates/articleshow/73013504.cms) **In Detail:** [eDistrict Portal](https://edistrict.odisha.gov.in/)
 
 **Punjab**
 
-In a major relief to the state’s industrial sector, Punjab Industries Department has given a one-time special opportunity to the state’s industrial units to migrate to the new Industrial and Business Development Policy, 2017. **Source:** [Daily Pioneer](https://www.dailypioneer.com/2019/state-editions/punjab-gives-one-time-special-opportunity-to-industrial-units-to-migrate-to-new-policy.html)
+A proposal to withdraw power subsides to “rich” farmers in Punjab was introduced during a special meeting convened by Chief Minister Captain Amarinder Singh. The final decision on the move, which could trigger a massive reaction from the state’s farming community, has not yet been taken. The subsidy for small and marginal farmers would continue. **Source:** [Times of India](https://timesofindia.indiatimes.com/india/punjab-may-withdraw-power-subsidy-to-large-farmers/articleshowprint/73013097.cms)
 
-**Tripura**
+The Punjab State Electricity Regulatory Commission allowed a petition of the Punjab State Power Corporation Limited to recover coal washing charges of over $198.5 million, which it had to pay to Talwandi Sabo Power Limited and Nabha Power Limited following a Supreme Court order in August. **Source:** [Indian Express](https://indianexpress.com/article/india/punjab-electricity-rates-likely-to-rise-again-as-additional-costs-to-be-recovered-from-consumers-6185442/)
 
-Tripura is all set to get its first Special Economic Zone (SEZ) as the Ministry of Commerce and Industry has issued a notification for the same on December 16, 2019. Tripura’s first SEZ will be established at Jalefa, Sabroom, South Tripura District. **Source:** [Jagran Josh](https://www.jagranjosh.com/current-affairs/tripura-gets-its-first-sez-in-sabroom-1576730769-1) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=195954)
+**Uttarakhand**
+
+The Uttarakhand legislative assembly will convene for a day-long special session on January 7 to pass a constitutional amendment bill extending reservation to members of Scheduled Castes and Scheduled Tribes for another 10 years. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-assembly-to-convene-special-session-on-jan-7/articleshow/73000064.cms)
