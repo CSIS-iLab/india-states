@@ -115,7 +115,7 @@ A special session of the Kerala assembly convened on December 31 to ratify the C
 
 **Odisha**
 
-Chief Minister Naveen Patnaik launched an online platform for the issuance of income certificates, residence certificates, caste certificates, and all miscellaneous certificates based on self-certification without any fees. The government also announced that from now on, no department shall ask for solvency certificates. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/odisha-govt-launches-online-platform-for-issuance-of-certificates/articleshow/73013504.cms) **In Detail:** [eDistrict Portal](https://edistrict.odisha.gov.in/)
+Chief minister Naveen Patnaik launched an online platform for the issuance of income certificates, residence certificates, caste certificates, and all miscellaneous certificates based on self-certification without any fees. The government also announced that from now on, no department shall ask for solvency certificates. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/odisha-govt-launches-online-platform-for-issuance-of-certificates/articleshow/73013504.cms) **In Detail:** [eDistrict Portal](https://edistrict.odisha.gov.in/)
 
 **Punjab**
 
