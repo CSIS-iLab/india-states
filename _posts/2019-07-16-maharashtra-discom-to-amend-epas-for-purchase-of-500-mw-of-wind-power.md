@@ -8,6 +8,7 @@ states:
 sectors:
 - Energy
 subsectors:
+- Power
 - Renewables
 sources:
 - name: Mercom
