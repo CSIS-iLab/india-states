@@ -25,7 +25,6 @@ author:
 - Afeena Ashfaque
 
 ---
-**Big News**
 
 Kerala, Himachal Pradesh, and Andhra Pradesh top SDG India Index 2019; Andhra Pradesh considers decentralization of state capital; Delhi passes new electric vehicle policy; Karnataka allows shops to be open 24x7; Maharashtra discom opposes net metering for rooftop solar due to high sales by consumers; Chief ministers of Rajasthan and West Bengal actively oppose Citizenship Amendment Act; Tamil Nadu tops good governance index; JMM leader Hemant Soren becomes chief minister of Jharkhand; Punjab may revoke power subsidies to “rich” farmers; Kerala and Uttarakhand plan special sessions to extend SC/ST reservation for 10 years; Odisha streamlines certificates; and more.
 
@@ -57,7 +56,7 @@ Nothing critical to report this week.
 
 **Karnataka**
 
-The government of Karnataka has allowed all shops and commercial establishments in the state, employing 10 or more persons, to be open on a 24 hours a week, 7 days a year basis on all days of the year for a period of three years. **Source:** [KNN India](https://knnindia.co.in/news/newsdetails/state/karnataka-govt-gives-nod-to-open-shops-24x7-for-3-years) **In detail:** [Karnataka Notification](https://www.rai.net.in/E-Mailers/Advocacy-update/24x7-store-opening-permission-Karnataka.pdf)
+The government of Karnataka has allowed all shops and commercial establishments in the state, employing 10 or more persons, to be open on a 24 hours a day, 7 days a week basis on all days of the year for a period of three years. **Source:** [KNN India](https://knnindia.co.in/news/newsdetails/state/karnataka-govt-gives-nod-to-open-shops-24x7-for-3-years) **In detail:** [Karnataka Notification](https://www.rai.net.in/E-Mailers/Advocacy-update/24x7-store-opening-permission-Karnataka.pdf)
 
 The Pavagada Solar Park has now become the world’s largest operational solar park, providing over 2,000 MW of electricity generation to Karnataka. **Source:** [Mercom](https://mercomindia.com/karnatakas-pavagada-solar-operational/) **In detail:** [MNRE List of Solar parks](https://mnre.gov.in/scheme-documents), [KSPDCL Pavagada information](http://kspdcl.in/Aboutus_kan.htm)
 
