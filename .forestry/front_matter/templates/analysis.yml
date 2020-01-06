@@ -5,6 +5,8 @@ fields:
 - type: text
   label: Title
   name: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
