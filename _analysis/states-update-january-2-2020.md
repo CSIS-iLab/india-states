@@ -8,10 +8,10 @@ tags: []
 excerpt: Bihar plans special session to extend caste reservation for 10 years; Delhi
   to hold assembly election on February 8 with results on February 11; Haryana subsidizes
   electricity for horticulture-based industries; Maharashtra issues new rooftop solar
-  regulations; Uttar Pradesh increases tariff on electricity; Kerala assembly passes
-  a resolution against the CAA; Center cancels coal blocks in Chhattisgarh and Odisha;
-  Some communication restored in Jammu and Kashmir; Manipur begins issuing Inner Line
-  Permits; Nagaland to remain under AFSPA 6 months; and more.
+  regulations; Kerala assembly passes a resolution against the CAA; Center cancels
+  coal blocks in Chhattisgarh and Odisha; Some communication restored in Jammu and
+  Kashmir; Manipur begins issuing Inner Line Permits; Nagaland to remain under AFSPA
+  6 months; and more.
 states: []
 sectors: []
 subsectors: []
@@ -26,7 +26,7 @@ author:
 ---
 **Big News**
 
-Bihar plans special session to extend caste reservation for 10 years; Delhi to hold assembly election on February 8 with results on February 11; Haryana subsidizes electricity for horticulture-based industries; Maharashtra issues new rooftop solar regulations; Uttar Pradesh increases tariff on electricity; Kerala assembly passes a resolution against the CAA; Center cancels coal blocks in Chhattisgarh and Odisha; Some communication restored in Jammu and Kashmir; Manipur begins issuing Inner Line Permits; Nagaland to remain under AFSPA 6 months; and more.
+Bihar plans special session to extend caste reservation for 10 years; Delhi to hold assembly election on February 8 with results on February 11; Haryana subsidizes electricity for horticulture-based industries; Maharashtra issues new rooftop solar regulations; Kerala assembly passes a resolution against the CAA; Center cancels coal blocks in Chhattisgarh and Odisha; Some communication restored in Jammu and Kashmir; Manipur begins issuing Inner Line Permits; Nagaland to remain under AFSPA 6 months; and more.
 
 **Center – State Relations**
 
@@ -102,11 +102,13 @@ Protests of the Citizenship Amendment Act continue as various organizations, civ
 
 Chhattisgarh chief minister Bhupesh Baghel launched a new insurance program for the state’s laborers. The new scheme will provide $695 a registered laborer who suffers a disability caused by an accident at work, and $1,390 to family members upon the death of a laborer at work. **Source:** [Hindustan Times](https://www.hindustantimes.com/india-news/chhattisgarh-government-launches-financial-scheme-for-labourers/story-9E5sejt1tctt8IuHnz5LNP.html)
 
-The government canceled the allotment of a coal block for the power project in Jharkhand, after a decade of no significant progress towards operationalization. The coal block was allotted in 2009 to Karanpura Energy Ltd. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/economy/government-deallocates-coal-block-in-jharkhand-allotted-for-power-project/article30449428.ece)
-
 **Jammu and Kashmir**
 
 On January 1, the center restored internet and mobile messaging services at all government hospitals and schools. This comes nearly five months since communication services were first placed under restriction. **Source:** [India Today](https://www.indiatoday.in/india/story/jammu-kashmir-sms-all-mobiles-internet-hositals-schools-restored-midnight-1632935-2019-12-31)
+
+**Jharkhand**
+
+The government canceled the allotment of a coal block for the power project in Jharkhand, after a decade of no significant progress towards operationalization. The coal block was allotted in 2009 to Karanpura Energy Ltd. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/economy/government-deallocates-coal-block-in-jharkhand-allotted-for-power-project/article30449428.ece)
 
 **Kerala**
 
