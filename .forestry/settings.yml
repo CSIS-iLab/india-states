@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: "/admin"
 webhook_url: 
 sections:
+- type: document
+  label: Build Status
+  path: NETLIFY.md
+  read_only: true
 - type: heading
   label: DATA
 - type: document
