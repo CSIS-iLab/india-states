@@ -5,8 +5,8 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
-  label: Build Status
   path: NETLIFY.md
+  label: Build Status
   read_only: true
 - type: heading
   label: DATA
