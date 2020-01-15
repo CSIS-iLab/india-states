@@ -26,7 +26,7 @@ published: false
 ---
 **Big News**
 
-The central government announces a North East Gas grid project affecting numerous states; Madhya Pradesh unveils plan to improve MSME landscape; Kerala hosts investor summit with big commitment from Abu Dhabi Investment Authority; Rajasthan backs down from issuing liquor licenses; Meghalaya inaugurates its first Smart City project; Jammu & Kashmir boosts small business procurement; Telangana and Rajasthan to work together on e-mobility charging infrastructure.
+The central government announces a North East Gas grid project affecting numerous states; Madhya Pradesh unveils plan to improve MSME landscape; Kerala hosts investor summit with big commitment from Abu Dhabi Investment Authority; Rajasthan backs down from issuing liquor licenses; Meghalaya inaugurates its first Smart City project; Jammu & Kashmir boosts small business procurement; Telangana and Rajasthan to work together on e-mobility charging infrastructure; and more.
 
 **Center – State Relations**
 
