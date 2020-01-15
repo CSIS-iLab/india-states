@@ -29,7 +29,7 @@ The central government announces a North East Gas grid project affecting numerou
 
 **Center – State Relations**
 
-Haryana, Karnataka, and Kerala have topped the State Energy Efficiency Index 2019. This index tracks the progress of Energy Efficiency (EE) initiatives in 36 states and union territories based on 97 significant indicators, an official statement said. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/economy/bee-launches-state-energy-efficiency-index-2019/article30533640.ece) **In detail:** [State Energy Efficiency Index 2019](https://www.aeee.in/state-ee-index/wp-content/uploads/2020/01/State-Efficiency-Index-2019_FINAL_WEB.pdf)
+Haryana, Karnataka, and Kerala have topped the State Energy Efficiency Index 2019. This index tracks the progress of Energy Efficiency (EE) initiatives in 36 states and union territories based on 97 significant indicators, an official statement said. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/economy/bee-launches-state-energy-efficiency-index-2019/article30533640.ece) **In detail:** [State Energy Efficiency Index 2019](https://www.aeee.in/state-energy-efficiency-index-2019/)
 
 The central government will provide $782.6 million towards the construction of the North East Gas Grid project across the states of Arunachal Pradesh, Assam, Manipur, Meghalaya, Mizoram, Nagaland, Sikkim, and Tripura. **Source:** [Live Mint](https://www.livemint.com/industry/energy/centre-to-foot-60-cost-of-north-east-gas-grid-11578480107879.html) **In detail:** [Press Release](https://pib.gov.in/Pressreleaseshare.aspx?PRID=1598709)
 
