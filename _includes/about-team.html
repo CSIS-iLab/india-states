@@ -2,16 +2,18 @@
 <section class="team-container row">
 	{% for person in site.data.team %}
 	{% if person.current %}
-		<div class="team-personContainer col-xs-12 col-md-3">
-			{% if jekyll.environment == 'production' and site.cloudinary_url %}
-	          <img src="{{ person.image | prepend: site.url | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
-	        {% else %}
-	          <img src="{{ person.image | default:'/assets/img/anon-author.svg' | relative_url }}" alt='{{ person.name }} Image'/>
-	        {% endif %}
-			<br />
-			<strong class="team-name">{{ person.name }}</strong><br />
-			<span class="team-title">{{ person.title | escape }}</span>
-		</div>
+	<div class="team-personContainer col-xs-12 col-md-3">
+		{% if jekyll.environment == 'production' and site.cloudinary_url %}
+		<img src="{{ person.image | prepend: site.url | prepend: site.cloudinary_url }}"
+			title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+		{% else %}
+		<img src="{{ person.image | default:'/assets/img/anon-author.svg' | relative_url }}"
+			alt='{{ person.name }} Image' />
+		{% endif %}
+		<br />
+		<strong class="team-name">{{ person.name }}</strong><br />
+		<span class="team-title">{{ person.title | escape }}</span>
+	</div>
 	{% endif %}
 	{% endfor %}
 </section>
@@ -20,26 +22,32 @@
 <section class="team-container row">
 	{% for person in site.data.team %}
 	{% unless person.current %}
-		<div class="team-personContainer col-xs-12 col-md-3">
-			{% if jekyll.environment == 'production' and site.cloudinary_url %}
-	          <img src="{{ person.image | prepend: site.url | prepend: site.cloudinary_url }}" title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
-	        {% else %}
-	          <img src="{{ person.image | default:'/assets/img/anon-author.svg' | relative_url }}" alt='{{ person.name }} Image'/>
-	        {% endif %}
-			<br />
-			<strong class="team-name">{{ person.name }}</strong><br />
-			<span class="team-title">{{ person.title | escape }}</span>
-		</div>
+	<div class="team-personContainer col-xs-12 col-md-3">
+		{% if jekyll.environment == 'production' and site.cloudinary_url %}
+		<img src="{{ person.image | prepend: site.url | prepend: site.cloudinary_url }}"
+			title="{{ page.feature_image_credit }}" alt="{{ page.feature_image_credit }}" />
+		{% else %}
+		<img src="{{ person.image | default:'/assets/img/anon-author.svg' | relative_url }}"
+			alt='{{ person.name }} Image' />
+		{% endif %}
+		<br />
+		<strong class="team-name">{{ person.name }}</strong><br />
+		<span class="team-title">{{ person.title | escape }}</span>
+	</div>
 	{% endunless %}
 	{% endfor %}
 </section>
 
 <section class="ilab-container">
 	<h2 class="sectionTitle">Development Team</h2>
-	<p><em>Engaging Indian States</em> is a product of the <a href="www.csis.org/programs/dracopoulos-ideas-lab" target="_blank">Andreas C. Dracopoulos iDeas Lab</a>, the in-house digital, multimedia, and design agency at the Center for Strategic and International Studies.</p>
+	<p><em>Engaging Indian States</em> is a product of the <a href="www.csis.org/programs/dracopoulos-ideas-lab"
+			target="_blank">Andreas C. Dracopoulos iDeas Lab</a>, the in-house digital, multimedia, and design agency at the
+		Center for Strategic and International Studies.</p>
 </section>
 
 <section class="csis-container">
 	<h2 class="sectionTitle">About CSIS</h2>
-	<p>Established in Washington, D.C., over 50 years ago, the Center for Strategic and International Studies (CSIS) is a bipartisan, nonprofit policy research organization dedicated to providing strategic insights and policy solutions to help decisionmakers chart a course toward a better world. To learn more about CSIS, visit <a href="https://www.csis.org">www.CSIS.org</a>.</p>
+	<p>Established in Washington, D.C. nearly 60 years ago, the Center for Strategic and International Studies (CSIS) is a
+		bipartisan, nonprofit policy research organization dedicated to advancing practical ideas that address the world’s
+		greatest challenges. To learn more about CSIS, visit <a href="https://www.csis.org">www.CSIS.org</a>.</p>
 </section>
