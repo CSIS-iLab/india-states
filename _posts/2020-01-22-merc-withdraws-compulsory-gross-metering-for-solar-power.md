@@ -7,7 +7,9 @@ states:
 - Maharashtra
 sectors:
 - Energy
-subsectors: []
+subsectors:
+- Renewables
+- Power
 sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/aurangabad/merc-withdraws-compulsory-gross-metering-for-solar-power/articleshowprint/73257641.cms
