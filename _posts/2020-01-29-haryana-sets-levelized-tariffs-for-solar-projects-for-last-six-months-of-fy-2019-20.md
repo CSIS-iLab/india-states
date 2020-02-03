@@ -1,11 +1,11 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: Haryana Sets Levelized Tariffs for Solar Projects for Last Six Months of FY
-  2019-20
+title: Himachal Pradesh Sets Levelized Tariffs for Solar Projects for Last Six Months
+  of FY 2019-20
 date: 2020-01-29 05:00:00 +0000
 states:
-- Haryana
+- Himachal Pradesh
 sectors:
 - Energy
 subsectors:
@@ -14,7 +14,9 @@ subsectors:
 sources:
 - name: Mercom
   url: https://mercomindia.com/haryana-sets-levelized-tariffs-solar-projects/
-details: []
+details:
+- name: Tariff details
+  url: http://hperc.org/File/abc.pdf
 is_analysis: false
 
 ---
