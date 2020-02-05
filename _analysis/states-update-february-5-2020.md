@@ -20,13 +20,13 @@ feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
-published: false
+author:
+- Afeena Ashfaque
 
 ---
 **Big News:**
 
-Union Cabinet allocates 30 percent of north eastern council’s budget for developing deprived areas**;** Indian Oil Corporation to invest $1.94 billion for expanding Barauni refinery’s capacity; Delhi discom signs an MOU with France’s Schneider Electric; Madhya Pradesh Electricity Regulatory Commission amends regulations related to renewable energy sources; Telangana announces setting up sanitation hubs; West Bengal introduces government receipt portal system; Jharkhand establishes regulations for renewable purchase obligation; and more
+Union Cabinet allocates 30 percent of north eastern council’s budget for developing deprived areas; Indian Oil Corporation to invest $1.94 billion for expanding Barauni refinery’s capacity; Delhi discom signs an MOU with France’s Schneider Electric; Madhya Pradesh Electricity Regulatory Commission amends regulations related to renewable energy sources; Telangana announces setting up sanitation hubs; West Bengal introduces government receipt portal system; Jharkhand establishes regulations for renewable purchase obligation; and more
 
 **Center – State relations**
 
@@ -90,7 +90,7 @@ Nothing critical to report this week.
 
 **Telangana**
 
-Municipal Administration and Urban Development Minister K T Rama Rao announced the setting up of Sanitation Hub, an incubator to promote start-ups and innovations in water, sanitation, sewage water management, and waste water recycling to make cities and towns liveable and healthy. A seed fund of Rs 25 crores ($3.5 million) [\[JB3\]](#_msocom_3) will be earmarked for this initiative. **Source:** [Telangana Today](https://telanganatoday.com/sanitation-hub-for-hyderabad)
+Municipal Administration and Urban Development Minister K T Rama Rao announced the setting up of Sanitation Hub, an incubator to promote start-ups and innovations in water, sanitation, sewage water management, and waste water recycling to make cities and towns liveable and healthy. A seed fund of Rs 25 crores ($3.5 million) will be earmarked for this initiative. **Source:** [Telangana Today](https://telanganatoday.com/sanitation-hub-for-hyderabad)
 
 In a big thumbs up to the Telangana government’s efforts for development and growth of the State, the United Nations Development Programme (UNDP) India announced that Telangana has emerged as the best-performing state in the country in promoting inclusive and sustainable growth and decent work for all in 2019. **Source:** [Siasat Daily](https://www.siasat.com/telangana-best-performing-state-announces-undp-state-bureau-1809051/) **In Detail:** [Full Rankings](https://sdgindiaindex.niti.gov.in/#/ranking)
 
