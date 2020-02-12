@@ -2,16 +2,15 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: February 5, 2020'
-date: 2020-02-05 05:00:00 +0000
+title: 'States Update: February 12, 2020'
+date: 2020-02-12 05:00:00 +0000
 tags: []
-excerpt: Union Cabinet allocates 30 percent of north eastern council’s budget for
-  developing deprived areas; Indian Oil Corporation to invest $1.94 billion for expanding
-  Barauni refinery’s capacity; Delhi discom signs an MOU with France’s Schneider Electric;
-  Madhya Pradesh Electricity Regulatory Commission amends regulations related to renewable
-  energy sources; Telangana announces setting up sanitation hubs; West Bengal introduces
-  government receipt portal system; Jharkhand establishes regulations for renewable
-  purchase obligation; and more
+excerpt: 'First National e-Governance Service Delivery Index Assessment (NeSDA) 2019
+  rankings out; Aam Aadmi Party wins Delhi elections; Asian Infrastructure Investment
+  Bank to provide $3 billion loan to Andhra Pradesh; Haryana launches a $210 million
+  social security scheme; Union Cabinet approves setting up of country’s 13th major
+  port in Maharashtra; Rajasthan hikes power tariff by up to 11 percent;  Kerala passes
+  budget, raising motor vehicle and land taxes. '
 states: []
 sectors: []
 subsectors: []
@@ -21,69 +20,65 @@ feature_image_credit: ''
 sources: []
 details: []
 author:
-- Afeena Ashfaque
+- Richard M. Rossow
 published: false
 
 ---
 **Big News:**
 
-Union Cabinet allocates 30 percent of north eastern council’s budget for developing deprived areas; Indian Oil Corporation to invest $1.94 billion for expanding Barauni refinery’s capacity; Delhi discom signs an MOU with France’s Schneider Electric; Madhya Pradesh Electricity Regulatory Commission amends regulations related to renewable energy sources; Telangana announces setting up sanitation hubs; West Bengal introduces government receipt portal system; Jharkhand establishes regulations for renewable purchase obligation; and more
+First National e-Governance Service Delivery Index Assessment (NeSDA) 2019 rankings out; Aam Aadmi Party wins Delhi elections; Asian Infrastructure Investment Bank to provide $3 billion loan to Andhra Pradesh; Haryana launches a $210 million social security scheme ; Union Cabinet approves setting up of country’s 13th major port in Maharashtra; Rajasthan hikes power tariff by up to 11 percent; Kerala passes budget, raising motor vehicle and land taxes.
 
 **Center – State relations**
 
-The Ministry for New and Renewable Energy (MNRE) issued a clarification regarding the second phase of the solar rooftop program, for which it provides Central Financial Assistance. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/renewable/mnre-issues-clarification-for-phase-ii-of-the-solar-rooftop-programme/73788726) **In detail:** [MNRE Notice](https://mnre.gov.in/sites/default/files/webform/notices/Scan.pdf)
+NeSDA 2019, the first survey that assesses state performance on public service delivery is out. Kerala tops the list. Haryana and West Bengal make it to the top six. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/e-governance-haryana-west-bengal-chandigarh-in-top-6/articleshow/74020912.cms) **In Detail:** [National e-Governance Service Delivery Assessment 2019](https://www.nesdaportal.in/NeSDA_2019_Final_Report.pdf)
 
-The states of Madhya Pradesh and Chhattisgarh have rejected NITI Aayog’s proposal to handover the district hospitals to private players and earn on a public-private partnership model. **Source:** [News Click](https://www.newsclick.in/MP-Chhattisgarh-Reject-Proposal-Privatise-District-Hospitals)
+The Petroleum and Natural Gas Regulatory Board has proposed 44 new geographical areas for the upcoming round of bidding for city gas distribution. The current network covers 232 geographical areas in 27 states. **Source:** [Financial Express](https://www.financialexpress.com/economy/govt-identifies-44-new-areas-for-city-gas-distribution-auctions/1857915/)
 
-The Union Cabinet allocated 30 percent of the North-Eastern Council’s (NEC’s) budget for developing deprived areas and integrating them with the mainstream. The move, seen as part of the government’s Act East policy, will benefit marginalized and vulnerable groups of people in backward and neglected areas of North-eastern states. **Source:** [Live Mint](https://www.livemint.com/news/india/govt-allots-30-n-e-council-funds-for-deprived-regions-11580325425543.html) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=197720)
-
-The finance ministry has allocated $4.18 billion in Budget 2020-21 to the states, even as it accepted the recommendation of 15th Finance Commission (FFC) on revenue deficit grants, which had set aside $10.3 billion. **Source:** [Live Mint](https://www.livemint.com/politics/policy/lower-fund-allocation-under-revenue-deficit-grants-may-hit-states-11580718909211.html)
-
-Finance Minister Nirmala Sitharaman on Saturday urged states and Union territories to replace conventional electricity meters with prepaid smart meters in three years, with the aim of cutting distribution losses. **Source:** [Live Mint](https://www.livemint.com/budget/news/budget-2020-fm-urges-states-uts-to-use-prepaid-smart-electricity-metres-11580543554738.html)
+The Central Pollution Control Board issues show-cause notices to 14 thermal power plants for violating environment norms and causing air pollution. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/cpcb-issues-show-cause-notice-to-14-thermal-power-plants-for-violation-of-environmental-norms/articleshow/73983015.cms)
 
 **Andhra Pradesh**
 
-The expert committee headed by G.N. Rao, which the YS Jagan Mohan Reddy government in Andhra Pradesh used as justification for three capitals, categorically stated that any major new governance activity at Visakhapatnam was neither required nor desirable owing to serious constraints. Last week, the Reddy government passed an assembly resolution to have decentralized governance and development by having three capitals — legislative at Amaravati, executive at Visakhapatnam and judicial at Kurnool. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/andhra-pradesh-expert-panel-had-opposed-governance-activity-at-vizag/articleshow/73758655.cms)
+The Asian Infrastructure Investment Bank (AIIB) offered to extend a $3 billion loan to Andhra Pradesh for construction of two new ports and other infrastructure projects. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/aiib-likely-to-lend-3-bn-to-andhra-pradesh-for-development-projects-120020601880_1.html)
 
 **Bihar**
 
-Indian Oil Corporation will invest $1.94 billion to expand the capacity of its Barauni refinery in eastern Bihar state by 50 per cent to 180,000 barrels per day by April 2023. **Source:** [Business Standard](https://www.business-standard.com/article/companies/ioc-plans-1-4-bn-investment-to-raise-bihar-refinery-capacity-by-50-120013100563_1.html) **In Detail:** [IOC Project List](https://www.iocl.com/AboutUs/Majorprojects.aspx)
-
-Bihar deputy chief minister Sushil Kumar Modi said of the $56.8 million allocated by the 15th Finance Commission for Patna Municipal Corporation, $28.4 million would be spent on improving air quality in the city. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/patna/rs-204-crore-allotted-to-improve-patnas-air-quality-sushil-modi/articleshow/73891709.cms)
+Nothing critical to report this week.
 
 **New Delhi**
 
-Delhi distribution company BSES Yamuna Power Ltd (BYPL) announced it has signed a memorandum of understanding (MOU) with France’s Schneider Electric designed to make electricity usage safer, smarter, and sustainable. A BSES release said the MOU will be realized through two programs and by working closely with resident welfare associations, industrial welfare associations, and nominated local electricians in east and central Delhi under BYPL jurisdiction. **Source:** [Economic Times](https://economictimes.indiatimes.com/small-biz/productline/power-generation/bses-schneider-electric-ink-mou-to-boost-safer-smarter-power-usage/articleshow/73697283.cms)
+The Aam Aadmi Party (AAP) won Delhi’s assembly election on Saturday, with 62 of 70 seats, while the Bharatiya Janata Party (BJP) secured the remaining eight. At 62.6 percent, voter turnout was the lowest since 1998, despite a fiercely contested campaign. **Source:** [First Post](https://www.firstpost.com/politics/delhi-assembly-election-sees-61-18-voter-turnout-mustafabad-seelampur-and-gokalpur-seats-record-highest-figures-8019661.html) **In Detail:** [Delhi Election Results](http://results.eci.gov.in/DELHITRENDS2020/partywiseresult-U05.htm)
 
 **Gujarat**
 
-Rural Gujarat pays the least for treatment at public hospitals, according to a Union government report, “Key Indicators of Social Consumption in India: Health.” The report, however, says rural residents place more faith in small private clinics or private hospitals than in public health facilities. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/healthcare-in-rural-gujarat-second-cheapest-in-india/articleshow/73886041.cms) **In detail:** [Key Indicators of Social Consumption in India: Health](http://www.mospi.gov.in/sites/default/files/publication_reports/KI_Health_75th_Final.pdf)
+The Gujarat Electricity Regulatory Commission (GERC) has invited public opinion on a draft paper discussing tariff determinations for wind projects. The deadline for comments is February 25, 2020, with the public hearing scheduled for February 28, 2020, at Gandhinagar. **Source:** [Mercom](https://mercomindia.com/gujarat-proposes-to-discontinue-setting-generic-tariff-wind-projects/) **In Detail:** [Discussion Paper](https://www.gercin.org/wp-content/uploads/2020/02/Final-Solar-tariff-Discussion-Paper_04022020.pdf)
+
+Gujarat has announced a 500 MW solar tender, with a ceiling tariff of 3 cents/kWh. The successful bidder will sign a 25-year power purchase agreement with the state’s distribution company. **Source:** [Saur Energy](https://www.saurenergy.com/solar-energy-news/tender-500-mw-solar-power-projects-issued-gujarat)
 
 **Haryana**
 
-The budget session of the Haryana assembly will commence on February 17. A decision in this regard was taken in the meeting of state cabinet held in New Delhi. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/gurgaon/haryana-budget-session-to-start-from-february-17-cabinet/articleshow/73834204.cms)
-
-A proposal to reserve 75 percent of private sector jobs in Haryana for the youth of the state was discussed in a state cabinet meeting chaired by Chief Minister Manohar Lal Khattar. **Source:** [NDTV](https://www.ndtv.com/chandigarh-news/proposal-to-give-75-percent-of-private-jobs-in-haryana-to-youth-of-the-state-discussed-in-cabinet-me-2172937)
+Haryana chief minister Manohar Lal launched a new social security scheme, which provides annual financial assistance of $84 to families if their annual income is under $2,513 and they own less than 5 acres. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/haryana-launches-rs-1500-crore-mukhyamantri-parivartan-yojna/articleshow/74012211.cms) **In Detail:** [Press Release](https://www.prharyana.gov.in/en/in-order-to-provide-social-security-benefits-to-eligible-families-of-the-state-haryana-chief-0)
 
 **Karnataka**
 
-The eighth population census process along with the National Population Register will begin in Karnataka in April 2020. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/ktaka-npr-to-begin-on-april-15/articleshow/73744604.cms)
+Commercial flight operations begin at Bidar, Karnataka’s 8th airport, which was remodelled and developed at an estimated cost of $1.53 million. The flights open opportunities in Bidar, which is famous for handicrafts and a popular tourism destination. **Source:** [News18](https://www.news18.com/news/auto/commercial-flight-operations-start-at-karnatakas-bidar-airport-under-rcs-udan-2491501.html) **In Detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=199078)
+
+The Bangalore Electricity Supply Company is opening 80 electric vehicle charging stations next week. Once operational, it will be the “first of its kind” network of charging stations run by a public utility, officials said. **Source:** [The Hindu](https://www.thehindu.com/news/cities/bangalore/bescom-sets-up-80-electric-vehicle-charging-stations/article30743515.ece)
 
 **Madhya Pradesh**
 
-The Kamal Nath-led government in Madhya Pradesh is launching a revised version of its Yuva Swabhiman Yojana, a scheme for the unemployed, with an increased monthly stipend and promise of 365 working days, compared to the earlier 100 days. **Source:** [The Logical Indian](https://thelogicalindian.com/news/yuva-swabhiman-yojana-scheme-19529)
+The Madhya Pradesh cabinet passed a resolution against the Citizenship Amendment Act 2019 and urged the Union government to revoke it. Madhya Pradesh became the fifth state to do so after Bengal, Kerala, Punjab, and Rajasthan. **Source:** [India Today](https://www.indiatoday.in/india/story/madhya-pradesh-anti-caa-resolution-1643512-2020-02-05)
 
-The Madhya Pradesh Electricity Regulatory Commission (MPERC) has amended regulations for co-generation and generation of electricity from renewable energy sources. As part of the amendment, MPERC has defined “captive renewable energy generation source” as a project set up by any person to generate electricity primarily for his own use and includes a project set up by any co-operative society or association. **Source:** [Mercom](https://mercomindia.com/madhya-pradesh-no-banking-facility-discom-registered-captive-renewable-projects/) **In detail:** [Amendment details](http://www.mperc.in/27122019%20Eighth%20Amendment%20of%20Renewable%20Source%20-%20Regulations.pdf)
-
-Madhya Pradesh farmers will now be able to irrigate their fields with solar energy. Solar panels will be installed at places by giving subsidies to farmers. **Source:** [DB Post](https://dbpost.com/madhya-pradesh-new-power-connections-will-not-be-given-farmers-will-now-have-to-irrigate-using-solar-energy/)
+The Madhya Pradesh Congress government has set up an exclusive Agriculture Advisory Council to improve the welfare of farmers in the state and work as a bridge between the government and farmers. **Source:** [National Herald](https://www.nationalheraldindia.com/india/madhya-pradesh-govt-forms-agriculture-advisory-council-to-address-farmers-issue) **In Detail:** [Press Release](https://www.mpinfo.org/News/TodaysNews.aspx?newsid=20200205N9&LocID=1)
 
 **Maharashtra**
 
-Shiv Sena, which has so far taken an ambiguous stand on the Citizenship Amendment Act, said the party was not opposed to the new law but was against the National Register of Citizens. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/wont-allow-nrc-in-state-maharashtra-cm-thackeray/articleshow/73887405.cms)
+The Union government has allotted $781.9 million for the Mumbai-Ahmedabad bullet train project for fiscal 2020-21. Apart from the center’s contribution, there is also a move to get $698.1 million from Maharashtra and Gujarat. **Source:** [Live Mint](https://www.livemint.com/news/india/mumbai-ahmedabad-bullet-train-project-govt-allots-rs-5-600-crore-11580981425988.html) **In Detail:** [MAHSR Project Operational Plan](http://www.nhsrcl.in/en/project/mahsr-project-operational-planss)
+
+The Union Cabinet approved the setting up of the country’s 13th major port at Vadhavan in Maharashtra at a total cost of $9.1 billion. A special purpose vehicle, with 51 percent government ownership, will develop the port infrastructure. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/country-to-get-its-13th-major-port-at-vadhavan-in-gujarat-for-rs-65-544-cr-120020501455_1.html) **In Detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=198974)
 
 **Rajasthan**
 
-Nothing critical to report this week.
+The Rajasthan Electricity Regulatory Commission has increased power tariffs by 11 percent overall. This will generate $110.5 million revenue in the last two months (February and March) of the current fiscal year. **Source:** [Business Standard](https://www.business-standard.com/article/pti-stories/rajasthan-power-commission-approves-up-to-11pc-hike-in-electricity-tariffs-120020601780_1.html) **In Detail:** [Tariff order](https://rerc.rajasthan.gov.in/rerc-user-files/tariff-orders)
 
 **Tamil Nadu**
 
@@ -91,54 +86,52 @@ Nothing critical to report this week.
 
 **Telangana**
 
-Municipal Administration and Urban Development Minister K T Rama Rao announced the setting up of Sanitation Hub, an incubator to promote start-ups and innovations in water, sanitation, sewage water management, and waste water recycling to make cities and towns liveable and healthy. A seed fund of Rs 25 crores ($3.5 million) will be earmarked for this initiative. **Source:** [Telangana Today](https://telanganatoday.com/sanitation-hub-for-hyderabad)
-
-In a big thumbs up to the Telangana government’s efforts for development and growth of the State, the United Nations Development Programme (UNDP) India announced that Telangana has emerged as the best-performing state in the country in promoting inclusive and sustainable growth and decent work for all in 2019. **Source:** [Siasat Daily](https://www.siasat.com/telangana-best-performing-state-announces-undp-state-bureau-1809051/) **In Detail:** [Full Rankings](https://sdgindiaindex.niti.gov.in/#/ranking)
+Nothing critical to report this week.
 
 **Uttar Pradesh**
 
-Nothing critical to report this week.
+At DefExpo 2020 in Lucknow, more than 200 agreements were signed. Of these, 23 MOUs worth $6.98 billion were inked with the Uttar Pradesh government alone, providing employment to over 300,000 people. **Source:** [Financial Express](https://www.financialexpress.com/defence/defexpo-2020-up-govt-inks-23-defence-manufacturing-related-mous-worth-rs-50000-crore/1860611/) **In Detail:** [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1602370)
+
+Uttar Pradesh's industrial production fell by 3.8 percent in November 2019 compared to the corresponding period during the last fiscal year 2018-19. However, the month-on-month dip of 3.8 percent in the state’s industrial index is also a recovery of sorts considering it fell sharply by 9.6 percent in the preceding month of October 2019. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/uttar-pradesh-industrial-production-dips-3-8-in-november-2019-120020900282_1.html)
 
 **West Bengal**
 
-The state finance department has introduced the Government Receipt Portal System (GRIPS) – a mobile App designed as an online, user friendly, digital platform for making various tax and non-tax payments directly to the state government. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/kolkata/west-bengal-govt-introduces-mobile-app-for-tax-and-non-tax-receipts/articleshowprint/73811289.cms)
+The West Bengal government has decided to switch to "lease model" for procuring new electric buses to overcome high initial capital expenditure, a senior official of the state transport department said. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/kolkata/west-bengal-to-switch-to-lease-model-for-procuring-electric-buses/articleshowprint/74049614.cms)
 
 **Best of the Rest**
 
-**Chhattisgarh**
+**Arunachal Pradesh**
 
-The budget session of Chhattisgarh Vidhan Sabha will begin from February 24. The session will have 22 sittings and will conclude on April 1. Chief Minister Bhupesh Baghel, who holds the finance portfolio, will present the budget for fiscal 2020-21 during the session. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-budget-session-to-start-from-february-24/articleshow/73830222.cms)
+State-owned BHEL said it has commissioned two units of Kameng Hydroelectric Project (HEP) in Arunachal Pradesh. Kameng HEP is a run-of-the river scheme which will utilise the flow from Bichom and Tenga rivers. **Source:** [Telangana Today](https://telanganatoday.com/bhel-commissions-two-hydro-power-generating-units-in-arunachal-pradesh) **In Detail:** [Press Release](http://www.bhel.com/assets/downloads/5e410b432ce66BHEL_commissions_two_hydro_power_generating_units_in_Arunachal_Pradesh.pdf)
 
-The state cabinet passed a resolution opposing the Citizenship Amendment Act and urged the center to repeal it, citing protests across Chhattisgarh. During the budget session of the assembly, the state government is likely to table an anti-CAA resolution, parliamentary affairs minister Ravindra Choubey said. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/raipur/chhattisgarh-cabinet-passes-anti-caa-resolution-may-bring-motion-in-assembly/articleshow/73776311.cms)
+**Goa**
+
+Goa chief minister Pramod Sawant presented the budget for financial year 2020 in the state assembly. The budget, which is projected at $2.94 billion, includes a 50 percent hike in the price of liquor. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/goa/goa-cm-pramod-sawant-presents-budget-for-2020-21/articleshow/73985737.cms) **In Detail:** [Goa Budget Speech 2020-21](http://goabudget.gov.in/assets/documents/2020-21/CM_Budget_Speech_2020-21.pdf)
 
 **Himachal Pradesh**
 
-Himachal Pradesh chief minister Jai Ram Thakur announced a 5 percent Dearness Allowance hike for state government employees and the pensioners. The key allowance, which aids in offsetting the impact of inflation, would be raised effective July 7, 2019. **Source:** [IndiaTV News](https://www.indiatvnews.com/business/news-7th-pay-commission-himachal-government-employees-pay-hike-dearness-allowance-da-hike-budget-2020-582884)
-
-The budget session of Himachal Pradesh assembly will start on February 25. Chief Minister Jai Ram Thakur will present his third budget on March 6. There will be 22 sittings and the budget session will conclude on April 1. As assembly speaker Rajeev Bindal has been elected as the state BJP president, election of a new speaker will be also be held on February 25. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/shimla/himachal-pradesh-budget-session-starts-from-february-25/articleshow/73895986.cms)
+The interim report of the 15th Finance Commission has recommended a revenue deficit grant of $1.6 billion to Himachal Pradesh for 2020-21, while also recommending grants worth $88.8 million to local bodies in the state and over $69.8 million for disaster risk mitigation. **Source:** [Indian Express](https://indianexpress.com/article/cities/shimla/finance-commission-recommends-rs-11431-crore-revenue-deficit-grant-for-himachal-pradesh-6258363/)
 
 **Jammu and Kashmir**
 
-The government has allocated $4.28 billion for the newly created Union Territory of Jammu and Kashmir in the budget for 2020-21 presented by Union Finance Minister Nirmala Sitharaman. The government has provisioned $38.8 billion as the contribution to Union Territory Disaster Response Fund while $4.27 billion has been allocated for meeting its resource gap. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/policy/allocation-for-jammu-and-kashmir-at-rs-30757-cr-ladakh-at-rs-5958-cr-for-fy21/articleshow/73835579.cms)
+The central government has approved a nearly $837.8 million multi-purpose project to provide uninterrupted water for irrigation to farmers in Jammu and Kashmir's Kathua district and to produce power, Union Minister Jitendra Singh said. **Source:** [Live Mint](https://www.livemint.com/news/india/centre-gives-nod-to-nearly-rs-6-000-cr-multi-purpose-project-in-j-k-11580775125844.html) **In Detail:** [Press Release](https://pib.gov.in/PressReleseDetail.aspx?PRID=1601798)
 
-The Administrative Council has approved several Amendments in the Jammu and Kashmir Reservation Rules, 2005, aimed at rationalizing the current reservation policy and giving representation to Pahari speaking people. **Source:** [The Kashmir Monitor](https://www.thekashmirmonitor.net/lg-led-admin-council-amends-j-over-9l-pahari-speaking-people-to-be-benefited/)
+Jammu & Kashmir Lieutenant Governor GC Murmu along with its Administrative Council approved the implementation of the Jal Jeevan Mission (JJM) and the plan to achieve 100 per cent coverage of piped water supply by December 2021 across the region, aligning it to the country's mission. The mission aims to provide Functional Household Tap Connections (FHTC) to every rural household **Source:** [Republic World](https://www.republicworld.com/india-news/general-news/every-jk-rural-household-to-receive-piped-water-by-dec-2021.html)
 
-**Jharkhand**
+**Kerala**
 
-The Jharkhand Electricity Regulatory Commission has come up with regulations for renewable purchase obligation for obligated entities within the state. The earlier regulations are set to expire in March 2020. These regulations will apply to distribution licensees, captive users, and open access consumers within the state. **Source:** [Mercom](https://mercomindia.com/jharkhand-new-regulations-rpo/) **In detail:** [JSERC (Renewable Energy Purchase Obligation and its Compliance) Regulations, 2020](http://jserc.org/rpo2020.pdf)
+Kerala finance minister Thomas Issac presented the budget for 2020-21. The budget includes a tax increase on private vehicles, as well as a higher luxury tax on residential buildings, in an attempt to gain additional revenue. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/kerala-finance-minister-presents-budget-with-15-higher-expenditure/articleshow/74010287.cms) **In Detail:** [Kerala Budget Documents](http://www.finance.kerala.gov.in/bdgtDcs.jsp)
 
-**Meghalaya**
-
-A dozen Meghalaya organizations have come together to renew their demand for implementation of an inner line permit system in the state. **Source:** [North East Now](https://nenow.in/north-east-news/meghalaya/meghalaya-groups-to-renew-protest-for-ilp-from-feb-4.html)
+To achieve optimum energy efficiency and conserve power, Kerala will now ban the sale of compact fluorescent lamp and filament light bulbs across the state from November 1, announced Finance Minister Thomas Isaac in his budget speech. **Source:** [The News Minute](https://www.thenewsminute.com/article/fluorescent-filament-bulbs-be-banned-kerala-november-2020-117721)
 
 **Odisha**
 
-Following in the footsteps of the Central Electricity Supply Utility for collection from defaulters, North Eastern Electricity Supply Company of Odisha Limited has decided to start a disconnection drive from February 18. The officials said the power distribution company will send notices to domestic and commercial consumers, asking them to deposit their arrears within 15 days. **Source:** [Odisha bytes](https://odishabytes.com/nesco-to-begin-power-disconnection-drive-in-north-odisha-dists-from-feb-18/)
+The Odisha cabinet approved the budget for 2020-21 which is likely to reach $21 billion. The cabinet also approved execution of five rural piped water supply projects to provide safe drinking water to five Blocks in Sundargarh district. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/odisha-cabinet-approves-budget/article30766832.ece)
+
+The Odisha government approved the amended policy for long-term ore linkage to industries through the Odisha Mining Corporation (OMC). The state government amended the policy to attract investment in mechanised ore evacuation system of the OMC, **Source:** [Odisha TV](https://odishatv.in/odisha/amended-policy-for-long-term-ore-linkage-approved-by-odisha-govt-433528)
 
 **Punjab**
 
-The Amarinder Singh-led Punjab government will present its budget for 2020-21 on February 25. The cabinet decided to summon the 11th session (Budget Session) of the 15th Punjab Vidhan Sabha from February 20 to 28, according to an official spokesperson. **Source:** [Outlook India](https://www.outlookindia.com/newsscroll/punjab-budget-to-be-presented-on-feb-25/1722576)
+Punjab is all set to reintroduce social security cess on the registration of sale deeds. A 1 percent cess will be imposed on registries in both rural and urban areas. The decision was taken by the government after a recent meeting of the resource mobilisation committee. **Source:** [The Tribune](https://www.tribuneindia.com/news/punjab-government-to-impose-1-cess-on-property-registration-37506)
 
-Prices of domestic liquor, Indian-made foreign liquor, and beer in Punjab are set to increase from April 1, with the state government announcing an increase in excise duty at retail and wholesale stages. **Source:** [The Tribune](https://www.tribuneindia.com/news/liquor-prices-in-punjab-to-go-up-from-april-34145)
-
-Responding to Punjab chief minister Amarinder Singh's request, the center has given approval for setting up a new government medical college at Hoshiarpur, in addition to upgrading the existing local civil hospital. **Source:** [Times of India](https://timesofindia.indiatimes.com/home/education/news/centre-sanctions-medical-college-for-punjab/articleshow/73731441.cms)
+The 15th Finance Commission headed by N K Singh has recommended a revenue deficit grant of $1.06 billion to cash-starved Punjab for the financial year 2020-21. After Kerala and Himachal Pradesh, Punjab placed third in terms of the amount of revenue deficit grant among 14 states. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/15th-finance-commission-gives-rs-7659-crore-revenue-deficit-grant-to-punjab/articleshow/74021142.cms)
