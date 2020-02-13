@@ -25,7 +25,7 @@ author:
 ---
 **Big News:**
 
-First National e-Governance Service Delivery Index Assessment (NeSDA) 2019 rankings out; Aam Aadmi Party wins Delhi elections; Asian Infrastructure Investment Bank to provide $3 billion loan to Andhra Pradesh; Haryana launches a $210 million social security scheme ; Union Cabinet approves setting up of country’s 13th major port in Maharashtra; Rajasthan hikes power tariff by up to 11 percent; Kerala passes budget, raising motor vehicle and land taxes.
+First National e-Governance Service Delivery Index Assessment (NeSDA) 2019 rankings out; Aam Aadmi Party wins Delhi elections; Asian Infrastructure Investment Bank to provide $3 billion loan to Andhra Pradesh; Haryana launches a $210 million social security scheme; Union Cabinet approves setting up of country’s 13th major port in Maharashtra; Rajasthan hikes power tariff by up to 11 percent; Kerala passes budget, raising motor vehicle and land taxes.
 
 **Center – State relations**
 
@@ -115,7 +115,7 @@ The interim report of the 15th Finance Commission has recommended a revenue defi
 
 The central government has approved a nearly $837.8 million multi-purpose project to provide uninterrupted water for irrigation to farmers in Jammu and Kashmir's Kathua district and to produce power, Union Minister Jitendra Singh said. **Source:** [Live Mint](https://www.livemint.com/news/india/centre-gives-nod-to-nearly-rs-6-000-cr-multi-purpose-project-in-j-k-11580775125844.html) **In Detail:** [Press Release](https://pib.gov.in/PressReleseDetail.aspx?PRID=1601798)
 
-Jammu & Kashmir Lieutenant Governor GC Murmu along with its Administrative Council approved the implementation of the Jal Jeevan Mission (JJM) and the plan to achieve 100 per cent coverage of piped water supply by December 2021 across the region, aligning it to the country's mission. The mission aims to provide Functional Household Tap Connections (FHTC) to every rural household **Source:** [Republic World](https://www.republicworld.com/india-news/general-news/every-jk-rural-household-to-receive-piped-water-by-dec-2021.html)
+Jammu & Kashmir Lieutenant Governor GC Murmu along with its Administrative Council approved the implementation of the Jal Jeevan Mission and the plan to achieve 100 per cent coverage of piped water supply by December 2021 across the region, aligning it to the country's mission. The mission aims to provide Functional Household Tap Connections (FHTC) to every rural household **Source:** [Republic World](https://www.republicworld.com/india-news/general-news/every-jk-rural-household-to-receive-piped-water-by-dec-2021.html)
 
 **Kerala**
 
@@ -127,10 +127,10 @@ To achieve optimum energy efficiency and conserve power, Kerala will now ban the
 
 The Odisha cabinet approved the budget for 2020-21 which is likely to reach $21 billion. The cabinet also approved execution of five rural piped water supply projects to provide safe drinking water to five Blocks in Sundargarh district. **Source:** [The Hindu](https://www.thehindu.com/news/national/other-states/odisha-cabinet-approves-budget/article30766832.ece)
 
-The Odisha government approved the amended policy for long-term ore linkage to industries through the Odisha Mining Corporation (OMC). The state government amended the policy to attract investment in mechanised ore evacuation system of the OMC, **Source:** [Odisha TV](https://odishatv.in/odisha/amended-policy-for-long-term-ore-linkage-approved-by-odisha-govt-433528)
+The Odisha government approved the amended policy for long-term ore linkage to industries through the Odisha Mining Corporation (OMC). The state government amended the policy to attract investment in mechanized ore evacuation system of the OMC. **Source:** [Odisha TV](https://odishatv.in/odisha/amended-policy-for-long-term-ore-linkage-approved-by-odisha-govt-433528)
 
 **Punjab**
 
-Punjab is all set to reintroduce social security cess on the registration of sale deeds. A 1 percent cess will be imposed on registries in both rural and urban areas. The decision was taken by the government after a recent meeting of the resource mobilisation committee. **Source:** [The Tribune](https://www.tribuneindia.com/news/punjab-government-to-impose-1-cess-on-property-registration-37506)
+Punjab is all set to reintroduce social security cess on the registration of sale deeds. A 1 percent cess will be imposed on registries in both rural and urban areas. The decision was taken by the government after a recent meeting of the resource mobilization committee. **Source:** [The Tribune](https://www.tribuneindia.com/news/punjab-government-to-impose-1-cess-on-property-registration-37506)
 
 The 15th Finance Commission headed by N K Singh has recommended a revenue deficit grant of $1.06 billion to cash-starved Punjab for the financial year 2020-21. After Kerala and Himachal Pradesh, Punjab placed third in terms of the amount of revenue deficit grant among 14 states. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/15th-finance-commission-gives-rs-7659-crore-revenue-deficit-grant-to-punjab/articleshow/74021142.cms)
