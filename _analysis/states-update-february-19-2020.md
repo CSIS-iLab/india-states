@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: February 19, 2020'
-date: 2020-02-19 05:00:00 +0000
+date: 2020-02-19T05:00:00.000+00:00
 tags: []
 excerpt: Andhra Pradesh power regulator orders utilities to uphold clean energy PPA;
   Haryana approves $173.8 million package for Mega Projects; MOUs worth $10 billion
@@ -18,10 +18,9 @@ feature_image_credit: ''
 sources: []
 details: []
 author:
-- Richard M. Rossow
+- Neelima Jain
 
 ---
-
 **Big News:** Andhra Pradesh power regulator orders utilities to uphold clean energy PPA; Haryana approves $173.8 million package for Mega Projects; MOUs worth $10 billion signed at Karnataka’s investors meet; Uttar Pradesh approves Ground Water Act-2020 to improve ground water levels; West Bengal announces 100 MSME parks; And more.
 
 **Center – State relations**
