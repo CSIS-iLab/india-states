@@ -18,7 +18,6 @@ feature_image_credit: ''
 sources: []
 details: []
 author: []
-published: false
 
 ---
 
