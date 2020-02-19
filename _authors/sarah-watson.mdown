@@ -2,6 +2,7 @@
 title: Sarah Watson
 job_title: Associate Fellow, Wadhwani Chair in US India Policy Studies
 image: "/uploads/headshots/sarah-watson-headshot2.jpg"
+published: false
 
 ---
 Sarah Watson was an associate fellow in the Wadhwani Chair in U.S.-India Policy Studies at CSIS, from September 2015-December 2017.
