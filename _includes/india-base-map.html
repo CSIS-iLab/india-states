@@ -32,7 +32,7 @@
 </div>
 
 <script>
-(function ($) {
+$(function () {
   // Data Array
   var mapData = [
     {% for row in dataset %}
@@ -139,5 +139,5 @@
       chart.tooltip.hide('fast');
     }
   );
-})(jQuery);
+});
 </script>
