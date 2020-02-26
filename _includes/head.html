@@ -1,51 +1,27 @@
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta
-    name="viewport"
-    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
-  />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
 
-  <link
-    rel="icon"
-    sizes="192x192"
-    href="{{ '/assets/img/android-chrome-192x192.png' | relative_url }}"
-  />
-  <link
-    rel="apple-touch-icon"
-    sizes="180x180"
-    href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}"
-  />
-  <link
-    rel="icon"
-    type="image/png"
-    href="{{ '/assets/img/favicon-32x32.png' | relative_url }}"
-    sizes="32x32"
-  />
-  <link
-    rel="icon"
-    type="image/png"
-    href="{{ '/assets/img/favicon-16x16.png' | relative_url }}"
-    sizes="16x16"
-  />
-  <link
-    rel="manifest"
-    href="{{ '/assets/img/manifest.json' | relative_url }}"
-  />
+  <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.jquery.min.js"></script>
+
+  <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+  <script src="https://code.highcharts.com/maps/modules/data.js"></script>
+  <script type="text/javascript" src="{{ "/assets/js/bundle.js" | relative_url }}"></script>
+
+  <link rel="icon" sizes="192x192" href="{{ '/assets/img/android-chrome-192x192.png' | relative_url }}" />
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/img/apple-touch-icon.png' | relative_url }}" />
+  <link rel="icon" type="image/png" href="{{ '/assets/img/favicon-32x32.png' | relative_url }}" sizes="32x32" />
+  <link rel="icon" type="image/png" href="{{ '/assets/img/favicon-16x16.png' | relative_url }}" sizes="16x16" />
+  <link rel="manifest" href="{{ '/assets/img/manifest.json' | relative_url }}" />
 
   <!-- CSS -->
-  <link
-    rel="stylesheet"
-    href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css"
-    type="text/css"
-  />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flexboxgrid/6.3.1/flexboxgrid.min.css"
+    type="text/css" />
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  <link rel="stylesheet" href="{{ "/assets/css/print.css" | relative_url }}"
-  media="print">
-  <link
-    rel="canonical"
-    href="{{ page.url | replace:'index.html','' | absolute_url }}"
-  />
+  <link rel="stylesheet" href="{{ "/assets/css/print.css" | relative_url }}" media="print">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}" />
 
   <!-- Typekit -->
   <link rel="stylesheet" href="https://use.typekit.net/xxu0xvd.css" />
@@ -58,14 +34,8 @@
   {% endif %}
   <meta property="og:title" content="{{ page.title | default: site.title }}" />
   <meta property="og:locale" content="en_US" />
-  <meta
-    name="description"
-    content="{{ page.excerpt | default: site.description | strip_html }}"
-  />
-  <meta
-    property="og:description"
-    content="{{ page.excerpt | default: site.description | strip_html }}"
-  />
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html }}" />
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html }}" />
   <link rel="canonical" href="{{ site.url | append: page.url }}" />
   <meta property="og:url" content="{{ site.url | append: page.url }}" />
   <meta property="og:site_name" content="{{ site.title }}" />
@@ -82,34 +52,16 @@
     }
   </script>
   {% if page.feature_image %}
-  <meta
-    property="og:image"
-    content="{{ page.feature_image | prepend: site.url }}"
-  />
-  <meta
-    name="twitter:image"
-    content="{{ page.feature_image | prepend: site.url }}"
-  />
+  <meta property="og:image" content="{{ page.feature_image | prepend: site.url }}" />
+  <meta name="twitter:image" content="{{ page.feature_image | prepend: site.url }}" />
   {% elsif page.feature_images.primary.image %}
-  <meta
-    property="og:image"
-    content="{{ page.feature_images.primary.image | prepend: site.url }}"
-  />
-  <meta
-    name="twitter:image"
-    content="{{ page.feature_images.primary.image | prepend: site.url }}"
-  />
+  <meta property="og:image" content="{{ page.feature_images.primary.image | prepend: site.url }}" />
+  <meta name="twitter:image" content="{{ page.feature_images.primary.image | prepend: site.url }}" />
   {% elsif page.image %}
   <meta property="og:image" content="{{ page.image | prepend: site.url }}" />
   <meta name="twitter:image" content="{{ page.image | prepend: site.url }}" />
   {% else %}
-  <meta
-    property="og:image"
-    content="{{ site.facebook_default_image | prepend: site.url }}"
-  />
-  <meta
-    name="twitter:image"
-    content="{{ site.twitter_default_image | prepend: site.url }}"
-  />
+  <meta property="og:image" content="{{ site.facebook_default_image | prepend: site.url }}" />
+  <meta name="twitter:image" content="{{ site.twitter_default_image | prepend: site.url }}" />
   {% endif %}
 </head>
