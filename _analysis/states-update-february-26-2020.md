@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Union Cabinet approves a $19 billion rural sanitation scheme; Madhya Pradesh approves act to fast-track investment approvals; Tamil Nadu declares Cauvery Delta as protected agricultural zone; Rajasthan, Uttar Pradesh, Mizoram and Odisha present state budgets; Punjab notifies Water Resources Management and Regulation Act; and more.
