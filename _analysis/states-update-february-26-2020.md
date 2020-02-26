@@ -102,9 +102,7 @@ Himachal Pradesh cabinet gave its approval to excise policy for the year 2020-21
 
 **Jammu and Kashmir**
 
-The center plans to install a $1.5 billion worth power transmission project in Ladakh. The 900-km link will help big green energy projects in the Union territory supply power across India.
-
-**Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/economy/centre-to-install-11000-cr-renewable-power-transmission-project-in-ladakh/article30851399.ece)
+The center plans to install a $1.5 billion worth power transmission project in Ladakh. The 900-km link will help big green energy projects in the Union territory supply power across India. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/economy/centre-to-install-11000-cr-renewable-power-transmission-project-in-ladakh/article30851399.ece)
 
 **Kerala**
 
