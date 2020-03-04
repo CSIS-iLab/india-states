@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Andhra Pradesh releases $415.67 million to clear power dues; Madhya Pradesh tops in land digitization survey; Bihar, Gujarat, Haryana, and Punjab present state budgets; Tamil Nadu drafts action plan on climate change; Union Cabinet approves adaptation of central laws in Jammu and Kashmir; and more.
