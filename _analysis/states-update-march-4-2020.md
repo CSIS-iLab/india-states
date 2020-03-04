@@ -33,7 +33,7 @@ Lenders will have a right to replace a defaulting city gas licensee with a new e
 
 The Andhra Pradesh government released a sum of $415.67 million to clear long- pending power dues. **Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/power/andhra-pradesh-govt-releases-rs-2984-cr-to-clear-power-dues/74327616) **In Detail**: [GO No: RT-17](https://goir.ap.gov.in/Reports.aspx)
 
-The Appellate Tribunal For Electricity has disallowed tariff cuts by state-owned power distribution companies. **Source:** [Financial Express](https://www.financialexpress.com/industry/relief-to-solar-units-tribunal-disallows-tariff-cuts-by-andhra-pradesh-discoms/1884554/) **In Detail**: [Judgement](http://aptel.gov.in/sites/default/files/A.Nos.%20368%20of%202019,369%20of%202019,%20370%20of%202019,%20371%20of%202019,%20372%20of%202019%20and%20373%20of%202019_27.02.20.pdf)
+The Appellate Tribunal for Electricity has disallowed tariff cuts by state-owned power distribution companies. **Source:** [Financial Express](https://www.financialexpress.com/industry/relief-to-solar-units-tribunal-disallows-tariff-cuts-by-andhra-pradesh-discoms/1884554/) **In Detail**: [Judgement](http://aptel.gov.in/sites/default/files/A.Nos.%20368%20of%202019,369%20of%202019,%20370%20of%202019,%20371%20of%202019,%20372%20of%202019%20and%20373%20of%202019_27.02.20.pdf)
 
 **Bihar**
 
