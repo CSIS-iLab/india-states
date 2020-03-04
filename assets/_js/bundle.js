@@ -10,7 +10,7 @@ import ShowMoreMeta from './show-more-meta'
 import SmoothScroll from './smooth-scroll'
 import StatesLanding from './state-landing'
 import StickyMenu from './sticky-menu'
-import { SearchOverlay } from './searchpage'
+import { SearchOverlay, Search } from './searchpage'
 
 window.addEventListener('DOMContentLoaded', () => {
   BackToTop()
@@ -26,5 +26,5 @@ window.addEventListener('DOMContentLoaded', () => {
   StatesLanding()
   StickyMenu()
   SearchOverlay()
-  // Search()
+  Search()
 })
