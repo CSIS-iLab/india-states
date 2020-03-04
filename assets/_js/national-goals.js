@@ -1,20 +1,20 @@
-import $ from 'jquery'
+// import $ from 'jquery'
 
 const NationalGoals = () => {
   // on page load...
   moveProgressBar()
   // on browser resize...
-  $(window).resize(function() {
-    moveProgressBar()
-  })
+  // $(window).resize(function () {
+  //   moveProgressBar()
+  // })
 
   // SIGNATURE PROGRESS
   function moveProgressBar() {
     let allData = Array.from(
-      $('.progress-wrap').map(function() {
-        return $(this).data('progress-percent')
-      })
-    )
+      document.getElementsByClassName('progress-wrap')
+    ).map(function(bar) {
+      return bar.getAttribute('data-progress-percent')
+    })
 
     allData.push(100)
 
@@ -22,35 +22,38 @@ const NationalGoals = () => {
       return Math.max(a, b)
     })
 
-    $('.progress-wrap').each(function() {
-      let percent = $(this).data('progress-percent') / max
-      let getProgressWrapWidth = $(this).width()
-      let progressTotal = percent * getProgressWrapWidth
-      calculateWidth(progressTotal)
-      let animationLength = 2500
-      let totalWidth
+    Array.from(document.getElementsByClassName('progress-wrap')).forEach(
+      function(bar) {
+        let percent = bar.getAttribute('data-progress-percent') / max
 
-      function calculateWidth(progressTotal) {
+        let getProgressWrapWidth = bar.clientWidth
+
+        let progressTotal = percent * getProgressWrapWidth
+
+        let totalWidth
+
         if (progressTotal > 500) {
           totalWidth =
             window.innerWidth > 1000 ? progressTotal - 150 : progressTotal - 50
         } else {
           totalWidth = progressTotal
         }
-      }
 
-      // on page load, animate percentage bar to data percentage length
-      // .stop() used to prevent animation queueing
-      $(this)
-        .children('.progress-bar')
-        .stop()
-        .animate(
-          {
-            width: totalWidth
-          },
-          animationLength
-        )
-    })
+        bar.children[0].style.width = `${totalWidth}px`
+
+        // on page load, animate percentage bar to data percentage length
+        // .stop() used to prevent animation queueing
+        // $(this)
+        //   .children('.progress-bar')
+        //   .stop()
+        //   .animate(
+        //     {
+        //       width: totalWidth
+        //     },
+        //     animationLength
+        //   )
+      }
+    )
   }
 
   let tooltips = document.querySelectorAll('.tip-content')
