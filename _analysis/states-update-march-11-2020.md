@@ -18,7 +18,8 @@ feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
+author:
+- Neelima Jain
 published: false
 
 ---
@@ -26,7 +27,7 @@ published: false
 
 **Center – State relations**
 
-Government removes tariff caps for solar, wind power auctions. The move is expected to boost investments in renewable energy projects. In the past, the tariff caps have ranged from $0.04 per kilowatt-hour (kWh) to $0.05 per kWh. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/mnre-removes-cap-on-bids-for-renewables-industry-says-decision-ill-timed-120030601421_1.html)
+The central government removes tariff caps for solar, wind power auctions. The move is expected to boost investments in renewable energy projects. In the past, the tariff caps have ranged from $0.04 per kilowatt-hour (kWh) to $0.05 per kWh. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/mnre-removes-cap-on-bids-for-renewables-industry-says-decision-ill-timed-120030601421_1.html)
 
 The government has approved a grant of $64 million to waste-to-energy scheme. Under the revised guidelines for its waste to energy program, Ministry of New and Renewable Energy (MNRE) has included municipal solid waste-based projects. **Source:** [Mercom](https://mercomindia.com/mnre-municipal-solid-waste-to-energy-program-guidelines/) In detail: [MNRE Guidelines](https://mnre.gov.in/sites/default/files/webform/notices/RevisedGuidelines.pdf)
 
