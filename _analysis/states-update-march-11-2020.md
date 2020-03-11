@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Government removes tariff cap on renewable energy auctions; Karnataka allocates $1.1 billion to decongest Bengaluru; Maharashtra reduces electricity duty on industrial use; Tamil Nadu launches health reform program with $287 million fund support; Model code of conduct in force in Andhra Pradesh; Punjab’s new land lease policy makes 10 percent growth mandatory for panchayat officer; and more
@@ -29,11 +28,11 @@ published: false
 
 The central government removes tariff caps for solar, wind power auctions. The move is expected to boost investments in renewable energy projects. In the past, the tariff caps have ranged from $0.04 per kilowatt-hour (kWh) to $0.05 per kWh. **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/mnre-removes-cap-on-bids-for-renewables-industry-says-decision-ill-timed-120030601421_1.html)
 
-The government has approved a grant of $64 million to waste-to-energy scheme. Under the revised guidelines for its waste to energy program, Ministry of New and Renewable Energy (MNRE) has included municipal solid waste-based projects. **Source:** [Mercom](https://mercomindia.com/mnre-municipal-solid-waste-to-energy-program-guidelines/) In detail: [MNRE Guidelines](https://mnre.gov.in/sites/default/files/webform/notices/RevisedGuidelines.pdf)
+The government has approved a grant of $64 million to waste-to-energy scheme. Under the revised guidelines for its waste to energy program, Ministry of New and Renewable Energy (MNRE) has included municipal solid waste-based projects. **Source:** [Mercom](https://mercomindia.com/mnre-municipal-solid-waste-to-energy-program-guidelines/) **In detail:** [MNRE Guidelines](https://mnre.gov.in/sites/default/files/webform/notices/RevisedGuidelines.pdf)
 
 **Andhra Pradesh**
 
-Andhra Pradesh local body elections will be held from March 21 to March 29. With the schedule notification released, the election code of conduct has come into effect. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/amaravati/four-phase-local-body-elections-in-andhra-pradesh-to-begin-on-march-21/articleshow/74526475.cms) In detail: [Schedule Notification](http://sec.ap.gov.in/Documents/Notifications/Symbol_Notification-MPTC_and_ZPTC.pdf)
+Andhra Pradesh local body elections will be held from March 21 to March 29. With the schedule notification released, the election code of conduct has come into effect. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/amaravati/four-phase-local-body-elections-in-andhra-pradesh-to-begin-on-march-21/articleshow/74526475.cms) **In detail:** [Schedule Notification](http://sec.ap.gov.in/Documents/Notifications/Symbol_Notification-MPTC_and_ZPTC.pdf)
 
 **Bihar**
 
@@ -49,7 +48,7 @@ Nothing critical to report this week.
 
 **Haryana**
 
-The Haryana assembly passed eight bills on the last day of the budget session including, Haryana Development and Regulation of Urban Areas (Amendment) Bill, 2020, which allows renewal of license, granted under the previous act, for 5 years. **Source:** [Outlook](https://www.outlookindia.com/newsscroll/haryana-assembly-passes-eight-bills/1751066) In detail: [List of Business](http://haryanaassembly.gov.in/wp-content/uploads/2020/03/List-of-Business_4th-March-2020-1.pdf)
+The Haryana assembly passed eight bills on the last day of the budget session including, Haryana Development and Regulation of Urban Areas (Amendment) Bill, 2020, which allows renewal of license, granted under the previous act, for 5 years. **Source:** [Outlook](https://www.outlookindia.com/newsscroll/haryana-assembly-passes-eight-bills/1751066) **In detail:** [List of Business](http://haryanaassembly.gov.in/wp-content/uploads/2020/03/List-of-Business_4th-March-2020-1.pdf)
 
 **Karnataka**
 
@@ -69,7 +68,7 @@ Nothing critical to report this week.
 
 **Tamil Nadu**
 
-Tamil Nadu launched the Tamil Nadu Health System Reform Program with $287 million in funding support from the World Bank. The program aims to improve quality of care, management of non-communicable diseases, and reduce equity gaps in child health. **Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/edappadi-launches-tamil-nadu-health-system-reform-programme/article30970486.ece) **Portal:** [Tamil Nadu Health System Reform Program](https://tnhsp.org/tnhsrp/)
+Tamil Nadu launched the Tamil Nadu Health System Reform Program with $287 million in funding support from the World Bank. The program aims to improve quality of care, management of non-communicable diseases, and reduce equity gaps in child health. **Source:** [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/edappadi-launches-tamil-nadu-health-system-reform-programme/article30970486.ece) **In detail:** [Tamil Nadu Health System Reform Program](https://tnhsp.org/tnhsrp/)
 
 A grant-in-aid of $9 million has been sanctioned for eight projects under the “Agro Processing Cluster Scheme” of the Food Processing Ministry’s Kisan SAMPADAYojana. These projects are likely to generate employment for around 8,000 people and benefit 32,000 farmers. **Source:** [The Hindu Business Line](https://www.thehindubusinessline.com/economy/policy/food-processing-ministry-grants-aid-for-10-projects/article30991396.ece) **In detail:** [Press Release](https://pib.gov.in/newsite/PrintRelease.aspx?relid=199863)
 
@@ -105,7 +104,7 @@ The Himachal Pradesh government presented a $6.6 billion budget for FY 2020-21, 
 
 **Jammu and Kashmir**
 
-The state launched the Student Health Card to improve the health and overall well-being of over 1.2 million students. The initiative is part of the government’s comprehensive school health education plan to ensure better healthcare for school children. **Source:** [The Tribune](https://www.tribuneindia.com/news/l-g-launches-student-health-card-51544) **In Detail:** [Press Release](http://new.jkdirinf.in/NewsDescription.aspx?ID=61656)
+The state launched the Student Health Card to improve the health and overall well-being of over 1.2 million students. The initiative is part of the government’s comprehensive school health education plan to ensure better healthcare for school children. **Source:** [The Tribune](https://www.tribuneindia.com/news/l-g-launches-student-health-card-51544) **In detail:** [Press Release](http://new.jkdirinf.in/NewsDescription.aspx?ID=61656)
 
 **Jharkhand**
 
