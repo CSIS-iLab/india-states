@@ -97,7 +97,7 @@ Nothing critical to report this week.
 
 **Assam**
 
-Effective from April 1, the tariffs for Assam Power Generation Company Limited (APGCL) have been reduced by $0.002 to $0.005 per kWh across all categories. **Source:** [G Plus](https://www.guwahatiplus.com/daily-news/assam-electricity-tariff-to-fall-by-15-to-40-paise-unit-from-april) **In detail:** [APGCL tariff petition](https://www.apgcl.org/APGCL_Tariff_Petition_FY2020-21_with_annexure.pdf)
+Effective from April 1, the tariffs for Assam Power Generation Company Limited (APGCL) have been reduced by $0.002 to $0.005 per kilowatt-hour across all categories. **Source:** [G Plus](https://www.guwahatiplus.com/daily-news/assam-electricity-tariff-to-fall-by-15-to-40-paise-unit-from-april) **In detail:** [APGCL tariff petition](https://www.apgcl.org/APGCL_Tariff_Petition_FY2020-21_with_annexure.pdf)
 
 **Himachal Pradesh**
 
