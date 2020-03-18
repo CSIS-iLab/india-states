@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Government approves 485 miles of green highway project; Parliament passes law for commercial mining of coal; Andhra Pradesh clears $3.45 billion power dues to power generators; Uttar Pradesh mandates 25 percent procurement from micro, small, and medium enterprises; Jammu and Kashmir offers multiple incentives to attract investment; and more.
