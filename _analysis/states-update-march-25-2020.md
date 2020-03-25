@@ -18,10 +18,8 @@ feature_image_credit: ''
 sources: []
 details: []
 author: []
-published: false
 
 ---
-
 **Big News:** 548 districts in lockdown amid COVID-19; Union Cabinet approves $5.3 billion worth electronic manufacturing schemes; Petrol and diesel get costlier in Rajasthan after a tax hike; Uttar Pradesh announces relief measures for 3.5 million daily wage workers; Upper House approves a budget of $13.45 billion for Jammu & Kashmir; Kerala announces $2.66 billion revival package to tackle COVID-19 fallout; and more.
 
 **Center – State relations**
@@ -40,7 +38,7 @@ Nothing critical to report this week.
 
 **Bihar**
 
-The Bihar Electricity Regulatory Commission reduced power tariff by $0.0013 per kilowatt-hour across all the categories of consumers. The new tariff rates will be applicable across the state from April 1, 2020. **Source:** [Hindustan Times](https://www.hindustantimes.com/patna/10p-unit-reduction-in-bihar-s-power-tariff/story-GdCIHSGL4I354G3UIn7wzI.html) In detail**:** [Tariff Order](https://berc.co.in/orders/tariff/distribution/nbpdcl/2223-press-release-of-tariff-order-fy-2019-22)
+The Bihar Electricity Regulatory Commission reduced power tariff by $0.0013 per kilowatt-hour across all the categories of consumers. The new tariff rates will be applicable across the state from April 1, 2020. **Source:** [Hindustan Times](https://www.hindustantimes.com/patna/10p-unit-reduction-in-bihar-s-power-tariff/story-GdCIHSGL4I354G3UIn7wzI.html) **In detail:** [Tariff Order](https://berc.co.in/orders/tariff/distribution/nbpdcl/2223-press-release-of-tariff-order-fy-2019-22)
 
 **New Delhi**
 
@@ -80,7 +78,7 @@ The state government issued guidelines for the Crop Loan Waiver-2018 scheme whic
 
 **Uttar Pradesh**
 
-The chief minister has announced relief measures for daily wage earners in the state. A monthly sum of $13.30 shall be provided to each of the 3.537 million workers on an immediate basis. **Source:** [Business Line ](https://www.thehindubusinessline.com/news/national/up-announces-1000-support-for-daily-wage-workers-hit-by-covid-19-job-losses/article31127123.ece)**In Detail**: [State Press Release](http://information.up.nic.in/attachments/files/5e75d915-1354-4dd1-bd27-3fd20af72573.pdf) (Hindi)[\[JB1\]](#_msocom_1)
+The chief minister has announced relief measures for daily wage earners in the state. A monthly sum of $13.30 shall be provided to each of the 3.537 million workers on an immediate basis. **Source:** [Business Line ](https://www.thehindubusinessline.com/news/national/up-announces-1000-support-for-daily-wage-workers-hit-by-covid-19-job-losses/article31127123.ece)**In Detail**: [State Press Release](http://information.up.nic.in/attachments/files/5e75d915-1354-4dd1-bd27-3fd20af72573.pdf) (Hindi)
 
 **West Bengal**
 
@@ -108,4 +106,4 @@ The Meghalaya chief minister tabled a $204 million deficit budget for 2020-21, p
 
 **Tripura**
 
-Tripura deputy chief minister Jishnu Dev Varma presented a $2.65 billion tax-free budget for 2020-21. The budget proposed several schemes including setting up a NITI Aayog-type state body, new schemes for farmers, children, students, and rural residents[\[JB2\]](#_msocom_2) [\[T3\]](#_msocom_3) . **Source:** [North East Now](https://nenow.in/north-east-news/tripura/tripura-deputy-cm-jishnu-dev-varma-presents-rs-19891-crore-tax-free-budget.html) **In detail**: [Budget Speech](https://finance.tripura.gov.in/sites/default/files/English%20Budget%20Speech%202020-21.pdf)
+Tripura deputy chief minister Jishnu Dev Varma presented a $2.65 billion tax-free budget for 2020-21. The budget proposed several schemes including setting up a NITI Aayog-type state body, new schemes for farmers, children, students, and rural residents. **Source:** [North East Now](https://nenow.in/north-east-news/tripura/tripura-deputy-cm-jishnu-dev-varma-presents-rs-19891-crore-tax-free-budget.html) **In detail**: [Budget Speech](https://finance.tripura.gov.in/sites/default/files/English%20Budget%20Speech%202020-21.pdf)
