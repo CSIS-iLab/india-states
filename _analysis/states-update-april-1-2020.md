@@ -19,10 +19,9 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
-Big News: Reserve Bank of India announces measures to boost liquidity by $49.6 billion; Electricity utilities get a three month moratorium on overdue payments; Center extends project completion deadline for renewable energy projects; Delhi passes $8.6 billion state budget; Chattisgarh issues renewable tariff regulation; and more
+**Big News:** Reserve Bank of India announces measures to boost liquidity by $49.6 billion; Electricity utilities get a three month moratorium on overdue payments; Center extends project completion deadline for renewable energy projects; Delhi passes $8.6 billion state budget; Chattisgarh issues renewable tariff regulation; and more
 
 **Center – State relations**
 
