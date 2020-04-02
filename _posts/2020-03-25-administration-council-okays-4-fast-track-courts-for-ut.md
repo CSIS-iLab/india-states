@@ -13,7 +13,11 @@ subsectors:
 sources:
 - name: The Tribune
   url: https://www.tribuneindia.com/news/administration-council-okays-4-fast-track-courts-for-ut-58694
-details: []
+details:
+- name: Press Release (IT/ITeS Policy)
+  url: http://new.jkdirinf.in/NewsDescription.aspx?ID=62110
+- name: Press Release (Power, Tourism, Health)
+  url: http://new.jkdirinf.in/NewsDescription.aspx?ID=62109
 is_analysis: false
 
 ---
