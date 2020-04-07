@@ -1,7 +1,7 @@
 ---
 title: 'States Update: December 24, 2019'
-permalink: "/States News/"
-layout: States News-landing
+permalink: "/Analysis/"
+layout: Analysis-landing
 extendedBreadcrumbs: true
 excerpt: "."
 
