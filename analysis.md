@@ -1,5 +1,5 @@
 ---
-title: 'States Update: December 24, 2019'
+title: Analysis
 permalink: "/Analysis/"
 layout: Analysis-landing
 extendedBreadcrumbs: true
