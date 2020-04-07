@@ -5,7 +5,11 @@ content_type: analysis
 title: 'States Update: April 8, 2020'
 date: 2020-04-08 04:00:00 +0000
 tags: []
-excerpt: ''
+excerpt: Reserve Bank of India increases ways and means limit by 30 percent for all
+  states/UTs; India implements clean petrol/diesel emission norms; Karnataka aims
+  measures at protecting local aerospace and defence manufacturers; Andhra Pradesh
+  drafts bail-out plan for power utilities; Tamil Nadu offers incentives for manufacturing
+  COVID equipment; and more
 states: []
 sectors: []
 subsectors: []
@@ -14,13 +18,12 @@ feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
+author:
+- Neelima Jain
 published: false
 
 ---
-**Big News: Reserve Bank of India increases ways and means limit by 30 percent for all states/UTs; India implements clean petrol/diesel emission norms; Karnataka aims measures at protecting local aerospace and defence manufacturers; Andhra Pradesh drafts bail-out plan for power utilities; Tamil Nadu offers incentives for manufacturing COVID equipment; and more**[\[KU1\]](#_msocom_1)
-
-**Group A**
+**Big News:** Reserve Bank of India increases ways and means limit by 30 percent for all states/UTs; India implements clean petrol/diesel emission norms; Karnataka aims measures at protecting local aerospace and defence manufacturers; Andhra Pradesh drafts bail-out plan for power utilities; Tamil Nadu offers incentives for manufacturing COVID equipment; and more
 
 **Center – State relations**
 
@@ -55,8 +58,6 @@ Nothing critical to report
 **Karnataka**
 
 The Karnataka government exempts local aerospace and defence (A&D) manufacturers from the nationwide Covid-19 lockdown **Source:** [Business Standard](https://www.business-standard.com/article/economy-policy/karnataka-exempts-aerospace-and-defence-firms-from-covid-19-lockdown-120040200227_1.html)
-
-[\[KU2\]](#_msocom_2) [\[KU3\]](#_msocom_3)
 
 **Madhya Pradesh**
 
@@ -95,11 +96,3 @@ The World Bank approves $82 million project to support Himachal Pradesh strength
 **Jammu and Kashmir**
 
 The Ministry for Home Affairs (MHA) issues orders to make domiciles of Jammu & Kashmir (J&K) eligible for all government jobs in J&K. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/politics-and-nation/centre-notifies-amendments-to-the-act-providing-domicile-reservation-for-govt-jobs-in-jammu-kashmir/articleshow/74975107.cms) **In detail:** [Gazette Notification](http://164.100.117.97/WriteReadData/userfiles/04.04.2020%20J&K%20Domiciles%20eligible%20for%20all%20Govt%20Jobs.pdf)
-
-***
-
-[\[KU1\]](#_msoanchor_1)Wrote all that stood out to me – NJ can pick 5 best or whatever. Hope this helps
-
-[\[KU2\]](#_msoanchor_2)r
-
-[\[KU3\]](#_msoanchor_3)removed as we covered earlier
