@@ -1,11 +1,9 @@
 ---
-title: Analysis
-permalink: "/analysis/"
-layout: analysis-landing
+title: 'States Update: December 24, 2019'
+permalink: "/States News/"
+layout: States News-landing
 extendedBreadcrumbs: true
-excerpt: "<em>Engaging Indian States</em> features expert opinions and commentaries,
-  which dive deeper in to examining matters pertaining to different sectors across
-  various Indian States."
----
+excerpt: "."
 
+---
 <em>Engaging Indian States</em> features expert opinions and commentaries, which dive deeper in to examining matters pertaining to different sectors across various Indian States.
