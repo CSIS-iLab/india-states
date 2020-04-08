@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Reserve Bank of India increases ways and means limit by 30 percent for all states/UTs; India implements clean petrol/diesel emission norms; Karnataka aims measures at protecting local aerospace and defence manufacturers; Andhra Pradesh drafts bail-out plan for power utilities; Tamil Nadu offers incentives for manufacturing COVID equipment; and more
