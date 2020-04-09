@@ -1,7 +1,7 @@
 ---
 title: Analysis
-permalink: "/Analysis/"
-layout: Analysis-landing
+permalink: "/analysis/"
+layout: analysis-landing
 extendedBreadcrumbs: true
 excerpt: "."
 
