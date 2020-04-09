@@ -1,6 +1,6 @@
 ---
 title: Indian State-Level Business Reforms, Fourth Quarter 2017
-date: 2018-03-27 20:00:00 Z
+date: 2018-03-27T20:00:00.000+00:00
 tags:
 - Indian State-Level Business Reforms
 excerpt: 'In the final quarter of 2017, India’s ruling political party gained control
@@ -11,7 +11,7 @@ excerpt: 'In the final quarter of 2017, India’s ruling political party gained 
   India also hosted the first Global Entrepreneurship Summit (GES) of the Donald Trump
   administration. Global visibility and the focus on entrepreneurship percolated through
   India’s states.'
-is_featured: true
+is_featured: false
 feature_image: "/uploads/w_oped.jpg"
 feature_image_credit: CSIS
 sources:
@@ -19,8 +19,8 @@ sources:
   url: http://bit.ly/2pLLKxC
 author:
 - Kartikeya Singh
----
 
+---
 # **Enterprizing India states: leaders and laggards**
 
 In the final quarter of 2017, India’s ruling political party gained control of one more state legislature and retained control in another—Himachal Pradesh (HP) and Gujarat, respectively. Yet, this came with a hint of caution: Central government-led reforms may need to decelerate in the coming year in order to focus on improving the livelihoods of the rural electorate before the 2019 general election. In November, India also hosted the first Global Entrepreneurship Summit (GES) of the Donald Trump administration. Global visibility and the focus on entrepreneurship percolated through India’s states. The Wadhwani Chair analysis of important reforms from October through December reveals that states focused on entrepreneurship, skill development and policies aimed at boosting industrial growth through land and labour reforms and policies to support manufacturing. All of these sectors are critical to ensuring that India has a skilled workforce and can support innovative entrepreneurs and industries that need room to grow.
