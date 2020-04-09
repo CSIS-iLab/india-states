@@ -1,6 +1,6 @@
 ---
 title: Indian State-Level Business Reforms, First Quarter 2018
-date: 2018-05-29 14:29:00 Z
+date: 2018-05-29T14:29:00.000+00:00
 tags:
 - Indian State-Level Business Reforms
 excerpt: India’s states were most busy enacting reforms and initiating projects in
@@ -9,7 +9,7 @@ excerpt: India’s states were most busy enacting reforms and initiating project
   Haryana with 16 and Uttar Pradesh (UP) with 12. A focused look at Karnataka ahead
   of elections reveals that the incumbent government enacted a total of eight new
   reforms or projects in this quarter.
-is_featured: true
+is_featured: false
 feature_image: "/uploads/w-states-kfNF--414x621@LiveMint.jpg"
 feature_image_credit: CSIS
 sources:
@@ -23,8 +23,8 @@ details:
 author:
 - Kartikeya Singh
 layout: post
----
 
+---
 When analyzing reforms enacted by India’s states in the first quarter of 2018, the Wadhwani chair in US–India Policy Studies at the Center for Strategic and International Studies (CSIS) uncovered that from January-March, India’s states were most busy in enacting reforms and initiating projects in infrastructure (including energy and transportation), and administration and governance. States from Jammu and Kashmir to Kerala and Rajasthan to Mizoram were active in this first quarter and a snapshot of these reforms are outlined below. States leading the charge with the highest number of reforms enacted in this period include Maharashtra with 19, Haryana with 16 and Uttar Pradesh (UP) with 12. A focused look at Karnataka ahead of elections reveals that the incumbent government enacted a total of eight new reforms or projects in this quarter. With an eye towards the elections, the reforms and projects initiated by the Congress government included those that would have an impact on people’s daily lives.
 
 **Administration and governance**
