@@ -3,7 +3,7 @@ title: Indian State-Level Business Reforms, First Quarter 2018
 date: 2018-05-29T14:29:00.000+00:00
 tags:
 - Indian State-Level Business Reforms
-- States-Quarterly
+- States Quarterly Updates
 excerpt: India’s states were most busy enacting reforms and initiating projects in
   infrastructure, and administration and governance. States leading the charge with
   the highest number of reforms enacted in this period include Maharashtra with 19,
