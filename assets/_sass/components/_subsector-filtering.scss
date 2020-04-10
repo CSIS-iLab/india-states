@@ -3,82 +3,88 @@
 ===========================================*/
 
 .subsectorFiltering-container {
-	margin-top: 3rem;
-	
-	.filterInstructions {
-		color: $gray-text;
-		@include fontSize(18px);
-		font-family: $font__MuseoSans;
-		line-height: 2.4rem;
-		font-style: italic;
-		margin-bottom: 0;
-	}
+  margin-top: 3rem;
 
-	ul.subsectorFiltering-subsectorButtons {
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
+  .filterInstructions {
+    color: $gray-text;
+    @include fontSize(18px);
+    font-family: $font__MuseoSans;
+    line-height: 2.4rem;
+    font-style: italic;
+    margin-bottom: 0;
+  }
 
-		li {
-			display: inline-block;
-			margin-right: 0.2rem;
-			margin-bottom: 0.5rem;
+  ul.subsectorFiltering-subsectorButtons {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 
-			button.btn-subsector {
-		        background-color: $light-gray;
-		        color: $base-blue;
-		        font-weight: 500;
-		        text-transform: none;
-		        padding: 5px 10px;
-		        letter-spacing: .5px;
+    li {
+      display: inline-block;
+      margin-right: 0.2rem;
+      margin-bottom: 0.5rem;
 
-		        &:hover, &:active, &:focus {
-		            background-color: $base-orange;
-		            color: $white;
-		        }
-		    }
+      button.btn-subsector {
+        background-color: $light-gray;
+        color: $base-blue;
+        font-weight: 500;
+        text-transform: none;
+        padding: 5px 10px;
+        letter-spacing: 0.5px;
 
-		    a.active .btn-subsector {
-		    	background-color: $base-orange;
-		    	color: $white;
-		    }
-		}
-	}
+        &:hover,
+        &:active,
+        &:focus {
+          background-color: $base-orange;
+          color: $white;
+        }
+      }
+
+      a.active .btn-subsector {
+        background-color: $base-orange;
+        color: $white;
+      }
+    }
+  }
 }
 
 .subsectorFiltering-articlesInfo {
-	margin: 3rem 0 .5rem 0;
+  margin: 3rem 0 0.5rem 0;
 
-	.sectionTitle {
-		margin: 0 0 0.5rem 0;
+  .sectionTitle {
+    margin: 0 0 0.5rem 0;
 
-		.subsectorFiltering-subsectorTitle {
-			color: $base-orange;
-			display: none;
+    .subsectorFiltering-subsectorTitle {
+      color: $base-orange;
+      display: none;
 
-			&.isStateArchive {
-				display: inline;
-			}
+      &.isStateArchive {
+        display: inline;
+      }
 
-			&:before {
-				content: ": ";
-				color: $base-blue;
-			}
-		}
-	}
+      &:before {
+        content: ': ';
+        color: $base-blue;
+      }
+    }
+  }
 
-	.subsectorFiltering-subsectorInfo {
-		border-left: 4px solid $map-gray;
-		padding: 0.5rem 0 0.5rem 1rem;
-		display: none;
-		margin-bottom: 1rem;
+  .subsectorFiltering-subsectorInfo {
+    border-left: 4px solid $map-gray;
+    padding: 0.5rem 0 0.5rem 1rem;
+    display: none;
+    margin-bottom: 1rem;
 
-		em {
-			color: $base-orange;
-		}
+    em {
+      color: $base-orange;
+    }
 
-		p {
-			margin-bottom: 0px;
-		}
-	}
+    p {
+      margin-bottom: 0px;
+    }
+  }
+}
+
+.subsector-filters {
+  margin-bottom: 1em;
 }
