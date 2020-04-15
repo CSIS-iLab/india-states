@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Center announces extension of lockdown until May 3; Government lifts export curbs on 24 pharma ingredients; States/UTs provided greater space in availing over-draft facilities; Maharashtra will no longer set generic energy tariffs for renewable projects; Punjab and Madhya Pradesh reduce current late payment surcharge for electricity distribution companies; and more.
