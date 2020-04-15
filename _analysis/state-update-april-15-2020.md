@@ -26,7 +26,7 @@ author:
 
 **Center – State relations**
 
-Prime Minister Narendra Modi in his address to the nation announced extension of lockdown until May 3. Further, Prime Minister Modi suggested ease of certain restrictions in low risk areas from April 20. **Source**: [Press Release](https://pib.gov.in/PressReleseDetail.aspx) **In Detail**: [Prime Minister’s Address](https://pib.gov.in/PressReleseDetail.aspx)
+Prime Minister Narendra Modi in his address to the nation announced extension of lockdown until May 3. Further, Prime Minister Modi suggested ease of certain restrictions in low risk areas from April 20. **Source**: [Press Release](https://pib.gov.in/PressReleseDetail.aspx) **In detail**: [Prime Minister’s Address](https://pib.gov.in/PressReleseDetail.aspx)
 
 The Reserve Bank of India permits greater space to States/Union Territories for availing over-draft facilities to help the states tide over cash flow issues. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/policy/rbi-relaxes-overdraft-facility-norms-for-states-uts/articleshow/75027521.cms) **In detail:** [Press release](https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=49638)
 
@@ -50,7 +50,7 @@ Nothing critical to report this week.
 
 **Gujarat**
 
-The Gujarat government permits fishing industry to function during the lockdown. **Source:** [Indian Express](https://indianexpress.com/article/cities/ahmedabad/gujarat-permits-fishermen-fish-processing-industry-to-function-in-lockdown-6357974/) In detail: [Press Release](https://gujaratinformation.net/uploads/article/PHXPK4Ebugw3Mi9PzrRDFle8O6OtOxp8.pdf)
+The Gujarat government permits fishing industry to function during the lockdown. **Source:** [Indian Express](https://indianexpress.com/article/cities/ahmedabad/gujarat-permits-fishermen-fish-processing-industry-to-function-in-lockdown-6357974/) **In detail:** [Press Release](https://gujaratinformation.net/uploads/article/PHXPK4Ebugw3Mi9PzrRDFle8O6OtOxp8.pdf)
 
 **Haryana**
 
