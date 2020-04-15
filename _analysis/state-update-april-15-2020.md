@@ -2,7 +2,7 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'State Update: April 15, 2020'
+title: 'States Update: April 15, 2020'
 date: 2020-04-15 04:00:00 +0000
 tags: []
 excerpt: Center announces extension of lockdown until May 3; Government lifts export
