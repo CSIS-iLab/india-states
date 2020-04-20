@@ -30,8 +30,7 @@ The quarter also ushered in optimism on climate change. Odisha lead the way by i
 
 Finally, in tracking the state-level reforms this quarter, we applaud two subnational agencies for turning the tide on business negative reforms. In a much-needed relief for the clean energy developers, the Andhra Pradesh Electricity Regulator directed the state electricity utilities to honour their power purchase agreements. Separately, the central electricity supply utility of Odisha will start disconnecting consumers who have not made payments despite multiple notices. We hope that more utilities follow suit.
 
-The spread of COVID-19 continues to have a profound effect on multiple dimensions. As the scale of crisis emerges, Indian states should stay the course and tackle the challenges of economic slowdown whilst containing the virus. Any revival of the momentum of reforms is unlikely anytime soon.   
- 
+The spread of COVID-19 continues to have a profound effect on multiple dimensions. As the scale of crisis emerges, Indian states should stay the course and tackle the challenges of economic slowdown whilst containing the virus. Any revival of the momentum of reforms is unlikely anytime soon.
 
 Key reforms that CSIS tracked in last quarter include:
 
