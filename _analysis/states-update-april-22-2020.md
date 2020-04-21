@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: April 22, 2020'
-date: 2020-04-22 04:00:00 +0000
+date: 2020-04-22T04:00:00.000+00:00
 tags: []
 excerpt: ''
 states: []
@@ -16,6 +16,7 @@ sources: []
 details: []
 author:
 - Neelima Jain
+published: false
 
 ---
 **Big News:** The government plans major reforms via amendments to the Electricity Act; RBI further increases ways and means advances to the states; States gear up for limited opening of the economy as nationwide lockdown relaxes; and more.
