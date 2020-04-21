@@ -5,7 +5,7 @@ require 'algoliasearch'
 require "net/http"
 
 puts "running algolia search sync..."
-url = 'https://indianstates.netlify.com/algolia.json'
+url = 'https://indianstates.netlify.app/algolia.json'
 uri = URI(url)
 response = Net::HTTP.get(uri)
 
