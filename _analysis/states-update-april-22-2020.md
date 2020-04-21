@@ -4,7 +4,8 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: April 22, 2020'
 date: 2020-04-22T04:00:00.000+00:00
-tags: []
+tags:
+- States Weekly Updates
 excerpt: ''
 states: []
 sectors: []
