@@ -16,6 +16,7 @@ sources: []
 details: []
 author:
 - Neelima Jain
+published: false
 
 ---
 **Big News:** The government plans major reforms via amendments to the Electricity Act; RBI further increases ways and means advances to the states; States gear up for limited opening of the economy as nationwide lockdown relaxes; and more.
