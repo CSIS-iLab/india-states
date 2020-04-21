@@ -10,7 +10,7 @@ excerpt: COVID-19 stalls momentum on state reforms
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
@@ -25,7 +25,7 @@ The first quarter of 2020 has been a tumultuous period for Indian states. States
 
 While state governments across the country are committing upfront investments to address the pandemic fallout, there remains a considerable variation in the subnational response due to regional politics and institutional capacity. States are stepping up in using the COVID-19 crisis as an opportunity to reform. For instance, Uttar Pradesh and Haryana have incentivized online payments of electricity bills, resulting in cash-flow relief to the distribution utilities.
 
-Key developments were prompted before the [lockdown was implemented](https://www.mha.gov.in/sites/default/files/Guidelines.pdf) on March 24,2020. States were deploying strategies to attract investments in the industrial sector with special attention to micro, small, and medium enterprises (MSME), and start-ups. Four states unveiled plans to improve the MSME landscape. Additionally, Madhya Pradesh approved an act to fast-track investment approvals. Jammu & Kashmir multiple incentives and sanctioned sectoral policies to boost industrial growth while grappling with [political uncertainties](https://www.thehindu.com/opinion/op-ed/preparing-for-a-new-political-field-in-jk/article31382917.ece).
+Key developments were prompted before the [lockdown was implemented](https://www.mha.gov.in/sites/default/files/Guidelines.pdf) on March 24,2020. States were deploying strategies to attract investments in the industrial sector with special attention to micro, small, and medium enterprises (MSME), and start-ups. Four states unveiled plans to improve the MSME landscape. Additionally, Madhya Pradesh approved an act to fast-track investment approvals. Jammu & Kashmir announced multiple incentives and sanctioned sectoral policies to boost industrial growth while grappling with [political uncertainties](https://www.thehindu.com/opinion/op-ed/preparing-for-a-new-political-field-in-jk/article31382917.ece).
 
 The quarter also ushered in optimism on climate change. Odisha lead the way by introducing a climate budget to track mitigation activities. Three more states launched measures to steer environmental conservation. In addition, a slew of reforms were actioned in land regulations. Madhya Pradesh topped a survey assessing the extent of digitization of land records and their quality across 30 states, and Uttarakhand became the first state to implement agriculture leasing policy. As may be expected from state budgets, two states and Delhi introduced electricity subsidies to light up political fortunes.
 
