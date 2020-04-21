@@ -3,8 +3,9 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: April 15, 2020'
-date: 2020-04-15 04:00:00 +0000
-tags: []
+date: 2020-04-15T04:00:00.000+00:00
+tags:
+- Update on India's States
 excerpt: Center announces extension of lockdown until May 3; Government lifts export
   curbs on 24 pharma ingredients; States/UTs provided greater space in availing over-draft
   facilities; Maharashtra will no longer set generic energy tariffs for renewable
