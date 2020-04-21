@@ -16,7 +16,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 # India’s State-Level Reforms, First Quarter 2020: COVID-19 stalls momentum on state reforms
