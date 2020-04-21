@@ -16,10 +16,9 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
-The government plans major reforms via amendments to the Electricity Act; RBI further increases ways and means advances to the states; States gear up for limited opening of the economy as nationwide lockdown relaxes; and more.
+**Big News:** The government plans major reforms via amendments to the Electricity Act; RBI further increases ways and means advances to the states; States gear up for limited opening of the economy as nationwide lockdown relaxes; and more.
 
 **Center – State relations**
 
@@ -47,7 +46,7 @@ The Gujarat government has issued guidelines for the industries and commercial a
 
 **Haryana**
 
-Haryana government decided that industrial and commercial establishments, information technology (IT) and IT-enabled service units will be unlocked in a phased manner from April 20 onward. **Source:** [Hindustan Times](https://www.hindustantimes.com/chandigarh/haryana-to-resume-economic-activity-in-phased-manner/story-UbY9O8usTvArMaPgvLGlLI.html)
+Haryana's government decided that industrial and commercial establishments, information technology (IT) and IT-enabled service units will be unlocked in a phased manner from April 20 onward. **Source:** [Hindustan Times](https://www.hindustantimes.com/chandigarh/haryana-to-resume-economic-activity-in-phased-manner/story-UbY9O8usTvArMaPgvLGlLI.html)
 
 **Karnataka**
 
@@ -63,7 +62,7 @@ Nothing critical to report this week.
 
 **Rajasthan**
 
-The [Rajasthan ](https://www.business-standard.com/topic/rajasthan)government extends working hours at [factories ](https://www.business-standard.com/topic/factories)from a maximum of 8 hours to 12 hours a day. **Source**: [Business Standard](https://www.business-standard.com/article/economy-policy/covid-19-rajasthan-issues-lockdown-rules-to-start-industries-from-april-20-120041900180_1.html) **In detail**: [Press Release](http://dipr.rajasthan.gov.in/content/dipr/en/news-detail.206028.html)
+The Rajasthan government extends working hours at factories from a maximum of 8 hours to 12 hours a day. **Source**: [Business Standard](https://www.business-standard.com/article/economy-policy/covid-19-rajasthan-issues-lockdown-rules-to-start-industries-from-april-20-120041900180_1.html) **In detail**: [Press Release](http://dipr.rajasthan.gov.in/content/dipr/en/news-detail.206028.html)
 
 **Tamil Nadu**
 
