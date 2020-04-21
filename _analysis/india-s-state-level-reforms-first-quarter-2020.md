@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: Indian State-Level Business Reforms, First Quarter 2020
-date: 2020-04-20 04:00:00 +0000
+date: 2020-04-20T04:00:00.000+00:00
 tags: []
 excerpt: COVID-19 stalls momentum on state reforms
 states: []
@@ -16,6 +16,7 @@ sources: []
 details: []
 author:
 - Neelima Jain
+published: false
 
 ---
 # India’s State-Level Reforms, First Quarter 2020: COVID-19 stalls momentum on state reforms
