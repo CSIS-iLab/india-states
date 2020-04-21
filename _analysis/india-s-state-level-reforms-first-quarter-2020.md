@@ -16,10 +16,9 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
-# India’s State-Level Reforms, First Quarter 2020: COVID-19 stalls momentum on state reforms
+## India’s State-Level Reforms, First Quarter 2020: COVID-19 stalls momentum on state reforms
 
 The first quarter of 2020 has been a tumultuous period for Indian states. States grappling with fiscal uncertainty at the start of the quarter mobilized state budgets to discharge a wide range of populist to pro-business measures. With 21 affirmative reforms in tow, states had set the ball rolling to revive the subnational business climate. However, the turn of events following the outbreak of the corona virus disease 2019 (COVID-19) and the subsequent nation-wide lockdown has brought the states’ economy to a halt.
 
