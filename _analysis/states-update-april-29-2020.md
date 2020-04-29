@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Government simplifies oil and gas exploration and production; Ministry of Home Affairs allows states to open some shops; Uttar Pradesh exempts businesses from paying interest on dues; Rajasthan issues measures to help distribution companies and consumers; Assam and Meghalaya increase diesel and petroleum prices; and more.
