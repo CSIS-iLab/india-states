@@ -6,9 +6,9 @@ title: 'States Update: May 6, 2020'
 date: 2020-05-06 04:00:00 +0000
 tags:
 - Updates on Indian States
-excerpt: 'Big News: Nationwide lockdown is extended until May 17; Haryana approves
-  MSME revival scheme; Madhya Pradesh amends Mandi Act; Delhi charges 70 percent extra
-  tax on liquor; Haryana and Tamil Nadu hike taxes on fuels; and more.'
+excerpt: Nationwide lockdown is extended until May 17; Haryana approves MSME revival
+  scheme; Madhya Pradesh amends Mandi Act; Delhi charges 70 percent extra tax on liquor;
+  Haryana and Tamil Nadu hike taxes on fuels; and more.
 states: []
 sectors: []
 subsectors: []
@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 
