@@ -21,3 +21,4 @@ details:
 is_analysis: false
 
 ---
+The Haryana government increased the bus fare by $0.002 per kilometer, and hiked the value-added tax (VAT) on petrol and diesel prices by $0.013 and $0.014 per liter respectively.
