@@ -18,4 +18,4 @@ details:
 is_analysis: false
 
 ---
-The Central Electricity Regulatory Commission (CERC) has proposed draft regulations for determination of tariff from renewable energy sources. **Source**: [Mercom](https://mercomindia.com/cerc-prepares-blueprint-new-tariff-regulations-renewable-projects/) **In detail**: [CERC order](http://www.cercind.gov.in/2020/draft_reg/DR-29.04.2020.pdf)
+The Central Electricity Regulatory Commission (CERC) has proposed draft regulations for determination of tariff from renewable energy sources.
