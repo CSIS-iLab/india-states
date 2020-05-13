@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Gujarat, Uttar Pradesh, and Madhya Pradesh announce labor and industry reforms; Karnataka announces $214.7 million package to restart the economy; A total of 10 states hike liquor prices; Punjab provides subsidy on purchase of cultivation machinery; and more.
