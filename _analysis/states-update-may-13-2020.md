@@ -99,9 +99,7 @@ Nothing critical to report this week.
 
 **Arunachal Pradesh**
 
-Arunachal Pradesh has decided to levy 25 percent cess on liquor from May 9, 2020.
-
-**Source:** [Deccan Herald](https://www.deccanherald.com/national/east-and-northeast/arunachal-pradesh-levies-25-per-cent-cess-on-liquor-835622.html)
+Arunachal Pradesh has decided to levy 25 percent cess on liquor from May 9, 2020. **Source:** [Deccan Herald](https://www.deccanherald.com/national/east-and-northeast/arunachal-pradesh-levies-25-per-cent-cess-on-liquor-835622.html)
 
 **Assam**
 
@@ -117,6 +115,4 @@ The Punjab government will provide subsidy of up to 50 percent on purchase of ma
 
 **Uttarakhand**
 
-The Uttarakhand cabinet increased the price of liquor by amounts between $0.26 and $2.66 per bottle, and that of petrol and diesel by $0.01 and $0.03 per liter respectively.
-
-**Source:** [IndiaTV](https://www.indiatvnews.com/business/news-uttarakhand-liquor-fuel-healthcare-tax-petrol-diesel-tax-coronavirus-lockdown-615172)
+The Uttarakhand cabinet increased the price of liquor by amounts between $0.26 and $2.66 per bottle, and that of petrol and diesel by $0.01 and $0.03 per liter respectively. **Source:** [IndiaTV](https://www.indiatvnews.com/business/news-uttarakhand-liquor-fuel-healthcare-tax-petrol-diesel-tax-coronavirus-lockdown-615172)
