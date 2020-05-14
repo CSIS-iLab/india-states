@@ -19,3 +19,4 @@ details:
 is_analysis: false
 
 ---
+The state government increased the VAT on petrol to 38 percent from 36 percent earlier while on diesel there was also a slight increase to 28 percent from 27 percent earlier.
