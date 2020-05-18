@@ -95,7 +95,7 @@ The Uttar Pradesh government has increased liquor prices in the state, ranging f
 
 Nothing critical to report this week.
 
-**Group B**
+**Best of the Rest**
 
 **Arunachal Pradesh**
 
