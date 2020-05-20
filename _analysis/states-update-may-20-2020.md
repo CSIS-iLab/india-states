@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Minister of Finance announces fiscal stimulus measures worth $267 billion; Karnataka allows industries to directly buy land from farmers; Rajasthan launches innovative loan scheme for farmers; Uttar Pradesh lends over $265.6 million to small businesses via an online fair; Gujarat, Andhra Pradesh, and Kerala develop relief packages for small businesses; and more.
@@ -103,9 +102,7 @@ To provide more employment opportunities, the Himachal Pradesh cabinet has appro
 
 **Jammu and Kashmir**
 
-The center has given approval to a modified detailed project report of the Ujh Multipurpose Project in Jammu and Kashmir at an estimated cost of $1.21 billion.
-
-**Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/infrastructure/centre-approves-modified-dpr-of-ujh-multipurpose-project-in-j-k/articleshow/75773407.cms)
+The center has given approval to a modified detailed project report of the Ujh Multipurpose Project in Jammu and Kashmir at an estimated cost of $1.21 billion. **Source:** [Economic Times](https://economictimes.indiatimes.com/news/economy/infrastructure/centre-approves-modified-dpr-of-ujh-multipurpose-project-in-j-k/articleshow/75773407.cms)
 
 **Jharkhand**
 
