@@ -18,6 +18,7 @@ sources: []
 details: []
 author:
 - Neelima Jain
+published: false
 
 ---
 **Big News:** Minister of Finance announces fiscal stimulus measures worth $267 billion; Karnataka allows industries to directly buy land from farmers; Rajasthan launches innovative loan scheme for farmers; Uttar Pradesh lends over $265.6 million to small businesses via an online fair; Gujarat, Andhra Pradesh, and Kerala develop relief packages for small businesses; and more.
@@ -32,9 +33,7 @@ The Ministry of Finance announced fiscal stimulus measures worth $267 billion in
 
 The Andhra Pradesh government has released $371.5 million under a farmers’ welfare scheme. Five million farmers are expected to receive $73 each. **Source**: [Deccan Herald](https://www.deccanherald.com/national/south/coronavirus-lockdown-andhra-pradesh-government-releases-rs-2800-crore-towards-assistance-to-50-lakh-farmers-837994.html) **In Detail**: [CMO Andhra Pradesh Tweet](https://twitter.com/AndhraPradeshCM/status/1261301533473337347)
 
-The state government has announced several measures to incentivize the industries. The measures include waiver of fixed/demand charges (electricity), provision of working capital loans, and pending incentives worth $120 million to small and medium enterprises.
-
-**Source**: [The Hindu](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-to-give-incentives-to-lockdown-hit-industries/article31599246.ece) **In detail**: [Government order register](https://goir.ap.gov.in/Reports.aspx)
+The state government has announced several measures to incentivize the industries. The measures include waiver of fixed/demand charges (electricity), provision of working capital loans, and pending incentives worth $120 million to small and medium enterprises. **Source**: [The Hindu](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-to-give-incentives-to-lockdown-hit-industries/article31599246.ece) **In detail**: [Government order register](https://goir.ap.gov.in/Reports.aspx)
 
 **Bihar**
 
