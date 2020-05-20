@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Minister of Finance announces fiscal stimulus measures worth $267 billion; Karnataka allows industries to directly buy land from farmers; Rajasthan launches innovative loan scheme for farmers; Uttar Pradesh lends over $265.6 million to small businesses via an online fair; Gujarat, Andhra Pradesh, and Kerala develop relief packages for small businesses; and more.
