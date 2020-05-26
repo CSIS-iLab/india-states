@@ -16,3 +16,4 @@ details: []
 is_analysis: false
 
 ---
+The Uttarakhand cabinet provides relief to commercial power users by deferring their fixed demand charge for a period of 3 months.
