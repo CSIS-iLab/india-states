@@ -29,9 +29,7 @@ The center raised the excise duty on petrol by $0.13 and on diesel by $0.17 per 
 
 The Asian Infrastructure Investment Bank has approved a $500 million loan to aid Indian government’s COVID-19 efforts. The financing will help India strengthen its public health preparedness, and cover all states and Union Territories. **Source**: [DNA](https://www.dnaindia.com/business/report-govt-signs-500-million-project-with-aiib-to-deal-with-covid-19-pandemic-2824127) **In detail**: [Press Release](https://www.aiib.org/en/news-events/news/2020/AIIB-Approves-USD500M-to-Support-Indias-Response-to-COVID-19.html)
 
-The Ministry of Agriculture and Farmers’ Welfare has integrated 177 new mandis (marketplaces) with the National Agriculture Market to strengthen agriculture marketing. This move will help farmers in selling their produce through the online portal.
-
-**Source**: [The Tribune](https://www.tribuneindia.com/news/nation/177-new-mandis-across-10-states-integrated-with-e-nam-platform-83414) **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1622906)
+The Ministry of Agriculture and Farmers’ Welfare has integrated 177 new mandis (marketplaces) with the National Agriculture Market to strengthen agriculture marketing. This move will help farmers in selling their produce through the online portal. **Source**: [The Tribune](https://www.tribuneindia.com/news/nation/177-new-mandis-across-10-states-integrated-with-e-nam-platform-83414) **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1622906)
 
 **Andhra Pradesh**
 
