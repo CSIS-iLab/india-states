@@ -96,8 +96,8 @@ The Joint Electricity Regulatory Commission has issued a notification to clarify
 
 The Jammu & Kashmir government increased the tax on petrol and diesel by $0.02 per liter and $0.01 per liter, respectively. **Source**: [Energy Infra Post](https://www.energyinfrapost.com/jammu-and-kashmir-hikes-tax-on-petrol-by-rs-2-per-litre-diesel-by-rs-1-from-june-1/)
 
-**  
-Kerala**
+  
+**Kerala**
 
 The state department of industries has formulated a special package for assisting the micro, small, and medium enterprises for restarting their businesses. The package features several benefits including interest subvention on term loans. **Source**: [Times of India](https://timesofindia.indiatimes.com/city/kochi/kerala-interest-subvention-offered-for-msmes/articleshow/76034078.cms) **In detail**: [Order](http://industry.kerala.gov.in/images/GOs/GOs2020/Bhadratha-GO.PDF)
 
