@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Government issues guidelines for phased reopening; Bihar, Assam, and Chhattisgarh plan tap water connections for rural households; Madhya Pradesh and Uttarakhand launch employment scheme; Kerala formulates special package for small businesses; Punjab to offer clearances to green industries within a day; and more.
