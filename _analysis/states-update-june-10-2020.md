@@ -26,9 +26,7 @@ author:
 
 The government has modified public procurement norms to give maximum preference to companies whose goods and services have 50 percent or more local content. **Source**: [Business Standard](https://www.business-standard.com/article/economy-policy/govt-changes-public-procurement-rules-more-preference-to-local-suppliers-120060700697_1.html) **In detail**: [Order](https://dipp.gov.in/sites/default/files/PPP%20MII%20Order%20dated%204th%20June%202020.pdf)
 
-The union cabinet has approved an ordinance to amendment the Essential Commodities Act, 1955 which seeks to deregulate food items.
-
-**Source**: [Business Standard](https://www.business-standard.com/article/economy-policy/govt-approves-amendment-to-essential-commodities-act-clears-two-ordinances-120060301024_1.html) **In detail**: [Gazette notification](http://egazette.nic.in/WriteReadData/2020/219748.pdf)
+The union cabinet has approved an ordinance to amendment the Essential Commodities Act, 1955 which seeks to deregulate food items. **Source**: [Business Standard](https://www.business-standard.com/article/economy-policy/govt-approves-amendment-to-essential-commodities-act-clears-two-ordinances-120060301024_1.html) **In detail**: [Gazette notification](http://egazette.nic.in/WriteReadData/2020/219748.pdf)
 
 **Andhra Pradesh**
 
