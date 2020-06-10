@@ -18,3 +18,4 @@ details:
 is_analysis: false
 
 ---
+Per the state electricity regulator, customers will be entitled to compensation if they are made to face prolonged power cuts in Chhattisgarh.
