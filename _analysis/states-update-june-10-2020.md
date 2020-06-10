@@ -20,7 +20,6 @@ author:
 - Neelima Jain
 
 ---
-
 **Big News:** Cabinet approves amendment to the Essential Commodities Act; Andhra Pradesh launches online waste exchange platform; Gujarat announces $1.85 billion Covid-19 relief package; Haryana launches unique identification portal for enterprises; Rajasthan launches online labor exchange; Tamil Nadu deregulates agricultural produce markets; and more.
 
 **Center – State relations**
@@ -33,7 +32,7 @@ The union cabinet has approved an ordinance to amendment the Essential Commoditi
 
 **Andhra Pradesh**
 
-The Andhra Pradesh government has launched an online waste exchange platform that is expected to handle waste from its generation until disposal. **Source**: [India Today](https://www.indiatoday.in/mail-today/story/new-waste-plan-in-andhra-pradesh-1686071-2020-06-06) In detail**:** [CMO Andhra Pradesh Tweet](https://twitter.com/AndhraPradeshCM/status/1268819144020905985)
+The Andhra Pradesh government has launched an online waste exchange platform that is expected to handle waste from its generation until disposal. **Source**: [India Today](https://www.indiatoday.in/mail-today/story/new-waste-plan-in-andhra-pradesh-1686071-2020-06-06) **In detail**: [CMO Andhra Pradesh Tweet](https://twitter.com/AndhraPradeshCM/status/1268819144020905985)
 
 **Bihar**
 
@@ -41,13 +40,11 @@ Nothing critical to report this week.
 
 **New Delhi**
 
-The Delhi government lifts the ‘special corona fee’, fixed at 70 percent of maximum retail price of every alcohol brand. The withdrawal comes into effect from June 10. **Source**: [Hindustan Times](https://www.hindustantimes.com/india-news/delhi-govt-to-withdraw-special-corona-fee-on-liquor-from-june-10/story-bhKqOQGnvqyNexufd1uuCI.html) In detail**:** [Delhi Excise Amendment](http://excise.delhi.gov.in/content/delhi-excise-amendment-rule-154-special-corona-fee?egaz%202020-05-05.pdf)
+The Delhi government lifts the ‘special corona fee’, fixed at 70 percent of maximum retail price of every alcohol brand. The withdrawal comes into effect from June 10. **Source**: [Hindustan Times](https://www.hindustantimes.com/india-news/delhi-govt-to-withdraw-special-corona-fee-on-liquor-from-june-10/story-bhKqOQGnvqyNexufd1uuCI.html) **In detail**: [Delhi Excise Amendment](http://excise.delhi.gov.in/content/delhi-excise-amendment-rule-154-special-corona-fee?egaz%202020-05-05.pdf)
 
 **Gujarat**
 
-The Gujarat government has announced a relief package of $1.85 billion to help revive the economy. The measure includes tax rebates to consumers and loan subsidies for business and shop owners.
-
-**Source**: [NDTV](https://www.ndtv.com/india-news/coronavirus-lockdown-vijay-rupani-unveils-rs-14-000-crore-gujarat-atmanirbhar-package-amid-covid-19-spread-2241001) In detail**:** [Press Release](https://gujaratindia.gov.in/media/news.htm)
+The Gujarat government has announced a relief package of $1.85 billion to help revive the economy. The measure includes tax rebates to consumers and loan subsidies for business and shop owners. **Source**: [NDTV](https://www.ndtv.com/india-news/coronavirus-lockdown-vijay-rupani-unveils-rs-14-000-crore-gujarat-atmanirbhar-package-amid-covid-19-spread-2241001) In **detail**: [Press Release](https://gujaratindia.gov.in/media/news.htm)
 
 **Haryana**
 
@@ -59,9 +56,7 @@ Nothing critical to report this week.
 
 **Madhya Pradesh**
 
-The Madhya Pradesh government has launched Street Vendor Registration Portal and transferred $39.7 million to urban local bodies for development purposes.
-
-**Source**: [Hindustan Times](https://www.hindustantimes.com/bhopal/madhya-pradesh-govt-launches-urban-street-vendor-welfare-programme/story-GG9GCQHdhhsjahoB84bN7N.html) **In detail:** [Press Release](https://www.mpinfo.org/News/TodaysNews.aspx?newsid=20200606N12&LocID=1)
+The Madhya Pradesh government has launched Street Vendor Registration Portal and transferred $39.7 million to urban local bodies for development purposes. **Source**: [Hindustan Times](https://www.hindustantimes.com/bhopal/madhya-pradesh-govt-launches-urban-street-vendor-welfare-programme/story-GG9GCQHdhhsjahoB84bN7N.html) **In detail:** [Press Release](https://www.mpinfo.org/News/TodaysNews.aspx?newsid=20200606N12&LocID=1)
 
 **Maharashtra**
 
