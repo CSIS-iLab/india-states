@@ -14,9 +14,7 @@ subsectors: []
 is_featured: false
 feature_image: ''
 feature_image_credit: ''
-sources:
-- name: ''
-  url: ''
+sources: []
 details: []
 author:
 - Neelima Jain
