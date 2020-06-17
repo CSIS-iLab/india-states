@@ -26,7 +26,7 @@ author:
 
 **Center – State relations**
 
-The Ministry of Power issues revised guidelines for the electric vehicle charging infrastructure. Further, the amendment caps the per unit cost of electricity used for a public charging station. **Source**: [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/power-ministry-issues-revised-norms-for-ev-charging-infra-to-boost-e-mobility/articleshow/71444886.cms?from=mdr) **In detail**: [Guidelines](https://powermin.nic.in/sites/default/files/webform/notices/Amendment%20in%20Revised%20Guidelines.pdf)
+The Ministry of Power issues revised guidelines for electric vehicle charging infrastructure. Further, the amendment caps the per unit cost of electricity used for a public charging station. **Source**: [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/power-ministry-issues-revised-norms-for-ev-charging-infra-to-boost-e-mobility/articleshow/71444886.cms?from=mdr) **In detail**: [Guidelines](https://powermin.nic.in/sites/default/files/webform/notices/Amendment%20in%20Revised%20Guidelines.pdf)
 
 **Andhra Pradesh**
 
@@ -46,11 +46,11 @@ Nothing critical to report this week
 
 **Haryana**
 
-The Haryana Electricity Regulatory Commission waives off renewable purchase obligation backlogs, up to 2019, for distribution utilities. **Source**: [Mercom](https://mercomindia.com/haryana-waives-backlog-surcharges-open-access/) **In detail**: [Order](https://herc.gov.in/WriteReadData/Orders/O20200601.pdf)
+The Haryana Electricity Regulatory Commission waives off renewable purchase obligation backlogs up to 2019 for distribution utilities. **Source**: [Mercom](https://mercomindia.com/haryana-waives-backlog-surcharges-open-access/) **In detail**: [Order](https://herc.gov.in/WriteReadData/Orders/O20200601.pdf)
 
 **Karnataka**
 
-The state government has proposed amendments to the Karnataka Land Reforms Act, 1961, to allow non-agriculturists to acquire farmland. **Source**: [The News Minute](https://www.thenewsminute.com/article/karnataka-makes-changes-land-reforms-act-allow-non-agriculturists-buy-farmland-126379)
+Nothing critical to report this week
 
 **Madhya Pradesh**
 
@@ -78,7 +78,7 @@ Nothing critical to report this week
 
 The Uttar Pradesh government asks three industrial development authorities to slash interest rates on land dues. **Source**: [New Indian Express](https://www.newindianexpress.com/nation/2020/jun/11/yogi-government-slashes-interest-rates-on-land-dues-for-builders-in-uttar-pradesh-2155129.html) **In detail**: [Press Release](http://information.up.nic.in/attachments/files/5edf8f7f-c168-4eb4-810d-0c850af72573.pdf) (In Hindi)
 
-The Uttar Pradesh government shall set up a nodal agency, Invest UP, to streamline approval investment proposals. The government has set the goal to clear investment proposals within 15 days. **Source**: [Livemint](https://www.livemint.com/news/india/uttar-pradesh-to-set-up-invest-up-to-boost-investment-in-the-state-11592020046283.html)
+The Uttar Pradesh government shall set up a nodal agency “Invest UP”, to streamline approval investment proposals. The government has set a goal to clear investment proposals within 15 days. **Source**: [Livemint](https://www.livemint.com/news/india/uttar-pradesh-to-set-up-invest-up-to-boost-investment-in-the-state-11592020046283.html) **In detail**: Order
 
 **West Bengal**
 
@@ -88,7 +88,7 @@ Nothing critical to report this week
 
 **Himachal Pradesh**
 
-The Himachal Pradesh government has increased the assistance being provided to the family with patients of chronic disease from $26 to $40 per month. **Source**: [The Statesman](https://www.thestatesman.com/cities/shimla/himachal-spends-rs-3-45-crore-sahara-yojna-1502899087.html) **In detail**: [Press Release](http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=17696)
+The Himachal Pradesh government has increased the assistance being provided to families with patients of chronic disease from $26 to $40 per month. **Source**: [The Statesman](https://www.thestatesman.com/cities/shimla/himachal-spends-rs-3-45-crore-sahara-yojna-1502899087.html) **In detail**: [Press Release](http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=17696)
 
 **Jammu and Kashmir**
 
