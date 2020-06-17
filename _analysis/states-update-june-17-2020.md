@@ -78,7 +78,7 @@ Nothing critical to report this week
 
 The Uttar Pradesh government asks three industrial development authorities to slash interest rates on land dues. **Source**: [New Indian Express](https://www.newindianexpress.com/nation/2020/jun/11/yogi-government-slashes-interest-rates-on-land-dues-for-builders-in-uttar-pradesh-2155129.html) **In detail**: [Press Release](http://information.up.nic.in/attachments/files/5edf8f7f-c168-4eb4-810d-0c850af72573.pdf) (In Hindi)
 
-The Uttar Pradesh government shall set up a nodal agency “Invest UP”, to streamline approval investment proposals. The government has set a goal to clear investment proposals within 15 days. **Source**: [Livemint](https://www.livemint.com/news/india/uttar-pradesh-to-set-up-invest-up-to-boost-investment-in-the-state-11592020046283.html) **In detail**: Order
+The Uttar Pradesh government shall set up a nodal agency “Invest UP”, to streamline approval investment proposals. The government has set a goal to clear investment proposals within 15 days. **Source**: [Livemint](https://www.livemint.com/news/india/uttar-pradesh-to-set-up-invest-up-to-boost-investment-in-the-state-11592020046283.html)
 
 **West Bengal**
 
