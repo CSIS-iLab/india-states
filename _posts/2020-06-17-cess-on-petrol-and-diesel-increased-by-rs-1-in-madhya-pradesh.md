@@ -5,6 +5,7 @@ title: Cess on petrol and diesel increased by Rs 1 in Madhya Pradesh
 date: 2020-06-17 04:00:00 +0000
 states:
 - Madhya Pradesh
+- Madhya Pradesh
 sectors:
 - Energy
 subsectors:
