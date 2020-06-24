@@ -21,7 +21,7 @@ author:
 - Neelima Jain
 
 ---
-**Big News:** Center introduces a $6.6 billion employment scheme for migrants; Andhra Pradesh passes a $29.4 million state budget; Haryana and Rajasthan plan tap water connections for households; Uttar Pradesh sets up commission to ensure social security for migrant workers; and more.
+**Big News:** Center introduces a $6.6 billion employment scheme for migrants; Andhra Pradesh passes a $29.4 billion state budget; Haryana and Rajasthan plan tap water connections for households; Uttar Pradesh sets up commission to ensure social security for migrant workers; and more.
 
 **Center – State relations**
 
@@ -33,7 +33,7 @@ The government launches auction of 41 coal mines with total geological coal rese
 
 **Andhra Pradesh**
 
-The Andhra Pradesh government has announced a $29.4 million budget for 2020-21 with a revenue deficit of $2.4 billion. The budget includes implementation of free crop insurance scheme and interest free loans. **Source**: [Hindustan Times](https://www.hindustantimes.com/india-news/in-andhra-pradesh-s-budget-of-rs-2-24-lakh-cr-a-revenue-deficit-of-rs-18k-cr/story-GksTfz9Ctcohz2ffr4ZewJ.html) **In detail**: [Budget Speech](https://apfinance.gov.in/uploads/budget-2020-21-books/SpeechEnglish.pdf)
+The Andhra Pradesh government has announced a $29.4 billion budget for 2020-21 with a revenue deficit of $2.4 billion. The budget includes implementation of free crop insurance scheme and interest free loans. **Source**: [Hindustan Times](https://www.hindustantimes.com/india-news/in-andhra-pradesh-s-budget-of-rs-2-24-lakh-cr-a-revenue-deficit-of-rs-18k-cr/story-GksTfz9Ctcohz2ffr4ZewJ.html) **In detail**: [Budget Speech](https://apfinance.gov.in/uploads/budget-2020-21-books/SpeechEnglish.pdf)
 
 **Bihar**
 
