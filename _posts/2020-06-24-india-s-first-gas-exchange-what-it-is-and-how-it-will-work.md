@@ -14,7 +14,7 @@ sources:
   url: https://indianexpress.com/article/explained/indian-gas-exchange-igx-what-it-is-and-how-it-will-work-6460379/
 details:
 - name: Press Release
-  url: https://pib.gov.in/PressReleasePage.aspx?PRID=1632309
+  url: https://www.igxindia.com/wp-content/uploads/2020/06/Press-Release-IGX-Launch-June-15.pdf
 is_analysis: false
 
 ---
