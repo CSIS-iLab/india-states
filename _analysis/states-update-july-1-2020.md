@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: July 1, 2020'
-date: 2020-06-02 04:00:00 +0000
+date: 2020-06-30 04:00:00 +0000
 tags: []
 excerpt: Bihar approves amendments to Industrial Investment Promotion Policy; Karnataka
   cabinet approves amendments to Karnataka Industries (Facilitation) Act; Punjab approves
