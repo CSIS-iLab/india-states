@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: July 8, 2020'
-date: 2020-07-07 04:00:00 +0000
+date: 2020-07-07T04:00:00.000+00:00
 tags: []
 excerpt: 'Big News: Karnataka allows flexible hiring; Rajasthan increases water prices;
   Telangana increases government guarantees for corporations; Assam allows businesses
@@ -19,6 +19,7 @@ sources: []
 details: []
 author:
 - Neelima Jain
+published: false
 
 ---
 **Center – State relations**
