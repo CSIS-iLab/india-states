@@ -2,7 +2,7 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: July 28, 2020'
+title: 'States Update: July 29, 2020'
 date: 2020-07-28 04:00:00 +0000
 tags: []
 excerpt: 'Big News: Center notifies schemes for boosting medical and pharma manufacturing;
