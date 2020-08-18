@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Odisha issues new building norms; Gujarat launches crop insurance scheme; Andhra Pradesh raises land prices; Meghalaya announces economic revival package; Himachal Pradesh does away with subsidies on domestic electricity tariff; and more.
