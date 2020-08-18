@@ -2,8 +2,8 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: August 18, 2020'
-date: 2020-08-18 04:00:00 +0000
+title: 'States Update: August 19, 2020'
+date: 2020-08-19 04:00:00 +0000
 tags: []
 excerpt: 'Big News: Odisha issues new building norms; Gujarat launches crop insurance
   scheme; Andhra Pradesh raises land prices; Meghalaya announces economic revival
@@ -17,7 +17,8 @@ feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
+author:
+- Neelima Jain
 published: false
 
 ---
