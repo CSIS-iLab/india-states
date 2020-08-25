@@ -12,7 +12,7 @@ excerpt: 'Big News: Odisha issues new building norms; Gujarat launches crop insu
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
