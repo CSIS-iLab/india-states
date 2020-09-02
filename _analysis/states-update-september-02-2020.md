@@ -12,13 +12,13 @@ excerpt: 'Big News: Center proposes states borrow to meet revenue shortfall; Bih
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
-published: false
+author:
+- Neelima Jain
 
 ---
 **Big News:** Center proposes states borrow to meet revenue shortfall; Bihar offers incentives to agriculture based industrial units; Gujarat announces incentives for new industrial parks; Telangana bans registration of unauthorized buildings; Maharashtra disallows setting up new thermal plants in the state; and more.
