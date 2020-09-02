@@ -21,11 +21,13 @@ author: []
 published: false
 
 ---
+**Big News:** Center proposes states borrow to meet revenue shortfall; Bihar offers incentives to agriculture based industrial units; Gujarat announces incentives for new industrial parks; Telangana bans registration of unauthorized buildings; Maharashtra disallows setting up new thermal plants in the state; and more.
+
 **Industrial Policy & Business Regulations**
 
 **Bihar** government approves a new agriculture investment policy in the state. The policy offers a capital subsidy of 15 to 30 percent on setting up of agriculture based industries in the states. **Source**: [Muzcorner](https://www.muzcorner.in/2020/08/bihar-approved-new-agriculture-investment-policy-2020.html)
 
-**In detail**: Cabinet Decision (in Hindi)
+**In detail**: [Cabinet Decision (in Hindi)](http://csd.bih.nic.in/Upload/Decisions/c25082020.pdf)
 
 **Gujarat** government announces a new industrial policy to promote industrial parks for small and medium industries. Under the policy, developers of new industrial parks can avail up to 70 percent of total project cost in the form of financial incentives.
 
