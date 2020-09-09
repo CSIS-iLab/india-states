@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Maharashtra announces revival policy for loss-making sugar factories; Karnataka’s information technology policy aims to boost growth in tier two and tier three cities; Andhra Pradesh tops states’ ease of doing business rankings; Tamil Nadu makes violation of Covid-19 norms a compoundable offence; Chhattisgarh and Uttarakhand lead in broadband readiness index; and more.
