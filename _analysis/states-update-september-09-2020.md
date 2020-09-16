@@ -13,7 +13,7 @@ excerpt: 'Big News: Maharashtra announces revival policy for loss-making sugar f
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
