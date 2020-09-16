@@ -11,13 +11,13 @@ excerpt: 'Big News: Center approves Odisha’s economic corridor; Telangana appr
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
-published: false
+author:
+- Neelima Jain
 
 ---
 **Big News: Center approves** Odisha’s economic corridor; Telangana approves bills to simplify land deals; Gujarat and Andaman & Nicobar Islands top states’ startup ecosystem rankings; Andhra Pradesh raises tax on natural gas; and more.
