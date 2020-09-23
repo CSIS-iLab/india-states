@@ -11,7 +11,7 @@ excerpt: 'Big News: Center approves Odisha’s economic corridor; Telangana appr
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
