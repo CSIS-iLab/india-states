@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Karnataka passes bill to increase borrowing limit; Odisha raises electricity tariffs; Uttarakhand passes labor and industrial reform bills; Jharkhand waives fixed charges on electricity bills; Election Commission releases Bihar assembly election schedule; And more.
