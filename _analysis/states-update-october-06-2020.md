@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Supreme Court cancels Gujarat's 12-hour workday notification; Kerala launches single-window clearance system; Andhra Pradesh introduces groundwater irrigation schemes; Haryana launches a scheme to help villages go digital; and more.
