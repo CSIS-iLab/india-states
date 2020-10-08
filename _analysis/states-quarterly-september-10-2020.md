@@ -20,19 +20,19 @@ author:
 published: false
 
 ---
-### **Chhattisgarh to Punjab, Covid forcing states to reform. But a lot hinges on Modi govt support**
+## **Chhattisgarh to Punjab, Covid forcing states to reform. But a lot hinges on Modi govt support**
 
 The Covid-19 crisis has spurred Indian state governments into action with them displaying an intent to reform. From enacting new measures on migrant rural workforce to electricity payment reliefs to green Covid recovery, states like Madhya Pradesh, Chhattisgarh, Uttarakhand and Punjab have introduced a slew of reforms.
 
 The second quarter of 2020 saw the rapid spread of Covid-19 place broad-based [burdens](https://www.livemint.com/news/india/how-the-lockdown-is-bleeding-state-exchequers-dry-11588152517154.html) on states’ fiscal position, which was already in peril. [Repeated](https://www.timesnownews.com/india/article/india-coronavirus-lockdown-extended-to-phase-4-here-is-looking-into-the-dates-of-all-the-lockdowns-uptil-now/585837) lockdowns, [mass exodus](https://peoplesworld.org/article/covid-19-death-march-indias-migrant-workers-head-home-heralding-virus-surge/) of migrant workers, and a brewing India-China [border conflict](https://www.bloombergquint.com/economy-finance/how-india-retaliated-to-curb-trade-with-china-after-deadly-border-scuffle) forced the states to look inwards, prompting long-standing economic reforms. Hoping to inspire market confidence, the states introduced measures in labor, law, and liquidity, including amendments to the Essential Commodities Act (ECA) and the Agriculture Produce Marketing Committee Act (APMC). Six of India’s 28 states did well in discharging relief packages to micro, small, and medium enterprises (MSMEs), which remain the [largest](https://www.brookings.edu/blog/future-development/2020/07/13/the-impact-of-covid-19-and-the-policy-response-in-india/) source of employment outside agriculture.
 
-### **Labour law reforms**
+**Labour law reforms**
 
 Covid-19 caused a widespread and substantial [disruption](https://peoplesworld.org/article/covid-19-death-march-indias-migrant-workers-head-home-heralding-virus-surge/) to migrant workers, compelling states to announce pro-migrant measures. Madhya Pradesh, Rajasthan, and Uttarakhand launched schemes to encourage reverse migration of workforce. Further, 11 states relaxed their labour laws, hoping to generate local jobs and boost investment. Gujarat, Uttar Pradesh, Karnataka, and Madhya Pradesh exempted industries from labour law provisions with exceptions of varying degrees. Madhya Pradesh fast-tracked issuance of registrations and licenses, initiating single-day clearance while also providing businesses the flexibility to hire and fire. Rajasthan, Assam, and Odisha were among seven states to extend labour working hours.
 
 Migration of rural workforce from cities to their homes in rural India propelled agriculture into the mainstream discourse. In recognising the urgency to resurrect the rural economy, six states were prompt in following the Narendra Modi government’s advisory relating to making amendments to the APMC Act. Separately, Rajasthan announced an innovative financing scheme for farmers while Punjab offered 50 per cent subsidy on agriculture machinery.
 
-### **MSME packages, power reliefs**
+**MSME packages, power reliefs**
 
 Multiple states unveiled MSME packages to support small enterprises survive the economic lockdown. While Kerala [offered](https://timesofindia.indiatimes.com/city/kochi/kerala-interest-subvention-offered-for-msmes/articleshow/76034078.cms) interest subvention on term loans, Haryana [allowed](https://prharyana.gov.in/en/to-facilitate-industrial-units-in-haryana-in-reviving-their-operations-and-retaining-their) 100 per cent interest benefit on loans availed for wages. To catalyse the revival of businesses, states offered multiple incentives. While Uttar Pradesh and Haryana waived interest payments, Bihar provided tax exemptions. Karnataka amended the Industries Act to allow setting up of manufacturing units without requiring any statutory clearances in first three years. Delhi, Gujarat and Andhra Pradesh resorted to waiver of fixed or variable electricity charges. Also, states were quick in taking advantage of the unprecedented trading conditions. Tamil Nadu offered a 30 per cent capital subsidy on production of personal protective equipment, or PPEs. Uttar Pradesh and Mizoram granted industry status to warehousing and sports respectively.
 
