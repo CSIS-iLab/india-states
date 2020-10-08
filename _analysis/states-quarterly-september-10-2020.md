@@ -17,7 +17,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 ### **Chhattisgarh to Punjab, Covid forcing states to reform. But a lot hinges on Modi govt support**
