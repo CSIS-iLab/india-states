@@ -20,7 +20,7 @@ author:
 published: false
 
 ---
-## **Chhattisgarh to Punjab, Covid forcing states to reform. But a lot hinges on Modi govt support**
+### **Chhattisgarh to Punjab, Covid forcing states to reform. But a lot hinges on Modi govt support**
 
 The Covid-19 crisis has spurred Indian state governments into action with them displaying an intent to reform. From enacting new measures on migrant rural workforce to electricity payment reliefs to green Covid recovery, states like Madhya Pradesh, Chhattisgarh, Uttarakhand and Punjab have introduced a slew of reforms.
 
