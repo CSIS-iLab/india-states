@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Delhi exempts road tax on electric vehicles; Chhattisgarh offers incentives for small and medium business; Telangana allows 50 percent reservation for women in local urban bodies; Goa becomes the first state to provide tap water connection to every rural household; Uttar Pradesh reverts decision to privatize power distribution company; and more.
