@@ -16,3 +16,4 @@ details: []
 is_analysis: false
 
 ---
+The Maharashtra cabinet has approved a proposal to reduce the electricity duty for industries from 9.3 percent to 7.5 percent.
