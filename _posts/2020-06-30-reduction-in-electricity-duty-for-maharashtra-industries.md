@@ -7,6 +7,7 @@ states:
 - Maharashtra
 sectors:
 - Energy
+- Energy
 subsectors:
 - Power
 sources:
