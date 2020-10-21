@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Center sets up district development councils in Jammu & Kashmir; Haryana approves water conservation authority; Telangana eases modalities for non-agriculture land registration; Goa approves a new tourism policy; Punjab allows 33 percent reservation for women in government jobs; and more.
