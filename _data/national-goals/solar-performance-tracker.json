@@ -192,15 +192,15 @@
     "state": "Punjab",
     "national_contribution": 4.79,
     "state_target": 4772,
-    "state_achieved": 947.1,
+    "state_achieved": "947.1",
     "state_percentage": 19.85
   },
   {
     "state": "Rajasthan",
     "national_contribution": 5.79,
     "state_target": 5762,
-    "state_achieved": 5035.08,
-    "state_percentage": 87.38
+    "state_achieved": "5353.24",
+    "state_percentage": "92.91"
   },
   {
     "state": "Sikkim",
