@@ -50,7 +50,7 @@
   },
   {
     "state": "Dadra and Nagar Haveli",
-    "national_contribution": 0.45,
+    "national_contribution": "0.45",
     "state_target": 449,
     "state_achieved": 5.46,
     "state_percentage": 1.22
