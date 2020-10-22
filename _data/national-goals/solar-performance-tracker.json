@@ -207,14 +207,14 @@
     "national_contribution": 0.04,
     "state_target": 36,
     "state_achieved": 0.07,
-    "state_percentage": 0.19
+    "state_percentage": "0.19"
   },
   {
     "state": "Tamil Nadu",
     "national_contribution": 8.93,
     "state_target": 8884,
-    "state_achieved": 3788.51,
-    "state_percentage": 42.64
+    "state_achieved": "4221.36",
+    "state_percentage": "47.51"
   },
   {
     "state": "Telangana",
