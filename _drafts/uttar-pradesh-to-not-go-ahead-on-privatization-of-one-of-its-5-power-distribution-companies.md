@@ -1,7 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: Uttar Pradesh to not go ahead on privatization of one of its 5 power distribution
+title: Uttar Pradesh to not go ahead on privatization of one of its five power distribution
   companies.
 date: 2020-10-14 04:00:00 +0000
 states:
