@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Punjab passes bills to bypass center’s farm laws; Haryana permits industrial premise to house labors; Punjab allows industrial development in agriculture land; Rajasthan allows change of land use; and more.
