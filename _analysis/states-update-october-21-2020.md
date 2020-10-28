@@ -12,7 +12,7 @@ excerpt: 'Big News: Center sets up district development councils in Jammu & Kash
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
