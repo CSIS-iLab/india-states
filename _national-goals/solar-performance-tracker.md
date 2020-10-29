@@ -20,7 +20,7 @@ progressbars:
   description: This chart tracks the progress each state has made towards reaching
     its own target for solar power capacity.
 state_text: reaches
-last_updated_at: 2020-01-31 01:00:00 +0000
+last_updated_at: 2020-09-01 00:00:00 +0000
 sources:
 - name: 'Ministry of New and Renewable Energy: State-wise commissioning of solar power
     projects'
