@@ -80,8 +80,8 @@
     "state": "Gujarat",
     "national_contribution": 14.81,
     "state_target": 8800,
-    "state_achieved": 7460.02,
-    "state_percentage": 84.77
+    "state_achieved": "7844.72",
+    "state_percentage": "89.14"
   },
   {
     "state": "Haryana",
@@ -115,8 +115,8 @@
     "state": "Karnataka",
     "national_contribution": 10.44,
     "state_target": 6200,
-    "state_achieved": 4754.9,
-    "state_percentage": 76.69
+    "state_achieved": "4794.80",
+    "state_percentage": "77.33"
   },
   {
     "state": "Kerala",
