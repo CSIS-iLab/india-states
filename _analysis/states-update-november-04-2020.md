@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Center sets up a new commission for air quality; Rajasthan and Chhattisgarh pass bills to bypass center’s farm laws; Andhra Pradesh announces a new industrial policy; Telangana offers incentives for electric vehicles; and more.
