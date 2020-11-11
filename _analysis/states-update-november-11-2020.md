@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Tamil Nadu exempts electric vehicles from motor tax; Haryana allows 50 percent reservation for women in local polls; Karnataka announces a hike in electricity tariff; Maharashtra grants industry status to the hospitality sector; Chhattisgarh introduces a new industrial policy; and more.
