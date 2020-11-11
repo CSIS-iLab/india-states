@@ -11,7 +11,7 @@ excerpt: 'Big News: Center sets up a new commission for air quality; Rajasthan a
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
@@ -32,13 +32,9 @@ author:
 
 **Land Acquisition & Labor Reforms**
 
-**Chhattisgarh** approves a number of amendments in the state’s industrial policies. Per the amendments, industries who are investing a minimum of $67,244 and a maximum of $672,440 on plant and machinery, can avail a subsidy package. **Source**: [Business World](http://www.businessworld.in/article/Chhattisgarh-cabinet-approves-various-amendments-in-state-policies/26-10-2020-335885/)
+**Chhattisgarh** approves a number of amendments in the state’s industrial policies. Per the amendments, industries who are investing a minimum of $67,244 and a maximum of $672,440 on plant and machinery, can avail a subsidy package. **Source**: [Business World](http://www.businessworld.in/article/Chhattisgarh-cabinet-approves-various-amendments-in-state-policies/26-10-2020-335885/); **In detail**: [Assembly Proceedings (In Hindi)](http://cgvidhansabha.gov.in/hindi_new/satra/fifth_assembly/eighth/Proc27102020.PDF)
 
-**In detail**: [Assembly Proceedings (In Hindi)](http://cgvidhansabha.gov.in/hindi_new/satra/fifth_assembly/eighth/Proc27102020.PDF)
-
-Center notifies new rules that allow any Indian citizen to purchase land in **Jammu and Kashmir, and Ladakh**. The notification comes into force with immediate effect.
-
-**Source**: [Times Now](https://www.timesnownews.com/india/article/centre-notifies-land-law-anyone-can-now-buy-land-in-jammu-and-kashmir-ladakh/673317); **In detail**: [Gazette Notification](http://www.egazette.nic.in/WriteReadData/2020/222750.pdf) (In Hindi)
+Center notifies new rules that allow any Indian citizen to purchase land in **Jammu and Kashmir, and Ladakh**. The notification comes into force with immediate effect. **Source**: [Times Now](https://www.timesnownews.com/india/article/centre-notifies-land-law-anyone-can-now-buy-land-in-jammu-and-kashmir-ladakh/673317); **In detail**: [Gazette Notification](http://www.egazette.nic.in/WriteReadData/2020/222750.pdf) (In Hindi)
 
 **Infrastructure**
 
