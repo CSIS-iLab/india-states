@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Center approves production-linked incentives for 10 sectors; Delhi disallows manufacturing industries in new industrial areas; Telangana approves a single window clearance system for building permissions; Uttar Pradesh disallows a hike in electricity tariffs; and more.
