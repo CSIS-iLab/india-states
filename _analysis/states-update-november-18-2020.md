@@ -58,9 +58,11 @@ Nothing critical to report this week
 
 **Business Negative Reforms**
 
+**Uttar Pradesh** Electricity Regulatory Commission (UPERC) rejects a hike in electricity tariff. The state distribution utility had proposed a slab change in electricity rates to increase the tariff. **Source**: [Hindustan Times](https://www.hindustantimes.com/lucknow/diwali-cheer-no-power-tarrif-hike-slabs-unchanged-in-uttar-pradesh/story-HZKyRMNnMhV0Anp3KHagIJ.html); **In detail**: [Tariff order](https://www.uperc.org/App_File/TariffOrderUPStateDiscomsDigitallySigned-pdf11112020121317PM.pdf)
+
 **Any Other News**
 
-Nitish Kumar takes oath as Bihar’s chief minister . This will be his fourth term as Bihar’s chief minister. **Source**: [India Today](https://www.indiatoday.in/india/story/nitish-kumar-swearing-in-bihar-2-deputy-chief-minister-highlights-1741202-2020-11-16); **In detail**: [Official Tweet (in Hindi)](https://twitter.com/NitishKumar/status/1328338766562349056)
+Nitish Kumar takes oath as Bihar’s chief minister. This will be his fourth term as Bihar’s chief minister. **Source**: [India Today](https://www.indiatoday.in/india/story/nitish-kumar-swearing-in-bihar-2-deputy-chief-minister-highlights-1741202-2020-11-16); **In detail**: [Official Tweet (in Hindi)](https://twitter.com/NitishKumar/status/1328338766562349056)
 
 **Center-State Relations**
 
