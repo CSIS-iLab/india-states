@@ -31,6 +31,8 @@ Central government approves **Delhi** administration’s plan to disallow manufa
 
 **Land Acquisition & Labor Reforms**
 
+Nothing critical to report this week
+
 **Infrastructure & Governance**
 
 **Telangana** approves its Telangana state building permission approval and self-certification system (TS-bPASS). TS-bPASS is a single window clearance system that facilitates automatic, online approvals for building plans in the range of 75 square yards and 600 square yards. **Source**: [Telangana Today](https://telanganatoday.com/ts-bpass-a-new-benchmark); **In detail**: [State Department’s Tweet](https://twitter.com/KTRTRS/status/1328190989891031040?s=20);
