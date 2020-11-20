@@ -17,6 +17,7 @@ sources: []
 details: []
 author:
 - Neelima Jain
+published: false
 
 ---
 **States follow Modi’s Atmanirbhar vision. Andhra, Gujarat’s new industrial policies show**
