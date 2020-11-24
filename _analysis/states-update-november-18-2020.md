@@ -12,7 +12,7 @@ excerpt: 'Big News: Center approves production-linked incentives for 10 sectors;
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
