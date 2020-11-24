@@ -10,7 +10,7 @@ excerpt: COVID-19 stalls momentum on state reforms
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
