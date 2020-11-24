@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: November 25, 2020'
-date: 2020-11-25 05:00:00 +0000
+date: 2020-11-24 05:00:00 +0000
 tags: []
 excerpt: 'Big News: Punjab allows automatic renewals under its labor laws; Kerala
   approves an ordinance to prevent cyber-attacks; Tripura announces penalties for
