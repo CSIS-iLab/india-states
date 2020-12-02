@@ -13,7 +13,7 @@ excerpt: 'Big News: Punjab allows automatic renewals under its labor laws; Keral
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
