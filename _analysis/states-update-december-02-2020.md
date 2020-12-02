@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Gujarat and Odisha relax labor laws; Delhi proposes to include electric cycles in its electric vehicle policy; Uttar Pradesh bans labor strikes in state departments; Tamil Nadu enables online clearances for infrastructure projects; Telangana drafts smart grid regulations; and more.
