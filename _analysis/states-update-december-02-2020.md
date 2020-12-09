@@ -12,7 +12,7 @@ excerpt: 'Big News:  Gujarat and Odisha relax labor laws; Delhi proposes to incl
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
