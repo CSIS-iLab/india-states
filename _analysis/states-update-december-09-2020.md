@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Andhra Pradesh announces incentives for encouraging industries in underdeveloped areas; Use of cleaner fuels made mandatory for industrial units set up in the National Capital Region; Maharashtra offers a scheme for consumers to clear their electricity dues; and more.
