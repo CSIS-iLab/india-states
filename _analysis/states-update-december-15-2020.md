@@ -17,8 +17,8 @@ feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
-published: false
+author:
+- Neelima Jain
 
 ---
 **Big News:** Union cabinet approves laying a submarine optical fibre between Kerala and Lakshadweep; Karnataka proposes a new governance structure for Bengaluru; Telangana offers new incentives for information technology companies; Maharashtra approves its non-conventional energy policy; and more.
