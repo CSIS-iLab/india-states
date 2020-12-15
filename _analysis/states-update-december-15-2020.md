@@ -35,15 +35,11 @@ published: false
 
 **Karnataka** passes a civic body bill which proposes a new governance structure for Bengaluru and allows an increase in the city’s municipal limits. **Source**: [Indian Express](https://indianexpress.com/article/explained/explained-the-fine-print-of-bengaluru-civic-body-bill-passed-by-karnataka-7099951/); **In detail**: [Bill](https://nammabnp.org/upload/blog/attachments/KDJkxiLPtI.pdf)
 
-**Karnataka** passes a bill that exempts industrial units set up in underdeveloped areas from registration charges and a part of the stamp duty.
-
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-bill-to-reduce-stamp-duty-on-flats-passed/articleshow/79655232.cms); **In detail**: [Bill](https://drive.google.com/file/d/16Q1bdBupwbLSypwmVReWH-ZrI6LiMq4m/view)
+**Karnataka** passes a bill that exempts industrial units set up in underdeveloped areas from registration charges and a part of the stamp duty. **Source**: [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/karnataka-bill-to-reduce-stamp-duty-on-flats-passed/articleshow/79655232.cms); **In detail**: [Bill](https://drive.google.com/file/d/16Q1bdBupwbLSypwmVReWH-ZrI6LiMq4m/view)
 
 **Maharashtra** changes the stamp duty on banking agreements related to property sales. **Source**: [Hindustan Times](https://www.hindustantimes.com/mumbai-news/maharashtra-government-changes-stamp-duty-on-property-banking-agreements/story-e23q14HLO8LEizI64Y3hLL.html); **In detail**: [Cabinet Decisions (In Marathi)](https://www.maharashtra.gov.in/Site/upload/CabinetDecision/Marathi/09-12-2020%20Cabinet%20Decision%20(Meeting%20No.47).pdf)
 
-**Telangana** issues additional guidelines and proposes new incentives for establishing information technology companies around Hyderabad city, excluding the western cluster.
-
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-11-industrial-parks-to-get-reboot-turn-it-parks/articleshow/79672480.cms); **In detail**: [Government Order](https://goir.telangana.gov.in/pdfshow.aspx)
+**Telangana** issues additional guidelines and proposes new incentives for establishing information technology companies around Hyderabad city, excluding the western cluster. **Source**: [Times of India](https://timesofindia.indiatimes.com/city/hyderabad/hyderabad-11-industrial-parks-to-get-reboot-turn-it-parks/articleshow/79672480.cms); **In detail**: [Government Order](https://goir.telangana.gov.in/pdfshow.aspx)
 
 **Power & Renewable Energy**
 
