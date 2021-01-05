@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Karnataka allows round-the-clock operation of shops and establishments; Kerala passes a bill to scrap central farm laws; Assam passes a bill to ease setting up businesses in the state; Gujarat announces its new solar policy; and more.
