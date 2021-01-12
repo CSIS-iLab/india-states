@@ -11,7 +11,7 @@ excerpt: 'Big News: Karnataka allows round-the-clock operation of shops and esta
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
