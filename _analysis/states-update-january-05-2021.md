@@ -4,7 +4,8 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: January 05, 2021'
 date: 2021-01-05 05:00:00 +0000
-tags: []
+tags:
+- 'Update on India''s States '
 excerpt: 'Big News: Karnataka allows round-the-clock operation of shops and establishments;
   Kerala passes a bill to scrap central farm laws; Assam passes a bill to ease setting
   up businesses in the state; Gujarat announces its new solar policy; and more.'
