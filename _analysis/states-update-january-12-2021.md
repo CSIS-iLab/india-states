@@ -4,8 +4,7 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: January 12, 2021'
 date: 2021-01-12 05:00:00 +0000
-tags:
-- update on indian states
+tags: []
 excerpt: 'Big News: Jammu and Kashmir gets a new industrial development scheme; Telangana
   implements urban local bodies reforms; Maharashtra approves solar electrification
   of agriculture pumps; West Bengal mandates gross metering for roof top solar; and
