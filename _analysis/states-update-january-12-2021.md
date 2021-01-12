@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Jammu and Kashmir gets a new industrial development scheme; Telangana implements urban local bodies reforms; Maharashtra approves solar electrification of agriculture pumps; West Bengal mandates gross metering for roof top solar; and more.
@@ -46,9 +45,7 @@ Nothing critical to report this week
 
 **Telangana** sets a levelized tariff of $0.043 per kilowatt hour for solar projects under Component-A of the central government’s PM KUSUM program. **Source**: [Mercom](https://mercomindia.com/telangana-levelized-tariff-kusum-projects/); **In detail**: [Tariff Order](https://www.tserc.gov.in/file_upload/uploads/Orders/Commission%20Orders/2020/PMKusum.pdf)
 
-**West Bengal** amends its Cogeneration and Electricity Generation from Renewable Sources Regulations, 2013. Amendment includes the mandate for a gross metering facility for rooftop solar systems above five kilowatt in capacity.
-
-**Source**: [Mercom](https://mercomindia.com/west-bengal-mandates-gross-metering/); **In detail**: [Tariff Order](https://wberc.gov.in/sites/default/files/REGU71.pdf)
+**West Bengal** amends its Cogeneration and Electricity Generation from Renewable Sources Regulations, 2013. Amendment includes the mandate for a gross metering facility for rooftop solar systems above five kilowatt in capacity. **Source**: [Mercom](https://mercomindia.com/west-bengal-mandates-gross-metering/); **In detail**: [Tariff Order](https://wberc.gov.in/sites/default/files/REGU71.pdf)
 
 **Oil & Gas**
 
