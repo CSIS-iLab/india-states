@@ -4,7 +4,8 @@ is_analysis: true
 content_type: analysis
 title: Indian State-Level Business Reforms, Second Quarter 2020
 date: 2020-09-10 04:00:00 +0000
-tags: []
+tags:
+- States Quarterly Updates
 excerpt: Chhattisgarh to Punjab, Covid forcing states to reform. But a lot hinges
   on Modi govt support
 states: []
