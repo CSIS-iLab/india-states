@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Bihar allows 35 percent reservation for women in state departments; Punjab approves a policy that aims to optimize government service delivery; Manipur, Kerala, and Tamil Nadu implement reforms prescribed by Ministry of Finance; Kerala unveils budget for 2021; and more.
