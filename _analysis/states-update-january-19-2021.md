@@ -13,7 +13,7 @@ excerpt: 'Big News: Bihar allows 35 percent reservation for women in state depar
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
