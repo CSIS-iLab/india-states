@@ -18,3 +18,4 @@ details:
 is_analysis: false
 
 ---
+**Punjab** approves levying a special infrastructure development fee on sale of petrol, diesel, and immovable property.
