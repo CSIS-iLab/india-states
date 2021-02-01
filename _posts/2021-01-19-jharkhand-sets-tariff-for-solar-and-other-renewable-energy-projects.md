@@ -10,11 +10,11 @@ sectors:
 subsectors:
 - Renewables
 sources:
+- name: Mercom
+  url: https://mercomindia.com/jharkhand-sets-levelized-tariff/
+details:
 - name: 'Jharkhand State Electricity Regulatory Commission '
   url: http://jserc.org/pdf/tariff_order/2020_03_kusum.pdf
-details:
-- name: ''
-  url: ''
 is_analysis: false
 
 ---
