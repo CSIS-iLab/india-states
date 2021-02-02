@@ -8,6 +8,7 @@ states:
 sectors:
 - Energy
 subsectors:
+- " Financing and Payment "
 - Power
 sources:
 - name: Economic Times
