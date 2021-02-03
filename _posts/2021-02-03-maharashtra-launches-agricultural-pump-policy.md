@@ -18,3 +18,4 @@ details:
 is_analysis: false
 
 ---
+**Maharashtra** launches its agriculture pump power connection policy. The policy aims to provide eight hour power supply to farmers in the next three years (2021-23).
