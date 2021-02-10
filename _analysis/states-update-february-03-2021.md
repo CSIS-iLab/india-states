@@ -13,7 +13,7 @@ excerpt: 'Big News: Tamil Nadu introduces its new industrial policy; West Bengal
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
