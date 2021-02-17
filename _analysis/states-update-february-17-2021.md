@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Tamil Nadu launches its industrial policy; Telangana allows 10 percent reservation for economically weaker section in government jobs; Rajasthan, Goa, and Punjab implement reforms prescribed by the Ministry of Finance; Jammu and Kashmir approve ease of doing business measures; and more.
