@@ -19,16 +19,13 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Bihar, Uttar Pradesh, and Nagaland announce state budgets; Kerala launches a free internet plan; Gujarat, Uttar Pradesh, and Uttarakhand implement reforms prescribed by the Ministry of Finance; Maharashtra, Tamil Nadu, and Uttar Pradesh emerge as top states with the highest employable talent; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Bihar** announces its budget for the financial year (FY) 2021-22. The budget proposals include setting up a separate department for skill development and entrepreneurship; installing solar lights in all villages within the state; and providing special incentives to women entrepreneurs.
-
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/patna/bihar-budget-2021-22-finance-minister-tar-kishore-prasad-presents-budget/articleshow/81150294.cms); **In detail**: [Budget](https://state.bihar.gov.in/finance/SectionInformation.html?editForm&rowId=3373) (In Hindi)
+**Bihar** announces its budget for the financial year (FY) 2021-22. The budget proposals include setting up a separate department for skill development and entrepreneurship; installing solar lights in all villages within the state; and providing special incentives to women entrepreneurs. **Source**: [Times of India](https://timesofindia.indiatimes.com/city/patna/bihar-budget-2021-22-finance-minister-tar-kishore-prasad-presents-budget/articleshow/81150294.cms); **In detail**: [Budget](https://state.bihar.gov.in/finance/SectionInformation.html?editForm&rowId=3373) (In Hindi)
 
 **Uttar Pradesh** announces its budget for FY 2021-22. The budget allocates an outlay of $1.3 billion for housing development, $162 million for metro rail projects, and $276 million for smart city project. **Source**: [Financial Express](https://www.financialexpress.com/economy/rs-550270-cr-up-budget-presented-in-assembly-to-make-state-atmanirbhar/2199526/); **In detail**: [Budget Speech](http://budget.up.nic.in/budgetbhashan/budgetbhashan2021_2022.pdf)
 
