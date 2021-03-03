@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Tamil Nadu and Rajasthan announce state budgets; Delhi mandates its departments to switch to electric vehicles; Meghalaya releases an electric vehicle policy; Jharkhand looks to introduce a green energy cess; Puducherry and four states get ready for assembly elections; and more.
@@ -28,9 +27,7 @@ published: false
 
 **Haryana** approves a proposal for amending the Haryana Enterprises Promotion Rules, 2016. Per the proposal, all clearances for setting up a micro, small, and medium enterprise within the state will be given within 15 days. **Source**: [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/hry-approves-amendment-to-expedite-clearance-for-msmes/articleshow/81237121.cms); **In detail**: [Press Release](https://www.prharyana.gov.in/en/haryana-chief-minister-sh-manohar-lal-today-approved-a-proposal-for-the-amendment-of-haryana-0)
 
-**Tamil Nadu** announces its interim budget for the financial year (FY) 2021-22. The budget estimates the state’s total receipt and expenditure at $20.61 billion and $35.5 billion respectively.
-
-**Source**: [Indian Express](https://indianexpress.com/article/cities/chennai/tamil-nadu-interim-budget-2021-22-key-take-ways-o-panneerselvams-speech-7201240/); **In detail**: [Budget Speech](http://www.tnbudget.tn.gov.in/tnweb_files/BS_2021_22_Eng_FINAL.pdf)
+**Tamil Nadu** announces its interim budget for the financial year (FY) 2021-22. The budget estimates the state’s total receipt and expenditure at $20.61 billion and $35.5 billion respectively. **Source**: [Indian Express](https://indianexpress.com/article/cities/chennai/tamil-nadu-interim-budget-2021-22-key-take-ways-o-panneerselvams-speech-7201240/); **In detail**: [Budget Speech](http://www.tnbudget.tn.gov.in/tnweb_files/BS_2021_22_Eng_FINAL.pdf)
 
 **Rajasthan** announces its budget for FY 2021-22. The budget allocates an outlay of $473.4 billion for a health cover plan of $6,829 to every family within the state. **Source**: [Indian Express](https://indianexpress.com/article/cities/jaipur/rajasthan-govt-to-bring-universal-health-coverage-scheme-worth-rs-3500-cr-cm-gehlot-7203075/); **In detail**: [Budget 2021-22](http://finance.rajasthan.gov.in/docs/budget/statebudget/2021-2022/budgetataglance.pdf)
 
