@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Eight states, including Gujarat and Madhya Pradesh announce state budgets; Karnataka launches its research and development policy; Meghalaya approves its first health policy; Haryana allow 75 percent reservation in the private sector for locally domiciled candidates; and more.
