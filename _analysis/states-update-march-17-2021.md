@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Six states, including Maharashtra and Karnataka announce state budgets; Jammu & Kashmir ease setting up of industrial units in the union territory; Odisha offers multiple incentives to electric vehicle buyers in the state; Jharkhand proposes a 75 percent reservation in the private sector for locally domiciled candidates; and more.
@@ -29,9 +28,7 @@ published: false
 
 **Delhi** announces its budget for the financial year (FY) 2021-22. The budget estimates the state’s total receipt and expenditure at $9.51 billion and $9.51 billion, respectively. **Sourc**e: [Business Today](https://www.businesstoday.in/current/economy-politics/delhi-budget-2021rs-9934-cr-for-health-sector-rs-16377-crore-for-education/story/433383.html); **In detail:** [Budget 2021-22](https://finance.delhigovt.nic.in/sites/default/files/All-PDF/Budget%20at%20a%20Glance%202021-22.pdf)
 
-**Karnataka** announces its budget for the FY 2021-22. The budget estimates the state’s total receipt and expenditure at $33.6 billion and $33.94 billion, respectively. **Source:** [Indian Express](https://indianexpress.com/article/cities/bangalore/karnataka-budget-bengaluru-gets-rs-7795-crore-for-development-7219752/)
-
-**In detail:** [Budget Speech](https://finance.karnataka.gov.in/storage/pdf-files/01-Budget%20Speech%20(English)%20Final.pdf)
+**Karnataka** announces its budget for the FY 2021-22. The budget estimates the state’s total receipt and expenditure at $33.6 billion and $33.94 billion, respectively. **Source:** [Indian Express](https://indianexpress.com/article/cities/bangalore/karnataka-budget-bengaluru-gets-rs-7795-crore-for-development-7219752/); **In detail:** [Budget Speech](https://finance.karnataka.gov.in/storage/pdf-files/01-Budget%20Speech%20(English)%20Final.pdf)
 
 **Maharashtra** announces its budget for the FY 2021-22. The budget estimates the state’s total revenue receipt and revenue expenditure at $50.82 billion and $52.23 billion, respectively. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-budget-concession-in-stamp-duty-for-women-increased-tax-on-liquor/articleshow/81393806.cms)**; In detail:** Budget Highlights [Part 1](https://finance.maharashtra.gov.in/Sitemap/finance/pdf/Part-I%20(Highlight)%20(English)%20%208%20March%202021.pdf); [Part 2](https://finance.maharashtra.gov.in/Sitemap/finance/pdf/Part-II%20(Highlight)%20(English)%208%20March%202021.pdf)
 
