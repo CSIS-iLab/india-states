@@ -29,7 +29,7 @@ published: false
 
 **Telangana** announces its budget for the financial year (FY) 2021-22. The budget estimates the state’s total receipt and expenditure at $31.09 billion and $31.83 billion, respectively. **Source:** [Hindu](https://www.thehindu.com/news/national/telangana/telangana-budget-outlay-is-230-lakh-cr/article34101138.ece); **In detail:** [Budget Speech](https://finance.telangana.gov.in/FM-Budget-Speech.jsp) (In Telugu & English)
 
-**Jammu and Kashmir** announces its budget for the FY 2021-22. The budget estimates the union territory’s total receipt and expenditure at $14.97 billion and $14.97 billion, respectively. **Source:** [Kashmir Observer](https://kashmirobserver.net/2021/03/17/centre-unveils-over-rs-1lakh-crore-budget-of-jk-for-2021-22/); **In detail:** [Budget Speech](https://dea.gov.in/sites/default/files/Budget%20Speech%202021-22.pdf) (In Hindi & English);
+**Jammu and Kashmir** announces its budget for the FY 2021-22. The budget estimates the union territory’s total receipt and expenditure at $14.97 billion and $14.97 billion, respectively. **Source:** [Kashmir Observer](https://kashmirobserver.net/2021/03/17/centre-unveils-over-rs-1lakh-crore-budget-of-jk-for-2021-22/); **In detail:** [Budget Speech](https://dea.gov.in/sites/default/files/Budget%20Speech%202021-22.pdf) (In Hindi & English)
 
 **Tripura** announces its budget for the FY 2021-22. The budget estimates the state’s total receipt and expenditure at $3.01 billion and $3.13 billion, respectively. **Source**: [Hans India](https://www.thehansindia.com/news/national/rs-22724-crore-tax-free-deficit-budget-presented-in-tripura-677609); **In detail:** [Budget](https://tripura.gov.in/sites/default/files/Budget_At_a_Glance_2021-22.pdf)
 
