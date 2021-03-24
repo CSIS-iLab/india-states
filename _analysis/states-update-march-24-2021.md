@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Jammu & Kashmir, Telangana, and Tripura announce state budgets; Five states, including Arunachal Pradesh and Chhattisgarh undertake reforms prescribed by the Ministry of Finance; Bihar announces its ethanol production policy; Uttar Pradesh proposes a 40 percent reservation in the private sector for locally domiciled candidates in Greater Noida; and more.
@@ -33,9 +32,7 @@ published: false
 
 **Tripura** announces its budget for the FY 2021-22. The budget estimates the state’s total receipt and expenditure at $3.01 billion and $3.13 billion, respectively. **Source**: [Hans India](https://www.thehansindia.com/news/national/rs-22724-crore-tax-free-deficit-budget-presented-in-tripura-677609); **In detail:** [Budget](https://tripura.gov.in/sites/default/files/Budget_At_a_Glance_2021-22.pdf)
 
-**Arunachal Pradesh, Chhattisgarh, Goa, Meghalaya**, and **Tripura** undertake reforms in "ease of doing business" stipulated by the Ministry of Finance. This implementation makes the states eligible for additional borrowing up to 0.25 percent of the gross state domestic product.
-
-**Source**: [News on Air](file:///C:/Users/present/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6PANBVMB/CSIS%20Mar%2019.docx); **In detail:** [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1706246)
+**Arunachal Pradesh, Chhattisgarh, Goa, Meghalaya**, and **Tripura** undertake reforms in "ease of doing business" stipulated by the Ministry of Finance. This implementation makes the states eligible for additional borrowing up to 0.25 percent of the gross state domestic product. **Source**: [News on Air](file:///C:/Users/present/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/6PANBVMB/CSIS%20Mar%2019.docx); **In detail:** [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1706246)
 
 **Land Acquisition & Labor Regulations**
 
@@ -65,7 +62,7 @@ Nothing critical to report this week
 
 **Business Negative Reforms**
 
-**Uttar Pradesh** allows 40 reservation in the private sector for locally domiciled candidates in Greater Noida. **Source**: [India Today](https://www.indiatoday.in/india/story/up-govt-implements-reservations-for-locals-in-private-jobs-in-greater-noida-1780496-2021-03-17); **In detail**: [Order](https://www.greaternoidaauthority.in/oo_emp_15321)
+**Uttar Pradesh** allows 40 percent reservation in the private sector for locally domiciled candidates in Greater Noida. **Source**: [India Today](https://www.indiatoday.in/india/story/up-govt-implements-reservations-for-locals-in-private-jobs-in-greater-noida-1780496-2021-03-17); **In detail**: [Order](https://www.greaternoidaauthority.in/oo_emp_15321)
 
 **Any Other**
 
