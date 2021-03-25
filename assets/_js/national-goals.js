@@ -22,12 +22,11 @@ const NationalGoals = () => {
     let max = allData.reduce(function(a, b) {
       return Math.max(parseInt(a), parseInt(b))
     })
-    console.log(max)
 
     Array.from(document.getElementsByClassName('progress-wrap')).forEach(
       function(bar) {
         let percent = bar.getAttribute('data-progress-percent') / parseInt(max)
-        console.log(bar.getAttribute('data-progress-percent'))
+
         let getProgressWrapWidth = bar.clientWidth
 
         let progressTotal = percent * getProgressWrapWidth
