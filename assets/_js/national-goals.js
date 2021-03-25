@@ -3,6 +3,7 @@
 const NationalGoals = () => {
   // on page load...
   moveProgressBar()
+
   // on browser resize...
   // $(window).resize(function () {
   //   moveProgressBar()
@@ -19,7 +20,7 @@ const NationalGoals = () => {
     allData.push(100)
 
     let max = allData.reduce(function(a, b) {
-      return Math.max(a, b)
+      return Math.max(parseInt((a, b)))
     })
 
     Array.from(document.getElementsByClassName('progress-wrap')).forEach(
