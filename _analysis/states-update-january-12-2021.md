@@ -3,8 +3,8 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: January 12, 2021'
-date: 2021-01-12 05:00:00 +0000
-tags: 
+date: 2021-01-12T05:00:00.000+00:00
+tags:
 - Update on India's States
 excerpt: 'Big News: Jammu and Kashmir gets a new industrial development scheme; Telangana
   implements urban local bodies reforms; Maharashtra approves solar electrification
@@ -13,7 +13,7 @@ excerpt: 'Big News: Jammu and Kashmir gets a new industrial development scheme; 
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
