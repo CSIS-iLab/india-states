@@ -1,254 +1,254 @@
 [
-  {
-    "state": "Andaman and Nicobar Islands",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Andhra Pradesh",
-    "national_contribution": 13.64,
-    "state_target": 8100,
-    "state_achieved": 4092.45,
-    "state_percentage": 50.52
-  },
-  {
-    "state": "Arunachal Pradesh",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Assam",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Bihar",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Chandigarh",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Chhattisgarh",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Dadra and Nagar Haveli",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Daman and Diu",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Delhi",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Goa",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Gujarat",
-    "national_contribution": 14.81,
-    "state_target": 8800,
-    "state_achieved": "7844.72",
-    "state_percentage": "89.14"
-  },
-  {
-    "state": "Haryana",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Himachal Pradesh",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Jammu and Kashmir",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Jharkhand",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Karnataka",
-    "national_contribution": 10.44,
-    "state_target": 6200,
-    "state_achieved": "4794.80",
-    "state_percentage": "77.33"
-  },
-  {
-    "state": "Kerala",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 62.5,
-    "state_percentage": 100
-  },
-  {
-    "state": "Lakshwadeep",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Madhya Pradesh",
-    "national_contribution": 10.44,
-    "state_target": 6200,
-    "state_achieved": 2519.89,
-    "state_percentage": 40.64
-  },
-  {
-    "state": "Maharashtra",
-    "national_contribution": 12.79,
-    "state_target": 7600,
-    "state_achieved": 5000.33,
-    "state_percentage": 65.79
-  },
-  {
-    "state": "Manipur",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Meghalaya",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Mizoram",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Nagaland",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Odisha",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Puducherry",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Punjab",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Rajasthan",
-    "national_contribution": 14.48,
-    "state_target": 8600,
-    "state_achieved": 4299.72,
-    "state_percentage": 50
-  },
-  {
-    "state": "Sikkim",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Tamil Nadu",
-    "national_contribution": 20.03,
-    "state_target": 11900,
-    "state_achieved": "9377.34",
-    "state_percentage": "78.80"
-  },
-  {
-    "state": "Telangana",
-    "national_contribution": 3.37,
-    "state_target": 2000,
-    "state_achieved": 128.1,
-    "state_percentage": 6.41
-  },
-  {
-    "state": "Tripura",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Uttar Pradesh",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "Uttarakhand",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  },
-  {
-    "state": "West Bengal",
-    "national_contribution": 0,
-    "state_target": 0,
-    "state_achieved": 0,
-    "state_percentage": 0
-  }
+ {
+   "state": "Andaman and Nicobar Islands",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Andhra Pradesh",
+   "national_contribution": 10.56,
+   "state_target": 8100,
+   "state_achieved": 4096.65,
+   "state_percentage": 50.58
+ },
+ {
+   "state": "Arunachal Pradesh",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Assam",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Bihar",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Chandigarh",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Chhattisgarh",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Dadra and Nagar Haveli",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Daman and Diu",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Delhi",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Goa",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Gujarat",
+   "national_contribution": 21.41,
+   "state_target": 8800,
+   "state_achieved": 8306.42,
+   "state_percentage": 94.39
+ },
+ {
+   "state": "Haryana",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Himachal Pradesh",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Jammu and Kashmir",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Jharkhand",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Karnataka",
+   "national_contribution": 12.66,
+   "state_target": 6200,
+   "state_achieved": 4912.6,
+   "state_percentage": 79.24
+ },
+ {
+   "state": "Kerala",
+   "national_contribution": 0.16,
+   "state_target": 0,
+   "state_achieved": 62.5,
+   "state_percentage": 0
+ },
+ {
+   "state": "Lakshwadeep",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Madhya Pradesh",
+   "national_contribution": 6.50,
+   "state_target": 6200,
+   "state_achieved": 2519.89,
+   "state_percentage": 40.64
+ },
+ {
+   "state": "Maharashtra",
+   "national_contribution": 12.89,
+   "state_target": 7600,
+   "state_achieved": 5000.33,
+   "state_percentage": 65.79
+ },
+ {
+   "state": "Manipur",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Meghalaya",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Mizoram",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Nagaland",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Odisha",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Puducherry",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Punjab",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Rajasthan",
+   "national_contribution": 11.15,
+   "state_target": 8600,
+   "state_achieved": 4326.82,
+   "state_percentage": 50.31
+ },
+ {
+   "state": "Sikkim",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Tamil Nadu",
+   "national_contribution": 24.31,
+   "state_target": 11900,
+   "state_achieved": 9431.54,
+   "state_percentage": 79.26
+ },
+ {
+   "state": "Telangana",
+   "national_contribution": 0.33,
+   "state_target": 2000,
+   "state_achieved": 128.1,
+   "state_percentage": 6.41
+ },
+ {
+   "state": "Tripura",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Uttar Pradesh",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "Uttarakhand",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ },
+ {
+   "state": "West Bengal",
+   "national_contribution": 0,
+   "state_target": 0,
+   "state_achieved": 0,
+   "state_percentage": 0
+ }
 ]
