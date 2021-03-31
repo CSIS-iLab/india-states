@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: March 24, 2021'
-date: 2021-03-24 04:00:00 +0000
+date: 2021-03-24T04:00:00.000+00:00
 tags: []
 excerpt: 'Big News:  Jammu & Kashmir, Telangana, and Tripura announce state budgets;
   Five states, including Arunachal Pradesh and Chhattisgarh undertake reforms prescribed
@@ -13,7 +13,7 @@ excerpt: 'Big News:  Jammu & Kashmir, Telangana, and Tripura announce state budg
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
