@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Delhi approves a new excise policy; Bihar and Odisha raise electricity tariffs; Haryana announces a subsidy for the installation of rooftop solar; Maharashtra allows a special tariff for consumers opting for 100 percent renewable energy; and more.
