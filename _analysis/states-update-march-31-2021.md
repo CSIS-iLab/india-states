@@ -12,7 +12,7 @@ excerpt: 'Big News: Delhi approves a new excise policy; Bihar and Odisha raise e
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
