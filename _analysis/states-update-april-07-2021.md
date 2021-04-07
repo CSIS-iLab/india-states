@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Rajasthan announces a policy to promote women empowerment; Jammu and Kashmir approve an excise policy; Meghalaya issues new electricity tariff for 2021-22; Gujarat passes a bill to regulate the private healthcare sector; and more.
