@@ -11,7 +11,7 @@ excerpt: 'Big News: Rajasthan announces a policy to promote women empowerment; J
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
