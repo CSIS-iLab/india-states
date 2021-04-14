@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Punjab notifies policy to empanel news channels with social media presence; Rajasthan relaxes age limit for economically weaker section candidates in state services; Maharashtra sets tariff for surplus power procured from rooftop solar projects; Gujarat keeps electricity tariffs for state consumers unchanged; and more.
