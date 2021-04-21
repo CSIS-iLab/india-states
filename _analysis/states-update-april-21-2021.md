@@ -21,7 +21,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** States and union territories ease land related transactions despite the COVID-19 pandemic; Punjab announces ease of doing business measures for the micro, small, and medium enterprises; Telangana announces a rebate on the property tax; Rajasthan permits net metering for the **grid-connected renewable energy systems; and more.**
