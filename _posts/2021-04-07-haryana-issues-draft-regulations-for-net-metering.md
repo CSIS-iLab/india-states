@@ -12,7 +12,9 @@ subsectors:
 sources:
 - name: Mercom
   url: https://mercomindia.com/no-net-metering-open-access-haryana/
-details: []
+details:
+- name: Draft Regulations
+  url: https://herc.gov.in/WriteReadData/Pdf/D20210324.pdf
 is_analysis: false
 
 ---
