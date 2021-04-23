@@ -10,11 +10,11 @@ sectors:
 subsectors:
 - Oil and Gas
 sources:
-- name: Bill
-  url: http://www.punjabassembly.nic.in/images/docs/Bill%20No.12-PLA-2021.pdf
-details:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/cities/chandigarh-news/punjab-assembly-passes-bill-to-levy-infrastructure-development-cess-on-petrol-diesel-101615406013198.html
+details:
+- name: Bill
+  url: http://www.punjabassembly.nic.in/images/docs/Bill%20No.12-PLA-2021.pdf
 is_analysis: false
 
 ---
