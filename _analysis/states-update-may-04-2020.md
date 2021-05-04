@@ -2,7 +2,7 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: May 04, 2020'
+title: 'States Update: May 04, 2021'
 date: 2021-05-04 04:00:00 +0000
 tags: []
 excerpt: 'Big News: Madhya Pradesh, Rajasthan, and Uttar Pradesh offer incentives
