@@ -12,7 +12,7 @@ excerpt: 'Big News: 24 states announce free vaccination for local residents aged
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
