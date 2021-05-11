@@ -12,7 +12,7 @@ excerpt: 'Big News: Madhya Pradesh, Rajasthan, and Uttar Pradesh offer incentive
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
