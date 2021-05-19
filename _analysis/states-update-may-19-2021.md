@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Tamil Nadu and Maharashtra offer incentives to encourage medical oxygen production; Tamil Nadu announces multiple measures to support micro, small, and medium enterprises; Punjab adds a new district; Puducherry revises electricity tariff for its consumers; and more.
