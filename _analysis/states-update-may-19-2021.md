@@ -66,6 +66,6 @@ Nothing critical to report this week
 
 **Center – State relations**
 
-## Union cabinet approves the production linked incentive scheme called “National Programme on Advanced Chemistry Cell Battery Storage.” The scheme will help in achieving manufacturing capacity of fifty-gigawatt hour of battery storage. Source: [Orissa Dairy](https://orissadiary.com/cabinet-approves-production-linked-incentive-scheme-national-programme-on-advanced-chemistry-cell-battery-storage/); In detail: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1717938)
+Union cabinet approves the production linked incentive scheme called “National Programme on Advanced Chemistry Cell Battery Storage.” The scheme will help in achieving manufacturing capacity of fifty-gigawatt hour of battery storage. **Source:** [Orissa Dairy](https://orissadiary.com/cabinet-approves-production-linked-incentive-scheme-national-programme-on-advanced-chemistry-cell-battery-storage/); **In detail:** [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1717938)
 
 The Ministry of New and Renewable Energy announced a timeline extension in the scheduled commissioning date (SCD) of renewable energy projects. Projects with SCD on or after 1 April, 2021 will be eligible. **Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/renewable/covid-19-mnre-grants-time-extension-in-commissioning-of-renewable-energy-projects/82574433); **In detail**: [Notification](https://mnre.gov.in/img/documents/uploads/file_f-1620889527386.pdf)
