@@ -11,7 +11,7 @@ excerpt: 'Big News: Nine states announce lockdown measures; Andhra Pradesh propo
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
