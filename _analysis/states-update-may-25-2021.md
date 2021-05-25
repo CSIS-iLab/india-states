@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Andhra Pradesh announces its budget for the financial year 2021-22; Uttar Pradesh, Andhra Pradesh, and Assam offer incentives to encourage medical oxygen production; Haryana issues guidelines for the development of solar parks; and more.
