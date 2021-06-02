@@ -11,7 +11,7 @@ excerpt: 'Big News:  Andhra Pradesh announces its budget for the financial year 
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
