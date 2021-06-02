@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Ministry of Power proposes a national mission on the use of biomass in coal-based thermal power plants; Punjab announces a reduction in electricity tariffs; Maharashtra allows revisions in contract demand for its commercial and industrial electricity consumers; and more.
