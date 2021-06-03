@@ -20,7 +20,7 @@ author:
 - Neelima Jain
 
 ---
-##### **Only one state prioritised health post-lockdown as India rushed to open economy, finds study**
+**Only one state prioritised health post-lockdown as India rushed to open economy, finds study**
 
 **In the fourth quarter of 2020, Indian states were preparing for a post-pandemic world, without improving the readiness for a future Covid-19 wave.**
 
