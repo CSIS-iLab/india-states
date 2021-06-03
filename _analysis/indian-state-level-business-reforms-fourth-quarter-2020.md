@@ -20,8 +20,6 @@ author:
 - Neelima Jain
 
 ---
-**Only one state prioritised health post-lockdown as India rushed to open economy, finds study**
-
 **In the fourth quarter of 2020, Indian states were preparing for a post-pandemic world, without improving the readiness for a future Covid-19 wave.**
 
 Following on the heels of [declining](https://urldefense.com/v3/__https:/www.sciencemag.org/news/2020/10/indias-covid-19-cases-have-declined-rapidly-herd-immunity-still-far-away-scientists-say__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1olxbTws0$) Covid-19 cases and [promising news](https://urldefense.com/v3/__https:/www.theguardian.com/world/2020/nov/09/covid-19-vaccine-candidate-effective-pfizer-biontech__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1ouiuKNlY$) about the vaccine in the fourth quarter of 2020, the Indian states exhibited urgency in liberalising business activity under pressure from the economy. States rushed to soften policies on land, labour, and liquidity, with little focus on strengthening public health safeguards. Of the 27 positive state-level reforms that [CSIS tracked](https://indianstates.csis.org/analysis/) in the fourth quarter, only [one](https://urldefense.com/v3/__https:/www.telegraphindia.com/jharkhand/jharkhand-notifies-workplace-policy-on-tuberculosis/cid/1801549__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oaefdW-4$) prioritised health. Seven states introduced processes to fast-track investments, three states relaxed labour laws, two states announced multiple incentives for micro and small-scale enterprises (MSME), and three states eased conversion of land use.
