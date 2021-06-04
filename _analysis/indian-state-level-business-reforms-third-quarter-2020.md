@@ -7,6 +7,7 @@ date: 2020-11-20T05:00:00.000+00:00
 tags:
 - States Quarterly
 - 'States Weekly Update '
+- Update on India's States
 excerpt: States follow Modi’s Atmanirbhar vision. Andhra, Gujarat’s new industrial
   policies show
 states: []
