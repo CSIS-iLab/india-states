@@ -5,7 +5,7 @@ content_type: analysis
 title: 'States Update: April 21, 2021'
 date: 2021-04-21 04:00:00 +0000
 tags:
-- Indian States Weekly
+- Update on India's States
 excerpt: 'Big News: States and union territories ease land related transactions despite
   the COVID-19 pandemic; Punjab announces ease of doing business measures for the
   micro, small, and medium enterprises; Telangana announces a rebate on the property
