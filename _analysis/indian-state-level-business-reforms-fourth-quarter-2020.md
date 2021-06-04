@@ -5,7 +5,6 @@ content_type: analysis
 title: Indian State-Level Business Reforms, Fourth Quarter 2020
 date: 2021-06-03 04:00:00 +0000
 tags:
-- States Quarterly
 - States Quarterly Updates
 excerpt: Only one state prioritised health post-lockdown as India rushed to open economy,
   finds study
