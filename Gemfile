@@ -17,7 +17,7 @@ versions = JSON.parse(open('https://pages.github.com/versions.json').read)
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 4.0"
-gem "algoliasearch", "1.6.1"
+gem "algoliasearch", "1.27.5"
 
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
