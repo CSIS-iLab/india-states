@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: June 02, 2021'
-date: 2021-06-02 04:00:00 +0000
+date: 2021-06-02T04:00:00.000+00:00
 tags: []
 excerpt: 'Big News:  Ministry of Power proposes a national mission on the use of biomass
   in coal-based thermal power plants; Punjab announces a reduction in electricity
@@ -12,7 +12,7 @@ excerpt: 'Big News:  Ministry of Power proposes a national mission on the use of
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
