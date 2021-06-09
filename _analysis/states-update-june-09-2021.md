@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Government of India notifies multiple production-linked incentive schemes; Gujarat launches its action plan for climate change; Kerala tops Sustainable Development Goals India Index; Punjab creates a special purpose vehicle for running multi-village water supply schemes; and more.
