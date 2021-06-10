@@ -10,11 +10,11 @@ feature_images:
     credit: Fisherwomen sort through a catch of fish on a beach. (NOAH SEELAM/AFP/Getty
       Images)
 size: '62,922'
-population: 49.7
-party_affiliation: Telugu Desam Party (TDP)
-legislative_seats: 175
-rajya_seats: 11
-lok_seats: 25
+population: "54"
+party_affiliation: Yuvajana Sramika Rythu Congress Party (YSRCP)
+legislative_seats: "175"
+rajya_seats: "11"
+lok_seats: "25"
 gdp: "$71.74"
 
 ---
