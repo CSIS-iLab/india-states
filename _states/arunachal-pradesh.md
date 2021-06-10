@@ -1,11 +1,11 @@
 ---
 title: Arunachal Pradesh
 size: '32,333'
-population: 1.4
-party_affiliation: Bharatiya Janata Party (BJP)
-legislative_seats: 60
-rajya_seats: 1
-lok_seats: 2
+population: "1.4"
+party_affiliation: Bharatiya Janata Party (BJP) & National People's Party (NPP)
+legislative_seats: "60"
+rajya_seats: "1"
+lok_seats: "2"
 gdp: "$2.09"
 feature_images:
   primary:
