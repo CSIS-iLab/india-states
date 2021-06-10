@@ -1,11 +1,11 @@
 ---
 title: Goa
 size: '1,429'
-population: 1.5
-party_affiliation: Bharatiya Janata Party (BJP) & Maharashtrawadi Gomantak Party (MGP)
-legislative_seats: 40
-rajya_seats: 1
-lok_seats: 2
+population: "1.5"
+party_affiliation: Bharatiya Janata Party (BJP)
+legislative_seats: "40"
+rajya_seats: "1"
+lok_seats: "2"
 gdp: "$7.56"
 feature_images:
   primary:
