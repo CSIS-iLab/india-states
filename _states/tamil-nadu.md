@@ -2,7 +2,7 @@
 title: Tamil Nadu
 size: '50,216'
 population: "72.1"
-party_affiliation: Dravida Munnetra Kazhagam (DMK)
+party_affiliation: 'Dravida Munnetra Kazhagam (DMK) '
 legislative_seats: "234"
 rajya_seats: "18"
 lok_seats: "39"
