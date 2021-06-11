@@ -60,3 +60,5 @@ fields:
   label: Breadcrumbs
   hidden: true
   default: states
+pages:
+- _states/union-territory-of-jammu-and-kashmir.md
