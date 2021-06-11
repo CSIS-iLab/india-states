@@ -15,7 +15,7 @@ party_affiliation: President's Rule
 legislative_seats: N/A
 rajya_seats: "0"
 lok_seats: "1"
-gdp: "(To be added)"
+gdp: 'Not available '
 published: false
 
 ---
