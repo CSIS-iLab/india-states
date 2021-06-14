@@ -1,7 +1,7 @@
 ---
 content_type: state
 breadcrumbs: states
-title: Andaman and Nicobar Islands
+title: Union Territory of the Andaman and Nicobar Islands
 feature_images:
   primary:
     image: ''
