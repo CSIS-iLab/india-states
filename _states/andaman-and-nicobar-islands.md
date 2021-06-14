@@ -10,7 +10,7 @@ feature_images:
     image: ''
     credit: ''
 size: "3185"
-population: "0.42"
+population: "379944"
 party_affiliation: N/A
 legislative_seats: N/A
 rajya_seats: "0"
