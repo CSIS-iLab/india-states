@@ -4,8 +4,10 @@ breadcrumbs: states
 title: Union Territory of Lakshadweep
 feature_images:
   primary:
-    image: ''
-    credit: ''
+    image: "/uploads/gettyimages-908746598.jpg"
+    credit: Artists from Lakshadweep perform during a press preview of floats participating
+      in the forthcoming Republic Day parade in New Delhi on January 22, 2018. (SAJJAD
+      HUSSAIN/AFP via Getty Images)
   secondary:
     image: ''
     credit: ''
