@@ -18,7 +18,6 @@ legislative_seats: N/A
 rajya_seats: N/A
 lok_seats: "1"
 gdp: 60 million
-published: false
 
 ---
 Lakshadweep is a union territory consisting of an archipelago of 36 islands in the Arabian Sea, off the coast of Kerala. Agriculture remains the main economic activity, with the islands being famous for coconut and coconut fiber production. Fishing is a main source of livelihood for the island’s residents, though tourism is also becoming popular. In 2005, a low-temperature thermal desalination plant was opened in the capital, Kavaratti. It produces around 100,000 liters of potable water from seawater. The plant is also used for power generation. The National Institute of Ocean Technology plans to open three more desalination plants in the future.
