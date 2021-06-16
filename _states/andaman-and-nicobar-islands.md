@@ -8,8 +8,10 @@ feature_images:
     credit: Boat Island in the Andaman Islands, a remote Indian archipelago in the
       Bay of Bengal. (Photo by Hari KUMAR / AFP via Getty Images)
   secondary:
-    image: ''
-    credit: ''
+    image: "/uploads/gettyimages-76545667.jpg"
+    credit: A group of Indian tourists cross a narrow water channel as others enjoy
+      a sea view in Port Blair, 06 September 2007. (DESHAKALYAN CHOWDHURY/AFP via
+      Getty Images)
 size: "3185"
 population: "379944"
 party_affiliation: N/A
@@ -17,7 +19,6 @@ legislative_seats: N/A
 rajya_seats: "0"
 lok_seats: "1"
 gdp: "1.2"
-published: false
 
 ---
 The Andaman and Nicobar (A&N) Islands are a union territory comprising of 836 islands, 38 of which are inhabited. The two group of islands are in the Bay of Bengal, separated from Thailand and Myanmar by the Andaman Sea. The islands are also closely located to Indonesia.
