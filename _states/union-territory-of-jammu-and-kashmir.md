@@ -8,8 +8,10 @@ feature_images:
     credit: A Kashmiri boatman stands on his boat as he waits for customers in the
       Dal lake in Srinagar on June 26, 2019. (Tauseef MUSTAFA / AFP via Getty Images)
   secondary:
-    image: ''
-    credit: ''
+    image: "/uploads/gettyimages-2782121.jpg"
+    credit: Indian soldiers patrol along a barbed-wire fence, 04 December 2003, near
+      Baras Post on the Line of Control (LoC) between Pakistan and India some 174
+      kilometers north west of Srinagar. (SAJJAD HUSSAIN/AFP via Getty Images)
 size: '16,309'
 population: "13.6"
 party_affiliation: President's Rule
