@@ -9,8 +9,8 @@ feature_images:
       in the forthcoming Republic Day parade in New Delhi on January 22, 2018. (SAJJAD
       HUSSAIN/AFP via Getty Images)
   secondary:
-    image: ''
-    credit: ''
+    image: "/uploads/5799681703_57b8703f24_k.jpg"
+    credit: Coconut on the Tideline. (Mike Prince via Flickr)
 size: "12.6"
 population: "64429"
 party_affiliation: N/A
