@@ -4,8 +4,10 @@ breadcrumbs: states
 title: Union Territory of Ladakh
 feature_images:
   primary:
-    image: ''
-    credit: ''
+    image: "/uploads/gettyimages-75548448.jpg"
+    credit: 'Shey, INDIA: Buddhist nuns perform a rarely performed religious dance
+      called Nga Chham, outside The Naro Photang Puspahari temple in Shey, Some 15
+      kilometers south of Leh, 19 July 2007. (MANPREET ROMANA/AFP via Getty Images)'
   secondary:
     image: ''
     credit: ''
