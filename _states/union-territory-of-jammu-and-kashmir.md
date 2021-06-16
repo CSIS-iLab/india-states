@@ -4,8 +4,9 @@ breadcrumbs: states
 title: Union Territory of Jammu and Kashmir
 feature_images:
   primary:
-    image: ''
-    credit: ''
+    image: "/uploads/gettyimages-1152052876.jpg"
+    credit: A Kashmiri boatman stands on his boat as he waits for customers in the
+      Dal lake in Srinagar on June 26, 2019. (Tauseef MUSTAFA / AFP via Getty Images)
   secondary:
     image: ''
     credit: ''
