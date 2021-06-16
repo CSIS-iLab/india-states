@@ -4,8 +4,9 @@ breadcrumbs: states
 title: Union Territory of the Andaman and Nicobar Islands
 feature_images:
   primary:
-    image: ''
-    credit: ''
+    image: "/uploads/gettyimages-1064037894.jpg"
+    credit: Boat Island in the Andaman Islands, a remote Indian archipelago in the
+      Bay of Bengal. (Photo by Hari KUMAR / AFP via Getty Images)
   secondary:
     image: ''
     credit: ''
