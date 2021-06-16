@@ -9,8 +9,10 @@ feature_images:
       called Nga Chham, outside The Naro Photang Puspahari temple in Shey, Some 15
       kilometers south of Leh, 19 July 2007. (MANPREET ROMANA/AFP via Getty Images)'
   secondary:
-    image: ''
-    credit: ''
+    image: "/uploads/gettyimages-1223096716.jpg"
+    credit: An Indian Air Force aircraft is seen against the backdrop of mountains
+      surrounding Leh, the joint capital of the union territory of Ladakh, on June
+      27, 2020. (TAUSEEF MUSTAFA/AFP via Getty Images)
 size: '22,836'
 population: '289,000'
 party_affiliation: President's Rule
