@@ -13,7 +13,7 @@ excerpt: 'Big News: Government of India notifies multiple production-linked ince
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
