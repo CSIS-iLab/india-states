@@ -12,7 +12,7 @@ feature_images:
     image: "/uploads/5799681703_57b8703f24_k.jpg"
     credit: Coconut on the Tideline. (Mike Prince via Flickr)
 size: "12.6"
-population: "64429"
+population: "0.06"
 party_affiliation: N/A
 legislative_seats: N/A
 rajya_seats: N/A
