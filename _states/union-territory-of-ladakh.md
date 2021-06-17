@@ -14,7 +14,7 @@ feature_images:
       surrounding Leh, the joint capital of the union territory of Ladakh, on June
       27, 2020. (TAUSEEF MUSTAFA/AFP via Getty Images)
 size: '22,836'
-population: '289,000'
+population: "0.3"
 party_affiliation: President's Rule
 legislative_seats: N/A
 rajya_seats: "0"
