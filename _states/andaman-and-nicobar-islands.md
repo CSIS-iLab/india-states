@@ -13,7 +13,7 @@ feature_images:
       a sea view in Port Blair, 06 September 2007. (DESHAKALYAN CHOWDHURY/AFP via
       Getty Images)
 size: "3185"
-population: "379944"
+population: ".38"
 party_affiliation: N/A
 legislative_seats: N/A
 rajya_seats: "0"
