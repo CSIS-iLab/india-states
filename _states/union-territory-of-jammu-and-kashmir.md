@@ -1,7 +1,7 @@
 ---
 content_type: state
 breadcrumbs: states
-title: Union Territory of Jammu and Kashmir
+title: Jammu and Kashmir
 feature_images:
   primary:
     image: "/uploads/gettyimages-1152052876.jpg"
