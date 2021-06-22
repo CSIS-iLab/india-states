@@ -17,7 +17,7 @@ layout: default
         <ul class="statesLanding-statesList">
           {% for state in site.states limit: listLimit %}
             <li>
-              <a href='/states{{ state.title | slugify | relative_url }}' class="stateLink" data-state="{{ state.title | slugify }}">{{ state.title | escape }}</a>
+              <a href='{{ state.id | relative_url}}' class="stateLink" data-state="{{ state.title | slugify }}">{{ state.title | escape }}</a>
             </li>
           {% endfor %}
         </ul>
@@ -26,7 +26,7 @@ layout: default
         <ul class="statesLanding-statesList">
           {% for state in site.states offset: listLimit %}
             <li>
-              <a href='/states{{ state.title | slugify | relative_url }}' class="stateLink" data-state="{{ state.title | slugify }}">{{ state.title | escape }}</a>
+              <a href='{{ state.id | relative_url}}' class="stateLink" data-state="{{ state.title | slugify }}">{{ state.title | escape }}</a>
             </li>
           {% endfor %}
         </ul>
