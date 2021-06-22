@@ -21,7 +21,7 @@ const StatesLanding = () => {
     )
 
     // Hover on map
-    $('#map path, #map g')
+    $('#map path, #map g, #map polygon')
       .not($('.nolink'))
       .hover(
         function() {
@@ -37,7 +37,7 @@ const StatesLanding = () => {
       )
 
     // Inactive States
-    $('#map path.nolink, #map g.nolink, #map polygon').hover(
+    $('#map path.nolink, #map g.nolink').hover(
       function(e) {
         let x = e.clientX + 20 + 'px',
           y = e.clientY + 20 + 'px'
@@ -60,7 +60,7 @@ const StatesLanding = () => {
     )
 
     // Click on map and go to state page
-    $('#map path, #map g')
+    $('#map path, #map g, #map polygon')
       .not($('.nolink'))
       .click(function() {
         let stateID = $(this).attr('id')
