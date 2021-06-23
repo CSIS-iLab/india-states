@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: June 16, 2021'
-date: 2021-06-16 04:00:00 +0000
+date: 2021-06-16T04:00:00.000+00:00
 tags:
 - 'States Weekly '
 excerpt: 'Big News: Ministry of Power proposes a mechanism to bring down the cost
@@ -13,7 +13,7 @@ excerpt: 'Big News: Ministry of Power proposes a mechanism to bring down the cos
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
