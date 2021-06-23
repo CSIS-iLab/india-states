@@ -4,7 +4,8 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: June 23,2021'
 date: 2021-06-23 04:00:00 +0000
-tags: []
+tags:
+- 'States Weekly '
 excerpt: 'Big News: Delhi approves a single window clearance system for electric vehicle
   charging points; Bihar announces a loan scheme to encourage setting up new businesses;
   Rajasthan reduces the value added tax on diesel for the mining sector; Punjab approves
@@ -19,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Delhi approves a single window clearance system for electric vehicle charging points; Bihar announces a loan scheme to encourage setting up new businesses; Rajasthan reduces the value added tax on diesel for the mining sector; Punjab approves a policy for compensatory afforestation; and more.
