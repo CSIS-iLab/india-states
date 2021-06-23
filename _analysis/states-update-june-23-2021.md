@@ -42,7 +42,7 @@ Nothing critical to report this week
 
 **Climate Change**
 
-**Punjab** approves a policy for compensatory afforestation. The policy aims to balance economic and environmental priorities by compensating for deforestation through afforestation on non forest land. **Source**: [Orissa Diary](https://orissadiary.com/punjab-cabinet-gives-green-signal-policy-for-compensatory-afforestation/); **In detail**: [Chief Minister Office’s Tweet](https://twitter.com/CMOPb/status/1405878033894969360?s=20)
+**Punjab** cabinet approves a policy for compensatory afforestation. The policy aims to balance economic and environmental priorities by compensating for deforestation through afforestation on non forest land. **Source**: [Orissa Diary](https://orissadiary.com/punjab-cabinet-gives-green-signal-policy-for-compensatory-afforestation/); **In detail**: [Chief Minister Office’s Tweet](https://twitter.com/CMOPb/status/1405878033894969360?s=20)
 
 **Oil & Gas**
 
