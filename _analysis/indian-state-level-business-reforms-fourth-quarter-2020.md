@@ -86,6 +86,4 @@ States were aggressive in acting on routine short-sighted measures, and cautious
 
 * Uttar Pradesh [rejects](https://urldefense.com/v3/__https:/www.hindustantimes.com/lucknow/diwali-cheer-no-power-tarrif-hike-slabs-unchanged-in-uttar-pradesh/story-HZKyRMNnMhV0Anp3KHagIJ.html__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1owSEKhow$) a hike in electricity tariff
 * Uttar Pradesh [rolls back](https://urldefense.com/v3/__https:/www.business-standard.com/article/economy-policy/up-govt-rolls-back-decision-to-privatise-power-distribution-companies-120100601627_1.html__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oijKayTM$) its decision to privatize one of its five power distribution companies
-
-
 * Jharkhand [rejects](https://urldefense.com/v3/__https:/www.telegraphindia.com/jharkhand/no-increase-in-power-tariffs-rules-state-regulator/cid/1793675__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oORwmKFc$) the state discom’s plea to raise electricity tariffs.
