@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Indian states prepare for a post-pandemic world without improving the readiness for future waves**
@@ -49,7 +48,6 @@ States were aggressive in acting on routine short-sighted measures, and cautious
 * Kerala [launches](https://urldefense.com/v3/__https:/www.newindianexpress.com/cities/thiruvananthapuram/2020/sep/30/ease-of-doing-business-kerala-govt-launches-kswift-20-2203703.html__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oEr1mz3w$) an online single-window clearance system for setting up businesses in the state
 * [Odisha](https://urldefense.com/v3/__https:/thelogicalindian.com/good-governance/odisha-govt-msme-package-25518__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1odvIamc8$) and [Tamil Nadu](https://urldefense.com/v3/__https:/timesofindia.indiatimes.com/city/chennai/tamil-nadu-announces-stamp-duty-and-registration-fee-relaxations-for-msmes/articleshow/79065094.cms__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oDwspuGI$) announce a slew of incentives for MSME
 * [Rajasthan](https://urldefense.com/v3/__https:/www.dnaindia.com/india/report-after-punjab-rajasthan-becomes-second-state-to-introduce-bills-to-counteract-impact-of-centre-s-farm-laws-2853505__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oH24KgNQ$), [Chhattisgarh](https://urldefense.com/v3/__https:/timesofindia.indiatimes.com/india/chhattisgarh-assembly-passes-bill-to-ensure-msp-protect-farmers/articleshow/78903104.cms__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oVvsNj3g$), [Punjab](https://urldefense.com/v3/__https:/www.tribuneindia.com/news/punjab/punjab-passes-bills-to-bypass-central-farm-laws-158659__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oogIFm2A$), and [Kerala](https://urldefense.com/v3/__https:/www.barandbench.com/news/law-policy/kerala-assembly-passes-unanimous-resolution-against-three-farm-laws-lone-bjp-mla-o-rajagopal-does-not-oppose__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oKRntLqU$) pass bills to bypass the farm laws.
-* 
 
 **Land and labour regulations**
 
@@ -58,7 +56,6 @@ States were aggressive in acting on routine short-sighted measures, and cautious
 * Punjab [allows](https://urldefense.com/v3/__https:/www.tribuneindia.com/news/punjab/punjab-to-amend-inter-state-migrant-rules-to-avail-2-pc-additional-borrowings-172213__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oCaJTFdI$) industries the provision of automatic renewals under the state’s labor laws
 * Tamil Nadu [allows](https://urldefense.com/v3/__https:/www.thehindu.com/news/national/tamil-nadu/industrial-units-can-now-buy-land-irrespective-of-violation-by-seller/article32999666.ece__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oCEpgxMw$) industries to acquire land despite any violations by the seller of the Tamil Nadu Land Reforms (Fixation of Ceiling on Land) Act, 1961
 * [Gujarat ](https://urldefense.com/v3/__https:/timesofindia.indiatimes.com/city/ahmedabad/state-to-permit-realtors-buy-agri-land-for-affordable-housing/articleshow/78726885.cms__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1o4hDgCV4$)and [Punjab](https://urldefense.com/v3/__https:/www.outlookindia.com/newsscroll/punjab-cm-okays-industrial-development-in-agricultural-mixeduse-land/1961116__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1o6xof5Zk$) allow industrial development on agricultural land.
-* 
 
 **Infrastructure**
 
