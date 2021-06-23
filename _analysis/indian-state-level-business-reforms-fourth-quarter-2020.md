@@ -18,10 +18,9 @@ sources: []
 details: []
 author:
 - Neelima Jain
+published: false
 
 ---
-[**Indian State-Level Business Reforms, Fourth Quarter 2020**](https://indianstates.csis.org/analysis/indian-state-level-business-reforms-fourth-quarter-2020/)
-
 **Indian states prepare for a post-pandemic world without improving the readiness for future waves**
 
 Following on the heels of [declining](https://urldefense.com/v3/__https:/www.sciencemag.org/news/2020/10/indias-covid-19-cases-have-declined-rapidly-herd-immunity-still-far-away-scientists-say__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1olxbTws0$) Covid-19 cases and [promising news](https://urldefense.com/v3/__https:/www.theguardian.com/world/2020/nov/09/covid-19-vaccine-candidate-effective-pfizer-biontech__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1ouiuKNlY$) about the vaccine, Indian states exhibited urgency in liberalizing business activity in the fourth quarter of 2020. States rushed to soften policies on land, labor, and liquidity, with little focus on strengthening public health safeguards. Of the 27 positive state-level reforms that [CSIS tracked](https://indianstates.csis.org/analysis/) in the fourth quarter, only [one](https://urldefense.com/v3/__https:/www.telegraphindia.com/jharkhand/jharkhand-notifies-workplace-policy-on-tuberculosis/cid/1801549__;!!KRhing!PRalafdKV2hs6QYOkh0mg6S5r6oGABTK158KrRQ9g02LZGGjPk1oaefdW-4$) prioritized health. Seven states introduced processes to fast-track investments, three states relaxed labor laws, two states announced multiple incentives for micro and small-scale enterprises (MSME), and three states eased conversion of land use.
