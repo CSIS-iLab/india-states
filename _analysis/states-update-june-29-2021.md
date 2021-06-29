@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Government of India proposes amendments to e-commerce rules; Gujarat releases its electric vehicle policy; Assam looks to increase land compensation for oil exploration companies; Mizoram secures a loan for improving health services; and more.
