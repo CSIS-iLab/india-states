@@ -20,6 +20,8 @@ feature_images:
 ---
 Odisha struggles with significant challenges, including a difficult neighborhood, persistent left-wing violence, and interior districts that are some of the poorest and most isolated in India. The state government, led by the Biju Janata Dal, has largely responded with populist measures that have won it unusual stability in office.  Odisha was an early adopter of power sector reforms; more recently its capital, Bhubaneswar, was the first ranked “Smart City” in the country.  Paired with relative political stability, Odisha’s stature as an investment destination is rising.
 
+**State Policies**
+
 Solar Policy: [Odisha Solar Policy (2013)](http://www.cbip.org/policies2019/PD_07_Dec_2018_Policies/Orissa/1-Solar/2%20Order%20Odisha-Solar-Power-Policy.pdf), [Renewable Energy Policy (2016)](https://investodisha.gov.in/download/Renewable-Energy-Policy-2016.pdf)
 
 Micro, Small & Medium Enterprises (MSME) Policy: [MSME Development Policy (2016)](http://www.msmeodisha.gov.in/PDF/FINALbyDI(O)-Odisha_MSME_Dev._Policy.pdf)
