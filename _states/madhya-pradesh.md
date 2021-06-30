@@ -23,4 +23,4 @@ Madhya Pradesh, India’s second largest state by area, is seeking to build a re
 * Solar Policy: [Policy for Implementation of Solar Based Projects (2012)](http://www.mprenewable.nic.in/solarp.pdf)
 * Micro, Small & Medium Enterprises (MSME) Policy: [MSME Development Policy (2019)](https://mpmsme.gov.in/mpmsmecms/Uploaded%20Document/Documents/MP_MSMED_Policy_2019_Eng%20-%20Copy%201.pdf)
 * Electric Mobility Policy: [Electric Vehicle Policy (2019)](http://mpurban.gov.in/Uploaded%20Document/guidelines/1-MPEVP2019.pdf)
-* Industry Policy: [Industrial Promotion Policy and Action Plan (2014)](http://www.mpakvnbhopal.nic.in/PDF/Industrial_Promotion_Policy_2014_English.pdf) 
+* Industry Policy: [Industrial Promotion Policy and Action Plan (2014)](http://www.mpakvnbhopal.nic.in/PDF/Industrial_Promotion_Policy_2014_English.pdf)
