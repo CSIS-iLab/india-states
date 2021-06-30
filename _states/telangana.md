@@ -20,6 +20,8 @@ feature_images:
 ---
 The 29th and newest state in India, Telangana was birthed from the division of Andhra Pradesh into two states in 2014. Its capital Hyderabad is home to one of India's largest IT hubs, with large technology firms such as Google, Facebook, Microsoft, etc. based there. Competition between Telangana and Andhra Pradesh for investment has led the Telangana government to take the lead in e-governance and promotion of startups.
 
+**State Policies**
+
 Solar policy: [Solar Power Policy Framework (2015)](http://industries.telangana.gov.in/Library/TS%20Solar%20Policy.pdf)
 
 Electric Mobility Policy: [Electric Vehicle and Energy Storage Policy (2020)](https://tsredco.telangana.gov.in/Updates_2020/Telangana_EVES_policy_2020_30.pdf)
