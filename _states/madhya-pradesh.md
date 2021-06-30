@@ -20,6 +20,8 @@ feature_images:
 ---
 Madhya Pradesh, India’s second largest state by area, is seeking to build a reputation as one of the country’s most dynamic states despite the steep challenges presented by a poor, largely agrarian and rural population. Fifteen years of stable government has allowed the continuous build out of infrastructure improving transportation and electricity connectivity to remote corners in the state.  As the largest producer of agricultural products in the country, the state seeks to add value to this sector by building out agri-business and food processing industries.  Major urban centers in the state are also home to pharmaceutical, information technology, automobile, defense, and textile industries.
 
+**State Policies**
+
 Solar Policy: [Policy for Implementation of Solar Based Projects (2012)](http://www.mprenewable.nic.in/solarp.pdf)
 
 Micro, Small & Medium Enterprises (MSME) Policy: [MSME Development Policy (2019)](https://mpmsme.gov.in/mpmsmecms/Uploaded%20Document/Documents/MP_MSMED_Policy_2019_Eng%20-%20Copy%201.pdf)
