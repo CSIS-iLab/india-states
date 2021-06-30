@@ -20,6 +20,8 @@ feature_images:
 ---
 Karnataka–and particularly its capital, Bangalore–shot to prominence in the 1990s as the home of India’s burgeoning IT industry. While Bangalore now faces steeper competition for the title of India’s “Silicon Valley,” it is still one of the most important destinations for foreign and domestic investment in India. Coupled with the successful establishment of aerospace and biotech industries in the state, Karnataka has emerged as a top knowledge, research and innovation hub in Asia. However, periods of leading and lagging on reforms are the state’s main impediments to delivering on the development promises to its citizens.
 
+**State Policies**
+
 Solar Policy: [Solar Policy (2014-2021)](https://kredlinfo.in/solargrid/Solar%20Policy%202014-2021.pdf)
 
 Electric Mobility Policy: [Electric Vehicle and Energy Storage Policy (2017)](https://kum.karnataka.gov.in/KUM/PDFS/KEVESPPolicyInsidepagesfinal.pdf)
