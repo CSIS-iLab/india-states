@@ -21,7 +21,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Andhra Pradesh approves a new information technology policy; Uttarakhand gets a new chief minister; Finance Ministry announces $84.9 billion Covid-19 relief package; cabinet approves a new power sector reform scheme; Wholesale and retail trades are reintroduced in micro, small, and medium enterprises definition; and more
@@ -64,32 +63,12 @@ Pushkar Singh Dhami is sworn in as the 11th chief minister (CM) of Uttarakhand. 
 
 **Center – State relations**
 
-India’s cabinet approves a new power sector reform scheme with an outlay of $40.2 billion. The scheme provides conditional financial assistance to power distribution companies for improving their supply infrastructure.
+India’s cabinet approves a new power sector reform scheme with an outlay of $40.2 billion. The scheme provides conditional financial assistance to power distribution companies for improving their supply infrastructure. **Source**: [Daily Pioneer](https://www.dailypioneer.com/2021/state-editions/fresh-reform-package-for-power-distribution-sector.html); **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1731473)
 
-**Source**: [Daily Pioneer](https://www.dailypioneer.com/2021/state-editions/fresh-reform-package-for-power-distribution-sector.html)
+Union government reverses its four-year-old decision of excluding retail and wholesale trades from the definition of micro, small, and medium enterprises (MSMEs). Wholesale and retail MSMEs can now avail benefits from banks under priority sector lending and the special liquidity scheme. **Source**: [Times of India](https://timesofindia.indiatimes.com/business/india-business/govt-brings-retail-wholesale-trade-under-msme/articleshow/84082743.cms); **In detail**: [Press release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1730963)
 
-**In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1731473)
+Finance Ministry has announced an $84.9 billion relief package for sectors affected by the Covid-19 pandemic. Relief measures include a $14.7 billion credit guarantee scheme for improving health infrastructure and a 50 percent increase in the limit under the emergency credit line guarantee scheme. **Source**: [The Print](https://theprint.in/economy/fm-sitharaman-raises-loan-guarantee-scheme-limit-to-rs-4-5-lakh-crore/686004/); **In detail**: [Press Release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1730963)
 
-Union government reverses its four-year-old decision of excluding retail and wholesale trades from the definition of micro, small, and medium enterprises (MSMEs). Wholesale and retail MSMEs can now avail benefits from banks under priority sector lending and the special liquidity scheme.
+Cabinet approves viability gap funding support of up to $2.55 billion for the implementation of BharatNet in 16 Indian states. BharatNet aims to provide rural areas with better access to e-services. **Source**: [The Hindu](https://www.thehindu.com/business/Industry/cabinet-approves-19041-crore-viability-gap-funding-for-bharatnet-in-16-states/article35055840.ece); **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1731456)
 
-**Source**: [Times of India](https://timesofindia.indiatimes.com/business/india-business/govt-brings-retail-wholesale-trade-under-msme/articleshow/84082743.cms)
-
-**In detail**: [Press release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1730963)
-
-Finance Ministry has announced an $84.9 billion relief package for sectors affected by the Covid-19 pandemic. Relief measures include a $14.7 billion credit guarantee scheme for improving health infrastructure and a 50 percent increase in the limit under the emergency credit line guarantee scheme.
-
-**Source**: [The Print](https://theprint.in/economy/fm-sitharaman-raises-loan-guarantee-scheme-limit-to-rs-4-5-lakh-crore/686004/)
-
-**In detail**: [Press Release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1730963)
-
-Cabinet approves viability gap funding support of up to $2.55 billion for the implementation of BharatNet in 16 Indian states. BharatNet aims to provide rural areas with better access to e-services.
-
-**Source**: [The Hindu](https://www.thehindu.com/business/Industry/cabinet-approves-19041-crore-viability-gap-funding-for-bharatnet-in-16-states/article35055840.ece)
-
-**In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1731456)
-
-Ministry of Power issues an amendment to the Electricity (Rights of Consumers), 2020 Rules concerning net metering for rooftop solar installations. The amendment permits net metering for loads up to 500 kilowatts or up to the sanctioned load, whichever is lower.
-
-**Source**: [Mercom](https://mercomindia.com/government-approves-net-metering-rooftop-solar/)
-
-**In detail**: [Notice](https://powermin.gov.in/sites/default/files/webform/notices/Electricity_Rights_of_Consumers_Amendment_Rule_2021.pdf)
+Ministry of Power issues an amendment to the Electricity (Rights of Consumers), 2020 Rules concerning net metering for rooftop solar installations. The amendment permits net metering for loads up to 500 kilowatts or up to the sanctioned load, whichever is lower. **Source**: [Mercom](https://mercomindia.com/government-approves-net-metering-rooftop-solar/); **In detail**: [Notice](https://powermin.gov.in/sites/default/files/webform/notices/Electricity_Rights_of_Consumers_Amendment_Rule_2021.pdf)
