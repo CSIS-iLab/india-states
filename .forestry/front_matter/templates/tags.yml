@@ -1,0 +1,9 @@
+---
+label: Tags
+hide_body: true
+fields:
+- name: tags
+  type: text
+  config:
+    required: false
+  label: Tags
