@@ -1,6 +1,4 @@
 ---
-content_type: state
-breadcrumbs: states
 title: Union Territory of Ladakh
 feature_images:
   primary:
