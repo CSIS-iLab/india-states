@@ -21,7 +21,6 @@ fields:
     - Gujarat
     - Haryana
     - Himachal Pradesh
-    - Jammu and Kashmir
     - Jharkhand
     - Karnataka
     - Kerala
@@ -39,8 +38,12 @@ fields:
     - Tamil Nadu
     - Telangana
     - Tripura
-    - Uttar Pradesh
     - Uttarakhand
+    - Uttar Pradesh
+    - Union Territory of Jammu and Kashmir
+    - Union Territory of Ladakh
+    - Union Territory of Lakshadweep
+    - Union Territory of the Andaman and Nicobar Islands
     - West Bengal
 - type: list
   name: sectors
