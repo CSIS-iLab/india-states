@@ -70,3 +70,5 @@ fields:
     max: 
     labelField: 
   label: Resource Section
+pages:
+- _resources/solar-performance-tracker.md
