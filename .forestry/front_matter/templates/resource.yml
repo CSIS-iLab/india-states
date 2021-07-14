@@ -16,3 +16,37 @@ fields:
   label: Content Type
   hidden: true
   default: resource
+- name: resource_heading
+  type: field_group
+  config: {}
+  fields:
+  - name: title
+    type: text
+    config:
+      required: false
+    label: Title
+  - name: link
+    type: text
+    config:
+      required: false
+    label: Link
+  - name: author
+    type: text
+    config:
+      required: false
+    label: Author
+  - name: date
+    type: text
+    config:
+      required: false
+    label: Date
+  - name: summary
+    type: textarea
+    default: ''
+    config:
+      required: false
+      wysiwyg: false
+      schema:
+        format: markdown
+    label: Summary
+  label: 'Resource Heading '
