@@ -16,41 +16,57 @@ fields:
   label: Content Type
   hidden: true
   default: resource
-- name: resource_heading
+- name: resource_section
   type: field_group_list
   fields:
-  - name: title
+  - name: section_heading
     type: text
     config:
       required: false
-    label: Title
-  - name: link
-    type: text
+    label: Section Heading
+  - name: resource_details
+    type: field_group_list
+    fields:
+    - name: name
+      type: text
+      config:
+        required: false
+      label: Name
+    - name: link
+      type: text
+      config:
+        required: false
+      label: Link
+    - name: author
+      type: text
+      config:
+        required: false
+      label: Author
+    - name: date
+      type: datetime
+      label: Date
+      description: ''
+      config:
+        required: false
+        date_format: 
+        time_format: 
+        display_utc: false
+    - name: summary
+      type: textarea
+      default: ''
+      config:
+        required: false
+        wysiwyg: false
+        schema:
+          format: markdown
+      label: Summary
     config:
-      required: false
-    label: Link
-  - name: date
-    type: datetime
-    label: Date
-    description: ''
-    config:
-      required: false
-      date_format: 
-      time_format: 
-      display_utc: false
-  - name: summary
-    type: textarea
-    default: ''
-    config:
-      required: false
-      wysiwyg: false
-      schema:
-        format: markdown
-    label: Summary
+      min: 
+      max: 
+      labelField: 
+    label: Resource Details
   config:
     min: 
     max: 
     labelField: 
-  label: Resource Heading
-pages:
-- _resources/resources-sections.md
+  label: Resource Section
