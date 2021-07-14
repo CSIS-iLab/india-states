@@ -17,8 +17,7 @@ fields:
   hidden: true
   default: resource
 - name: resource_heading
-  type: field_group
-  config: {}
+  type: field_group_list
   fields:
   - name: title
     type: text
@@ -30,11 +29,6 @@ fields:
     config:
       required: false
     label: Link
-  - name: author
-    type: text
-    config:
-      required: false
-    label: Author
   - name: date
     type: datetime
     label: Date
@@ -53,4 +47,8 @@ fields:
       schema:
         format: markdown
     label: Summary
-  label: 'Resource Heading '
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Resource Heading
