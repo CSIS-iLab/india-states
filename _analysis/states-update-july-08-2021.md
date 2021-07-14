@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: July 08,2021'
-date: 2021-07-08 04:00:00 +0000
+date: 2021-07-08T04:00:00.000+00:00
 tags:
 - States Weekly
 excerpt: 'Big News: Andhra Pradesh approves a new information technology policy; Uttarakhand
@@ -14,7 +14,7 @@ excerpt: 'Big News: Andhra Pradesh approves a new information technology policy;
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
