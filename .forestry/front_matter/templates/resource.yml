@@ -52,3 +52,5 @@ fields:
     max: 
     labelField: 
   label: Resource Heading
+pages:
+- _resources/resources-sections.md
