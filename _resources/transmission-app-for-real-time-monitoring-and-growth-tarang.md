@@ -1,6 +1,6 @@
 ---
 title: Transmission App for Real Time Monitoring and Growth (TARANG)
-type: National Performance Goal Trackers
+type: Websites
 link: http://www.tarang.website/home
 
 ---
