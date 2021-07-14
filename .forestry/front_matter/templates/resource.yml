@@ -36,10 +36,14 @@ fields:
       required: false
     label: Author
   - name: date
-    type: text
+    type: datetime
+    label: Date
+    description: ''
     config:
       required: false
-    label: Date
+      date_format: 
+      time_format: 
+      display_utc: false
   - name: summary
     type: textarea
     default: ''
