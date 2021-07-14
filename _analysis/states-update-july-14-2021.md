@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** West Bengal announces its budget for the financial year 2021-22; Uttar Pradesh drafts a bill for population control. Jharkhand cabinet approves its new industrial policy; Telangana notifies its smart grid regulations; and more.
