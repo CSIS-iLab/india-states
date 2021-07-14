@@ -16,5 +16,28 @@ fields:
   label: Content Type
   hidden: true
   default: resource
+- name: date
+  type: datetime
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Date
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Summary
 pages:
 - _resources/solar-performance-tracker.md
