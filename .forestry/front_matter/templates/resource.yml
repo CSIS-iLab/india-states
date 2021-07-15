@@ -39,5 +39,3 @@ fields:
     schema:
       format: markdown
   label: Summary
-pages:
-- _resources/solar-performance-tracker.md
