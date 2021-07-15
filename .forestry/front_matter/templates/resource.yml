@@ -41,5 +41,6 @@ fields:
       format: markdown
   label: Summary
 pages:
+- _resources/impact-assessment-of-the-national-solar-pumps-programme.md
 - _resources/india-energy-outlook-2021.md
 - _resources/rooftop-solar-development-in-india-measuring-policies-and-mapping-business-models.md
