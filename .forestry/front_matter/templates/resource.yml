@@ -41,6 +41,7 @@ fields:
       format: markdown
   label: Summary
 pages:
+- _resources/electric-vehicle-guidebook-for-indian-states.md
 - _resources/fast-tracking-freight-in-india-a-roadmap-for-clean-and-cost-effective-goods-transport.md
 - _resources/impact-assessment-of-the-national-solar-pumps-programme.md
 - _resources/india-energy-outlook-2021.md
