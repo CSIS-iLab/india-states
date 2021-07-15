@@ -8,6 +8,5 @@ author: International Energy Agency
 summary: 'A deep dive into India''s energy choices and pathways for the future, especially
   after the Covid-19 pandemic. The report also looks at various possible scenarios
   for India’s energy sector by 2040. '
-published: false
 
 ---
