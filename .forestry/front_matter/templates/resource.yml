@@ -39,3 +39,5 @@ fields:
     schema:
       format: markdown
   label: Summary
+pages:
+- _resources/india-energy-outlook-2021.md
