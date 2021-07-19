@@ -10,5 +10,6 @@ summary: 'This paper examines the challenges of expanding access to affordable e
   for rural households by looking at subsidies and existing tariff policies in Uttar
   Pradesh, India. The report looks at data on consumer attitudes, level of satisfaction,
   and affordability, especially in rural areas of Uttar Pradesh. '
+posted_on: January 2021
 
 ---

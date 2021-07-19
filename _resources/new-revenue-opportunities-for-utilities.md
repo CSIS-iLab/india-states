@@ -4,7 +4,6 @@ type: Electricity
 title: New Revenue Opportunities for Utilities
 link: https://indiasmartgrid.org/reports/000000_ISGF White Paper New Revenue Opportunities
   for Utilities_13 April 2021.pdf
-date: April 2021
 author: India Smart Grid Forum
 summary: 'This report proposes that a large section of customers for solar panels
   and batteries can generate, store, and consume their own electricity. The report
@@ -12,5 +11,6 @@ summary: 'This report proposes that a large section of customers for solar panel
   It proposes the use of digitization in the power sector and unlocking new business
   areas, like selling and promoting energy efficient appliances, electric vehicle
   chargers, and more. '
+posted_on: April 2021
 
 ---
