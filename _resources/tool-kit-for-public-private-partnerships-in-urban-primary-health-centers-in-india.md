@@ -11,5 +11,6 @@ summary: 'Focuses on the establishment and development of urban primary health c
   arrangements with nongovernment organizations to expand healthcare access in urban
   India. The toolkit looks at existing public-private partnerships on the ground and
   provides a framework to assess these partnerships to ensure consistent performance. '
+posted_on: ''
 
 ---
