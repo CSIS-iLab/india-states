@@ -1,6 +1,6 @@
 ---
 content_type: resource
-type: Performance Goals Trackers
+type: Performance Goal Trackers
 title: Solar Performance Tracker
 link: https://indianstates.csis.org/national-goals/solar-performance-tracker/
 author: CSIS India Chair in U.S.-India Policy Studies
