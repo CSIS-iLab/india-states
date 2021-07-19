@@ -21,11 +21,11 @@ fields:
   config:
     required: false
   label: Author
-- name: date
+- name: posted_on
   type: text
   config:
     required: false
-  label: Date
+  label: Posted on
   default: undefined
 - name: summary
   type: textarea
