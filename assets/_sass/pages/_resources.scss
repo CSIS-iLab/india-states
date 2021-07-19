@@ -6,9 +6,18 @@
 	margin-top: 0;
 
 	.sectionTitle {
-		margin-bottom: 0.25rem;
 		padding-bottom: 0.5rem;
+		margin: -12.5rem 0 0.25rem 0;
+		padding: 12.5rem 0 0.5rem 0;
 		border-bottom: 4px solid #004165;
+		@include fontSize(31px);
+		text-transform: unset;
+		font-family: $font__ExpoSerif;
+		font-weight: 400;
+	}
+
+	.sectionSubtitle {
+		margin-bottom: 0.75rem;
 	}
 
 	.articleMeta {
