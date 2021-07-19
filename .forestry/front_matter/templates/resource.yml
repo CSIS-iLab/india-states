@@ -16,21 +16,16 @@ fields:
   label: Content Type
   hidden: true
   default: resource
-- name: date
-  type: datetime
-  description: ''
-  config:
-    required: false
-    date_format: ''
-    time_format: 
-    display_utc: false
-    export_format: ''
-  label: Date
 - name: author
   type: text
   config:
     required: false
   label: Author
+- name: date
+  type: text
+  config:
+    required: false
+  label: Date
 - name: summary
   type: textarea
   default: ''
