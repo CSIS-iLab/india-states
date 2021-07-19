@@ -21,10 +21,10 @@ fields:
   description: ''
   config:
     required: false
-    date_format: MM/YYYY
+    date_format: ''
     time_format: 
     display_utc: false
-    export_format: MM/YYYY
+    export_format: ''
   label: Date
 - name: author
   type: text
