@@ -4,32 +4,32 @@
 
 .page-container.resources {
 	margin-top: 0;
-	
-	ul.shareIcons {
-		margin-top: 0.5rem;
 
-		@include breakpoint("medium") {
-			text-align: right;
-		}
+	.sectionTitle {
+		padding-bottom: 0.5rem;
+		margin: -12.5rem 0 0.25rem 0;
+		padding: 12.5rem 0 0.5rem 0;
+		border-bottom: 4px solid #004165;
+		@include fontSize(31px);
+		text-transform: unset;
+		font-family: $font__ExpoSerif;
+		font-weight: 400;
+	}
+
+	.sectionSubtitle {
+		margin-bottom: 0.75rem;
+	}
+
+	.articleMeta {
+		margin-bottom: 0;
+	}
+
+	.articleSummary {
+		margin: 1.125rem 0 3.75rem 0;
 	}
 
 	.post-content {
 		margin: 3rem 0 5rem 0;
 	}
 
-	ul.resource-listing {
-		margin-bottom: 2.5rem;
-
-		li {
-			margin: 1rem 0;
-
-			a {
-				box-shadow: none;
-
-				img {
-					max-width:10px;
-				}
-			}
-		}
-	}
 }
