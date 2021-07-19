@@ -6,5 +6,6 @@ link: https://powermin.gov.in/sites/default/files/webform/notices/Draft_Electric
 date: April 2021
 author: Ministry of Power
 summary: This draft legislation proposes amendments to the Electricity Act, 2003.
+posted_on: ''
 
 ---
