@@ -1,6 +1,6 @@
 ---
 content_type: resource
-type: Performance Goal Trackers
+type: State Clean Energy Goal Tracker
 title: Wind Performance Tracker
 link: https://indianstates.csis.org/national-goals/wind-performance-tracker/
 author: CSIS India Chair in U.S.-India Policy Studies
