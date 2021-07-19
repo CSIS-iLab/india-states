@@ -8,5 +8,6 @@ author: TERI and Shakti Sustainable Energy Foundation
 summary: 'Presents the perspectives of mid-to-senior level officials in ten electricity
   distribution companies in India on the key challenges in implementing the Saubhagya
   scheme, which sets an ambitious target for universal electrification across India. '
+posted_on: September 2019
 
 ---
