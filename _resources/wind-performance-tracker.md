@@ -9,6 +9,5 @@ summary: India set a goal of reaching 60 gigawatts of wind power generation capa
   by 2022. The Indian States Wind Energy Performance Tracker is an interactive tool
   to monitor the progress states have made in reaching their target.
 posted_on: ''
-published: false
 
 ---

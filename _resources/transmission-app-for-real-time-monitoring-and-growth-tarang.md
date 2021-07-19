@@ -8,5 +8,6 @@ date: ''
 summary: Provides data on the monitoring and growth of both inter and intra state
   transmission systems in India through tariff based competitive bidding and regulated
   tariff mechanisms.
+posted_on: ''
 
 ---

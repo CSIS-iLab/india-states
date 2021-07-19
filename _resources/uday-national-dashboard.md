@@ -9,5 +9,6 @@ summary: The Ujwal DISCOM Assurance Yojana (UDAY) Dashboard provides data relati
   to the electricity distribution companies’ progress on various operational and financial
   parameters across Indian states. The portal also features an improvement barometer
   for each state and distribution company.
+posted_on: ''
 
 ---
