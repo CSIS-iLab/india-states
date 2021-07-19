@@ -41,6 +41,7 @@ fields:
       format: markdown
   label: Summary
 pages:
+- _resources/draft-electricity-right-of-consumers-amendment-rules.md
 - _resources/electric-mobility-dashboard.md
 - _resources/electric-vehicle-guidebook-for-indian-states.md
 - _resources/fast-tracking-freight-in-india-a-roadmap-for-clean-and-cost-effective-goods-transport.md
