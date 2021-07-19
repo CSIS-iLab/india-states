@@ -26,6 +26,7 @@ fields:
   config:
     required: false
   label: Date
+  default: 'null'
 - name: summary
   type: textarea
   default: ''
