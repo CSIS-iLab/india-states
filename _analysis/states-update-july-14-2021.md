@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: July 14, 2021'
-date: 2021-07-14 04:00:00 +0000
+date: 2021-07-14T04:00:00.000+00:00
 tags:
 - States Weekly
 excerpt: 'Big News: West Bengal announces its budget for the financial year 2021-22;
@@ -12,7 +12,7 @@ excerpt: 'Big News: West Bengal announces its budget for the financial year 2021
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
