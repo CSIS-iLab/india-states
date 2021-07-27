@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Union cabinet approves production linked incentives for specialty steel; Tamil Nadu launches a single window clearance portal; Meghalaya announces a public private partnership policy to encourage investments; Union cabinet approves setting up of an infrastructure development corporation in Ladakh; and more.
@@ -67,6 +66,4 @@ Nothing critical to report this week
 
 **Center – State Relations**
 
-Union cabinet approves a production linked incentive scheme for specialty steel. The scheme aims to provide incentives worth $848 million from 2023-24 to 2027-28. **Source**: [Mint](https://www.livemint.com/news/india/cabinet-approves-pli-scheme-for-specialty-steel-11626947200306.html)
-
-**In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1737722)
+Union cabinet approves a production linked incentive scheme for specialty steel. The scheme aims to provide incentives worth $848 million from 2023-24 to 2027-28. **Source**: [Mint](https://www.livemint.com/news/india/cabinet-approves-pli-scheme-for-specialty-steel-11626947200306.html); **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1737722)
