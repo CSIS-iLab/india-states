@@ -41,7 +41,7 @@ Nothing critical to report this week
 
 **Oil & Gas**
 
-The **Assam** cabinet approves the Ethanol Production Promotion Policy, 2021. The Policy shall be valid till March 31, 2026. **Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/oil-and-gas/assam-government-approves-ethanol-production-promotion-policy/85088848)
+**Assam** cabinet approves its Ethanol Production Promotion Policy, 2021. The Policy shall be valid till March 31, 2026. **Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/oil-and-gas/assam-government-approves-ethanol-production-promotion-policy/85088848)
 
 **Water & Sanitation**
 
