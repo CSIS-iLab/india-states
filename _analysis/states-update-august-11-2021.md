@@ -57,7 +57,7 @@ Nothing critical to report this week
 
 **Health**
 
-**Tamil Nadu** launches its door-to-door health service in Krishnagiri district. The service aims to eliminate hospital for treating non-communicable diseases. **Source**: [Indian Express](https://indianexpress.com/article/cities/chennai/mk-stalin-launches-doorstep-healthcare-scheme-in-tamil-nadu-7439426/); **In detail**: [Press release](https://cms.tn.gov.in/sites/default/files/press_release/pr050821g.jpg) (Tamil)
+**Tamil Nadu** launches its door-to-door health service in Krishnagiri district. The service aims to eliminate hospitalizations for treating non-communicable diseases. **Source**: [Indian Express](https://indianexpress.com/article/cities/chennai/mk-stalin-launches-doorstep-healthcare-scheme-in-tamil-nadu-7439426/); **In detail**: [Press release](https://cms.tn.gov.in/sites/default/files/press_release/pr050821g.jpg) (Tamil)
 
 **Business Negative Reforms**
 
