@@ -2,7 +2,7 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: August 17, 2021'
+title: 'States Update: August 18, 2021'
 date: 2021-08-17 04:00:00 +0000
 tags: []
 excerpt: 'Big News: Center bans certain single-use plastics; Odisha provides electricity
