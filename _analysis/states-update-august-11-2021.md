@@ -12,7 +12,7 @@ excerpt: 'Big News: Karnataka issues an order for implementing the New Education
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
