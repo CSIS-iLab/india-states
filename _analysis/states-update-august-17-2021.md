@@ -12,12 +12,13 @@ excerpt: 'Big News: Center bans certain single-use plastics; Odisha provides ele
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
+author:
+- Neelima Jain
 
 ---
 **Big News:** Center bans certain single-use plastics; Odisha provides electricity subsidy to cold stores; Odisha launches a smart health card; Haryana limits the age of operation for transport vehicles; Madhya Pradesh’s Indore is declared as India’s first “water plus” city; and more.
