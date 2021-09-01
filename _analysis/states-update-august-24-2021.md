@@ -13,7 +13,7 @@ excerpt: 'Big News: The Ministry of Finance launches the National Monetisation P
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
