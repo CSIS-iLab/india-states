@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Jharkhand announces its industrial policy; Odisha approves its electric vehicle policy; Haryana passes a bill to fast-track land acquisition; Tamil Nadu passes a resolution to withdraw center's farm laws; and more.
@@ -40,9 +39,7 @@ published: false
 
 **Infrastructure & Governance**
 
-**Madhya Pradesh** launches its National Education Policy, 2020. **Source**: [Hindustan Times](https://www.hindustantimes.com/education/news/madhya-pradesh-government-implements-nep-2020-101629971060918.html)
-
-**In detail**: [Chief Minister’s Twitter message](https://twitter.com/ChouhanShivraj/status/1430777662679642113)
+**Madhya Pradesh** launches its National Education Policy, 2020. **Source**: [Hindustan Times](https://www.hindustantimes.com/education/news/madhya-pradesh-government-implements-nep-2020-101629971060918.html); **In detail**: [Chief Minister’s Twitter message](https://twitter.com/ChouhanShivraj/status/1430777662679642113)
 
 **Climate Change**
 
