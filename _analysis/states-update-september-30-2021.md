@@ -2,7 +2,7 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: September 30,2021'
+title: 'States Update: September 30, 2021'
 date: 2021-09-30 04:00:00 +0000
 tags: []
 excerpt: 'Big News: Gujarat, Kerala, and Tamil Nadu top large states category of the
