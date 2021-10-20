@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Madhya Pradesh drafts its new policy for micro, small, and medium enterprises; Tamil Nadu draft its first slum resettlement and rehabilitation policy; Uttar Pradesh mandates industries to adopt the _Miyawaki_ afforestation technique to offset carbon emissions; and more
