@@ -12,7 +12,7 @@ excerpt: 'Big News: Madhya Pradesh drafts its new policy for micro, small, and m
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
