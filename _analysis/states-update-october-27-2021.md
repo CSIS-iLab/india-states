@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** NITI Aayog develops a geographic information system-based energy map of India; 43 cities in Maharashtra decide to go carbon neutral; Haryana announces incentives to encourage electric mobility; Tamil Nadu launches an online platform to monitor the status of state tenders; and more.
@@ -34,7 +33,7 @@ Nothing critical to report this week
 
 **Infrastructure & Governance**
 
-**Tamil Nadu** launches an online platform to monitor the status of state government tenders for procuring information technology services **Source**: [Times of India](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-cm-m-k-stalin-launches-e-munnetram-to-monitor-projects/articleshow/87218526.cms); **In detail**: [Press Release](https://cms.tn.gov.in/sites/default/files/press_release/pr221021a.jpg) (Tamil)
+**Tamil Nadu** launches an online platform to monitor the status of state government tenders for procuring information technology services. **Source**: [Times of India](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-cm-m-k-stalin-launches-e-munnetram-to-monitor-projects/articleshow/87218526.cms); **In detail**: [Press Release](https://cms.tn.gov.in/sites/default/files/press_release/pr221021a.jpg) (Tamil)
 
 **Climate Change**
 
