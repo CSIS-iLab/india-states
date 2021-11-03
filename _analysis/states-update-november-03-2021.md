@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Haryana incentivizes waste management activities; Kerala passes a bill to fast-track micro, small, and medium enterprise licenses; Karnataka leads State Energy Efficiency Index 2020; Odisha offers tax exemptions for electric vehicles; and more.
