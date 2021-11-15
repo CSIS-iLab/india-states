@@ -71,7 +71,7 @@
   },
   {
     "state": "Goa",
-    "national_contribution": 0.02,
+    "national_contribution": "0.03",
     "state_target": 358,
     "state_achieved": 7.44,
     "state_percentage": 2.08
