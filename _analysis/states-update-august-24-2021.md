@@ -6,11 +6,23 @@ title: 'States Update: August 24, 2021'
 date: 2021-08-24 04:00:00 +0000
 tags:
 - States Weekly
+- Industry
+- Ease of Doing Business
+- MSME
+- 'Electric mobility '
+- 'Ministry of Power '
+- 'Ministry of New and Renewable Energy '
 excerpt: 'Big News: The Ministry of Finance launches the National Monetisation Pipeline;
   Ministry of Power notifies timelines to replace existing meters with smart meters;
   Tamil Nadu, West Bengal, and Punjab undertake initiatives to improve ease of doing
   business; Haryana launches the first electric three-wheeler zone; and more.'
-states: []
+states:
+- Karnataka
+- Haryana
+- Delhi
+- Punjab
+- West Bengal
+- Tamil Nadu
 sectors: []
 subsectors: []
 is_featured: false
