@@ -239,14 +239,14 @@
   },
   {
     "state": "Uttarakhand",
-    "national_contribution": 0.9,
+    "national_contribution": "1.15",
     "state_target": 900,
     "state_achieved": 353.41,
     "state_percentage": 39.27
   },
   {
     "state": "West Bengal",
-    "national_contribution": 0.38,
+    "national_contribution": "0.34",
     "state_target": 5336,
     "state_achieved": 149.84,
     "state_percentage": 2.81
