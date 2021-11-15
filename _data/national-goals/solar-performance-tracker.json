@@ -114,14 +114,14 @@
   {
     "state": "Karnataka",
     "national_contribution": "15.75",
-    "state_target": 5697,
-    "state_achieved": 7346.85,
-    "state_percentage": 128.96
+    "state_target": "5697",
+    "state_achieved": "7346.85",
+    "state_percentage": "128.95"
   },
   {
     "state": "Kerala",
     "national_contribution": "0.68",
-    "state_target": 1870,
+    "state_target": "1870",
     "state_achieved": "326.89",
     "state_percentage": "17.48"
   },
@@ -129,14 +129,14 @@
     "state": "Lakshwadeep",
     "national_contribution": 0,
     "state_target": 4,
-    "state_achieved": 0.75,
+    "state_achieved": "0.75",
     "state_percentage": 18.75
   },
   {
     "state": "Madhya Pradesh",
     "national_contribution": "5.69",
-    "state_target": 5675,
-    "state_achieved": 2463.22,
+    "state_target": "5675",
+    "state_achieved": "2463.22",
     "state_percentage": 43.4
   },
   {
