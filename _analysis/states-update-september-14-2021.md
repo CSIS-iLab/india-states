@@ -6,11 +6,22 @@ title: 'States Update: September 14, 2021'
 date: 2021-09-14 04:00:00 +0000
 tags:
 - States Weekly
+- 'Fossil Fuel '
+- 'Renewable Energy '
+- 'Industry '
+- 'Electric mobility '
 excerpt: 'Big News: Kerala offers incentives for setting up vaccine manufacturing
   units; Assam aims to phase out fossil fuel-based vehicles by 2030; Rajasthan orders
   an increase in net-metering load capacity; Jharkhand approves 75 percent reservation
   in private sector jobs; and more.'
-states: []
+states:
+- Union Territory of Ladakh
+- Haryana
+- Chhattisgarh
+- Jharkhand
+- Assam
+- Rajasthan
+- Kerala
 sectors: []
 subsectors: []
 is_featured: false
