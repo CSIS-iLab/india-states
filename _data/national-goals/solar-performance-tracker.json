@@ -198,9 +198,9 @@
   {
     "state": "Rajasthan",
     "national_contribution": "18.69",
-    "state_target": 5762,
-    "state_achieved": 5472.58,
-    "state_percentage": 94.98
+    "state_target": "5762",
+    "state_achieved": "8911.26",
+    "state_percentage": "154.65"
   },
   {
     "state": "Sikkim",
