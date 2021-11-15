@@ -6,10 +6,19 @@ title: 'States Update: September 7, 2021'
 date: 2021-09-07 04:00:00 +0000
 tags:
 - States Weekly
+- Healthcare
+- Development
+- Agriculture
+- Coal
+- 'Renewable Energy '
 excerpt: 'Big News: Ministry of Coal constitutes task force to prepare road map for
   coal based hydrogen production; Arunachal Pradesh launches schemes to boost agriculture
   and horticulture; Odisha amends its 65 year old urban development act; and more.'
-states: []
+states:
+- Maharashtra
+- Odisha
+- Tamil Nadu
+- Arunachal Pradesh
 sectors: []
 subsectors: []
 is_featured: false
