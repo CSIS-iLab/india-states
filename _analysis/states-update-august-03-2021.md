@@ -8,7 +8,6 @@ tags:
 - States Weekly
 - 'Ministry of Commerce and Industry '
 - Ministry of Power
-- Biogas
 - 'Renewable Energy '
 excerpt: 'Big News: The Ministry of Commerce & Industry launches a calculator for
   greenhouse gas emissions; Telangana launches a scheme to incentivize start-ups;
