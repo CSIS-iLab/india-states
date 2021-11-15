@@ -15,10 +15,10 @@
   },
   {
     "state": "Arunachal Pradesh",
-    "national_contribution": 0.01,
+    "national_contribution": "0.11",
     "state_target": 39,
-    "state_achieved": 5.61,
-    "state_percentage": 14.38
+    "state_achieved": "11.23",
+    "state_percentage": "28.79"
   },
   {
     "state": "Assam",
