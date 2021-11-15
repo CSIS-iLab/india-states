@@ -176,7 +176,7 @@
   },
   {
     "state": "Odisha",
-    "national_contribution": 1.03,
+    "national_contribution": "0.9",
     "state_target": 2377,
     "state_achieved": 401.72,
     "state_percentage": 16.9
@@ -190,7 +190,7 @@
   },
   {
     "state": "Punjab",
-    "national_contribution": 2.42,
+    "national_contribution": "2.29",
     "state_target": 4772,
     "state_achieved": 947.1,
     "state_percentage": 19.85
