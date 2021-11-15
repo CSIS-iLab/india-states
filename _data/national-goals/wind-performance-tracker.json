@@ -218,7 +218,7 @@
   },
   {
     "state": "Telangana",
-    "national_contribution": 0.33,
+    "national_contribution": "0.32",
     "state_target": 2000,
     "state_achieved": 128.1,
     "state_percentage": 6.41
