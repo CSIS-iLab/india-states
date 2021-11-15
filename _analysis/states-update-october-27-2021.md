@@ -4,14 +4,24 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: October 27, 2021'
 date: 2021-10-27 04:00:00 +0000
-tags: []
+tags:
+- 'States weekly '
+- NITI
+- Electric mobility
+- Climate change
+- Electricity
 excerpt: 'Big News: NITI Aayog develops a geographic information system-based energy
   map of India; 43 cities in Maharashtra decide to go carbon neutral; Haryana announces
   incentives to encourage electric mobility; Tamil Nadu launches an online platform
   to monitor the status of state tenders; and more.'
-states: []
+states:
+- Tamil Nadu
+- Maharashtra
+- Haryana
 sectors: []
-subsectors: []
+subsectors:
+- Renewables
+- Energy Efficiency
 is_featured: false
 feature_image: ''
 feature_image_credit: ''
