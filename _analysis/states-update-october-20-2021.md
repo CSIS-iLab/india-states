@@ -4,12 +4,22 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: October 20, 2021'
 date: 2021-10-20 04:00:00 +0000
-tags: []
+tags:
+- 'Electric mobility '
+- 'MSME '
+- Export
+- Industry
 excerpt: 'Big News: Madhya Pradesh drafts its new policy for micro, small, and medium
   enterprises; Tamil Nadu draft its first slum resettlement and rehabilitation policy;  Uttar
   Pradesh mandates industries to adopt the Miyawaki afforestation technique to offset
   carbon emissions; and more'
-states: []
+states:
+- Delhi
+- Union Territory of Jammu and Kashmir
+- Manipur
+- Uttar Pradesh
+- Tamil Nadu
+- Madhya Pradesh
 sectors: []
 subsectors: []
 is_featured: false
