@@ -9,6 +9,7 @@ tags:
 - Infrastructure
 - Electric mobility
 - Industry
+- States Weekly
 excerpt: 'Big News: Ministry of Power releases guidelines for managing cyber risks
   in the electricity grid; Tamil Nadu constitutes an advisory council for emerging
   technologies; Haryana notifies its draft electric vehicle policy; Jammu and Kashmir

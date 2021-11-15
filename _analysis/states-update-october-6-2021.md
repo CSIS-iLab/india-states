@@ -9,6 +9,7 @@ tags:
 - " GST "
 - 'Energy policy '
 - 'Renewable energy '
+- States Weekly
 excerpt: 'Big News: Telangana unveils a policy framework for space technology; Goa
   revamps its start-up policy; Maharashtra unveils a new renewable energy policy;
   Karnataka inaugurates a new district; and more.'

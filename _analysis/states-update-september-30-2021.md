@@ -8,6 +8,7 @@ tags:
 - Export
 - 'Industry '
 - Agriculture
+- States Weekly
 excerpt: 'Big News: Gujarat, Kerala, and Tamil Nadu top large states category of the
   latest Food Safety Index. Tamil Nadu releases its Export Promotion Policy; and more.'
 states:
