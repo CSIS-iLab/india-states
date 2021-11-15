@@ -162,7 +162,7 @@
   },
   {
     "state": "Mizoram",
-    "national_contribution": 0,
+    "national_contribution": "0.01",
     "state_target": 72,
     "state_achieved": 1.53,
     "state_percentage": 2.13
