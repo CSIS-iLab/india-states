@@ -29,6 +29,7 @@ sources:
 - name: 'Ministry of New and Renewable Energy: State-wise breakup of wind targets
     to be achieved by 2022'
   url: https://policy.asiapacificenergy.org/sites/default/files/Tentative%20State-wise%20Break-up%20of%20Renewable%20Power%20Target%20to%20Be%20Achieved%20by%20the%20Year%202022.pdf
+published: false
 
 ---
 In 2014, Prime Minister Narendra Modi set a goal of reaching 60 GW of wind power generation capacity by 2022. In order to achieve this ambitious target, eight state governments were identified to increase their rate of wind capacity growth. The Ministry of New and Renewable Energy (MNRE) has assigned each of these eight states a wind capacity target. The Indian States Wind Energy Performance Tracker is a tool to monitor the progress states have made in reaching this target.
