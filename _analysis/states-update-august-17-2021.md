@@ -4,12 +4,24 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: August 18, 2021'
 date: 2021-08-17 04:00:00 +0000
-tags: []
+tags:
+- 'Digital governance '
+- 'Agriculture '
+- 'Electric mobility '
+- 'Power distribution '
+- 'Renewable Energy '
+- States Weekly
 excerpt: 'Big News: Center bans certain single-use plastics; Odisha provides electricity
   subsidy to cold stores; Odisha launches a smart health card; Haryana limits the
   age of operation for transport vehicles; Madhya Pradesh’s Indore is declared as
   India’s first “water plus” city; and more. '
-states: []
+states:
+- Uttarakhand
+- Gujarat
+- Madhya Pradesh
+- Haryana
+- Odisha
+- Tamil Nadu
 sectors: []
 subsectors: []
 is_featured: false
