@@ -4,11 +4,23 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: October 6, 2021'
 date: 2021-10-06 04:00:00 +0000
-tags: []
+tags:
+- Ministry of Power
+- " GST "
+- 'Energy policy '
+- 'Renewable energy '
 excerpt: 'Big News: Telangana unveils a policy framework for space technology; Goa
   revamps its start-up policy; Maharashtra unveils a new renewable energy policy;
   Karnataka inaugurates a new district; and more.'
-states: []
+states:
+- Karnataka
+- Punjab
+- Maharashtra
+- Kerala
+- Jharkhand
+- Goa
+- Gujarat
+- Telangana
 sectors: []
 subsectors: []
 is_featured: false
