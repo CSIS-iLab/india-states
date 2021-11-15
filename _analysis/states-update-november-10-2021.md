@@ -4,14 +4,29 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: November 10, 2021'
 date: 2021-11-10 05:00:00 +0000
-tags: []
+tags:
+- Climate change
+- " Electricity "
+- 'Employment '
+- 'Industry '
+- Ministry of Finance
 excerpt: 'Big News: Tamil Nadu forms a state-owned company to take action on climate
   change; Haryana notifies a commencement date for its job reservation policy; 22
   states and union territories reduce the value-added tax on petrol and diesel; Punjab
   reduces electricity tariffs; and more.'
-states: []
-sectors: []
-subsectors: []
+states:
+- Haryana
+- Tamil Nadu
+- Punjab
+- Assam
+sectors:
+- Health
+- Energy
+subsectors:
+- Energy Efficiency
+- " Financing and Payment "
+- Renewables
+- Power
 is_featured: true
 feature_image: ''
 feature_image_credit: ''
