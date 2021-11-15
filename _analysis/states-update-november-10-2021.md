@@ -19,9 +19,7 @@ states:
 - Tamil Nadu
 - Punjab
 - Assam
-sectors:
-- Health
-- Energy
+sectors: []
 subsectors:
 - Energy Efficiency
 - " Financing and Payment "
