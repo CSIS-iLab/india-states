@@ -6,11 +6,20 @@ title: 'States Update: August 03,2021'
 date: 2021-08-03 04:00:00 +0000
 tags:
 - States Weekly
+- 'Ministry of Commerce and Industry '
+- Ministry of Power
+- Biogas
+- 'Renewable Energy '
 excerpt: 'Big News: The Ministry of Commerce & Industry launches a calculator for
   greenhouse gas emissions; Telangana launches a scheme to incentivize start-ups;
   Haryana issues its internship policy; Uttar Pradesh rejects a raise in power tariffs;
   Goa approves forming a state-owned mining corporation; and more.'
-states: []
+states:
+- Uttar Pradesh
+- Haryana
+- Goa
+- Telangana
+- Center-State Relations
 sectors: []
 subsectors: []
 is_featured: false
