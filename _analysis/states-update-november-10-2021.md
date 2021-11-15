@@ -10,6 +10,7 @@ tags:
 - 'Employment '
 - 'Industry '
 - Ministry of Finance
+- States Weekly
 excerpt: 'Big News: Tamil Nadu forms a state-owned company to take action on climate
   change; Haryana notifies a commencement date for its job reservation policy; 22
   states and union territories reduce the value-added tax on petrol and diesel; Punjab

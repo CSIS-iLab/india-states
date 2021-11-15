@@ -9,6 +9,7 @@ tags:
 - 'MSME '
 - Export
 - Industry
+- States Weekly
 excerpt: 'Big News: Madhya Pradesh drafts its new policy for micro, small, and medium
   enterprises; Tamil Nadu draft its first slum resettlement and rehabilitation policy;  Uttar
   Pradesh mandates industries to adopt the Miyawaki afforestation technique to offset

@@ -10,6 +10,7 @@ tags:
 - Electric mobility
 - Climate change
 - Electricity
+- States Weekly
 excerpt: 'Big News: NITI Aayog develops a geographic information system-based energy
   map of India; 43 cities in Maharashtra decide to go carbon neutral; Haryana announces
   incentives to encourage electric mobility; Tamil Nadu launches an online platform
