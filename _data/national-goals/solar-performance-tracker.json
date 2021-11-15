@@ -92,14 +92,14 @@
   },
   {
     "state": "Himachal Pradesh",
-    "national_contribution": 0.11,
+    "national_contribution": "0.13",
     "state_target": 776,
     "state_achieved": 42.73,
     "state_percentage": 5.51
   },
   {
     "state": "Jammu and Kashmir",
-    "national_contribution": 0.05,
+    "national_contribution": "0.09",
     "state_target": 1155,
     "state_achieved": 20.73,
     "state_percentage": 1.79
