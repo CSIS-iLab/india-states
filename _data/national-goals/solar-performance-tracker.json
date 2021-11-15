@@ -233,9 +233,9 @@
   {
     "state": "Uttar Pradesh",
     "national_contribution": "4.26",
-    "state_target": 10697,
+    "state_target": "10697",
     "state_achieved": 1667.5,
-    "state_percentage": 15.59
+    "state_percentage": "19"
   },
   {
     "state": "Uttarakhand",
