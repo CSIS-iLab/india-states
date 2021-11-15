@@ -22,10 +22,10 @@
   },
   {
     "state": "Assam",
-    "national_contribution": 0.11,
+    "national_contribution": "0.69",
     "state_target": 663,
-    "state_achieved": 42.99,
-    "state_percentage": 6.48
+    "state_achieved": "68.55",
+    "state_percentage": "10.33"
   },
   {
     "state": "Bihar",
