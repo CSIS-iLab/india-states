@@ -6,10 +6,22 @@ title: 'States Update: September 1, 2021'
 date: 2021-09-01 04:00:00 +0000
 tags:
 - States Weekly
+- 'Industry '
+- 'Electric Vehicle '
+- 'National Education Policy '
+- 'Climate change '
 excerpt: 'Big News: Jharkhand announces its industrial policy; Odisha approves its
   electric vehicle policy; Haryana passes a bill to fast-track land acquisition; Tamil
   Nadu passes a resolution to withdraw center''s farm laws; and more.'
-states: []
+states:
+- Tamil Nadu
+- Sikkim
+- Madhya Pradesh
+- Haryana
+- Puducherry
+- Union Territory of Jammu and Kashmir
+- Odisha
+- Jharkhand
 sectors: []
 subsectors: []
 is_featured: false
