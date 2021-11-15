@@ -28,7 +28,7 @@ sources:
   url: https://mnre.gov.in/wind/current-status/
 - name: 'Ministry of New and Renewable Energy: State-wise breakup of wind targets
     to be achieved by 2022'
-  url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
+  url: https://policy.asiapacificenergy.org/sites/default/files/Tentative%20State-wise%20Break-up%20of%20Renewable%20Power%20Target%20to%20Be%20Achieved%20by%20the%20Year%202022.pdf
 published: false
 
 ---
