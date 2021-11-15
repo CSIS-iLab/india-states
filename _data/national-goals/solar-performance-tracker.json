@@ -120,7 +120,7 @@
   },
   {
     "state": "Kerala",
-    "national_contribution": 0.66,
+    "national_contribution": "0.68",
     "state_target": 1870,
     "state_achieved": 257,
     "state_percentage": 13.74
