@@ -218,21 +218,21 @@
   },
   {
     "state": "Telangana",
-    "national_contribution": 10.07,
+    "national_contribution": "8.46",
     "state_target": 5000,
     "state_achieved": 3936.36,
     "state_percentage": 78.73
   },
   {
     "state": "Tripura",
-    "national_contribution": 0.02,
+    "national_contribution": "0.03",
     "state_target": 105,
     "state_achieved": 9.41,
     "state_percentage": 8.96
   },
   {
     "state": "Uttar Pradesh",
-    "national_contribution": 4.27,
+    "national_contribution": "4.26",
     "state_target": 10697,
     "state_achieved": 1667.5,
     "state_percentage": 15.59
