@@ -2,7 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: World’s Largest Solar Park at Karnataka’s Pavagada is Now Fully Operational
-date: 2020-01-02 05:00:00 +0000
+date: 2020-01-02T05:00:00.000+00:00
 states:
 - Karnataka
 sectors:
