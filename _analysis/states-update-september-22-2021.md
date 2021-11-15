@@ -9,6 +9,7 @@ tags:
 - Indus
 - 'Digital governance '
 - Meghalaya
+- States Weekly
 excerpt: 'Big News: Telangana unveils its information technology policy; Madhya Pradesh
   approves its ethanol policy; Meghalaya launches a framework to implement integrated
   digital service system; and more.'
