@@ -27,7 +27,7 @@ sources:
   url: https://mnre.gov.in/the-ministry/physical-progress
 - name: 'Ministry of New and Renewable Energy: State-wise breakup of solar targets
     to be achieved by 2022'
-  url: http://mnre.gov.in/file-manager/UserFiles/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
+  url: http://164.100.94.214/sites/default/files/uploads/Tentative-State-wise-break-up-of-Renewable-Power-by-2022.pdf
 - name: 
   url: 
 
