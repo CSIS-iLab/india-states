@@ -4,10 +4,17 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: September 30, 2021'
 date: 2021-09-30 04:00:00 +0000
-tags: []
+tags:
+- Export
+- 'Industry '
+- Agriculture
 excerpt: 'Big News: Gujarat, Kerala, and Tamil Nadu top large states category of the
   latest Food Safety Index. Tamil Nadu releases its Export Promotion Policy; and more.'
-states: []
+states:
+- Kerala
+- Gujarat
+- Tripura
+- Tamil Nadu
 sectors: []
 subsectors: []
 is_featured: false
