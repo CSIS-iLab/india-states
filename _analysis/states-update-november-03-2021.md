@@ -4,12 +4,24 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: November 03, 2021'
 date: 2021-11-03 04:00:00 +0000
-tags: []
+tags:
+- Energy efficiency
+- " Climate change"
+- Waste management
+- 'MSME '
+- 'EVs '
+- Solar energy
 excerpt: 'Big News: Haryana incentivizes waste management activities; Kerala passes
   a bill to fast-track micro, small, and medium enterprise licenses; Karnataka leads
   State Energy Efficiency Index 2020; Odisha offers tax exemptions for electric vehicles;
   and more.'
-states: []
+states:
+- West Bengal
+- Odisha
+- Goa
+- Karnataka
+- Kerala
+- Haryana
 sectors: []
 subsectors: []
 is_featured: false
