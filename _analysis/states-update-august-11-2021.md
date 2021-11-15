@@ -4,12 +4,23 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: August 11, 2021'
 date: 2021-08-10 04:00:00 +0000
-tags: []
+tags:
+- States Weekly
+- 'Electricity '
+- 'Health '
+- 'Renewable Energy '
+- 'New Education Policy '
 excerpt: 'Big News: Karnataka issues an order for implementing the New Education Policy,
   2020; Tamil Nadu launches its door-to-door health service; Chhattisgarh increases
   its existing electricity tariff; Kerala passes a resolution to withdraw the Electricity
   (Amendment) Bill, 2021; and more.'
-states: []
+states:
+- Kerala
+- Tamil Nadu
+- Chhattisgarh
+- Assam
+- Karnataka
+- Delhi
 sectors: []
 subsectors: []
 is_featured: false
