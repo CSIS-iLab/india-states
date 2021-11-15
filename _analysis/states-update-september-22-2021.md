@@ -4,11 +4,20 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: September 22,2021'
 date: 2021-09-22 04:00:00 +0000
-tags: []
+tags:
+- Investment
+- Indus
+- 'Digital governance '
+- Meghalaya
 excerpt: 'Big News: Telangana unveils its information technology policy; Madhya Pradesh
   approves its ethanol policy; Meghalaya launches a framework to implement integrated
   digital service system; and more.'
-states: []
+states:
+- Meghalaya
+- Madhya Pradesh
+- Kerala
+- Telangana
+- Punjab
 sectors: []
 subsectors: []
 is_featured: false
