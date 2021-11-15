@@ -197,7 +197,7 @@
   },
   {
     "state": "Rajasthan",
-    "national_contribution": 14,
+    "national_contribution": "18.69",
     "state_target": 5762,
     "state_achieved": 5472.58,
     "state_percentage": 94.98
@@ -211,7 +211,7 @@
   },
   {
     "state": "Tamil Nadu",
-    "national_contribution": 11.27,
+    "national_contribution": "9.94",
     "state_target": 8884,
     "state_achieved": 4403.48,
     "state_percentage": 49.57
