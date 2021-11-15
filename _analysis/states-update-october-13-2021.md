@@ -4,12 +4,20 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: October 13, 2021'
 date: 2021-10-13 04:00:00 +0000
-tags: []
+tags:
+- Labor
+- Infrastructure
+- Electric mobility
+- Industry
 excerpt: 'Big News: Ministry of Power releases guidelines for managing cyber risks
   in the electricity grid; Tamil Nadu constitutes an advisory council for emerging
   technologies; Haryana notifies its draft electric vehicle policy; Jammu and Kashmir
   approve a road maintenance policy; and more.'
-states: []
+states:
+- Union Territory of Jammu and Kashmir
+- Haryana
+- Kerala
+- Tamil Nadu
 sectors: []
 subsectors: []
 is_featured: false
