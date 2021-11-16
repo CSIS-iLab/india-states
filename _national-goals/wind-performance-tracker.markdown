@@ -22,7 +22,6 @@ progressbars:
     This chart tracks the progress each state has made towards reaching its own target for wind power capacity.
 last_updated_at: 2021-03-30T20:45:00.000+00:00
 sources:
-- {}
 - name: 'Ministry of New and Renewable Energy: State-wise percentage of wind potential
     utilized'
   url: https://mnre.gov.in/wind/current-status/
