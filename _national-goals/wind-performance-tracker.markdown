@@ -3,7 +3,7 @@ title: Wind Performance Tracker
 date: 2017-09-15T12:55:00.000+00:00
 sectors: Energy
 subsectors: Renewables
-data_source: wind-performance-tracker
+data_source: "/uploads/snip.JPG"
 data_label: MW
 data_missing_message: There is no data available for
 map:
