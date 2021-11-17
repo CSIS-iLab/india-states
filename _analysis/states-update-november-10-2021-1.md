@@ -2,7 +2,7 @@
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: November 10, 2021'
+title: 'States Update: November 17, 2021'
 date: 2021-11-17 05:00:00 +0000
 tags: []
 excerpt: 'Big News: Gujarat tops the Logistics Ease Across Different States, 2021
