@@ -26,7 +26,7 @@ subsectors:
 - " Financing and Payment "
 - Renewables
 - Power
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
