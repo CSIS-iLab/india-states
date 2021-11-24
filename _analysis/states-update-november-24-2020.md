@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** The Ministry of Power issues an order to provide purchase preference to local suppliers; Uttar Pradesh and Uttarakhand divide their states assets and liabilities; Madhya Pradesh’s Indore tops the annual cleanliness survey; Tamil Nadu launches its child policy; and more.
