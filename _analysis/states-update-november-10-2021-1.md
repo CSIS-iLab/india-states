@@ -12,7 +12,7 @@ excerpt: 'Big News: Gujarat tops the Logistics Ease Across Different States, 202
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
