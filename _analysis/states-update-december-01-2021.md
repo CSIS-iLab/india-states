@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Tamil Nadu releases its data center and fintech policy; Shimla tops NITI Aayog’s sustainable development goals index; Dadra & Nagar Haveli and Daman & Diu prepare to privatize their electricity distribution business; Andhra Pradesh repeals laws to establish three different state capitals; and more.
