@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: December 01, 2021'
-date: 2021-12-01 05:00:00 +0000
+date: 2021-12-01T05:00:00.000+00:00
 tags: []
 excerpt: 'Big News: Tamil Nadu releases its data center and fintech policy; Shimla
   tops NITI Aayog’s sustainable development goals index; Dadra & Nagar Haveli and
@@ -12,7 +12,7 @@ excerpt: 'Big News: Tamil Nadu releases its data center and fintech policy; Shim
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
