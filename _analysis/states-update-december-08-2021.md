@@ -19,7 +19,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** Bihar passes its land reform bill; central government approves a water supply scheme for Rajasthan and Uttarakhand; Goa issues a draft electric mobility policy; Haryana issues its policy on transferable development rights; and more.
