@@ -18,7 +18,6 @@ sources: []
 details: []
 author:
 - Neelima Jain
-published: false
 
 ---
 **Big News:** NITI Aayog releases reports on emergency and injury care in India**;** Sikkim drafts a notification for banning plastic water bottles; Tamil Nadu issues revised guidelines for verifying captive power projects; and more.
