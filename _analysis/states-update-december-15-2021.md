@@ -11,7 +11,7 @@ excerpt: 'Big News: NITI Aayog releases reports on emergency and injury care in 
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
