@@ -25,7 +25,7 @@ author:
 
 **Industrial Policy & Business Regulations**
 
-**Telangana** launches an accelerator for blockchain startups. The four-month-long accelerator will be open to early-stage startups and blockchain developers. **Source**: [The Hindu Business Line](https://www.thehindubusinessline.com/news/telangana-coinswitch-kuber-and-lumos-labs-roll-out-india-blockchain-accelerator/article37980174.ece); **In detail**: Accelerator Website
+**Telangana** launches an accelerator for blockchain startups. The four-month-long accelerator will be open to early-stage startups and blockchain developers. **Source**: [The Hindu Business Line](https://www.thehindubusinessline.com/news/telangana-coinswitch-kuber-and-lumos-labs-roll-out-india-blockchain-accelerator/article37980174.ece); **In detail**: [Accelerator Website](https://blockchaindistrict.telangana.gov.in/tblock/)
 
 **Gujarat** publishes a roadmap for its agriculture sector. The roadmap lists steps to make the state's agriculture produce market committees profitable and self-sustainable. **Source**: [Indian Express](https://indianexpress.com/article/cities/ahmedabad/gujarat-govt-roadmap-agri-sector-development-apmc-7674576/)
 
@@ -49,11 +49,11 @@ Nothin critical to report this week
 
 **Oil & Gas**
 
-**Nothing Critical to report this week**
+Nothing Critical to report this week
 
 **Water & Sanitation**
 
-**Nothing Critical to report this week**
+Nothing Critical to report this week
 
 **Power & Renewable Energy**
 
@@ -70,6 +70,8 @@ Nothin critical to report this week
 Nothing critical to report this week
 
 **Any Other**
+
+Nothing Critical to report this week
 
 **Center – State Relations**
 
