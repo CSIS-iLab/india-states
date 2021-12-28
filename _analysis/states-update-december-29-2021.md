@@ -21,7 +21,7 @@ author:
 - Neelima Jain
 
 ---
-**Big News:** Haryana passes private universities amendment bill; Karnataka bans the sale of small agricultural lands; Gujarat, Maharashtra, and Goa top the good governance index; Kerala, Tamil Nadu, and Telangana top NITI Aayog’s health index; and more.
+**Big News:** Haryana passes private universities amendment bill; Karnataka bans the sale of small agricultural lands; Gujarat, Maharashtra, and Goa top the Good Governance Index; Kerala, Tamil Nadu, and Telangana top NITI Aayog’s health index; and more.
 
 **Industrial Policy & Business Regulations**
 
