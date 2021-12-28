@@ -49,7 +49,7 @@ Nothing Critical to report this week
 
 **Water & Sanitation**
 
-**Haryana** passes the Haryana Pond and Waste Water Management Authority (Amendment) Bill, 2021 to enhanceunderground water planning and track the physical progress of ponds**. Source:** [Indian Express](https://indianexpress.com/article/cities/chandigarh/3-bills-passed-opp-questions-amendment-to-1-on-waste-water-management-7684446/); **In detail**: [List of Business, Haryana Assembly](https://haryanaassembly.gov.in/wp-content/uploads/2021/12/LOB-22.12.2021.pdf)
+**Haryana** passes the Haryana Pond and Waste Water Management Authority (Amendment) Bill, 2021 to enhance underground water planning and track the physical progress of ponds. Source: [Indian Express](https://indianexpress.com/article/cities/chandigarh/3-bills-passed-opp-questions-amendment-to-1-on-waste-water-management-7684446/); **In detail**: [List of Business, Haryana Assembly](https://haryanaassembly.gov.in/wp-content/uploads/2021/12/LOB-22.12.2021.pdf)
 
 **Power & Renewable Energy**
 
