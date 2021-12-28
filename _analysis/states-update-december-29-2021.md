@@ -29,7 +29,7 @@ author:
 
 **Land Acquisition & Labor Regulations**
 
-**Karnataka** bans the sale of small agricultural plots [\[KU1\]](applewebdata://C3130532-26D5-459D-8A80-2A90853ACC94#_msocom_1) to control illegal residential construction. The minimum extent requirements are applicable prospectively and will not affect inherited lands. **Source**: [Deccan Herald](https://www.deccanherald.com/state/top-karnataka-stories/karnataka-caps-size-of-agricultural-lands-for-sale-1063848.html)
+**Karnataka** bans the sale of small agricultural plots to control illegal residential construction. The minimum extent requirements are applicable prospectively and will not affect inherited lands. **Source**: [Deccan Herald](https://www.deccanherald.com/state/top-karnataka-stories/karnataka-caps-size-of-agricultural-lands-for-sale-1063848.html)
 
 **Infrastructure & Governance**
 
