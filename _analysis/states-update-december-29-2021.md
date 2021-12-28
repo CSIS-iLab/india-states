@@ -37,9 +37,7 @@ author:
 
 **Assam** reserves 50 percent seats for women in the state’s civic bodies on a 10-year rotation basis. **Source**: [The Hindu](https://www.thehindu.com/news/national/other-states/assam-assembly-passes-bills-to-reserve-50-seats-for-women-in-municipalities/article38027569.ece); **In detail**: [Bill](https://assambidhansabha.org/assets/uploads/bills/en/The%20Assam%20Municipal(%20Third%20Amendment)%20Bill,2021_1.PDF)
 
-**Gujarat, Maharashtra,** and **Goa** emerge as the top three states in the central government’s Good Governance Index, 2020-21. Delhi tops in the union territories’ category.
-
-**Source**: [News 18](https://www.news18.com/news/india/gujarat-maharashtra-goa-top-centres-good-governance-index-up-shows-big-improvement-4592168.html); **In detail**: [Good Governance Index, 2020-21](https://darpg.gov.in/sites/default/files/GGI_Report_22.12.2021.pdf), [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1785140)
+**Gujarat, Maharashtra,** and **Goa** emerge as the top three states in the central government’s Good Governance Index, 2020-21. Delhi tops in the union territories’ category. **Source**: [News 18](https://www.news18.com/news/india/gujarat-maharashtra-goa-top-centres-good-governance-index-up-shows-big-improvement-4592168.html); **In detail**: [Good Governance Index, 2020-21](https://darpg.gov.in/sites/default/files/GGI_Report_22.12.2021.pdf), [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1785140)
 
 **Climate Change**
 
