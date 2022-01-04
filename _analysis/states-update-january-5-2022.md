@@ -25,7 +25,7 @@ author:
 
 **Industrial Policy & Business Regulations**
 
-**Uttar Pradesh** (UP) government increases the license fee for liquor retailing by 7.5 percent under its new excise policy. **Source:** [The Print](https://theprint.in/india/up-brings-new-excise-policy-to-generate-revenue-for-farmers/793276/)**; In Detail:** [Government of UP’s Twitter](https://twitter.com/UPGovt/status/1477506064669020162)
+**Uttar Pradesh** (UP) government increases the license fee for liquor retailing by 7.5 percent under its new excise policy. **Source:** [The Print](https://theprint.in/india/up-brings-new-excise-policy-to-generate-revenue-for-farmers/793276/)**; In detail:** [Government of UP’s Twitter](https://twitter.com/UPGovt/status/1477506064669020162)
 
 **Goa** cabinet approves a policy to export rejected iron ore dumps. The policy intends to restart mining activity in the state. **Source:** [Economic Times](https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/goa-govt-approves-policy-to-export-rejected-iron-ore/articleshow/88565730.cms)**; In detail:** [Chief Minister’s Office Twitter](https://twitter.com/DrPramodPSawant/status/1476080870398185472)
 
