@@ -12,7 +12,7 @@ excerpt: 'Big News: Maharashtra extends the discount period for electric vehicle
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
