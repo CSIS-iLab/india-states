@@ -33,7 +33,7 @@ The **Maharashtra** cabinet waives property tax on residential units of area up 
 
 **Land Acquisition & Labor Regulations**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Infrastructure & Governance**
 
@@ -45,11 +45,11 @@ The **Himachal Pradesh** cabinet approves its sports policy. The policy aims to 
 
 **Oil & Gas**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Water & Sanitation**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Power & Renewable Energy**
 
@@ -59,7 +59,7 @@ The **Himachal Pradesh** cabinet approves its sports policy. The policy aims to 
 
 **Health**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Business Negative Reforms**
 
@@ -67,7 +67,7 @@ Nothing critical to report this week
 
 **Any Other**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Center – State Relations**
 
