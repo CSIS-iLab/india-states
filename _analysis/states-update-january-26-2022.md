@@ -21,7 +21,7 @@ author:
 - Neelima Jain
 
 ---
-**Big News:** Union cabinet approves the infusion of $201 million in the Indian Renewable Energy Development Agency;**Delhi** proposes mandating electric vehicle adoption by cab aggregators; **Nagaland** adds a new district; **Maharashtra** cabinet approves its policy for manual sand mining; and more.
+**Big News:** Union cabinet approves the infusion of $201 million in the Indian Renewable Energy Development Agency; **Delhi** proposes mandating electric vehicle adoption by cab aggregators; **Nagaland** adds a new district; **Maharashtra** cabinet approves its policy for manual sand mining; and more.
 
 **Industrial Policy & Business Regulations**
 
