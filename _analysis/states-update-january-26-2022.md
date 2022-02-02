@@ -12,7 +12,7 @@ excerpt: 'Big News: Union cabinet approves the infusion of $201 million in the I
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
