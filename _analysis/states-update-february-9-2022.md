@@ -24,9 +24,9 @@ author:
 
 **Industrial Policy & Business Regulations**
 
-**Chhattisgarh’s cabinet approves an incentive package for producing electric vehicles (EVs) and batteries. Source:** [Daily Pioneer](https://www.dailypioneer.com/2022/state-editions/chhattisgarh-cabinet-approves-incentive-for-electric-vehicles.html)**; In detail:** [Chhattisgarh Press R](https://dprcg.gov.in/post/1643714168/Cabinet_Meeting_:_Date-_01_February_2022)elease **(Hindi)**
+**Chhattisgarh**’s cabinet approves an incentive package for producing electric vehicles (EVs) and batteries. **Source:** [Daily Pioneer](https://www.dailypioneer.com/2022/state-editions/chhattisgarh-cabinet-approves-incentive-for-electric-vehicles.html); **In detail:** [Chhattisgarh Press Release](https://dprcg.gov.in/post/1643714168/Cabinet_Meeting_:_Date-_01_February_2022) (Hindi)
 
-**Odisha announces a 15 percent subsidy on the purchase of EVs. The subsidy is effective from September 1, 2021. Source:** [Economic Times](https://economictimes.indiatimes.com/industry/renewables/odisha-announces-15-subsidy-on-purchase-of-electric-vehicles/articleshow/89271726.cms)**; In detail:** [Notification](https://twitter.com/IPR_Odisha/status/1488149746745176066)
+**Odisha** announces a 15 percent subsidy on the purchase of EVs. The subsidy is effective from September 1, 2021**. Source:** [Economic Times](https://economictimes.indiatimes.com/industry/renewables/odisha-announces-15-subsidy-on-purchase-of-electric-vehicles/articleshow/89271726.cms); **In detail:** [Notification](https://twitter.com/IPR_Odisha/status/1488149746745176066)
 
 **Land Acquisition & Labor Regulations**
 
@@ -38,7 +38,7 @@ Nothing critical to report this week
 
 **Climate Change**
 
-**Chandigarh issues its policy for managing construction and demolition (C&D) waste. The policy offers an incentive for minimizing C&D waste and penalizes dumping waste at non-designated sites. Source:** [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/admn-notifies-cd-waste-policy/articleshow/89285908.cms)**; In detail:** [Notification](https://chandigarh.gov.in/sites/default/files/jan2022/lg22-1533-0102.pdf)
+**Chandigarh** issues its policy for managing construction and demolition (C&D) waste. The policy offers an incentive for minimizing C&D waste and penalizes dumping waste at non-designated sites. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/admn-notifies-cd-waste-policy/articleshow/89285908.cms); **In detail:** [Notification](https://chandigarh.gov.in/sites/default/files/jan2022/lg22-1533-0102.pdf)
 
 **Oil & Gas**
 
