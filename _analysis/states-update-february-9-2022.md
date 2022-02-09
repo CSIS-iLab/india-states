@@ -20,7 +20,7 @@ author:
 - Neelima Jain
 
 ---
-**Big News:** Chhattisgarh approves incentives **for electric vehicle manufacturing; Odisha announces a purchase subsidy for electric vehicles;** Chandigarh issues its waste management policy for construction and demolition waste; and more.
+**Big News:** Chhattisgarh approves incentives for electric vehicle manufacturing; Odisha announces a purchase subsidy for electric vehicles; Chandigarh issues its waste management policy for construction and demolition waste; and more.
 
 **Industrial Policy & Business Regulations**
 
