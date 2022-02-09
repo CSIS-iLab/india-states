@@ -34,7 +34,7 @@ Nothing critical to report this week
 
 **Infrastructure & Governance**
 
-**Assam** approves $267.5 million for improving rural infrastructure and upgrading vital roads within the state. **Source**: [Guwahati plus](https://www.guwahatiplus.com/assam/assam-cabinet-approves-rs-2000-crore-for-rural-infrastructure-improvement); **In detail**: [Chief Minister’s Twitter](https://twitter.com/himantabiswa/status/1488833119612731395?s=20&t=oapWa2Mk08hbVgETFFS8uA)
+**Assam** approves $267.5 million for improving rural infrastructure and upgrading vital roads within the state. **Source**: [Guwahati Plus](https://www.guwahatiplus.com/assam/assam-cabinet-approves-rs-2000-crore-for-rural-infrastructure-improvement); **In detail**: [Chief Minister’s Twitter](https://twitter.com/himantabiswa/status/1488833119612731395?s=20&t=oapWa2Mk08hbVgETFFS8uA)
 
 **Climate Change**
 
