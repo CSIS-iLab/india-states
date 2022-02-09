@@ -11,7 +11,7 @@ excerpt: 'Big News: Tamil Nadu issues its telecom infrastructure policy; Himacha
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
