@@ -20,7 +20,7 @@ author:
 - Neelima Jain
 
 ---
-**Big News:** Gujarat unveils its information technology policy**;** Andhra Pradesh **notifies regulations for short-term power procurement;** Jammu and Kashmir opt for a single-window system; and more.
+**Big News:** Gujarat unveils its information technology policy; Andhra Pradesh notifies regulations for short-term power procurement; Jammu and Kashmir opt for a single-window system; and more.
 
 **Industrial Policy & Business Regulations**
 
@@ -30,7 +30,7 @@ author:
 
 **Land Acquisition & Labor Regulations**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Infrastructure & Governance**
 
@@ -38,25 +38,25 @@ author:
 
 **Climate Change**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Oil & Gas**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Water & Sanitation**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Power & Renewable Energy**
 
-**Andhra Pradesh Electricity Regulatory Commission notifies regulations for short-term power procurement process. Source:** [Times of India](https://timesofindia.indiatimes.com/city/visakhapatnam/aperc-notifies-regulation-for-power-procurement-sale/articleshow/89535241.cms)**; In detail:** [Regulation](https://aperc.gov.in/admin/upload/Regno1of2022.pdf)
+Andhra Pradesh Electricity Regulatory Commission notifies regulations for short-term power procurement process. Source: [Times of India](https://timesofindia.indiatimes.com/city/visakhapatnam/aperc-notifies-regulation-for-power-procurement-sale/articleshow/89535241.cms); In detail: [Regulation](https://aperc.gov.in/admin/upload/Regno1of2022.pdf)
 
 **Haryana** sets $0.014 per kilowatt-hour as the additional surcharge for open access consumers. Open access enables electricity users, with more than one-megawatt connected load, to buy power from the open market. **Source**: [Mercom](https://mercomindia.com/haryana-additional-surcharge-open-access-consumers/); **In detail**: [Order](https://herc.gov.in/WriteReadData/Orders/O20220202(1).pdf)
 
 **Health**
 
-**Nothing critical to report this week**
+Nothing critical to report this week
 
 **Business Negative Reforms**
 
