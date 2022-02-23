@@ -11,7 +11,7 @@ excerpt: 'Big News: Gujarat unveils its information technology policy; Andhra Pr
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
