@@ -1,7 +1,6 @@
 ---
 - name: Neelima Jain
-  title: Senior Fellow and Deputy Director of the Wadhwani Chair in U.S. - India Policy
-    Studies
+  title: Senior Fellow and Deputy Director
   image: "/uploads/Neelima_Jain-002.jpg"
   current: true
 - name: Richard M. Rossow
@@ -13,6 +12,6 @@
   image: "/uploads/kartikeya-singh-headshot.jpg"
   current: true
 - name: Afeena Ashfaque
-  title: Program Coordinator and Research Assistant
+  title: Associate Director
   image: "/uploads/afeena_ashfaque.jpg"
   current: true
