@@ -72,7 +72,7 @@ Nothing critical to report this week
 
 **Center – State Relations**
 
-The Ministry of Power amends guidelines for short-term power procurement by distribution licensees. Amendments include penalty provisions for selling to a third party without meeting the contractual requirements of the buyer. **Source**: [Mercom](https://powermin.gov.in/sites/default/files/webform/notices/Amendments%20to%20the%20Guidelines.pdf); **In detail**: [Amendments](https://powermin.gov.in/sites/default/files/webform/notices/Amendments%20to%20the%20Guidelines.pdf)
+Ministry of Power amends guidelines for short-term power procurement by distribution licensees. Amendments include penalty provisions for selling to a third party without meeting the contractual requirements of the buyer. **Source**: [Mercom](https://powermin.gov.in/sites/default/files/webform/notices/Amendments%20to%20the%20Guidelines.pdf); **In detail**: [Amendments](https://powermin.gov.in/sites/default/files/webform/notices/Amendments%20to%20the%20Guidelines.pdf)
 
 Union cabinet approves Ayushman Bharat Digital Mission (ABDM) with a budget of $212.7 million for five years. ABDM will create longitudinal health records and improve clinical decision-making. **Source**: [The Hindu](https://www.thehindu.com/news/national/cabinet-approves-implementation-of-ayushman-bharat-digital-mission-with-a-budget-of-rs1600-crore-for-five-years/article65086937.ece); **In detail**: [Press Release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1801322)
 
