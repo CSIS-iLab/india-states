@@ -1,11 +1,11 @@
 ---
 - name: Yatin Jain
   title: Program Coordinator & Research Assistant
-  image: ''
+  image: "/uploads/yatin-jain-headshot-min.jpg"
   current: true
 - name: Kriti Upadhyaya
   title: Associate Fellow
-  image: ''
+  image: "/uploads/kritiupadhyaya-1-min.jpg"
   current: true
 - name: Neelima Jain
   title: Senior Fellow and Deputy Director
