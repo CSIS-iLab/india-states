@@ -30,7 +30,7 @@ author:
 
 **Jammu and Kashmir** approves policy on foreign direct investment in industrial parks. The policy will facilitate investments greater than $13.3 million and with a minimum 51 percent foreign stake. **Source**: [The Hindu](https://www.thehindu.com/incoming/jk-govt-approves-first-ever-fdi-policy-for-ut/article65077990.ece)
 
-**The Jammu and Kashmir** administrative council approves 50 percent remission for stamp duty rates for first-time homebuyers. **Source:** [Economic Times](https://realty.economictimes.indiatimes.com/news/residential/first-time-home-buyers-in-jammu-kashmir-to-get-50-stamp-duty-remission/89847883)
+**Jammu and Kashmir** administrative council approves 50 percent remission for stamp duty rates for first-time homebuyers. **Source:** [Economic Times](https://realty.economictimes.indiatimes.com/news/residential/first-time-home-buyers-in-jammu-kashmir-to-get-50-stamp-duty-remission/89847883)
 
 **Jammu and Kashmir** notifies Excise Policy, 2022-23. The policy includes new measures like minimum guarantee revenue and electronic auctions through a secured portal. **Source:** [Daily Excelsior](https://www.dailyexcelsior.com/govt-incorporates-several-new-conditions-in-new-excise-policy/)**; In detail:** [Excise Policy, 2022-23](https://www.dailyexcelsior.com/wp-content/uploads/2022/02/SO-71-Excise-Policy-2022-23-dated-22.02.2022.pdf)
 
