@@ -42,9 +42,11 @@ author:
 
 **Goa** government notifies its concessional EV charging infrastructure policy. The policy will allow charging station operators to generate other sources of revenue upon prior approval. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/goa/govt-notifies-charging-infra-policy-for-electric-vehicles/articleshow/89858617.cms)**; In detail:** [Goa EV Concessional Charging Policy](https://www.goa.gov.in/wp-content/uploads/2021/12/Goa-EV-Charging-Infrastructure-Policy.pdf)
 
+**Maharashtra** launches a special cell dedicated to accelerating infrastructure development and market penetration of electric vehicles (EV) in Mumbai. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/aditya-thackeray-launches-special-cell-dedicated-to-electrical-vehicles-in-mumbai/89799123)**; In detail:** [Minister’s Twitter](https://twitter.com/AUThackeray/status/1496419272603881472)
+
 **Climate Change**
 
-**Maharashtra** launches a special cell dedicated to accelerating infrastructure development and market penetration of electric vehicles (EV) in Mumbai. **Source:** [Economic Times](https://energy.economictimes.indiatimes.com/news/power/aditya-thackeray-launches-special-cell-dedicated-to-electrical-vehicles-in-mumbai/89799123)**; In detail:** [Minister’s Twitter](https://twitter.com/AUThackeray/status/1496419272603881472)
+Nothing critical to report this week
 
 **Oil & Gas**
 
