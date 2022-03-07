@@ -32,8 +32,9 @@
 			margin: 1rem 0;
 
 			img {
-				max-width:200px;
-				max-height:250px;
+				width: 200px;
+				height: 250px;
+        object-fit: cover;
 				margin: 0 auto 0.5rem;
 			}
 
