@@ -29,11 +29,14 @@
 	.team-container {
 		.team-personContainer {
 			text-align: center;
-			margin: 1rem 0;
+			margin: 1rem 0.5rem 6rem;
+			max-width: 200px;
+			max-height: 250px;
 
 			img {
-				max-width:200px;
-				max-height:250px;
+				height: 100%;
+				width: 100%;
+        object-fit: cover;
 				margin: 0 auto 0.5rem;
 			}
 
