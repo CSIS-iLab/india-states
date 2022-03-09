@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: March 2, 2022'
-date: 2022-03-02 05:00:00 +0000
+date: 2022-03-02T05:00:00.000+00:00
 tags: []
 excerpt: 'Big News: Haryana launches program for the development of MSMEs; Rajasthan
   announces its budget for 2022-2023; Goa notifies concessional charging infrastructure
@@ -11,7 +11,7 @@ excerpt: 'Big News: Haryana launches program for the development of MSMEs; Rajas
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
