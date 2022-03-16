@@ -78,7 +78,7 @@ Nothing critical to report this week
 
 **Any Other**
 
-The Bhartiya Janata Party (BJP) wins the state assembly elections in **Uttar Pradesh.** BJP has won 255 of the state’s 403 legislative assembly seats. **Source**: [Business Standard](https://www.business-standard.com/elections); **In detail**: [ECI results](https://results.eci.gov.in/ResultAcGenMar2022/partywiseresult-S19.htm?st=S19)
+The Bhartiya Janata Party (BJP) wins the state assembly elections in **Uttar Pradesh.** BJP has won 255 of the state’s 403 legislative assembly seats. **Source**: [Business Standard](https://www.business-standard.com/elections); **In detail**: [Election Commission of India (ECI) results](https://results.eci.gov.in/ResultAcGenMar2022/partywiseresult-S19.htm?st=S19)
 
 BJP wins the state assembly elections in **Goa.** BJP has won 20 of the state’s 40 legislative assembly seats. **Source**: [Business Standard](https://www.business-standard.com/elections); **In detail**: [ECI results](https://results.eci.gov.in/ResultAcGenMar2022/partywiseresult-S19.htm?st=S19)
 
