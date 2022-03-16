@@ -11,7 +11,7 @@ excerpt: 'Big News: Six Indian states announce their budget for the financial ye
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
