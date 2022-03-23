@@ -11,7 +11,7 @@ excerpt: 'Big News: Nine Indian states announce their budget for the financial y
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
