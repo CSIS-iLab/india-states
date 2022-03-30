@@ -17,7 +17,8 @@ feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
+author:
+- Neelima Jain
 
 ---
 **Big News:** Mumbai becomes the first South Asian city to set a net-zero target by 2050; Four Indian states announce their budget for the financial year 2022-23; Tamil Nadu announces its data policy; Ministry of Power issues guidelines for procuring and utilizing battery storage systems; and more.
