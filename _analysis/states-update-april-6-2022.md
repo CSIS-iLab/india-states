@@ -46,7 +46,7 @@ Nothing critical to report this week
 
 **Water & Sanitation**
 
-**Arunachal Pradesh, Manipur, Meghalaya, Sikkim, Tripura,** and **Himachal Pradesh** qualify for performance incentive grants under the Jal Jeevan Mission (JJM). JJM is a Ministry of Jal Shakti initiative aiming to provide piped water to every household in India by 2024. **Source:** [E Pao](http://e-pao.net/GP.asp?src=30..310322.mar22)**; In detail:** [Press Release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=181157)
+**Arunachal Pradesh, Manipur, Meghalaya, Sikkim, Tripura,** and **Himachal Pradesh** qualify for performance incentive grants under the Jal Jeevan Mission (JJM). JJM is a Ministry of Jal Shakti initiative aiming to provide piped water to every household in India by 2024. **Source:** [E Pao](http://e-pao.net/GP.asp?src=30..310322.mar22); **In detail:** [Press Release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=181157)
 
 **Power & Renewable Energy**
 
@@ -54,13 +54,13 @@ Nothing critical to report this week
 
 **Andhra Pradesh** increases its electricity tariff for domestic consumers. The increase is in the range of $0.005 and $0.02 per kilowatt-hour (kWh) in six different slabs of domestic consumption. **Source**: [Business Standard](https://www.business-standard.com/article/current-affairs/domestic-power-tariff-hiked-in-andhra-pradesh-122033001475_1.html); **In detail**: Tariff Order ([Vol 1](https://aperc.gov.in/admin/upload/RSTOFY202223Vol1.pdf), [Vol 2](https://aperc.gov.in/admin/upload/RSTOFY202223VolII.pdf))
 
-**Madhya Pradesh** increases its electricity tariff by 2.64 percent and 1.4 percent per kWh for domestic and industrial consumers, respectively. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhopal/like-domestic-industrial-power-tariff-too-hiked-significantly/articleshow/90600821.cms)**; In detail:** [Tariff Order](http://www.mperc.in/31032022-DISCOM-MYT-Order-FY-2022-23-to-FY-2026-27.pdf)
+**Madhya Pradesh** increases its electricity tariff by 2.64 percent and 1.4 percent per kWh for domestic and industrial consumers, respectively. **Source:** [Times of India](https://timesofindia.indiatimes.com/city/bhopal/like-domestic-industrial-power-tariff-too-hiked-significantly/articleshow/90600821.cms); **In detail:** [Tariff Order](http://www.mperc.in/31032022-DISCOM-MYT-Order-FY-2022-23-to-FY-2026-27.pdf)
 
-**Himachal Pradesh** increases its electricity tariff by $0.002 per kWh for all consumer categories. **Source:** [Hindustan Times](https://www.hindustantimes.com/cities/chandigarh-news/power-gets-dearer-in-himachal-by-20-paiseunit-101648676570837.html)**; In detail:** [Tariff Order](http://hperc.org/File/tarifgen21.pdf)
+**Himachal Pradesh** increases its electricity tariff by $0.002 per kWh for all consumer categories. **Source:** [Hindustan Times](https://www.hindustantimes.com/cities/chandigarh-news/power-gets-dearer-in-himachal-by-20-paiseunit-101648676570837.html); **In detail:** [Tariff Order](http://hperc.org/File/tarifgen21.pdf)
 
-**Himachal Pradesh** increases Levelized Tariffs for solar projects of up to five megawatts (MW) for FY 2022-23. The increase is in the range of 10 to 11 percent per MW. **Source:** [Mercom](https://mercomindia.com/himachal-increases-levelized-tariffs-for-solar-projects/)**; In detail:** [Order](http://hperc.org/File/fsolartr22-23.pdf)
+**Himachal Pradesh** increases Levelized Tariffs for solar projects of up to five megawatts (MW) for FY 2022-23. The increase is in the range of 10 to 11 percent per MW. **Source:** [Mercom](https://mercomindia.com/himachal-increases-levelized-tariffs-for-solar-projects/); **In detail:** [Order](http://hperc.org/File/fsolartr22-23.pdf)
 
-**Himachal Pradesh** increases the subsidy for the rooftop solar power plant from $52.73 to $79.1 per kilowatt. **Source:** [The Tribune](http://hperc.org/File/fsolartr22-23.pdf)**; In detail:** [Approved Rates](http://hperc.org/File/fsolartr22-23.pdf)
+**Himachal Pradesh** increases the subsidy for the rooftop solar power plant from $52.73 to $79.1 per kilowatt. **Source:** [The Tribune](http://hperc.org/File/fsolartr22-23.pdf); **In detail:** [Approved Rates](http://hperc.org/File/fsolartr22-23.pdf)
 
 **Mizoram** increases its electricity tariff from $0.096 to $0.103 per kWh for all categories of consumers. **Source**: [East Mojo](https://www.eastmojo.com/mizoram/2022/03/28/from-april-1-mizoram-households-to-pay-more-for-electricity/); **In detail**: [Tariff Order](https://jerc.mizoram.gov.in/uploads/attachments/2022/03/8c238f8da55f48d87d8cef813f919a5f/ped-tariff-order-for-fy2022-23-converted.pdf)
 
