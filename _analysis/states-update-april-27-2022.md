@@ -5,7 +5,9 @@ content_type: analysis
 title: 'States Update: April 27, 2022'
 date: 2022-04-27 04:00:00 +0000
 tags: []
-excerpt: ''
+excerpt: 'Big News: Niti Aayog releases a draft battery swapping policy; Karnataka
+  cabinet approves its data center policy; Tripura launches a new industry scheme;
+  and more.'
 states: []
 sectors: []
 subsectors: []
