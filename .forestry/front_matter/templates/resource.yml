@@ -39,7 +39,7 @@ fields:
 - name: sectors
   type: include
   config: {}
-  template: sub-categories-dropdown
+  template: sub-categories-sortable-list
   label: Sectors
 pages:
 - _resources/covid-19-economic-stimulus-and-state-level-power-sector-performance.md
