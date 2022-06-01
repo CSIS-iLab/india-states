@@ -20,7 +20,7 @@ author:
 - Richard M. Rossow
 
 ---
-**Big News:** Bihar approves a new Bihar Textile and Leather Policy-2022; Gujarat launches its Telecom Infrastructure Policy, 2022; West Bengal gives tax exemption to promote EVs; Rajasthan & Tripura adopt Electric Vehicle Policies; and more.
+**Big News:** Bihar approves a new Bihar Textile and Leather Policy, 2022; Gujarat launches its Telecom Infrastructure Policy, 2022; West Bengal gives tax exemption to promote EVs; Rajasthan & Tripura adopt Electric Vehicle Policies; and more.
 
 **Industrial Policy & Business Regulations**
 
