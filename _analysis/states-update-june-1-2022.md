@@ -24,7 +24,7 @@ author:
 
 **Industrial Policy & Business Regulations**
 
-**Bihar** approves new Bihar Textile and Leather Policy-2022. The policy aims to encourage development and investment at the sectoral level. Applications to benefit from the policy has to be made online by June 30, 2023. **Source**: [Republic World](https://www.republicworld.com/india-news/general-news/bihar-govt-approves-of-new-textile-and-leather-policy.html); **In detail**: [Bihar Industries Minister’s Twitter](https://twitter.com/ShahnawazBJP/status/1529746524418084865); [Cabinet Decisions](https://state.bihar.gov.in/cache/10/Smart%20City/Old%20Cabinet%20Decisions/C26052022.pdf)
+**Bihar** approves new Bihar Textile and Leather Policy-2022. The policy aims to encourage development and investment at the sectoral level. Applications to benefit from the policy have to be made online by June 30, 2023. **Source**: [Republic World](https://www.republicworld.com/india-news/general-news/bihar-govt-approves-of-new-textile-and-leather-policy.html); **In detail**: [Bihar Industries Minister’s Twitter](https://twitter.com/ShahnawazBJP/status/1529746524418084865); [Cabinet Decisions](https://state.bihar.gov.in/cache/10/Smart%20City/Old%20Cabinet%20Decisions/C26052022.pdf)
 
 **Land Acquisition & Labor Regulations**
 
