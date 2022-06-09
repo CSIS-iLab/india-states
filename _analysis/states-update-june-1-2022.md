@@ -11,7 +11,7 @@ excerpt: Bihar approves a new Bihar Textile and Leather Policy-2022; Gujarat lau
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
