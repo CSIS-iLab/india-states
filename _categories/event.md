@@ -1,4 +1,0 @@
----
-category_name: Event
-
----
