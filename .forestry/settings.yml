@@ -49,13 +49,6 @@ sections:
   templates:
   - author
 - type: directory
-  path: _categories
-  label: Categories
-  create: all
-  match: "**/*"
-  templates:
-  - categories
-- type: directory
   path: _national-goals
   label: National goals
   create: all
