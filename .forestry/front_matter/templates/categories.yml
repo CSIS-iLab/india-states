@@ -7,3 +7,5 @@ fields:
   config:
     required: true
   label: Category Name
+pages:
+- _categories/event.md
