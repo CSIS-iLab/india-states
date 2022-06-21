@@ -51,6 +51,13 @@ fields:
   - type: text
     name: url
     label: Url
+- name: testing-1
+  type: list
+  config:
+    use_select: false
+    min: 
+    max: 
+  label: Testing-1
 - type: list
   config:
     use_select: true
