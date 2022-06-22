@@ -3,7 +3,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: June 16, 2022'
-date: 2022-06-16 04:00:00 +0000
+date: 2022-06-16T04:00:00.000+00:00
 tags: []
 excerpt: 'Big News: Bihar launches a new Textile and Leather Policy; Madhya Pradesh
   waives its monthly vehicle tax; Tamil Nadu amends its Shops and Establishments Act
@@ -14,13 +14,14 @@ excerpt: 'Big News: Bihar launches a new Textile and Leather Policy; Madhya Prad
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
 author:
 - Richard M. Rossow
+categories: ''
 
 ---
 **Big News:** Bihar launches a new Textile and Leather Policy; Madhya Pradesh waives its monthly vehicle tax; Tamil Nadu amends its Shops and Establishments Act to allow stores to remain open 24x7; West Bengal eases criteria for setting up industrial parks; Himachal Pradesh launches a new Drone Policy; Jammu & Kashmir approves a new Rooftop Solar Scheme; the Ministry of Power pushes a new Green Open Access Rules for electric power; and more.
