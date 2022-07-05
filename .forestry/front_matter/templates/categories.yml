@@ -2,8 +2,17 @@
 label: Categories
 hide_body: true
 fields:
-- name: category_name
-  type: text
+- type: text
+  name: category_name
   config:
     required: true
   label: Category Name
+- type: textarea
+  name: description
+  label: Description
+- type: file
+  name: feature_image
+  label: Feature Image
+- type: text
+  name: feature_image_credit
+  label: Feature Image Credit

@@ -22,19 +22,16 @@ fields:
   name: subsectors
   label: Subsectors
   template: sub-categories-sortable-list
-- name: categories
-  type: select
+- type: select
+  name: categories
   default: []
   config:
     required: false
-    options: []
     source:
       type: pages
       section: categories
-      file: 
-      path: 
   label: Categories
-  description: Select the type of post (eg, Event, India States Weekly, etc.)
+  description: Select the type of post (eg, Partnership Matrices, Reports, India States Weekly, etc.)
 - type: boolean
   name: is_featured
   label: Is_Featured
