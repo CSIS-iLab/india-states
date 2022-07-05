@@ -15,7 +15,7 @@ collections:
   post-type:
     title: Post Type
     output: true
-    path: '/:path/:title/'
+    path: '/:path/:post-type/'
   national-goals:
     title: National Goals
     output: true
