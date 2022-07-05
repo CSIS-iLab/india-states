@@ -1,9 +1,25 @@
 ---
 label: Categories
-hide_body: true
+hide_body: false
 fields:
-- name: category_name
-  type: text
+- type: text
+  name: category_name
   config:
     required: true
   label: Category Name
+- type: textarea
+  name: description
+  label: Description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: file
+  name: image
+  label: Image
+- type: text
+  label: Image Caption
+  name: image_caption
+- type: text
+  name: image_credit
+  label: Image Credit
