@@ -16,5 +16,3 @@ fields:
 - type: text
   name: feature_image_credit
   label: Feature Image Credit
-pages:
-- _post-types/test-post-type.md
