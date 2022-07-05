@@ -3,7 +3,7 @@ label: Post Types
 hide_body: true
 fields:
 - type: text
-  name: post_type
+  name: title
   config:
     required: true
   label: Post Type
