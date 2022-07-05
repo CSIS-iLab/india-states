@@ -12,6 +12,10 @@ collections:
   authors:
     title: Authors
     output: false
+  categories:
+    title: Categories
+    output: true
+    path: '/:path/:title/'
   national-goals:
     title: National Goals
     output: true
@@ -79,10 +83,10 @@ defaults:
   - scope:
     path: ''
     type: categories
-  values:
-    description:
-    feature_image:
-    feature_image_credit:
+    values:
+      description:
+      feature_image:
+      feature_image_credit:
   - scope:
       path: ''
       type: states
