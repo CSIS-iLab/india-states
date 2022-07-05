@@ -1,12 +1,12 @@
 ---
-label: Categories
+label: Post Types
 hide_body: true
 fields:
 - type: text
-  name: category_name
+  name: post_type
   config:
     required: true
-  label: Category Name
+  label: Post Type
 - type: textarea
   name: description
   label: Description

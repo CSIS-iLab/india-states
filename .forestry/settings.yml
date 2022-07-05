@@ -49,12 +49,12 @@ sections:
   templates:
   - author
 - type: directory
-  path: _categories
-  label: Categories
+  path: _post-types
+  label: Post Types
   create: all
   match: "**/*"
   templates:
-  - categories
+  - post-type
 - type: directory
   path: _national-goals
   label: National goals

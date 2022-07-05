@@ -12,6 +12,10 @@ collections:
   authors:
     title: Authors
     output: false
+  post-type:
+    title: Post Type
+    output: true
+    path: '/:path/:title/'
   national-goals:
     title: National Goals
     output: true
@@ -76,6 +80,13 @@ defaults:
       breadcrumbs: analysis
       content_type: Analysis
       is_analysis: true
+  - scope:
+    path: ''
+    type: post-type
+    values:
+      description:
+      feature_image:
+      feature_image_credit:
   - scope:
       path: ''
       type: states
