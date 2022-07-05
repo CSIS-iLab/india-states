@@ -22,17 +22,6 @@ fields:
   name: subsectors
   label: Subsectors
   template: sub-categories-sortable-list
-- type: select
-  name: post_type
-  default: []
-  config:
-    required: false
-    source:
-      type: pages
-      section: post-types
-  label: Post Type
-  description: Select the type of post (eg, Partnership Matrices, Reports, India States
-    Weekly, etc.)
 - type: boolean
   name: is_featured
   label: Is_Featured
