@@ -66,3 +66,4 @@ fields:
   label: Content_Type
   hidden: true
   default: events
+pages:

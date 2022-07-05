@@ -87,7 +87,7 @@ defaults:
       is_analysis: true
   - scope:
     path: ''
-    type: 'event'
+    type: 'events'
     values:
       layout: post
       excerpt:
