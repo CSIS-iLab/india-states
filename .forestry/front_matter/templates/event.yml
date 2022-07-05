@@ -67,5 +67,3 @@ fields:
   label: Content_Type
   hidden: true
   default: events
-pages:
-- _events/test-event.md
