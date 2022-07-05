@@ -29,9 +29,10 @@ fields:
     required: false
     source:
       type: pages
-      section: post-type
+      section: post-types
   label: Post Type
-  description: Select the type of post (eg, Partnership Matrices, Reports, India States Weekly, etc.)
+  description: Select the type of post (eg, Partnership Matrices, Reports, India States
+    Weekly, etc.)
 - type: boolean
   name: is_featured
   label: Is_Featured
