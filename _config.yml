@@ -12,10 +12,6 @@ collections:
   authors:
     title: Authors
     output: false
-  categories:
-    title: Categories
-    output: true
-    path: '/:path/:title/'
   national-goals:
     title: National Goals
     output: true
