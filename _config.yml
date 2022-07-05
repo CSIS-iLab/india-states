@@ -81,8 +81,8 @@ defaults:
       content_type: Analysis
       is_analysis: true
   - scope:
-    path: ''
-    type: post-type
+      path: ''
+      type: post-type
     values:
       description:
       feature_image:
