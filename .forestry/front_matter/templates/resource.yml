@@ -36,11 +36,30 @@ fields:
     schema:
       format: markdown
   label: Summary
-- name: sectors
-  type: include
-  config: {}
-  template: sub-categories-sortable-list
-  label: Sectors
+- name: sector
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: sectors
+      file: 
+      path: 
+  label: Sector
+- name: subsector
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: subsectors
+      file: 
+      path: 
+  label: Subsector
 pages:
 - _resources/covid-19-economic-stimulus-and-state-level-power-sector-performance.md
 - _resources/draft-electricity-right-of-consumers-amendment-rules.md
