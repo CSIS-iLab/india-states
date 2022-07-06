@@ -1,6 +1,6 @@
 ---
 title: 'States Update: June 7, 2017'
-date: 2017-06-07 15:14:00 Z
+date: 2017-06-07T15:14:00.000+00:00
 tags:
 - Update on India's States
 excerpt: Bihar unveils an ambitious renewable power policy; Haryana builds a unified
@@ -8,8 +8,9 @@ excerpt: Bihar unveils an ambitious renewable power policy; Haryana builds a uni
   the Posco steel plot; and more.
 author:
 - Sarah Watson
----
+post_type: _post-types/india-states-weekly.md
 
+---
 **Big News**
 
 Bihar unveils an ambitious renewable power policy; Haryana builds a unified policing database; West Bengal drags its feet on the GST; Odisha finds a buyer for the Posco steel plot; and more.
