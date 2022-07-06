@@ -18,3 +18,5 @@ fields:
   label: Breadcrumbs
   default: sectors
   hidden: true
+pages:
+- _sectors/industrial-policy-and-business-regulations.md
