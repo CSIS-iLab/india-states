@@ -4,20 +4,21 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: June 29, 2022'
-date: 2022-06-29 04:00:00 +0000
+date: 2022-06-29T04:00:00.000+00:00
 tags: []
 excerpt: 'Big News: Himachal Pradesh announces its Himachal Pradesh Logistics Policy;
   Telangana launches plug-and-play EV park; Odisha tops MSME awards; and more. '
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
 author:
 - Richard M. Rossow
+post_type: ''
 
 ---
 **Big News:** Himachal Pradesh announces its Himachal Pradesh Logistics Policy; Telangana launches plug-and-play EV park; Odisha tops MSME awards; and more.
