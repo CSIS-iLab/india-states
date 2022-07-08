@@ -196,6 +196,7 @@ date_format: '%B %-d, %Y'
 post_meta_limit: 5
 post_meta_sector_limit: 3
 google_analytics: UA-70098597-2
+google_analytics_4: G-4KVQVPR7MQ
 facebook: CsisIndiaChair
 facebook_default_image: '/assets/img/facebook-standard-image-min.jpg'
 twitter_default_image: '/assets/img/twitter-standard-image-min.jpg'
