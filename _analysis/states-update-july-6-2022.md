@@ -13,7 +13,7 @@ excerpt: 'Big News: Haryana announces its Haryana Electric Vehicle Policy and it
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
@@ -34,7 +34,7 @@ author:
 
 **Source**: [KNN](https://knnindia.co.in/news/newsdetails/state/goa-notifies-preferential-purchase-scheme-for-msmes); **In detail**: [Press Release](https://www.goa.gov.in/wp-content/uploads/2022/06/World-MSME-Day-Observed.pdf)
 
-**Odisha** announces its budget for the financial year (FY) 2022-23. The budget estimates the state’s total receipt and expenditure at $25.3 billion respectively.
+**Odisha** announces its budget for the financial year (FY) 2022-23. The budgfet estimates the state’s total receipt and expenditure at $25.3 billion respectively.
 
 **Source**: [Times of India](https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-presents-rs-2-lakh-crore-budget-for-2022-23-fy/articleshow/92623196.cms); **In detail**: [Budget](https://finance.odisha.gov.in/sites/default/files/2022-03/Budget%20at%20a%20Glance%20VOA%202022-23.pdf)
 
