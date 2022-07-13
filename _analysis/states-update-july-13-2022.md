@@ -5,7 +5,10 @@ is_analysis: true
 content_type: analysis
 title: 'States Update: July 13, 2022'
 date: 2022-07-13 04:00:00 +0000
-tags: []
+tags:
+- Renewable Energy
+- " Electric Vehicles"
+- Solar
 excerpt: Tamil Nadu launches its Tamil Nadu R&D Policy 2022; Assam approves its Assam
   State Data Policy 2022 and Assam State Renewable Energy Policy 2022; Chhattisgarh
   approves its Chhattisgarh State Electric Vehicle Policy 2022; Jharkhand releases
