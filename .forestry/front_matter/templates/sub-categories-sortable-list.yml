@@ -55,6 +55,11 @@ fields:
     options:
     - Energy
     - Health
+    - Industrial Policy and Business Regulations
+    - Infrastructure and Governance
+    - Land & Labor Laws
+    - Water & Sanitation
+    - Climate Change
 - type: list
   name: subsectors
   label: Subsectors
