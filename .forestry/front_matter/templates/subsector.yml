@@ -18,5 +18,4 @@ fields:
   default: subsector
   hidden: true
 pages:
-- _subsectors/oil-gas.md
 - _subsectors/power-renewable-energy.md
