@@ -2,7 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: Tamil Nadu proposes new solar tariff
-date: 2021-09-01 04:00:00 +0000
+date: 2021-09-01T04:00:00.000+00:00
 states:
 - Tamil Nadu
 sectors:
@@ -18,5 +18,8 @@ details:
 - name: Regulation
   url: http://www.tnerc.gov.in/PressRelease/files/PR-170820211645Eng.pdf
 is_analysis: false
+sectors_new:
+- _sectors/infrastructure-and-governance.md
+- _sectors/energy.md
 
 ---
