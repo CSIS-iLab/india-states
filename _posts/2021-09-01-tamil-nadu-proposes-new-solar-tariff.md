@@ -18,8 +18,6 @@ details:
 - name: Regulation
   url: http://www.tnerc.gov.in/PressRelease/files/PR-170820211645Eng.pdf
 is_analysis: false
-sectors_new:
-- _sectors/infrastructure-and-governance.md
-- _sectors/energy.md
+sectors_new: []
 
 ---
