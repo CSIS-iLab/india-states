@@ -78,3 +78,13 @@ fields:
     - " Healthcare Workforce"
     - " Pharmaceuticals and Devices"
     - " Social Determinants of Health"
+- name: sectors_new
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: sectors
+  label: Sectors New
