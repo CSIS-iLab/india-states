@@ -4,7 +4,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: July 21, 2022'
-date: 2022-07-21 04:00:00 +0000
+date: 2022-07-21 11:00:00 +0000
 tags: []
 excerpt: 'Ministry of Health (MoH) releases its draft Drug, Medical Devices, and Cosmetics
   Bill 2022; Arunachal Pradesh and Assam sign ‘Namsai Declaration’; CAQM formulates
