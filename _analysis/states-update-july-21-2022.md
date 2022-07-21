@@ -128,7 +128,7 @@ Nothing critical to report this week
 
 **Goa** approves an amendment to its **Goa Provision of Water Supply Act 2003**. The amendment decriminalises a part of the act by removing the six month imprisonment and also increases fines to $125 for domestic consumers and $626 for commercial consumers.
 
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/goa/goa-govt-moves-to-decriminalise-water-supply-act-hikes-fines/articleshow/92853655.cms); **In Detail**: \[The Goa Provision of Water Supply Act, 2003\](file:///C:/Users/Welcome/Downloads/Provision-of-Water-Supply-Act%20(1).pdf)
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/goa/goa-govt-moves-to-decriminalise-water-supply-act-hikes-fines/articleshow/92853655.cms)
 
 **Center – State Relations**
 
