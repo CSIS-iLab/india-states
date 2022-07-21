@@ -118,7 +118,7 @@ Nothing critical to report this week
 
 **Source**: [Web India](https://news.webindia123.com/news/articles/India/20220713/3962109.html); **In detail**: [Press release](https://ipr.ap.nic.in/images/press-releases/agriculture%20review%20with%20central%20minister.pdf)
 
-**Telangana** announces ‘Data in Climate Resilient Agriculture’ (DiCRA) as the latest addition to its ‘Digital Public Goods Registry’. Powered by Artificial Intelligence (AI), the platform is geared towards strengthening food systems and food security in the state.
+**Telangana** announces ‘Data in Climate Resilient Agriculture’ (DiCRA) as the latest addition to its ‘Digital Public Goods Registry.' Powered by Artificial Intelligence (AI), the platform is geared towards strengthening food systems and food security in the state.
 
 **Source**: [Telangana Today](https://telanganatoday.com/telangana-govt-announces-dicra-in-partnership-with-undp); **In detail**: [Press release](https://www.undp.org/news/announcing-dicra-digital-public-good-harnesses-open-source-tech-boost-climate-resilient-agriculture)
 
