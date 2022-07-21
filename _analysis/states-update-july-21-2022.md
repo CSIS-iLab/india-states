@@ -50,7 +50,7 @@ author:
 
 **Source**: [Swarajya](https://swarajyamag.com/news-brief/new-rail-line-connecting-taranga-hill-and-ambaji-in-gujarat-and-abu-road-in-rajasthan-given-green-light); **In Detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1841202)
 
-**Maharashtra** approves renaming of Aurangabad and Osmanabad cities as Chhatrapati Sambhajinagar and Dharashiv respectively.
+**Maharashtra** approves renaming of Aurangabad and Osmanabad cities as Chhatrapati Sambhajinagar and Dharashiv, respectively.
 
 **Source**: [NDTV](https://www.ndtv.com/india-news/auranagabad-renamed-eknath-shinde-maharashtra-news-eknath-shinde-cabinet-approves-renaming-of-2-maharashtra-cities-3163570); **In detail**: [CMO’s Twitter](https://twitter.com/CMOMaharashtra/status/1548226043147735045) (In Hindi)
 
@@ -128,7 +128,7 @@ Nothing critical to report this week
 
 **Goa** approves an amendment to its **Goa Provision of Water Supply Act 2003**. The amendment decriminalises a part of the act by removing the six month imprisonment and also increases fines to $125 for domestic consumers and $626 for commercial consumers.
 
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/goa/goa-govt-moves-to-decriminalise-water-supply-act-hikes-fines/articleshow/92853655.cms); **In Detail**: [The Goa Provision of Water Supply Act, 2003](file:///C:/Users/Welcome/Downloads/Provision-of-Water-Supply-Act%20(1).pdf)
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/goa/goa-govt-moves-to-decriminalise-water-supply-act-hikes-fines/articleshow/92853655.cms); **In Detail**: \[The Goa Provision of Water Supply Act, 2003\](file:///C:/Users/Welcome/Downloads/Provision-of-Water-Supply-Act%20(1).pdf)
 
 **Center – State Relations**
 
