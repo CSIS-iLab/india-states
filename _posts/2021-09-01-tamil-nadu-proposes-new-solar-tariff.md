@@ -8,7 +8,7 @@ states:
 sectors:
 - Energy
 subsectors:
-- Renewables
+- Power and Renewable Energy
 sources:
 - name: Mercom
   url: https://mercomindia.com/tamil-nadu-generic-tariff-ooftop-solar/
