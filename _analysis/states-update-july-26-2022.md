@@ -35,11 +35,11 @@ author:
 
 **Jharkhand** launches its **Jharkhand Tourism Policy 2021**. The policy aims to attract tourists to the state leading to employment generation, improvement in happiness quotient, and achieving sustainable development.
 
-**Source**: [Mint](https://www.livemint.com/news/india/chief-minister-hemant-soren-launches-jharkhand-tourism-policy-2021-11658589798152.html); **In detail**: [Policy](https://tourism.jharkhand.gov.in/cms/Application/uploadDocuments/download/Document20220726_124458.pdf)
+**Source**: [Mint](https://www.livemint.com/news/india/chief-minister-hemant-soren-launches-jharkhand-tourism-policy-2021-11658589798152.html); **In detail**: [Policy](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:86abce75-6c8a-4560-b3ab-c5cdafd47e35 "Policy")
 
 **Kerala** launches state-level loan scheme for entrepreneurs, formulated by the State Level Bankers' Committee (SLBC). The scheme offers interest subvention on loans up to $12,500 so that entrepreneurs can avail them at 4% interest.
 
-**Source**: [The Hindu](https://www.thehindu.com/news/national/kerala/state-level-loan-scheme-for-entrepreneurs-launched/article65671523.ece); **In detail**: [Press Release](https://kerala.gov.in/articledetail/MzU3NzQ2NDg4LjQ0/0)
+**Source**: [The Hindu](https://www.thehindu.com/news/national/kerala/state-level-loan-scheme-for-entrepreneurs-launched/article65671523.ece); **In detail**: [Press Release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:457521ac-34d0-4d53-984b-ad725b0affc4#pageNum=1 "Press Release")
 
 **Land Acquisition & Labor Regulations**
 
