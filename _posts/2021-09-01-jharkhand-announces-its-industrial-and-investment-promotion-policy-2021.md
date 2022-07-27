@@ -1,7 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: Jharkhand announces its Industrial and Investment Promotion Policy, 2021
+title: Jharkhand announces its Industrial and Investment Promotion Policy
 date: 2021-09-01 04:00:00 +0000
 states:
 - Jharkhand
