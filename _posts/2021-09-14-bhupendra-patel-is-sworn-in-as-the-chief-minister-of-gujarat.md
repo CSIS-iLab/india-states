@@ -1,7 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: Bhupendra Patel is sworn in as the chief minister of Gujarat
+title: Bhupendra Patel sworn in as the chief minister of Gujarat
 date: 2021-09-14 04:00:00 +0000
 states:
 - Gujarat
