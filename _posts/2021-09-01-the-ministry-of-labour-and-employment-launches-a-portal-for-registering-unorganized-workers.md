@@ -1,8 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: The Ministry of Labour and Employment launches a portal for registering unorganized
-  workers
+title: The Ministry of Labour and Employment launches a portal for unorganized workers
 date: 2021-09-01 04:00:00 +0000
 states:
 - Center-State Relations
