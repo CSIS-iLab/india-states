@@ -1,7 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: Arunachal Pradesh launches agriculture and horticulture subsidy schemes
+title: 'Arunachal Pradesh launches agriculture and horticulture subsidy schemes '
 date: 2021-09-07 04:00:00 +0000
 states:
 - Arunachal Pradesh
