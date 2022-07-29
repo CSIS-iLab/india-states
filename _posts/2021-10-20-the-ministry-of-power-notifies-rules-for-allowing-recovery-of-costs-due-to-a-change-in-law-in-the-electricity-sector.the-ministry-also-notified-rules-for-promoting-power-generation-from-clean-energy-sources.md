@@ -2,8 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: The Ministry of Power notifies rules for allowing recovery of costs due to
-  a change in law in the electricity sector. The ministry also notified rules for
-  promoting power generation from clean energy sources
+  a change in law in the electricity sector
 date: 2021-10-20 04:00:00 +0000
 states:
 - Center-State Relations
