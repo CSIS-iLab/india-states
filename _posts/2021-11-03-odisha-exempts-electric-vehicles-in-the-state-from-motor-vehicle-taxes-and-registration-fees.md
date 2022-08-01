@@ -7,7 +7,7 @@ date: 2021-11-03 04:00:00 +0000
 states:
 - Odisha
 sectors:
-- Industrial Policy and Business Regulations
+- Infrastructure and Governance
 subsectors: []
 sources:
 - name: The Hindu
