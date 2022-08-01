@@ -2,7 +2,7 @@
 content_type: articles
 breadcrumbs: articles
 title: The Department for Promotion of Industry and Internal Trade launches a national
-  single-window system for investors and businesses.
+  single-window system for investors and businesses
 date: 2021-09-30 04:00:00 +0000
 states:
 - Center-State Relations
