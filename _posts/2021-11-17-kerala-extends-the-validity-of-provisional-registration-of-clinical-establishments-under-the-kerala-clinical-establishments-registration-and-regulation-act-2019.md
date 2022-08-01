@@ -13,7 +13,7 @@ sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/national/kerala/assembly-passes-two-health-bills/article37408289.ece
 details:
-- name: Kerala Clinical Establishments Amendment Bill, 2022
+- name: Kerala Clinical Establishments Amendment Bill, 2021
   url: http://www.niyamasabha.org/codes/15kla/bills/Bill%20No.%2040%20pub%20eng.pdf
 is_analysis: false
 
