@@ -16,6 +16,8 @@ sources:
 - name: News 18
   url: https://www.news18.com/news/india/gujarat-maharashtra-goa-top-centres-good-governance-index-up-shows-big-improvement-4592168.html
 details:
+- name: Press Release
+  url: https://pib.gov.in/PressReleasePage.aspx?PRID=1785140
 - name: Good Governance Index, 2020-21
   url: https://darpg.gov.in/sites/default/files/GGI_Report_22.12.2021.pdf
 is_analysis: false
