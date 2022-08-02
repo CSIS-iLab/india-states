@@ -1,9 +1,7 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: The Assam cabinet approves its handicraft policy for 2022. The policy offers
-  a range of incentives to craft-based industries in the state, including capital
-  investment subsidy, interest subsidy, and financial aid for product marketing
+title: The Assam cabinet approves its handicraft policy for 2022
 date: 2022-01-19 05:00:00 +0000
 states:
 - Assam
