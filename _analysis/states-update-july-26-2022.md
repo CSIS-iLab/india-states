@@ -12,7 +12,7 @@ excerpt: 'Rajasthan notifies its Rajasthan Film Tourism Policy 2022; Jharkhand l
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
