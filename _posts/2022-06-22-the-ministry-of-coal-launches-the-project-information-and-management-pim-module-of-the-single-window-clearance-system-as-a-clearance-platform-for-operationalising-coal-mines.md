@@ -15,6 +15,8 @@ sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/current-affairs/coal-ministry-launches-pim-module-of-single-window-clearance-system-122061401276_1.html
 details:
+- name: Single-window system
+  url: https://swcs.coal.gov.in/admin/signin
 - name: Press Release
   url: https://pib.gov.in/PressReleasePage.aspx?PRID=1833882
 is_analysis: false
