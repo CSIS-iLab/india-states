@@ -24,7 +24,7 @@ author:
 - Richard M. Rossow
 
 ---
-**Big News:** Ministry of Power issues Late Paymnt Surcharge Rules 2022; Karnataka approves its Karnataka R&D Policy 2022; Manipur adopts resolution to introduce a National Registry of Citizens (NRC); Rajasthan and Andhra Pradesh rank first and second respectively in NITI Aayog’s Progress on SDGs report 2022; and more.
+**Big News:** Ministry of Power issues Late Payment Surcharge Rules 2022; Karnataka approves its Karnataka R&D Policy 2022; Manipur adopts resolution to introduce a National Registry of Citizens (NRC); Rajasthan and Andhra Pradesh rank first and second respectively in NITI Aayog’s Progress on SDGs report 2022; and more.
 
 **Industrial Policy & Business Regulations**
 
