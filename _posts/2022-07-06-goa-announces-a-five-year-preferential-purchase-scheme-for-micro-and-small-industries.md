@@ -13,8 +13,8 @@ sources:
 - name: KNN
   url: https://knnindia.co.in/news/newsdetails/state/goa-notifies-preferential-purchase-scheme-for-msmes
 details:
-- name: Press Release
-  url: https://www.goa.gov.in/wp-content/uploads/2022/06/World-MSME-Day-Observed.pdf
+- name: Scheme Details
+  url: https://goaprintingpress.gov.in/downloads/2223/2223-13-SI-OG-0.pdf
 is_analysis: false
 
 ---
