@@ -7,6 +7,7 @@ date: 2022-07-26 04:00:00 +0000
 states:
 - Madhya Pradesh
 sectors:
+- Water & Sanitation
 - Health
 subsectors: []
 sources:
