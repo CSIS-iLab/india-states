@@ -16,6 +16,5 @@ legislative_seats: ''
 rajya_seats: ''
 lok_seats: ''
 gdp: ''
-published: false
 
 ---
