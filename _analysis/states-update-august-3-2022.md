@@ -66,7 +66,7 @@ Nothing critical to report this week
 
 **Health**
 
-The Arunachal Pradesh Government has undertaken major key decisions, an effort to bring major reforms in Arunachal Pradesh Public Service Commission (APPSC) & Health Department. “The state administration has also decided to restructure the health facilities in the state vis-a-vis Indian Public Health Standards Guidelines and Human Resource Distribution, as per IPHS norms to these categories of health facilities,” – informed an official bulletin.
+The **Arunachal Pradesh** Government has undertaken major key decisions, an effort to bring major reforms in Arunachal Pradesh Public Service Commission (APPSC) & Health Department. “The state administration has also decided to restructure the health facilities in the state vis-a-vis Indian Public Health Standards Guidelines and Human Resource Distribution, as per IPHS norms to these categories of health facilities,” – informed an official bulletin.
 
 **Source**: [North East Today](https://www.northeasttoday.in/2022/07/28/48764/); **In detail**: [CMO Twitter](https://twitter.com/PemaKhanduBJP/status/1552665916810629120)
 
@@ -76,11 +76,11 @@ Nothing critical to report this week
 
 **Any Other**
 
-The Assam Cabinet approved Tourism Policy, 2022 which is aimed at developing adequate infrastructure at places of tourist interest, taking into consideration ecological and cultural sensitivities. At a meeting, presided over by Chief Minister Himanta Biswa Sarma, the cabinet approved the policy which seeks to create Special Tourism Zones (STZs) by promoting tea garden visits, wellness initiatives, adventures, along with the existing wildlife and heritage circuit.
+The **Assam** Cabinet approved Tourism Policy, 2022 which is aimed at developing adequate infrastructure at places of tourist interest, taking into consideration ecological and cultural sensitivities. At a meeting, presided over by Chief Minister Himanta Biswa Sarma, the cabinet approved the policy which seeks to create Special Tourism Zones (STZs) by promoting tea garden visits, wellness initiatives, adventures, along with the existing wildlife and heritage circuit.
 
-**Source**: [East Mojo](https://www.eastmojo.com/assam/2022/07/29/assam-cabinet-approves-tourism-policy-proposal-for-dual-medium-of-instruction-in-schools/); **In detail**: [CM twitter](https://twitter.com/himantabiswa/status/1552691028225798146)
+**Source**: [East Mojo](https://www.eastmojo.com/assam/2022/07/29/assam-cabinet-approves-tourism-policy-proposal-for-dual-medium-of-instruction-in-schools/); **In detail**: [CM Twitter](https://twitter.com/himantabiswa/status/1552691028225798146)
 
-The State government-run Kerala Financial Corporation (KFC) has launched a new loan scheme to assist agro-based industries. Under the scheme, loans up to $1.26 million can be taken at 5% annual interest. The scheme had been announced in the 2022-23 State Budget by Finance Minister K. N. Balagopal.
+The State government-run **Kerala** Financial Corporation (KFC) has launched a new loan scheme to assist agro-based industries. Under the scheme, loans up to $1.26 million can be taken at 5% annual interest. The scheme had been announced in the 2022-23 State Budget by Finance Minister K. N. Balagopal.
 
 **Source**: [The Hindu](https://www.thehindu.com/news/national/kerala/kerala-financial-corporation-launches-loan-scheme-for-agro-based-industries/article65693417.ece); **In detail**: [Loan scheme](https://www.facebook.com/keralafinancialcorporation/photos/a.316481835067996/5228405147208949)
 
