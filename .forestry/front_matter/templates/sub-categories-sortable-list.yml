@@ -45,6 +45,8 @@ fields:
     - Union Territory of Lakshadweep
     - Union Territory of the Andaman and Nicobar Islands
     - West Bengal
+    - Union Territory of Daman and Diu
+    - Union Territory of Chandigarh
 - type: list
   name: sectors
   label: Sectors
