@@ -13,7 +13,7 @@ excerpt: Ministry of Power issues Late Paymnt Surcharge Rules 2022; Karnataka ap
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources:
