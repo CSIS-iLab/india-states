@@ -5,7 +5,7 @@ title: Joint Electricity Regulatory Commission (JERC) issues order for revision 
   power tariff in Chandigarh for 2022-23
 date: 2021-07-21 04:00:00 +0000
 states:
-- Center-State Relations
+- Union Territory of Chandigarh
 sectors:
 - Energy
 subsectors:
