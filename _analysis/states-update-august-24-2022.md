@@ -4,7 +4,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: August 24, 2022'
-date: 2022-08-24 04:00:00 +0000
+date: 2022-08-23 04:00:00 +0000
 tags: []
 excerpt: Delhi launches its draft Delhi Motor Vehicles Licensing of Aggregators Scheme
   2022; Uttar Pradesh unveils its draft Uttar Pradesh Solar Policy 2022; Ladakh announces
