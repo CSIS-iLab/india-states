@@ -111,13 +111,3 @@ Nothing Critical to report this week
 **Union Cabinet** approves restoration of interest subvention of 1.5% on short term agriculture loans up to $3,750 for all financial institutions for the financial year 2022-23 to 2024-25 to the farmers.
 
 **Source**: [Business Standard](https://www.business-standard.com/article/news-cm/cabinet-oks-interest-subvention-of-1-5-per-annum-on-short-term-agriculture-loan-upto-rs-3-lakh-122081800179_1.html); **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1852523)
-
-***
-
-**Update Section**
-
-**16th August**
-
-**Assam** approves its **Assam Logistics and Warehousing Policy 2022**. The policy aims to turn the state into a logistics hub through a dedicated logistics division headed by a secretary-rank officer. Some of the other features include proposal evaluation and incentive disbursement through Ease of Doing Business (EoDB) portal.
-
-**Source**: [The Print](https://theprint.in/india/assam-cabinet-okays-policy-to-turn-state-into-logistics-hub/1074959/); **In detail**: [Policy Details](https://industriescom.assam.gov.in/sites/default/files/swf_utility_folder/departments/industries_com_oid_4/portlet/level_2/assam_logistics_and_warehousing_policy_2022.pdf)
