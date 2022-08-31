@@ -13,7 +13,7 @@ excerpt: Delhi launches its draft Delhi Motor Vehicles Licensing of Aggregators 
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
