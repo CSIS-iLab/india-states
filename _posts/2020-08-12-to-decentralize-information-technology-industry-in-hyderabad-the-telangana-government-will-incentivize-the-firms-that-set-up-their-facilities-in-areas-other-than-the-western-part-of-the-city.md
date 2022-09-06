@@ -1,9 +1,9 @@
 ---
 content_type: articles
 breadcrumbs: articles
-title: To decentralize information technology industry in Hyderabad, the Telangana
-  government will incentivize the firms that set up their facilities in areas other
-  than the western part of the city
+title: The Telangana government will incentivize the firms that set up their facilities
+  in areas other than the western part of the city to decentralize information technology
+  industry in Hyderabad
 date: 2020-08-12 04:00:00 +0000
 states:
 - Telangana
