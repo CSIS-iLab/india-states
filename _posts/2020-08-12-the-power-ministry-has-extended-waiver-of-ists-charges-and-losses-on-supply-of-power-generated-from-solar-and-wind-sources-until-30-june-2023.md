@@ -3,7 +3,7 @@ content_type: articles
 breadcrumbs: articles
 title: The power ministry has extended waiver of ISTS charges and losses on supply
   of power generated from solar and wind sources until 30 June, 2023
-date: 2020-08-12 19:00:00 +0000
+date: 2020-08-12 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
