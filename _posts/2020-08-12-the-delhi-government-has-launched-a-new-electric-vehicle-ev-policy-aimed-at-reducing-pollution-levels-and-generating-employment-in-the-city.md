@@ -5,10 +5,12 @@ title: The Delhi government has launched a new electric vehicle (EV) policy aime
   at reducing pollution levels and generating employment in the city
 date: 2020-08-12 04:00:00 +0000
 states:
-- Telangana
+- Delhi
 sectors:
+- Energy
 - Industrial Policy and Business Regulations
 subsectors:
+- Energy-related Transportation
 - Power and Renewable Energy
 sources:
 - name: Economic Times
