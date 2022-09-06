@@ -4,7 +4,7 @@ breadcrumbs: articles
 title: The Central Electricity Regulatory Commission has issued a detailed procedure
   for granting connectivity to renewable projects to the inter-state transmission
   system (ISTS)
-date: 2020-08-12 19:00:00 +0000
+date: 2020-08-12 04:00:00 +0000
 states:
 - Center-State Relations
 sectors:
