@@ -8,6 +8,7 @@ date: 2020-09-09 04:00:00 +0000
 states:
 - Tamil Nadu
 sectors:
+- Land & Labor Laws
 - Industrial Policy and Business Regulations
 subsectors: []
 sources:
