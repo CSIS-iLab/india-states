@@ -7,7 +7,7 @@ date: 2020-09-09 04:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Industrial Policy and Business Regulations
+- Infrastructure and Governance
 subsectors: []
 sources:
 - name: The Hindu
