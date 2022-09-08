@@ -14,7 +14,7 @@ sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/energy/power/electricity-rights-of-consumers-rules-2020-consumer-rights-rules-to-be-notified-soon/articleshow/78024746.cms
 details:
-- name: Economic Times
+- name: Notification
   url: https://powermin.nic.in/sites/default/files/webform/notices/Draft_Electricity_Rights_of_Consumers_Rules_2020.pdf
 is_analysis: false
 
