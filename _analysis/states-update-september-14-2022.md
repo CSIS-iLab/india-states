@@ -53,7 +53,7 @@ author:
 
 **Source**: [Economic Times](https://economictimes.indiatimes.com/news/economy/policy/karnataka-govt-eases-process-of-allotting-industrial-land-up-to-10-acres/articleshow/94025220.cms); **In detail**: [Minister of Large and Medium scale Industries - Twitter](https://twitter.com/NiraniMurugesh/status/1567378520741126144)
 
-**Maharashtra** becomes the first state to enable e-registrations of properties to be sold by realty developers in a bid to digitise the process. Initially the facility will be enabled for e-registration of first sale agreements and resale transactions will not be part of it.
+**Maharashtra** becomes the first state to enable e-registrations of properties to be sold by realty developers in a bid to digitize the process. Initially the facility will be enabled for e-registration of first sale agreements and resale transactions will not be part of it.
 
 **Source**: [Economic Times](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/maharashtra-govt-starts-property-e-registrations-to-also-introduce-blockchain/articleshow/94034462.cms); **In detail**: [e-registration portal](https://igrmaharashtra.gov.in/), [Department of Registration & Stamp News](https://igrmaharashtra.gov.in/Home/news)
 
@@ -63,7 +63,7 @@ author:
 
 **Source**: [The Print](https://theprint.in/india/cm-baghel-inaugurates-two-more-districts-for-chhattisgarh/1123140/); **In detail**: [CMO Twitter](https://twitter.com/ChhattisgarhCMO/status/1568281232689201153); [CMO Twitter](https://twitter.com/bhupeshbaghel/status/1565895782431363072); [CMO Twitter](https://twitter.com/bhupeshbaghel/status/1565705986480160769)
 
-**Meghalaya** launched the online portal of its Meghalaya Residents Safety and Security Act (MRSSA) 2016. The implementation of the digitised system will ensure the safety and security of the residents and also act as a strong intelligence-gathering system for authorities to monitor and act.
+**Meghalaya** launched the online portal of its Meghalaya Residents Safety and Security Act (MRSSA) 2016. The implementation of the digitized system will ensure the safety and security of the residents and also act as a strong intelligence-gathering system for authorities to monitor and act.
 
 **Source**: [East Mojo](https://www.eastmojo.com/meghalaya/2022/09/08/meghalaya-cm-launches-residents-safety-act-online-portal/); **In detail**: [Portal](http://megrssa.nic.in/)
 
@@ -99,7 +99,7 @@ Nothing Critical to report this week
 
 **Any Other**
 
-**Gujarat** releases its **Cinematic Tourism Policy 2022-27**. The policy aims to present the state as a potential destination for film and documentary makers from Bollywood, Hollywood and regional industries.
+**Gujarat** releases its **Cinematic Tourism Policy 2022-27**. The policy aims to present the state as a potential destination for film and documentary makers from Bollywood, Hollywood, and regional industries.
 
 **Source**: [Indian Express](https://indianexpress.com/article/cities/ahmedabad/gujarat-cm-cinematic-tourism-policy-attract-filmmakers-8143146/); **In detail**: [Cinematic Tourism Policy 2022-27](https://cmogujarat.gov.in/wp-content/uploads/2022/09/CINEMATIC-TOURISM-BOOKLET-COLOUR-WEB.pdf)
 
