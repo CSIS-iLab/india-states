@@ -3,7 +3,7 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: September 14, 2022'
+title: 'States Update: September 15, 2022'
 date: 2022-09-14 04:00:00 +0000
 tags: []
 excerpt: Rajasthan launches its Indira Gandhi Urban Employment Guarantee Scheme; Punjab
@@ -133,4 +133,4 @@ Nothing Critical to report this week
 
 **Punjab** approves its **Punjab Food Grains Labour Policy 2022** and its revised **Punjab Food Grains Transportation Policy 2022**. The policies aim to ensure wider competitive participation, increased transparency, and reduction in frivolous litigation.
 
-**Source**: [Indian Express](https://indianexpress.com/article/cities/chandigarh/from-this-paddy-season-foodgrain-vehicles-in-punjab-to-have-tracking-system-8114082/); **In detail**: [Punjab Food Grains Labour Policy](http://foodsuppb.gov.in/sites/default/files/The%20Punjab%20Labour%20%26%20Cartage%20Policy%202022-23.pdf), [Punjab Food Grains Transportation Policy](http://foodsuppb.gov.in/sites/default/files/The%20Punjab%20Food%20Grains%20Transportation%20Policy%202022-23.pdf)
+**Source**: [Indian Express](https://indianexpress.com/article/cities/chandigarh/from-this-paddy-season-foodgrain-vehicles-in-punjab-to-have-tracking-system-8114082/); **In detail**: [Punjab Food Grains Labour Policy](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:57f05122-fa2c-4b2d-844e-5e40175fd941), [Punjab Food Grains Transportation Policy](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f6f72f22-4b68-4753-b586-2f7afdc23d1f)
