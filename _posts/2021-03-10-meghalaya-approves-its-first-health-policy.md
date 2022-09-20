@@ -10,12 +10,11 @@ sectors:
 subsectors:
 - " Healthcare Regulation"
 sources:
-- name: " Source: North East Now"
+- name: North East Now
   url: https://nenow.in/north-east-news/meghalaya/meghalaya-approves-states-first-health-policy.html
 details:
-- name: " In detail: Chief Minister’s Tweet"
+- name: Chief Minister’s Tweet
   url: https://twitter.com/SangmaConrad/status/1367865604401553413?s=20
 is_analysis: false
 
 ---
-**Meghalaya** approves its first health policy. The policy aims to address the issues of malnutrition, micronutrient deficiency, stunting, and cognitive development of children.
