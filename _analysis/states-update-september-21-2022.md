@@ -52,7 +52,7 @@ author:
 
 **Punjab** constitutes a task force to discuss and create enabling mechanisms for off-take of Fermented Organic Manure (FOM) generated from Compressed Biogas (CBG) projects based on agro-residue in the State.
 
-**Source**: [Yugmarg](https://www.yugmarg.com/news/7178-punjab-govt-constitutes-task-force-to-create-mechanism-for-off-take-of-fermented-organic-manure-from-cbg-projects); **In Detail**: [Press Release](http://diprpunjab.gov.in/?q=content/punjab-govt-constitutes-task-force-create-mechanism-take-fermented-organic-manure-cbg)
+**Source**: [Yugmarg](https://www.yugmarg.com/news/7178-punjab-govt-constitutes-task-force-to-create-mechanism-for-off-take-of-fermented-organic-manure-from-cbg-projects); **In Detail**: [Press Release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3b1bdb34-ee9a-4860-97f1-7389db9ae731#pageNum=1)
 
 **Land Acquisition & Labor Regulations**
 
@@ -104,7 +104,7 @@ Nothing critical to report this week
 
 **Haryana** announces a payment of $31.33 per month to people suffering from thalassemia. The necessary medical tests for their health check-up will also be free-of-cost so that the cost burden of treatment is not borne by the family members.
 
-**Source**: [Business Insider](https://www.businessinsider.in/science/health/news/thalassemia-patients-to-get-2500-per-month-in-haryana/articleshow/94281412.cms); **In detail**: [Press release](https://prharyana.gov.in/en/in-haryana-people-suffering-from-thalassemia-will-be-given-rs-2500-per-month-and-the-necessary)
+**Source**: [Business Insider](https://www.businessinsider.in/science/health/news/thalassemia-patients-to-get-2500-per-month-in-haryana/articleshow/94281412.cms); **In detail**: [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c30c3629-dc67-4b8f-a04d-d2e1cac89258#pageNum=1)
 
 **Haryana** announces a number of welfare measures for workers and their families. These include free medical checkups and diagnostic tests, the opening of 200 ‘Shram Yogi’ clinics for cashless healthcare, and the provision of 100 ambulances with advanced life support systems.
 
