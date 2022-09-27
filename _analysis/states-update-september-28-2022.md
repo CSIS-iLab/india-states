@@ -47,6 +47,8 @@ Nothing critical to report this week
 
 **Punjab** receives a loan of $150 million to help in managing financial resources and ensure accessible public service from the World Bank. The loan will support the state in strengthening public service infrastructure and its institutional capacities.
 
+**Source**: [Livemint](https://www.livemint.com/news/world/punjab-gets-150-million-loan-from-world-bank-to-improve-finances-and-public-services-11663658995505.html); **In detail**: [World Bank Press Release](https://www.worldbank.org/en/news/press-release/2022/09/19/-150-million-world-bank-loan-to-punjab-to-improve-financial-management-and-deliver-better-services-to-citizens)
+
 **Climate Change**
 
 Nothing critical to report this week
