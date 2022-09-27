@@ -6,7 +6,11 @@ content_type: analysis
 title: 'States Update: September 28, 2022'
 date: 2022-09-27 04:00:00 +0000
 tags: []
-excerpt: ''
+excerpt: Gujarat passes its Gujarat Electricity Industry (Reorganization and Regulation)
+  (Amendment) Bill 2022; Rajasthan passes its Rajasthan Goods and Services Tax (Amendment)
+  Bill 2022; Gujarat receives a loan for spending on healthcare services by the World
+  Bank; Himachal Pradesh approves its Early Childhood Care and Education Tutor Scheme
+  2022; and more.
 states: []
 sectors: []
 subsectors: []
