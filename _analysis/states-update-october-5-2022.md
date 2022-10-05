@@ -22,7 +22,7 @@ author:
 - Richard M. Rossow
 
 ---
-**Big News:** Uttar Pradesh approves its MSME Promotion Policy, its Bioenergy Policy, and releases its draft Industrial Investment and Employment Promotion policy; Kerala unveils its draft Industrial and Commercial Policy; Tamil Nadu launches its Green Tamil Nadu Mission; and more.
+**Big News:** Uttar Pradesh approves its MSME Promotion Policy, its Bioenergy Policy, and releases its draft Industrial Investment and Employment Promotion policy; Kerala unveils its draft Industrial and Commercial Policy; and more.
 
 **Industrial Policy & Business Regulations**
 
