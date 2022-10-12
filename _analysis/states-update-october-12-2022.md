@@ -27,7 +27,7 @@ author:
 
 **Industrial Policy & Business Regulations**
 
-**Gujarat** unveils its “**Aatmanirbhar Gujarat Schemes 2022** **for assistance to Industries**” that aims to bring $15 billion in investments over the next 10 years. The schemes targets MSMEs, Large and Mega industrial units, and are expected to create 1.5 million jobs.
+**Gujarat** unveils its “**Aatmanirbhar Gujarat Schemes 2022** **for Assistance to Industries**” that aims to bring $15 billion in investments over the next 10 years. The schemes targets MSMEs, Large and Mega industrial units, and are expected to create 1.5 million jobs.
 
 **Source**: [Indian Express](https://indianexpress.com/article/cities/gandhinagar/gujarat-launches-scheme-to-attract-rs-12-5-lakh-crore-investments-8191586/); **In detail**: [Aatmanirbhar Gujarat Schemes 2022 for assistance to Industries](https://cmogujarat.gov.in/en/portfolio/aatmanirbhar-gujarat-2022-industries-assistance/)
 
