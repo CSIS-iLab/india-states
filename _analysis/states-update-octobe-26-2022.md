@@ -3,7 +3,7 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: Octobe 26, 2022'
+title: 'States Update: October 26, 2022'
 date: 2022-10-26 04:00:00 +0000
 tags: []
 excerpt: Jharkhand approves Jharkhand Ethanol Production and Promotion Policy 2022;
