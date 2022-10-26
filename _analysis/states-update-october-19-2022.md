@@ -13,7 +13,7 @@ excerpt: Rajasthan implements the Rajasthan Rural Family Livelihood Loan Scheme;
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
