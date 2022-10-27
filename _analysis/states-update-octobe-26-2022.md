@@ -38,7 +38,7 @@ Nothing critical to report this week
 
 **Source**: [Free press Journal](https://www.freepressjournal.in/mumbai/mumbai-maha-cabinet-approves-policy-to-rapidly-scale-up-infrastructure-for-5g-tech); **In detail**: [Cabinet decisions](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a2a3499-ea3b-453f-94ea-a64765e00a4e)
 
-**Maharashtra** becomes the first state to have a Niti Aayog-like think tank called Mitra —Maharashtra Institution for Transformation.
+**Maharashtra** becomes the first state to have a Niti Aayog-like think tank called Mitra — Maharashtra Institution for Transformation.
 
 **Source**: [Mid-day](https://www.mid-day.com/mumbai/mumbai-news/article/maharashtra-cabinet-gives-nod-to-niti-aayog-like-think-tank-called-mitra-23251514); **In detail**: [Cabinet decisions](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:5a2a3499-ea3b-453f-94ea-a64765e00a4e)
 
@@ -90,14 +90,14 @@ Nothing critical to report this week
 
 **Source**: [Times of India](https://timesofindia.indiatimes.com/city/ahmedabad/government-enacts-law-to-regularize-illegal-constructions-in-gujarat/articleshow/94952808.cms); **In detail**: [Notification](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9befc933-1739-4d38-837c-148ad7dc4f9f); [Gujarat eGazette](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:64759c3c-4383-4ce2-bad1-1fc6b5967848)
 
-**Tamil Nadu** passes a bill that prohibits online gambling and regulates online games in the state to lessen unstainable debt incurred from online gambling.
+**Tamil Nadu** passes a bill that prohibits online gambling and regulates online games in the state to lessen unsustainable debt incurred from online gambling.
 
 **Source**: [The Hindu](https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-assembly-passes-law-banning-online-gambling-regulate-online-games/article66032368.ece); **In detail**: [Ordinance](http://www.stationeryprinting.tn.gov.in/extraordinary/2022/472_Ex_IV_2.pdf)
 
-**Uttar Pradesh**, **Madhya Pradesh**, **Tamil Nadu** top the Pradhan Mantri Awas Yojan – Urban (PMAY-U) awards that recognizes the contribution of states, union territories, and urban local bodies in the implementation of the PMAY-U housing scheme.
+**Uttar Pradesh**, **Madhya Pradesh**, **Tamil Nadu** top the Pradhan Mantri Awas Yojana – Urban (PMAY-U) awards that recognizes the contribution of states, union territories, and urban local bodies in the implementation of the PMAY-U housing scheme.
 
 **Source**: [The Hindu](https://www.thehindu.com/news/national/pmay-u-scheme-perfect-example-of-cooperative-and-competitive-federalism-puri/article66036130.ece); **In detail**: [Press release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1870277)
 
-**Chhattisgarh** approves the draft of a policy to set up higher educational institutions under public-private partnership (PPP) mode to provide quality education to youth from backward areas.
+**Chhattisgarh** approves the draft of a policy to set up higher educational institutions under public-private partnership (PPP) model to provide quality education to youth from backward areas.
 
 **Source**: [India Today](https://www.indiatoday.in/education-today/news/story/chhattisgarh-govt-approves-draft-policy-for-higher-educational-institutions-in-ppp-mode-2286785-2022-10-18); **In detail**: [Cabinet decisions](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2d41e75c-8d0b-461b-8ef3-56744cc1aadd)
