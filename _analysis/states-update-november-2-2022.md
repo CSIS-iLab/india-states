@@ -3,7 +3,7 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: November 2, 2022'
+title: 'States Update: November 3, 2022'
 date: 2022-11-02 04:00:00 +0000
 tags: []
 excerpt: Gujarat launches its Gujarat Electronics Policy 2022-2028; Odisha launches
