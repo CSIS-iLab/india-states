@@ -12,7 +12,7 @@ excerpt: Gujarat launches its Gujarat Electronics Policy 2022-2028; Odisha launc
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
