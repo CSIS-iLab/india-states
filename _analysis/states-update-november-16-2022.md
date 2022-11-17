@@ -52,7 +52,7 @@ Nothing critical to report
 
 **Haryana** has constituted a statutory committee for the Administrative Reforms Department under Section 15(3) of the Right to Information Act, 2005. As per a notification issued by the Administrative Reforms Department, Chief Minister Manohar Lal Khattar will be the chairman of the committee.
 
-**Source:** [Tribune](https://www.tribuneindia.com/news/haryana/panel-for-admn-reforms-dept-450149); **In detail:** [Press release](https://prharyana.gov.in/en/the-haryana-government-has-constituted-a-statutory-committee-for-the-administrative-reforms)
+**Source:** [Tribune](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:57929f50-ac55-457d-8384-83eaae51352d); **In detail:** [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e9f31566-39ad-4c8f-bfaa-63a362bdb20e)
 
 **Uttar Pradesh** has eased norms for releasing funds in order to avoid unnecessary delay in implementation of low-cost projects in the state.
 
