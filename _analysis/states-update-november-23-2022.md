@@ -52,7 +52,7 @@ In light of the Global Investors Summit 2023, scheduled to be held in Lucknow fr
 
 **Madhya Pradesh** has notified its PESA Rules to empower the Gram Sabhas to take decision on the rules and regulations with regard to all natural resources in the forest areas. The PESA Act will give more constitutional rights to the tribal people to reap the benefits of natural resources from the forest areas where they live.
 
-**Source:** [Orissa Diary](https://orissadiary.com/madhya-pradesh-notifies-pesa-rules-on-the-occasion-of-janjatiya-gaurav-divas/); **In detail:** [Press release](https://www.mpinfo.org/Home/TodaysNews#%25E2%2580%2598PESA%25E2%2580%2599-Act-will-empower-Gram-Sabha-in-tribal-areas-20221117N272)
+**Source:** [Orissa Diary](https://orissadiary.com/madhya-pradesh-notifies-pesa-rules-on-the-occasion-of-janjatiya-gaurav-divas/); **In detail:** [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8cfc153a-7ee9-49aa-b401-de3fa5534ce5)
 
 **Infrastructure & Governance**
 
