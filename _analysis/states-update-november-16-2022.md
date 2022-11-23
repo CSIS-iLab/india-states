@@ -13,7 +13,7 @@ excerpt: Rajasthan releases its Startup Policy 2022, while Uttar Pradesh adds ne
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
