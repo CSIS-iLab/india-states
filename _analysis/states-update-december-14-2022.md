@@ -20,7 +20,6 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
 **Big News**: Gujarat and Himachal Pradesh elect new governments post assembly elections; Uttarakhand announces reservation for women in government services; Tamil Nadu announces Climate Change Mission; Ministry of Power announces plan for transmission of 500 GW renewable energy; and more.
