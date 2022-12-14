@@ -3,7 +3,7 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: December 7, 2022'
+title: 'States Update: December 14, 2022'
 date: 2022-12-07 05:00:00 +0000
 tags: []
 excerpt: Odisha and Haryana both announce new textile policies; Ministry of Power
@@ -13,13 +13,14 @@ excerpt: Odisha and Haryana both announce new textile policies; Ministry of Powe
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
 author:
 - Richard M. Rossow
+published: false
 
 ---
 **Big News**: Odisha and Haryana both announce new textile policies; Ministry of Power waives interstate wheeling charges for hydropower projects; Odisha announces the Odisha Export Promotion Policy 2022 and the Odisha Renewable Energy Policy, 2022; and more.
