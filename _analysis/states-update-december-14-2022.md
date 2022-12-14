@@ -4,7 +4,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: December 14, 2022'
-date: 2022-12-14 18:00:00 +0000
+date: 2022-12-14 05:00:00 +0000
 tags: []
 excerpt: 'Gujarat and Himachal Pradesh elect new governments post assembly elections;
   Uttarakhand announces reservation for women in government services; Tamil Nadu announces
