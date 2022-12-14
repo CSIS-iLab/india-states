@@ -6,10 +6,10 @@ content_type: analysis
 title: 'States Update: December 14, 2022'
 date: 2022-12-07 05:00:00 +0000
 tags: []
-excerpt: Odisha and Haryana both announce new textile policies; Ministry of Power
-  waives interstate wheeling charges for hydropower projects; Odisha announces the
-  Odisha Export Promotion Policy 2022 and the Odisha Renewable Energy Policy, 2022;
-  and more.
+excerpt: 'Gujarat and Himachal Pradesh elect new governments post assembly elections;
+  Uttarakhand announces reservation for women in government services; Tamil Nadu announces
+  Climate Change Mission; Ministry of Power announces plan for transmission of 500
+  GW renewable energy; and more. '
 states: []
 sectors: []
 subsectors: []
@@ -23,39 +23,35 @@ author:
 published: false
 
 ---
-**Big News**: Odisha and Haryana both announce new textile policies; Ministry of Power waives interstate wheeling charges for hydropower projects; Odisha announces the Odisha Export Promotion Policy 2022 and the Odisha Renewable Energy Policy, 2022; and more.
+**Big News**: Gujarat and Himachal Pradesh elect new governments post assembly elections; Uttarakhand announces reservation for women in government services; Tamil Nadu announces Climate Change Mission; Ministry of Power announces plan for transmission of 500 GW renewable energy; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Odisha** cabinet releases **Apparel and Technical Textiles Policy 2022** providing incentives like capital investment subsidy, employment cost subsidy and market development initiative to foster sectoral growth. 
-
-**Source**: [News Room](https://newsroomodisha.com/mio-2022-odishas-apparel-technical-textiles-policy-2022-launched/); **In detail**: [Odisha Apparel and Technical Textiles Policy 2022](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:9d5781a5-ca31-4fb8-ad6c-246873137434)
-
-**Odisha** cabinet releases the Odisha **Export Promotion Policy 2022**, aimed at increasing state’s exports to \~$42.5 billion by 2026-27. The policy promotes the design and implementation of sector and product specific export promotion strategies in collaboration with leading export promotion councils and other trade organisations to aid product and market diversification. 
-
-**Source**: [Sambad](https://sambadenglish.com/odisha-sets-export-target-of-rs-3-5-lakh-crore-by-2026-27/); **In detail**: [Odisha Export Policy, 2022](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:41abfe78-e556-4872-8be6-010d52d663f7)
-
-**Haryana** cabinet approves new the **Aatma Nirbhar Textile Policy 2022-25**, aiming to attract investment worth $491 million and generate 20,000 new jobs in the state. 
-
-**Source**: [Economic Times](https://economictimes.indiatimes.com/industry/cons-products/garments-/-textiles/haryana-cabinet-approves-new-haryana-aatmanirbhar-textile-policy/articleshow/95916315.cms); **In detail**: [Press release](https://manoharlalkhattar.in/node/29069)
-
-**Kerala** cabinet approves the **General Sales Tax (Amendment) Bill, 2022** amending the General Sales Tax At, 1963 by withdrawing the turnover tax imposed on companies producing foreign liquor in the State and increasing the sales tax on liquor by 4%.
-
-**Source**: [Onmanorama](https://www.onmanorama.com/news/kerala/2022/12/02/draft-bill-for-amending-general-sales-tax-act-approved-by-cabinet.html); **In detail**: [General Sales Tax (Amendment) Bill, 2022](http://www.niyamasabha.org/codes/15kla/bills/Bill%20pub%20No.%20153%20eng.pdf)
+Nothing Critical to report this week
 
 **Land Acquisition & Labor Regulations**
 
-Nothing Critical to report this week
+**Uttarakhand** passes the **Uttarakhand Public Services (Horizontal Reservation for Women) Bill, 2022** aimed at providing 30 per cent horizontal reservations in government services for women across the state. 
+
+**Source**: [Outlook](https://www.outlookindia.com/national/uttarakhand-passes-bill-for-30-horizontal-reservation-for-local-women-what-it-means-news-243607)
 
 **Infrastructure & Governance**
 
-**Odisha** cabinet approves new **Odisha Civil Aviation Policy 2022**, aimed at improving air connectivity in the state, attract private sector investment, and generating employment. **Source**: [Sambad](https://sambadenglish.com/cabinet-approves-odisha-civil-aviation-policy-2022-to-facilitate-improved-infra/)
+**Goa** opens second greenfield airport set to begin operations on 5 January 2023, and serve 4.4 million passengers per annum, with a potential capacity of 33 million people per annum. 
 
-**Climate Change**
+**Source**: [Economic Times](https://economictimes.indiatimes.com/industry/transportation/airlines-/-aviation/pm-modi-inaugurates-goas-second-airport-to-start-operations-from-january-5/articleshow/96152479.cms); **In detail**: [Press release](https://www.pmindia.gov.in/en/news_updates/pm-inaugurates-greenfield-international-airport-in-mopa-goa/?comment=disable)
 
-**Goa** cabinet notifies **Policy on Rainwater Harvesting (Amendment) 2022** mandating residential complexes including apartments on a plot area of 2000 sq. mts. and above, commercial complexes on a plot area of 1500 sq. mts. and above, and industrial units on a plot area of 10000 sq. mts. and above, as well as government owned buildings to undertake rainwater harvesting.
+**Madhya Pradesh** approves the **Madhya Pradesh Housing Redevelopment Policy-2022** proposing new construction of dilapidated buildings without any charge from the beneficiaries. 
 
-**Source**: [Digital Goa](http://digitalgoa.com/goa-govt-notifies-amended-rain-water-harvesting-policy/); **In detail**: [Policy on Rainwater Harvesting (Amendment) 2022](https://goaprintingpress.gov.in/downloads/2223/2223-35-SI-OG-0.pdf)
+**Source**: [Daily Pioneer](https://www.dailypioneer.com/2022/state-editions/cabinet-approves-mp-housing-redevelopment-policy-2022.html); **In detail**: [Cabinet Decision](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:295d40fc-1304-42ad-9407-27a5e8f8b297)
+
+**Gujarat** state elections see return of the Bharatiya Janta Party to power with 156 out of 182 seats. Bhupendra Patel has taken charge as the Chief Minister for a second term. 
+
+**Source**: [NDTV](https://www.ndtv.com/india-news/gujarat-elections-grand-oath-ceremony-for-bhupendra-patel-in-gujarat-today-pm-narendra-modi-to-attend-3598311); **In detail**: [Governor of Gujarat Twitter](https://twitter.com/GovernorofGuj/status/1602266150464782340)
+
+**Himachal Pradesh** state elections result in victory for the Indian National Congress which won 40 out of 68 seats. Sukhwinder Singh Sukhu has been elected as the Chief Minister. 
+
+**Source**: [Telegraph India](https://www.telegraphindia.com/india/sukhwinder-sukhu-sworn-in-as-himachal-pradeshs-15th-chief-minister-mallikarjun-kharge-rahul-gandhi-priyanka-gandhi-attended-ceremony/cid/1903245); **In detail**: [Governor of Himachal Pradesh Twitter](https://twitter.com/RajBhavanHP/status/1601933510583136257)
 
 **Oil & Gas**
 
@@ -67,24 +63,36 @@ Nothing Critical to report this week
 
 **Power & Renewable Energy**
 
-**Odisha** Department of Energy notifies the **Odisha Renewable Energy Policy, 2022**, announcing incentives such as reducing electricity duty, 25% exemption of wheeling charges for open access renewable energy consumers, and 50% exemption of cross subsidy charges among others. 
+**Tamil Nadu** launches the **Tamil Nadu Climate Change Mission** aiming to achieve carbon neutrality ahead of the 2070 target set by the Indian Prime Minister.
 
-**Source**: [Team Lease](https://www.teamleaseregtech.com/updates/article/20291/odisha-renewable-energy-policy-2022/); **In detail**: [Odisha Renewable Energy Policy, 2022](https://energy.odisha.gov.in/sites/default/files/2022-12/3354-Energy%20dept._1.pdf)
+**Source**: [Indian Express](https://indianexpress.com/article/cities/chennai/tamil-nadu-climate-change-mission-mk-stalin-inauguration-8316468/lite/); **In detail**: [Tamil Nadu Environment and Climate Change Policy Note, 2022-23](https://cms.tn.gov.in/sites/default/files/documents/eccf_e_pn_2022_23.pdf)
 
-**Jammu & Kashmir** Administrative Council (AC) approves installation of rooftop solar power plants on residential buildings across all districts of J&K. Additionally, government announces 25% subsidy for installation of residential rooftop solar power plants. 
+**Haryana** state-level steering committee on climate change approves the revised **State Action Plan on Climate Change (SAPCC-2)**, proposing 73 actions out of which, 37 are linked to adaptation, 28 are linked to mitigation and eight strategies have been linked to both adaptation and mitigation. 
 
-**Source**: [Greater Kashmir](https://www.greaterkashmir.com/todays-paper/front-page/ac-approves-subsidised-rooftop-solar-power-plants-on-residential-buildings-across-jk); **In detail**: [Press Release](http://new.jkdirinf.in/NewsDescription.aspx?ID=96056)
+**Source**: [The Tribune](https://www.tribuneindia.com/news/haryana/nod-to-revised-action-plan-on-climate-change-459441); **In detail**: [State Action Plan on Climate Change (SAPCC-2)](http://harenvironment.gov.in/sites/default/files/documents/doc/Revised%20SAPCC_compressed.pdf)
 
 **Health**
 
-**Meghalaya** cabinet approves **Mental Health & Social Care Policy** aimed at addressing issues of mental health and social care through collaborative engagement with communities. Meghalaya is the third state in the country to formulate a comprehensive mental health policy. 
+**Meghalaya** government unveils Asia’s first dedicated drone delivery hub and network, aimed at providing universal access to healthcare for the people in the state by improving delivery of vital supplies like drugs, diagnostic samples, vaccines, and blood and blood components. 
 
-**Source**: [Outlook](https://www.outlookindia.com/national/meghalaya-cabinet-nod-for-mental-health-policy-news-241236); **In detail**: [Mental Health & Social Care Policy](https://meghealth.gov.in/docs/Draft%20Meghalaya%20State%20Mental%20Health%20Policy%20(Oct%2010,%202022).pdf)
+**Source**: [Current Affairs](https://currentaffairs.adda247.com/meghalaya-government-launches-asias-first-drone-delivery-hub-for-easy-access-to-healthcare/); **In detail**: [Press release](https://meghalaya.gov.in/sites/default/files/press_release/Meghalaya_Launched_its_First_Drone_Station_5th_Dec_2022.pdf)
+
+**Bihar** registers a 12-point drop in maternal mortality ratio (MMR), from 130 to 118 per lakh live births, between 2017-19 and 2018-20, as per the **Special Bulletin On Maternal Mortality in India 2018-20** released by the **Office of the Registrar General & Census Commissioner, India** (ORGI). 
+
+**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/patna-news/bihars-maternal-mortality-rate-improves-still-worse-than-national-average-101669912444584.html); **In detail**: [Special Bulletin On Maternal Mortality in India 2018-20](https://censusindia.gov.in/nada/index.php/catalog/44379)
 
 **Center – State Relations**
 
-**Ministry of Power** waives inter-state transmission charges on wheeling electricity for 18 years for new hydropower projects. Solar and wind power projects are already exempted from interstate wheeling charges. **Source**: [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/power-ministry-waives-inter-state-transmission-system-charges-for-new-hydro-power-projects/articleshow/95944110.cms); **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1880517)
+**Ministry of New and Renewable Energy** (MNRE) extends the **Rooftop Solar Programme** till March 31, 2026, allowing consumers to avail subsidy of INR 14,588 (\~$176.5) per kW for capacity up to 3kW. 
+
+**Source**: [The Economic Times](https://economictimes.indiatimes.com/industry/renewables/government-extends-rooftop-solar-programme-till-march-2026/articleshow/96091604.cms); **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1881780)
+
+**Ministry of Power** launches the **Transmission System for Integration of over 500 GW RE Capacity by 2030** plan, aimed at building a transmission system for evacuating 500 gigawatts (GW) of non-fossil-based energy by 2030. The plan, developed in consultation with states, seeks to provide transmission infrastructure for upcoming generation centres in Rajasthan, Gujarat, Andhra Pradesh, Tamil Nadu, and Ladakh. 
+
+**Source**: [Indian Express](https://www.newindianexpress.com/business/2022/dec/07/centrelaunches-plan-for-transmission-of-500-gw-green-energy-by-2030-2525953.html); **In detail**: [Transmission System for Integration of over 500 GW RE Capacity by 2030](https://cea.nic.in/wp-content/uploads/notification/2022/12/CEA_Tx_Plan_for_500GW_Non_fossil_capacity_by_2030.pdf)
 
 **Any Other**
 
-Nothing Critical to report this week
+**Karnataka** cabinet clears the new **Karnataka Youth Policy 2022** aimed to provide education, training, employment, and health and sports programmes for youngsters, besides a dedicated budgetary outlay. 
+
+**Source**: [Deccan Herald](https://www.deccanherald.com/state/top-karnataka-stories/karnataka-cabinet-gives-nod-to-karnataka-youth-policy-1169999.html); **In detail**: [Karnataka Youth Policy, 2022](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7c95f60f-1acb-4930-93cd-4c74150cb545)
