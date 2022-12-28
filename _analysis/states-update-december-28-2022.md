@@ -17,7 +17,8 @@ feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
-author: []
+author:
+- Richard M. Rossow
 
 ---
 **Big News:** Karnataka cabinet approves **Karnataka Start-up Policy, 2022-27**; Uttarakhand ushers new **Uttarakhand Logistics Policy 2022**; Uttar Pradesh approves the **UP Warehousing and Logistics Policy 2022**; Goa launches new **Goa Drone Policy 2022**; and more.
