@@ -14,7 +14,7 @@ excerpt: 'Jammu and Kashmir eases land leasing rules through the Jammu and Kashm
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
