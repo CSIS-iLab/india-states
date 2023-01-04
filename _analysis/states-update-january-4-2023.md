@@ -36,7 +36,7 @@ author:
 
 **Land Acquisition & Labor Regulations**
 
-**Karnataka** assembly passes the **Karnataka** **Special Investment Region (KSIR) Bill 2022,** formulated on the basis of the Electronics City Industrial Township Authority ((ELCITA) model, aimed at providing special incentives for new industrial ventures exceeding an area of 2,500 sq. km.
+**Karnataka** assembly passes the **Karnataka** **Special Investment Region (KSIR) Bill 2022,** formulated on the basis of the Electronics City Industrial Township Authority (ELCITA) model, aimed at providing special incentives for new industrial ventures exceeding an area of 2,500 sq. km.
 
 **Source**: [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/assembly-passes-special-investment-region-bill/articleshow/96557797.cms); **In detail**: [Karnataka Special Investment Region Bill 2022](https://www.kla.kar.nic.in/assembly/bills/bill15140_32.pdf)
 
