@@ -21,7 +21,6 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
 **Big News: Tamil Nadu** launches the **Tamil Nadu Green Energy Climate Fund; West Bengal** announces the **West Bengal Textile Incentive Scheme (WBTIS), 2022**; **Union Cabinet** launches the **National Green Hydrogen Mission, 2022**; **Ministry of Electronics and Information Technology** publishes the **Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021**, to regulate online gaming; and more.
