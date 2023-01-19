@@ -148,10 +148,10 @@
   },
   {
     "state": "Manipur",
-    "national_contribution": 0.02,
+    "national_contribution": "0.01",
     "state_target": 105,
-    "state_achieved": "11.58",
-    "state_percentage": 6.06
+    "state_achieved": "12.28",
+    "state_percentage": "11.69"
   },
   {
     "state": "Meghalaya",
