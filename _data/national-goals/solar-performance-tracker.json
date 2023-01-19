@@ -169,7 +169,7 @@
   },
   {
     "state": "Nagaland",
-    "national_contribution": 0,
+    "national_contribution": "0.003",
     "state_target": 61,
     "state_achieved": "3.04",
     "state_percentage": "4.98"
