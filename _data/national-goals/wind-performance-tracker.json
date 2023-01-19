@@ -134,17 +134,17 @@
   },
   {
     "state": "Madhya Pradesh",
-    "national_contribution": "6.42",
+    "national_contribution": "4.74",
     "state_target": 6200,
-    "state_achieved": 2519.89,
-    "state_percentage": 40.64
+    "state_achieved": "2844.29",
+    "state_percentage": "45.87"
   },
   {
     "state": "Maharashtra",
-    "national_contribution": "12.74",
+    "national_contribution": "8.35",
     "state_target": 7600,
-    "state_achieved": 5000.33,
-    "state_percentage": 65.79
+    "state_achieved": "5012.83",
+    "state_percentage": "65.95"
   },
   {
     "state": "Manipur",
