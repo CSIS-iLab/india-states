@@ -8,7 +8,7 @@
   },
   {
     "state": "Andhra Pradesh",
-    "national_contribution": "10.43",
+    "national_contribution": "6.82",
     "state_target": 8100,
     "state_achieved": "4096.65",
     "state_percentage": 50.58
@@ -113,10 +113,10 @@
   },
   {
     "state": "Karnataka",
-    "national_contribution": "12.58",
+    "national_contribution": "8.78",
     "state_target": 6200,
-    "state_achieved": "4938.6",
-    "state_percentage": "79.65"
+    "state_achieved": "5268.15",
+    "state_percentage": "84.97"
   },
   {
     "state": "Kerala",
