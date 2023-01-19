@@ -57,10 +57,10 @@
   },
   {
     "state": "Daman and Diu",
-    "national_contribution": "0.08",
+    "national_contribution": "0.04",
     "state_target": 199,
-    "state_achieved": 40.55,
-    "state_percentage": 20.38
+    "state_achieved": "41.01",
+    "state_percentage": "20.6"
   },
   {
     "state": "Delhi",
