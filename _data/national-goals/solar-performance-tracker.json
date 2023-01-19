@@ -127,10 +127,10 @@
   },
   {
     "state": "Lakshwadeep",
-    "national_contribution": 0,
+    "national_contribution": "0.003",
     "state_target": 4,
-    "state_achieved": "0.75",
-    "state_percentage": 18.75
+    "state_achieved": "3.27",
+    "state_percentage": "81.75"
   },
   {
     "state": "Madhya Pradesh",
