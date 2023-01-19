@@ -183,10 +183,10 @@
   },
   {
     "state": "Puducherry",
-    "national_contribution": 0.02,
+    "national_contribution": "0.03",
     "state_target": 246,
-    "state_achieved": "11.52",
-    "state_percentage": "4.68"
+    "state_achieved": "35.53",
+    "state_percentage": "14.44"
   },
   {
     "state": "Punjab",
