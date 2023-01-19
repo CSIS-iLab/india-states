@@ -155,10 +155,10 @@
   },
   {
     "state": "Meghalaya",
-    "national_contribution": 0,
+    "national_contribution": "0.004",
     "state_target": 161,
-    "state_achieved": "4.08",
-    "state_percentage": "2.53"
+    "state_achieved": "4.15",
+    "state_percentage": "2.57"
   },
   {
     "state": "Mizoram",
