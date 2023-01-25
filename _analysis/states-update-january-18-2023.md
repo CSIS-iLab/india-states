@@ -14,7 +14,7 @@ excerpt: 'Meghalaya announces Tourism Policy 2023; Uttarakhand Governor approves
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
