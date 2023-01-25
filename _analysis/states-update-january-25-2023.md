@@ -4,13 +4,14 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: January 25, 2023'
-date: 2023-01-18 05:00:00 +0000
+date: 2023-01-25 05:00:00 +0000
 tags: []
-excerpt: 'Meghalaya announces Tourism Policy 2023; Uttarakhand Governor approves 30%
-  reservation for women in government services; Andhra Pradesh releases funds for
-  interest free loans under Jagananna Thodu scheme; Ministry of Micro, Small, and
-  Medium Enterprises launches the Udyam Assist Platform to formalize informal companies;
-  and more.  '
+excerpt: 'Election Commission of India notifies the date for elections in Tripura,
+  Meghalaya, and Nagaland; Delhi proposes the Draft DERC (Business Plan) Regulations
+  2023 aimed at reducing return on equity for private generation, distribution, and
+  transmission companies; Goa approves the Goa Land Revenue Code (Amendment) Bill,
+  2023 to ease licensing for mining and related approvals; Maharashtra amends the
+  Building Reconstruction Policy easing reconstruction decisions; and more.   '
 states: []
 sectors: []
 subsectors: []
@@ -21,32 +22,35 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
-**Big News**: **Meghalaya** announces **Tourism Policy 2023**; **Uttarakhand** Governor approves 30% reservation for women in government services; **Andhra Pradesh** releases funds for interest free loans under **Jagananna Thodu** scheme; **Ministry of Micro, Small, and Medium Enterprises** launches the **Udyam Assist Platform** to formalize informal companies; and more.
+**Big News**: **Election Commission of India** notifies the date for elections in **Tripura**, **Meghalaya,** and **Nagaland**; **Delhi** proposes the **Draft DERC (Business Plan) Regulations 2023** aimed at reducing return on equity for private generation, distribution, and transmission companies; Goa approves the **Goa Land Revenue Code (Amendment)** **Bill, 2023** to ease licensing for mining and related approvals; **Maharashtra** amends the **Building Reconstruction Policy** easing reconstruction decisions; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Andhra Pradesh** releases $48.5 million under **Jagananna Thodu** scheme which aims to provide interest-free loans of $123 each to 395,000 small-time traders and artisans to make them self-sufficient. 
+**Delhi** government notifies the **Delhi Goods and Services Tax (Second Amendment) Rules, 2022**. Under the new rules, the non-furnishing of GSTR-3B for a continuous period of six months or for a continuous period of two tax periods would be a ground for cancellation of GST registration.
 
-**Source**: [Business Standard](https://www.business-standard.com/article/economy-policy/andhra-releases-rs-395-crore-towards-interest-free-loans-for-traders-123011101229_1.html); **In detail**: [Press release](https://ipr.ap.nic.in/images/press-releases/JAGANANNA%20THODU%20SPEECH.pdf)
+**Source**: [Taxscan](https://www.taxscan.in/delhi-notifies-gst-rules-amendment-for-cancellation-of-gst-registration-due-to-non-furnishing-of-gstr-3b-read-notification/246167/); **In detail**: [Notification](http://it.delhigovt.nic.in/writereaddata/egaz202355830.pdf)
+
+**Goa** state assembly passes the **Goa Panchayat Raj (Amendment) Bill, 2023**, allowing panchayat bodies to grant licenses to businesses and expanding power on decisions regarding reconstruction within their jurisdiction. 
+
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/goa/amid-opposition-din-house-passes-municipalities-amendment-bill/articleshow/97102216.cms); **In detail**: [Goa Panchayat Raj (Amendment) Bill, 2023](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1cd24269-2f7f-46f7-ae34-43e249c8ed77)
 
 **Land Acquisition & Labor Regulations**
 
-**Gujarat** announces a new ordinance aiming to regularise unauthorised constructions in the industrial estates that fall under Gujarat Industrial Development Corporation (GIDC). The new policy is expected to cover around 70,000 industrial units across 220 GIDC estates. 
+**Goa** state assembly passes the **Goa Land Revenue Code (Amendment)** **Bill, 2023**, aimed at easing the process of getting licenses for mining and allied processing industries. 
 
-**Source**: [Financial Express](https://www.financialexpress.com/industry/sme/msme-eodb-gujarat-govt-announces-new-regularisation-policy-for-unauthorised-construction-in-industrial-estates/2946646/); **In detail**: [Gujarat](https://twitter.com/Balwantsinh999/status/1613481624548831234) government [ordinance](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:7b3ab213-a16c-4870-99d2-6784ed963163)
+**Source**: [The Goan](https://www.thegoan.net/goa-news/%EF%BB%BFthree-amendment-bills-passed-despite-oppn-protests-in-house/94122.html); **In detail**: [Goa Land Revenue Code (Amendment) Bill, 2023](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:39c279b4-0770-44b1-8960-6a8b341b9304)
 
 **Infrastructure & Governance**
 
-**Uttarakhand** Governor approves the **Uttarakhand Public Services (Horizontal Reservation for women) Bill**, in effect mandating 30 per cent horizontal reservation to domicile women of the state in the government jobs. 
+**Karnataka** cabinet approves the **Karnataka Minor Mineral Concession (Amendment) Rules**, allowing the regularisation of quarrying activity over and beyond the stipulated area. 
 
-**Source**: [Current Affairs](https://currentaffairs.adda247.com/uttarakhand-government-approved-30-womens-reservation-bill/)
+**Source**: [Deccan Herald](https://www.deccanherald.com/state/top-karnataka-stories/karnataka-to-regularise-unauthorised-quarrying-1183063.html); **In detail**: [Karnataka Minor Mineral Concession Rules](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e746ee58-cfe7-4228-a322-f47ceaa40b60)
 
-**Tamil Nadu** assembly amends the **Tamil Nadu Government Servants (Conditions of Service) Act, 2016**, to make securing a pass in Tamil language paper compulsory for recruitment to State government services, with retrospective effect, from December 1, 2021. 
+**Maharashtra City and Industrial Development Corporation (CIDCO)**, amends **Building Reconstruction Policy**, allowing a building to be redeveloped with the consent of only 51 per cent members of a housing society instead of the earlier 100 per cent. 
 
-**Source**: [NDTV](https://www.ndtv.com/india-news/tamil-nadu-makes-tamil-compulsory-for-all-state-government-jobs-3689507); **In detail**: [Tamil Nadu Government Servants (Conditions of Service) Amendment Act](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:278e71e0-a755-4e95-bbb0-dfa652be699a)
+**Source**: [The Print](https://theprint.in/india/cidco-amends-policy-now-consent-of-only-51-pc-members-required-for-redevelopment-of-buildings-in-navi-mumbai/1325110/)
 
 **Oil & Gas**
 
@@ -58,40 +62,26 @@ Nothing Critical to report this week
 
 **Power & Renewable Energy**
 
-**Arunachal Pradesh** hands over five stalled hydropower projects to central PSUs with a target to produce 2,820 MW electricity and generate annual revenue of $61.4 million. The state government had earlier signed agreements with private power developers for implementing the projects, but the contracts were terminated following long delays in execution of the same. 
+**Tripura** government announces the creation of the **Tripura State Power Transmission Ltd** (**TPTL)**, a wholly owned subsidiary of Tripura State Electricity Corporation Limited (TSECL), aimed to bring down the power sector's aggregate technical and commercial (AT&C) losses for power transmission. 
 
-**Source**: [Deccan Herald](https://www.deccanherald.com/national/east-and-northeast/arunachal-hands-over-five-stalled-hydropower-projects-to-central-psus-with-aim-to-generate-2820mw-power-1179738.html); **In detail**: [CMO Twitter](https://twitter.com/PemaKhanduBJP/status/1612823756787027977)
+**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/power/tripura-forms-separate-entity-for-intra-state-electricity-transmission/97239099)
+
+**Delhi Electricity Regulatory Commission (DERC)** releases the **Draft DERC (Business Plan) Regulations 2023**, which proposes to reduce the return on equity (RoE) for generation, transmission and distribution companies. 
+
+**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/power/derc-drafts-cut-in-return-on-equity-for-companies-power-discoms-fume/97218244); **In detail**: [Draft DERC (Business Plan) Regulations 2023](http://www.derc.gov.in/sites/default/files/DERC%20DRAFT%20Business%20Plan%20Regulations%202023.pdf)
 
 **Health**
 
-**Meghalaya** cabinet approves the **Drug Reduction and Elimination and Action Plan**. The plan built upon the state’s Drug Abuse Prevention Policy, 2020 is in line with the government objective to promote holistic, and preventive health care. 
+**Kerala** government announces its decision to grant menstrual leave to students in all state-run higher education institutions, and a 60-day pregnancy leave for all students above 18 years of age. 
 
-**Source**: [The News mill](https://thenewsmill.com/2023/01/meghalaya-cabinet-approves-new-tourism-policy/); **In detail**: [Press release](https://meghalaya.gov.in/sites/default/files/press_release/Press_Relese_12th_Jan_2023_0.pdf)
+**Source**: [Siasat](https://www.siasat.com/kerala-govt-grants-menstrual-leave-for-students-in-state-run-institutions-2507280/)
 
-**Meghalaya** launches the State Mental Health Helpline-14410, an on-call mental health assistance designed to increase access to affordable and quality mental health services in the State.
+**Sikkim** government announces its decision to provide childcare assistance for 1 year for all government employees, with an objective of increasing the state’s fertility rates. 
 
-**Source**: [North East Now](https://nenow.in/north-east-news/meghalaya/meghalaya-govt-launches-mental-health-helpline-in-shillong.html); **In detail**: [Press release](https://meghalaya.gov.in/sites/default/files/press_release/Meghalaya_Launched_State_Mental_Health_Helpline.pdf)
-
-**Rajasthan** implements the **Blindness Control Policy**, aiming to aim to bring down the rate of blindness in the state. Rajasthan is the first state in the country to have a blindness control policy. 
-
-**Source**: [Devdiscourse](https://www.devdiscourse.com/article/health/2318797-rajasthan-becomes-first-state-to-implement-blindness-control-policy); **In detail**: [Press release](https://dipr.rajasthan.gov.in/press-release-detail/79093/0)
+**Source**: [News18](https://www.news18.com/news/india/good-news-for-expecting-mothers-in-sikkim-govt-announces-slew-of-benefits-to-improve-fertility-rate-6879445.html); **In detail**: [Press Release](https://sikkim.gov.in/media/press-release/press-info?name=Chief+Minister+Shri+Prem+Singh+Tamang+today+announced+the+provision+of+home+child+care+facilities+for+female+employees+of+the+State+government)
 
 **Center – State Relations**
 
-**Ministry of Micro, Small, and Medium Enterprises** launches the **Udyam Assist Platform** **(UAP)** to bring informal micro enterprises in the country into the formal fold and make them eligible for priority sector lending. The ministry signed a memorandum of understanding with its developing agency Small Industries Development Bank of India (SIDBI) for the platform’s implementation. 
+**Election Commission of India** announces the schedule for assembly elections for Tripura, Meghalaya, and Nagaland. Tripura will vote in a single phase on 16 February, while Meghalaya and Nagaland will vote on 27 February. 
 
-**Source**: [Financial Express](https://www.financialexpress.com/industry/sme/msme-eodb-udyam-assist-platform-msme-min-launches-new-platform-to-boost-registration-of-informal-micro-enterprises/2946174/); **In detail**: [Press release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1890434)
-
-**Any Other**
-
-**Meghalaya** cabinet approves the **Meghalaya Tourism Policy 2023** with the objective of promoting sustainable employment, and tourism in the state. The previous tourism policy was implemented in 2011. 
-
-**Source**: [Economic Times](https://travel.economictimes.indiatimes.com/news/destination/states/meghalaya-govt-approves-new-tourism-policy-2023/96957394); **In detail**: [Draft Meghalaya Tourism Policy 2022](https://www.meghalayatourism.in/wp-content/uploads/2022/12/Draft-Tourism-Policy-Meghalaya-2022.pdf)
-
-**Meghalaya** cabinet approves the **State Organic and Natural Farming Policy**, aiming to create a comprehensive plan for transitioning away from using fertilizers, especially for vegetable cultivation in the state. 
-
-**Source**: [Meghalaya News 24](https://meghalayanews24.com/cabinet-approves-meghalaya-state-organic-farming-policy/); **In detail**: [Chief Minister’s Twitter](https://twitter.com/SangmaConrad/status/1613088008517079041)
-
-**Jammu and Kashmir** Agriculture Production Department approves the **Roadmap for poultry development in J&K** under its mission for Holistic Development of Agriculture and Allied Sectors in the Union Territory to make the poultry sector sustainable, and self-reliant. 
-
-**Source**: [Devdiscourse](https://www.devdiscourse.com/article/headlines/2317912-jammu-and-kashmir-govt-approves-roadmap-for-poultry-development); **In detail**: [Press release](http://new.jkdirinf.in/NewsDescription.aspx?ID=97806)
+**Source**: [Livemint](https://www.livemint.com/news/india/ec-announces-assembly-election-schedule-for-meghalaya-nagaland-tripura-11674045328805.html); **In detail**:[ Press Release](https://eci.gov.in/files/file/14752-general-election-to-legislative-assemblies-of-meghalaya-nagaland-and-tripura-2023-press-note-reg/)
