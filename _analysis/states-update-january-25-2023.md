@@ -15,7 +15,7 @@ excerpt: 'Election Commission of India notifies the date for elections in Tripur
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []

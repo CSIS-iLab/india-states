@@ -4,14 +4,15 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: February 2, 2023'
-date: 2023-01-25 05:00:00 +0000
+date: 2023-02-02 05:00:00 +0000
 tags: []
-excerpt: 'Election Commission of India notifies the date for elections in Tripura,
-  Meghalaya, and Nagaland; Delhi proposes the Draft DERC (Business Plan) Regulations
-  2023 aimed at reducing return on equity for private generation, distribution, and
-  transmission companies; Goa approves the Goa Land Revenue Code (Amendment) Bill,
-  2023 to ease licensing for mining and related approvals; Maharashtra amends the
-  Building Reconstruction Policy easing reconstruction decisions; and more.   '
+excerpt: 'Madhya Pradesh promulgates the Madhya Pradesh Facilitation of Establishment
+  and Operation of Industries Ordinance-2023, allowing industries to operate without
+  approvals for 3 years; Bihar approves planning areas for 10 districts, paving the
+  way for urban master plans in the areas; Andhra Pradesh announces decision to implement
+  Revamped Distribution Sector Scheme (RDSS) to strengthen the state’s power distribution
+  system; Ministry of New & Renewable Energy announced increase in the Central Financial
+  Assistance (CFA) for residential rooftop solar installations; and more. '
 states: []
 sectors: []
 subsectors: []
@@ -22,36 +23,41 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
-**Big News**: **Election Commission of India** notifies the date for elections in **Tripura**, **Meghalaya,** and **Nagaland**; **Delhi** proposes the **Draft DERC (Business Plan) Regulations 2023** aimed at reducing return on equity for private generation, distribution, and transmission companies; Goa approves the **Goa Land Revenue Code (Amendment)** **Bill, 2023** to ease licensing for mining and related approvals; **Maharashtra** amends the **Building Reconstruction Policy** easing reconstruction decisions; and more.
+**Big News**: **Madhya Pradesh** promulgates the **Madhya Pradesh Facilitation of Establishment and Operation of Industries Ordinance-2023**, allowing industries to operate without approvals for 3 years; **Bihar** approves planning areas for 10 districts, paving the way for urban master plans in the areas; **Andhra Pradesh** announces decision to implement **Revamped Distribution Sector Scheme (RDSS)** to strengthen the state’s power distribution system; **Ministry of New & Renewable Energy** announced increase in the **Central Financial Assistance (CFA)** for residential rooftop solar installations; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Delhi** government notifies the **Delhi Goods and Services Tax (Second Amendment) Rules, 2022**. Under the new rules, the non-furnishing of GSTR-3B for a continuous period of six months or for a continuous period of two tax periods would be a ground for cancellation of GST registration.
+**Madhya Pradesh** promulgates the **Madhya Pradesh Facilitation of Establishment and Operation of Industries Ordinance-2023**, exempting industrial units from taking approvals for three years during which no inspection will be carried out. The ordinance, first announced during the Global Investors’ Summit, will apply to all industrial areas, MSME and IT clusters. 
 
-**Source**: [Taxscan](https://www.taxscan.in/delhi-notifies-gst-rules-amendment-for-cancellation-of-gst-registration-due-to-non-furnishing-of-gstr-3b-read-notification/246167/); **In detail**: [Notification](http://it.delhigovt.nic.in/writereaddata/egaz202355830.pdf)
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/bhopal/madhya-pradesh-ordinance-to-exempt-industries-from-approvals-exemptions-for-3-years/articleshow/97408755.cms); **In detail**: [Madhya Pradesh Facilitation of Establishment and Operation of Industries Ordinance-2023](https://govtpressmp.nic.in/pdf/extra/2023-01-27-Ex-34.pdf)
 
-**Goa** state assembly passes the **Goa Panchayat Raj (Amendment) Bill, 2023**, allowing panchayat bodies to grant licenses to businesses and expanding power on decisions regarding reconstruction within their jurisdiction. 
+**Uttar Pradesh** cabinet promulgates the **Uttar Pradesh Excise Policy 2023–2024**, aimed at generating higher government revenue to adequately fund significant government projects and to provide stability to the alcohol industry. 
 
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/goa/amid-opposition-din-house-passes-municipalities-amendment-bill/articleshow/97102216.cms); **In detail**: [Goa Panchayat Raj (Amendment) Bill, 2023](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:1cd24269-2f7f-46f7-ae34-43e249c8ed77)
+**Source**: [Mint](https://www.livemint.com/news/india/up-cabinet-approves-scheme-to-encourage-cultivation-processing-of-millets-under-millets-revival-programme-11674928131685.html)
+
+**Jammu and Kashmir** government launches the **UT Level Food Processing Programme for Development of Clusters for Specific Products of J&K** targeted at maximizing farmer income and minimizing post-harvest losses through a $108 million investment. 
+
+**Source**: [The Print](https://theprint.in/economy/jammu-and-kashmir-launches-rs-879-crore-food-processing-project/1329749/)
+
+**Tamil Nadu** announces the **Tamil Nadu Emerging Sector Seed Fund (TNESSF)** aiming to provide investments for start-ups and companies in emerging sector such as aerospace and defense applications, AI, Web 3.0, climate tech and deep tech. 
+
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/chennai/stalin-inaugurates-tamil-nadu-emerging-sector-seed-fund/articleshow/97375542.cms); **In detail**: [Press release](https://cms.tn.gov.in/sites/default/files/press_release/pr270123_179_0.pdf) (In Tamil)
 
 **Land Acquisition & Labor Regulations**
 
-**Goa** state assembly passes the **Goa Land Revenue Code (Amendment)** **Bill, 2023**, aimed at easing the process of getting licenses for mining and allied processing industries. 
-
-**Source**: [The Goan](https://www.thegoan.net/goa-news/%EF%BB%BFthree-amendment-bills-passed-despite-oppn-protests-in-house/94122.html); **In detail**: [Goa Land Revenue Code (Amendment) Bill, 2023](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:39c279b4-0770-44b1-8960-6a8b341b9304)
+Nothing Critical to report this week
 
 **Infrastructure & Governance**
 
-**Karnataka** cabinet approves the **Karnataka Minor Mineral Concession (Amendment) Rules**, allowing the regularisation of quarrying activity over and beyond the stipulated area. 
+**Bihar** cabinet approves planning areas for 10 towns to support the creation of corresponding planning authorities and urbanization plans for future development. Each town will get a planning authority that will be responsible for creating a master plan. 
 
-**Source**: [Deccan Herald](https://www.deccanherald.com/state/top-karnataka-stories/karnataka-to-regularise-unauthorised-quarrying-1183063.html); **In detail**: [Karnataka Minor Mineral Concession Rules](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e746ee58-cfe7-4228-a322-f47ceaa40b60)
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/patna/cabinet-approves-planning-areas-for-10-towns-in-bihar/articleshow/97387356.cms); **In detail**: [Cabinet decisions](https://state.bihar.gov.in/cache/1/Smart%20City/Cabinet%20Decisions/d27012023.pdf)
 
-**Maharashtra City and Industrial Development Corporation (CIDCO)**, amends **Building Reconstruction Policy**, allowing a building to be redeveloped with the consent of only 51 per cent members of a housing society instead of the earlier 100 per cent. 
+**Delhi** government releases the **Delhi Air Pollution: Real-time Air Quality Index (AQI)**, aimed at getting real time information on air pollution in the city. Air pollution will be monitored using a mobile van that will collect pollution data in real time. The project is aimed at identifying factors responsible for increase in air pollution in different parts of the city.
 
-**Source**: [The Print](https://theprint.in/india/cidco-amends-policy-now-consent-of-only-51-pc-members-required-for-redevelopment-of-buildings-in-navi-mumbai/1325110/)
+**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/delhi-news/kejriwal-unveils-study-devices-to-help-combat-air-pollution-in-delhi-101675104001475.html); **In detail**: [Delhi Air Pollution: Real-time Air Quality Index (AQI)](https://aqicn.org/city/delhi/)
 
 **Oil & Gas**
 
@@ -59,30 +65,36 @@ Nothing Critical to report this week
 
 **Water & Sanitation**
 
-Nothing Critical to report this week
+**Punjab** government announces the **Punjab Groundwater Extraction and Conservation Directions, 2023** under which it will levy charges for extracting groundwater from all non-exempted users, including industry, from February 1. The new directions do not cover groundwater use for agriculture, drinking and domestic purposes. 
+
+**Source**: [India Today](https://www.indiatoday.in/india/story/punjab-to-levy-groundwater-charges-on-non-exempted-users-from-february-1-2327659-2023-01-29); **In detail**: [Punjab Groundwater Extraction and Conservation Directions, 2023](https://pwrda.org/wp-content/uploads/2023/01/Punjab-Groundwater-Extraction-and-Conservation-Directions-2023-Dated-27.01.2023.pdf)
 
 **Power & Renewable Energy**
 
-**Tripura** government announces the creation of the **Tripura State Power Transmission Ltd** (**TPTL)**, a wholly owned subsidiary of Tripura State Electricity Corporation Limited (TSECL), aimed to bring down the power sector's aggregate technical and commercial (AT&C) losses for power transmission. 
+**Andhra Pradesh** government announces decision to implement **Revamped Distribution Sector Scheme (RDSS)** with an investment of \~$1.34 billion with the support of the Union government. The scheme would help in strengthening the power distribution system, reduce losses and enhance operational efficiency. 
 
-**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/power/tripura-forms-separate-entity-for-intra-state-electricity-transmission/97239099)
-
-**Delhi Electricity Regulatory Commission (DERC)** releases the **Draft DERC (Business Plan) Regulations 2023**, which proposes to reduce the return on equity (RoE) for generation, transmission and distribution companies. 
-
-**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/power/derc-drafts-cut-in-return-on-equity-for-companies-power-discoms-fume/97218244); **In detail**: [Draft DERC (Business Plan) Regulations 2023](http://www.derc.gov.in/sites/default/files/DERC%20DRAFT%20Business%20Plan%20Regulations%202023.pdf)
+**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/power/andhra-pradesh-govt-to-spend-rs-11000-crore-to-reform-power-distribution/97368830); **In detail:** [Revamped Distribution Sector Scheme (RDSS)](https://www.ipds.gov.in/RDSS_Docs/RDSS_Guidelines_dt_31_Mar_22.pdf)
 
 **Health**
 
-**Kerala** government announces its decision to grant menstrual leave to students in all state-run higher education institutions, and a 60-day pregnancy leave for all students above 18 years of age. 
+**Manipur** cabinet approves the upgradation of health centres and creating posts for legal officers of seven different departments. 
 
-**Source**: [Siasat](https://www.siasat.com/kerala-govt-grants-menstrual-leave-for-students-in-state-run-institutions-2507280/)
+**Source**: [Imphal Free Press](https://www.ifp.co.in/manipur/manipur-cabinet-approves-upgradation-of-health-centres)
 
-**Sikkim** government announces its decision to provide childcare assistance for 1 year for all government employees, with an objective of increasing the state’s fertility rates. 
+**Telangana** registers a significant drop in the Maternal Mortality Ratio (MMR) from 92 in 2014 to 43 in 2018–20. 
 
-**Source**: [News18](https://www.news18.com/news/india/good-news-for-expecting-mothers-in-sikkim-govt-announces-slew-of-benefits-to-improve-fertility-rate-6879445.html); **In detail**: [Press Release](https://sikkim.gov.in/media/press-release/press-info?name=Chief+Minister+Shri+Prem+Singh+Tamang+today+announced+the+provision+of+home+child+care+facilities+for+female+employees+of+the+State+government)
+**Source**: [Newstap](https://www.newstap.in/telangana/telangana-health-annual-report-infant-maternal-mortality-rate-significantly-reduced-in-2022-1459910); **In detail**: [Health Minister’s Twitter](https://twitter.com/BRSHarish/status/1619619380085620737) (Video)
 
 **Center – State Relations**
 
-**Election Commission of India** announces the schedule for assembly elections for Tripura, Meghalaya, and Nagaland. Tripura will vote in a single phase on 16 February, while Meghalaya and Nagaland will vote on 27 February. 
+Nothing Critical to report this week
 
-**Source**: [Livemint](https://www.livemint.com/news/india/ec-announces-assembly-election-schedule-for-meghalaya-nagaland-tripura-11674045328805.html); **In detail**:[ Press Release](https://eci.gov.in/files/file/14752-general-election-to-legislative-assemblies-of-meghalaya-nagaland-and-tripura-2023-press-note-reg/)
+**Any Other**
+
+**Ministry of New and Renewable Energy (MNRE)** grants a one-time extension for implementing solar and solar-wind hybrid projects for companies whose bids were finalised before 9 March 2021. The extension has been granted till March 2024 due to construction hiatuses caused by Covid-19. 
+
+**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/renewable/mnre-grants-time-extension-up-to-march-2024-for-completion-of-solar-hybrid-projects/97368984); **In detail**: [Notification](https://mnre.gov.in/img/documents/uploads/file_f-1674827531812.pdf)
+
+**Ministry of New and Renewable Energy (MNRE)** increases the **Central Financial Assistance (CFA)** for installation of Rooftop Solar (RTS) in the residential sector across India. For individual households, INR 14,588/kW will be provided up to 3kW, and INR 7,294/kW will be provided up to 10kW; whereas residential welfare associations or group housing societies will receive INR 7294/kW for common facilities up to 500kWp at 10kWp per house. 
+
+**Source**: [SaurEnergy](https://www.saurenergy.com/solar-energy-news/mnre-hikes-rooftop-solar-subsidy-for-residential-category-in-hilly-ne-states); **In detail**: [Office Memorandum](https://mnre.gov.in/img/documents/uploads/file_f-1674816949680.pdf)
