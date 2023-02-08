@@ -3,7 +3,7 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: February 2, 2023'
+title: 'States Update: February 8, 2023'
 date: 2023-02-02 05:00:00 +0000
 tags: []
 excerpt: 'Madhya Pradesh promulgates the Madhya Pradesh Facilitation of Establishment
@@ -16,13 +16,14 @@ excerpt: 'Madhya Pradesh promulgates the Madhya Pradesh Facilitation of Establis
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
 author:
 - Richard M. Rossow
+published: false
 
 ---
 **Big News**: **Madhya Pradesh** promulgates the **Madhya Pradesh Facilitation of Establishment and Operation of Industries Ordinance-2023**, allowing industries to operate without approvals for 3 years; **Bihar** approves planning areas for 10 districts, paving the way for urban master plans in the areas; **Andhra Pradesh** announces decision to implement **Revamped Distribution Sector Scheme (RDSS)** to strengthen the state’s power distribution system; **Ministry of New & Renewable Energy** announced increase in the **Central Financial Assistance (CFA)** for residential rooftop solar installations; and more.
