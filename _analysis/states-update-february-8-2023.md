@@ -21,7 +21,6 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
 **Big News**: **Telangana** and **Kerala** announce the **State Budgets** for 2023-2024; **Punjab** approves the new **Industrial and Business Development Policy, 2022**, and the **Punjab Electric Vehicle Policy (PEVP), 2022**; **Maharashtra** approves the draft **Maharashtra Industry, Trade, and Investment Facilitation Cell (MAITRI) Bill, 2022** to facilitate investments in the state; and more.
