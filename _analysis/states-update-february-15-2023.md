@@ -3,7 +3,7 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: February 8, 2023'
+title: 'States Update: February 15, 2023'
 date: 2023-02-08 05:00:00 +0000
 tags: []
 excerpt: 'Telangana and Kerala announce the State Budgets for 2023-2024; Punjab approves
@@ -14,13 +14,14 @@ excerpt: 'Telangana and Kerala announce the State Budgets for 2023-2024; Punjab 
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
 author:
 - Richard M. Rossow
+published: false
 
 ---
 **Big News**: **Telangana** and **Kerala** announce the **State Budgets** for 2023-2024; **Punjab** approves the new **Industrial and Business Development Policy, 2022**, and the **Punjab Electric Vehicle Policy (PEVP), 2022**; **Maharashtra** approves the draft **Maharashtra Industry, Trade, and Investment Facilitation Cell (MAITRI) Bill, 2022** to facilitate investments in the state; and more.
