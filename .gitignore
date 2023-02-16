@@ -34,3 +34,6 @@ doc/
 .DS_Store
 .idea
 .secret
+.history/
+Gemfile
+Gemfile.lock
