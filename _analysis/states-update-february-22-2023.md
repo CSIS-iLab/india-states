@@ -6,11 +6,11 @@ content_type: analysis
 title: 'States Update: February 22, 2023'
 date: 2023-02-22 05:00:00 +0000
 tags: []
-excerpt: 'Ministry of Mines announces the discovery of 5.9 million tons of Lithium
-  ores in Jammu & Kashmir; Gujarat amends the Gujarat Industrial Policy 2020 allowing
-  companies to avail incentives from multiple departments; Rajasthan announces Budget
-  2023-24; Karnataka Electricity Regulatory Commission (KERC) proposes revised solar
-  tariffs; and more. '
+excerpt: Karnataka and West Bengal announces State Budgets for 2023-2024; Tamil Nadu
+  announces Electric Vehicles Policy 2023; Andhra Pradesh announces levelized tariff
+  for wind producers operating between 11-20 years; the Ministry of New and Renewable
+  Energy releases circular announcing blacklisting of firms that fail to meet the
+  commissioning dates of projects awarded by the central government; and more.
 states: []
 sectors: []
 subsectors: []
@@ -21,26 +21,35 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
-**Big News**: **Ministry of Mines** announces the discovery of 5.9 million tons of Lithium ores in **Jammu & Kashmir**; **Gujarat** amends the **Gujarat Industrial Policy 2020** allowing companies to avail incentives from multiple departments; **Rajasthan** announces **Budget 2023-24**; **Karnataka Electricity Regulatory Commission (KERC)** proposes revised solar tariffs; and more.
+**Big News**: **Karnataka** and **West Bengal** announces **State Budgets** for 2023-2024; **Tamil Nadu** announces **Electric Vehicles Policy 2023**; **Andhra Pradesh** announces levelized tariff for wind producers operating between 11-20 years; the **Ministry of New and Renewable Energy** releases circular announcing blacklisting of firms that fail to meet the commissioning dates of projects awarded by the central government; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Gujarat** amends the **Gujarat Industrial Policy 2020** to allow companies to avail incentives from multiple departments. The amendment will be applied retrospectively from September 2020. 
+**Manipur** approves the implementation of the **Vehicle Scrapping Policy** in the state with the aim to set up of registered vehicle scrapping facilities and an automatic testing center in the state. 
 
-**Source**: [Vibes of India](https://www.vibesofindia.com/gujarat-govt-tweaks-industrial-policy-to-ensure-hassle-free-development/); **In detail**: [Gujarat Industrial Policy 2020](https://cgivancouver.gov.in/pdf/2222021-new-industrial-policy-of-Gujarat.pdf)
+**Source**: [Ukhrul Times](https://ukhrultimes.com/manipur-cabinet-nods-to-implement-vehicle-scraping-policy-in-the-state/)
+
+**Madhya Pradesh** government approves a new **Excise Policy** under which drinking areas attached to liquor shops and shop bars will be shut down.
+
+**Source**: [India Today](https://www.indiatoday.in/india/story/madhya-pradesh-passes-new-excise-policy-ahatas-shop-bars-to-be-shut-2336914-2023-02-19); **In detail**: [CM’s Twitter](https://twitter.com/CMMadhyaPradesh/status/1627522219143483393) (Cabinet decisions)
 
 **Land Acquisition & Labor Regulations**
 
-Nothing critical to report this week.
+Uttarakhand cabinet approves in land circle rates in the state, leading to an average increase of 33% throughout the state. 
+
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/dehradun/buying-property-in-uttarakhand-to-cost-more-as-circle-rates-soar/articleshowprint/97995797.cms); **In detail**: [Government order](https://registration.uk.gov.in/files/Deradun_combined.pdf)
 
 **Infrastructure & Governance**
 
-**Rajasthan** tables the state **Budget for 2023-24**. This is the last budget for the current government as the state is headed into elections later in the year. 
+**Karnataka** announces the **Budget 2023-24**, the last of the current government, ahead of the upcoming Assembly elections in the State.
 
-**Source**: [Economic Times](https://economictimes.indiatimes.com/news/economy/policy/cm-ashok-gehlot-announces-rajasthan-budget-key-highlights/articleshow/97795720.cms); **In detail**: [Budget 2023-24](https://finance.rajasthan.gov.in/website/StateBudgetAll.aspx)
+**Source**: [The Daily Guardian](https://thedailyguardian.com/budget-2023-24-govt-to-build-majestic-ram-temple-ivf-clinic/); **In detail**: [Karnataka Budget 2023-24](https://finance.karnataka.gov.in/storage/pdf-files/1_BUDGET%20SPEECH(Eng).pdf)
+
+**West Bengal** announces the **Budget 2023-24** with an outlay of $41 billion. The government announced that the state GDP is projected to grow at 8.4% in the current fiscal.
+
+**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/kolkata-news/mamata-banerjee-govt-presents-rs-3-39-lakh-crore-bengal-budget-101676472381344.html); **In detail**: [Budget 2023-24](https://finance.wb.gov.in/writereaddata/Budget_Speech/2023_English.pdf)
 
 **Oil & Gas**
 
@@ -52,36 +61,36 @@ Nothing critical to report this week.
 
 **Power & Renewable Energy**
 
-**Karnataka Electricity Regulatory Commission (KERC)** releases a new discussion paper proposing revised tariffs for utility scale solar and rooftop solar projects. 
+**Andhra Pradesh Electricity Regulatory Commission (APERC)** announces a levelized tariff of \~$0.032/kWh for wind power projects operating between 11 to 20 years in the state. The Commission added that the distribution companies (DISCOMs) would have the first right of refusal of power purchase if the projects continue to operate after 20 years from the commercial operation date. 
 
-**Source**: [Mercom](https://mercomindia.com/karnataka-regulator-%E2%82%B93-64-kwh-utility-scale-projects/); **In detail**: [Discussion Paper](https://kerc.karnataka.gov.in/uploads/media_to_upload1675839453.pdf)
+**Source**: [Mercom](https://mercomindia.com/andhra-sets-%e2%82%b92-64-kwh-tariff-11-20-year-wind-projects/); **In detail**: [Tariff Order](https://aperc.gov.in/admin/upload/Commontarifforderwindprojects11thto20thyear06.02.23.pdf)
+
+**Tamil Nadu** launches the new **Electric Vehicles Policy 2023**, with an aim to increase the usage of electric vehicles and transform the state into a preferred destination for EV manufacturing. 
+
+**Source**: [The Print](https://theprint.in/economy/tamil-nadu-launches-new-ev-policy-aims-to-attract-rs-50000-cr-investments/1370863/); **In detail**: [Tamil Nadu Electric Vehicles Policy 2023](https://www.thehindu.com/news/national/tamil-nadu/66507714-TN-Electric-Vehicles-Policy-2023.pdf)
 
 **Health**
 
-**Karnataka** launches 108 **Namma Clinics** in Bengaluru with the aim to provide universal and comprehensive primary healthcare in urban areas.
+**Maharashtra** passes the **Medical Procurement Authority Act**, paving the way for the formation of an independent entity for the procurement of medicines in state-run hospitals, including all municipal corporations in the state. 
 
-**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/bengaluru-news/karnataka-government-begins-108-namma-clinics-in-bengaluru-101675783328510.html); **In detail**: [CM’s Twitter](https://twitter.com/CMofKarnataka/status/1622926862623330304)
-
-**West Bengal** begins mass administration of anti-filarial drugs in five districts, targeting to eliminate lymphatic filariasis by 2027. 
-
-**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/kolkata-news/west-bengal-special-drive-special-drive-on-lymphatic-filariasis-in-5-districts-101676081998306.html)
-
-**Assam** approves the **Assam State Secondary Healthcare Initiative for Service delivery Transformation**. The program co-funded by the World Bank is aimed at revamping the public health infrastructure in the state.
-
-**Source**: [Guwahati Plus](https://www.guwahatiplus.com/assam/rs2529-crore-allotted-to-boost-district-level-healthcare-in-assam); **In detail**: [CM’s Twitter](https://twitter.com/himantabiswa/status/1623716781016903680)
-
-**Manipur** launches the **Anemia Free Manipur** campaign with the objective of raising awareness about iron deficiency in the state. 
-
-**Source**: [East Mojo](https://www.eastmojo.com/manipur/2023/02/07/manipur-health-minister-launches-anaemia-free-campaign/)
+**Source**: [India Today](https://www.indiatoday.in/india/story/maharashtra-cabinet-approves-single-authority-for-procurement-of-medicines-for-state-run-hospitals-2334870-2023-02-15)
 
 **Center – State Relations**
 
-**Ministry of Health and Family Welfare** launches a nationwide **Mass Drug Administration** (MDA) campaign, aimed at ending lymphatic filariasis transmission. The campaign is targeted at the 10 worst filaria-affected states including **Bihar, Chhattisgarh, Jharkhand, Maharashtra, Uttar Pradesh, West Bengal, Karnataka, Odisha, Madhya Pradesh, and Andhra Pradesh**. 
+**Goods and Services Tax (GST) Council** approves the proposal for the creation of an appellate tribunal for recourse of conflicts arising due to the levy, after the recommendations of a ministerial group report. 
 
-**Source**: [Daijiworld](https://www.daijiworld.com/news/newsDisplay?newsID=1049050); **In detail**: [Press release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1898092)
+**Source**: [Financial Express](https://www.financialexpress.com/economy/gst-council-gives-nod-to-appellate-tribunal/2985622/); **In detail**: [Press Release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1900376)
+
+**Haryana** received $1.2 billion from the central government for the developmental work of cooperative societies across the state. 
+
+**Source**: [The Print](https://theprint.in/india/rs-10000-cr-released-to-haryana-govt-for-development-of-cooperative-societies-amit-shah/1371814/); **In detail**: [Press Release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1899224)
 
 **Any Other**
 
-**Ministry of Mines** announces the discovery of 5.9 million tonnes of lithium reserves in Jammu and Kashmir. Lithium is a non-ferrous metal and is a critical component used in the manufacturing of EV batteries. 
+**Ministry of New and Renewable Energy (MNRE)** issues a circular announcing that renewable energy companies that fail to meet the commissioning date of projects awarded by central government agencies will be blacklisted from future government tenders. 
 
-**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/power/lithium-reserves-found-for-the-first-time-in-india-in-jammu-and-kashmir-mines-secretary/97790339); **In detail**: [Press release](https://pib.gov.in/PressReleasePage.aspx?PRID=1897799)
+**Source**: [Business Standard](https://www.business-standard.com/article/economy-policy/centre-to-blacklist-renewable-energy-companies-delaying-project-completion-123021601092_1.html)
+
+**Union Cabinet** approves the **“Vibrant Villages Programme” (VVP)** for FY 2022-2026. The scheme with an outlay of $580 million aims to provide funds for the development of essential infrastructure and creation of livelihood opportunities in 19 Districts and 46 Border blocks in 4 states and 1 UT along the northern land border of the country. 
+
+**Source**: [Firstpost](https://www.firstpost.com/india/vibrant-villages-programme-central-govt-approves-key-scheme-to-develop-border-regions-12159822.html); **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1899446)
