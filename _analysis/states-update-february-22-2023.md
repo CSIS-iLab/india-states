@@ -3,8 +3,8 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: February 15, 2023'
-date: 2023-02-15 05:00:00 +0000
+title: 'States Update: February 22, 2023'
+date: 2023-02-22 05:00:00 +0000
 tags: []
 excerpt: 'Ministry of Mines announces the discovery of 5.9 million tons of Lithium
   ores in Jammu & Kashmir; Gujarat amends the Gujarat Industrial Policy 2020 allowing
@@ -14,13 +14,14 @@ excerpt: 'Ministry of Mines announces the discovery of 5.9 million tons of Lithi
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
 author:
 - Richard M. Rossow
+published: false
 
 ---
 **Big News**: **Ministry of Mines** announces the discovery of 5.9 million tons of Lithium ores in **Jammu & Kashmir**; **Gujarat** amends the **Gujarat Industrial Policy 2020** allowing companies to avail incentives from multiple departments; **Rajasthan** announces **Budget 2023-24**; **Karnataka Electricity Regulatory Commission (KERC)** proposes revised solar tariffs; and more.
