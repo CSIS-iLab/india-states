@@ -3,14 +3,14 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: February 29, 2023'
-date: 2023-02-22 05:00:00 +0000
+title: 'States Update: March 1, 2023'
+date: 2023-03-01 05:00:00 +0000
 tags: []
-excerpt: Karnataka and West Bengal announces State Budgets for 2023-2024; Tamil Nadu
-  announces Electric Vehicles Policy 2023; Andhra Pradesh announces levelized tariff
-  for wind producers operating between 11-20 years; the Ministry of New and Renewable
-  Energy releases circular announcing blacklisting of firms that fail to meet the
-  commissioning dates of projects awarded by the central government; and more.
+excerpt: 'Karnataka amends Factories Act to allow women to work night shifts at factories;
+  Assam approves Right of Way Guidelines to accelerate 5G deployment; Gujarat, Uttar
+  Pradesh, and Odisha present State Budgets 2023-24; Economic Advisory Council to
+  the Prime Minister (EAC-PM) releases the Foundational Literacy and Numeracy Report
+  with state rankings; and more. '
 states: []
 sectors: []
 subsectors: []
@@ -21,36 +21,69 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
-**Big News**: **Karnataka** and **West Bengal** announces **State Budgets** for 2023-2024; **Tamil Nadu** announces **Electric Vehicles Policy 2023**; **Andhra Pradesh** announces levelized tariff for wind producers operating between 11-20 years; the **Ministry of New and Renewable Energy** releases circular announcing blacklisting of firms that fail to meet the commissioning dates of projects awarded by the central government; and more.
+**Big News:**
+
+**Karnataka** amends **Factories Act** to allow women to work night shifts at factories; Assam approves **Right of Way Guidelines** to accelerate 5G deployment; **Gujarat, Uttar Pradesh, and Odisha** present **State Budgets 2023-24**; **Economic Advisory Council to the Prime Minister (EAC-PM)** releases the **Foundational Literacy and Numeracy Report** with state rankings; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Manipur** approves the implementation of the **Vehicle Scrapping Policy** in the state with the aim to set up of registered vehicle scrapping facilities and an automatic testing center in the state. 
+**Uttar Pradesh** cabinet approves the **Uttar Pradesh Film Policy 2023**, providing 50% subsidy of the cost if the films are made in Awadhi, Braj, Bundeli or Bhojpuri and 25% subsidy if the films are made in English, Hindi, or other languages.
 
-**Source**: [Ukhrul Times](https://ukhrultimes.com/manipur-cabinet-nods-to-implement-vehicle-scraping-policy-in-the-state/)
+**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/lucknow-news/uttar-pradesh-cabinet-approves-new-up-film-policy-101677088928112.html); **In detail**: [Uttar](https://twitter.com/UPGovt/status/1628641086242721794) Pradesh Film [Policy](https://filmbandhuup.gov.in/pdf/FilmBandhuBooklet-English.pdf)
 
-**Madhya Pradesh** government approves a new **Excise Policy** under which drinking areas attached to liquor shops and shop bars will be shut down.
+**Assam** approves the guidelines for granting Right of Way (RoW) to telecommunication infrastructures in Assam to facilitate the speedy rollout of 5G.
 
-**Source**: [India Today](https://www.indiatoday.in/india/story/madhya-pradesh-passes-new-excise-policy-ahatas-shop-bars-to-be-shut-2336914-2023-02-19); **In detail**: [CM’s Twitter](https://twitter.com/CMMadhyaPradesh/status/1627522219143483393) (Cabinet decisions)
+**Source**: [Sentinelassam](https://www.sentinelassam.com/topheadlines/assam-cabinet-approves-bill-for-public-safety-638601); **In detail**: [RoW](https://twitter.com/himantabiswa/status/1628346580880461824) [Guidelines](https://dot.gov.in/sites/default/files/Telecom%20at%20a%20Glance%202023%20as%20on%2018-01-2023.pdf?download=1)
+
+**Odisha** amends the **Odisha MSME Development Policy 2016**, allowing firms to avail benefits on an extended timeline of up to 2 years of filing its claims.
+
+**Source**: [Newsroom](https://newsroomodisha.com/odisha-food-processing-policy-2013-2016-and-odisha-msme-development-policy-2016-amended/); **In detail**: [Amendment to MSME Development Policy 2016](https://msme.odisha.gov.in/sites/default/files/2023-02/1292_0_0.pdf)
+
+**Punjab** announces agricultural subsidy for the purchase of agricultural machinery and set up custom hiring centers.
+
+**Source**: [Punjab News Express](https://www.punjabnewsexpress.com/punjab/news/punjab-cm-mann-government-to-provide-subsidy-on-purchase-of-agricultural-machinery-kuldeep-singh-dhaliwal-201292); **In detail**: [Press release](http://diprpunjab.gov.in/?q=content/mann-government-provide-subsidy-purchase-agricultural-machinery-kuldeep-singh-dhaliwal)
 
 **Land Acquisition & Labor Regulations**
 
-Uttarakhand cabinet approves in land circle rates in the state, leading to an average increase of 33% throughout the state. 
+**Karnataka** amends the **Factories Act**, allowing women to work night shifts at the factories, and enabling employees who put in 12 hours a day for four consecutive to take three days off a week.
 
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/dehradun/buying-property-in-uttarakhand-to-cost-more-as-circle-rates-soar/articleshowprint/97995797.cms); **In detail**: [Government order](https://registration.uk.gov.in/files/Deradun_combined.pdf)
+**Source**: [The Indian Express](https://indianexpress.com/article/cities/bangalore/karnataka-passes-bill-work-days-weekly-work-hours-8470470/); **In detail**: [Factories (Karnataka Amendment) Act, 2023](https://www.kla.kar.nic.in/assembly/bills/bill15150_04.pdf)
+
+**Rajasthan** increases the number of workdays under **Indira Gandhi Urban Employment Guarantee Scheme** from 100 days to 125 days.
+
+**Source**: [Zee News](https://zeenews.india.com/economy/rajasthan-job-guarantee-scheme-number-of-workdays-increased-from-100-to-125-days-under-indira-gandhi-urban-employment-guarantee-scheme-2576655.html); **In detail**: [Press release](https://dipr.rajasthan.gov.in/press-release-detail/82331/0)
 
 **Infrastructure & Governance**
 
-**Karnataka** announces the **Budget 2023-24**, the last of the current government, ahead of the upcoming Assembly elections in the State.
+**Gujarat** presents the **State Budget 2023-24**. The budget with a total outlay of $60.2 billion has a special focus on infrastructural development.
 
-**Source**: [The Daily Guardian](https://thedailyguardian.com/budget-2023-24-govt-to-build-majestic-ram-temple-ivf-clinic/); **In detail**: [Karnataka Budget 2023-24](https://finance.karnataka.gov.in/storage/pdf-files/1_BUDGET%20SPEECH(Eng).pdf)
+**Source**: [The Print](https://theprint.in/india/gujarat-budget-2023-24-rs-5-lakh-crore-to-be-spent-over-5-years-for-infrastructure-development-rs-5950-cr-allotted-for-narmada-project/1396387/); **In detail**: [Budget 2023-24](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:368eb58c-77f6-4738-8fe0-ce7ed46070c3) (in Gujarati)
 
-**West Bengal** announces the **Budget 2023-24** with an outlay of $41 billion. The government announced that the state GDP is projected to grow at 8.4% in the current fiscal.
+**Uttar Pradesh** tables the **State Budget 2023-24** in the state legislative assembly with a total outlay of $83.19 billion.
 
-**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/kolkata-news/mamata-banerjee-govt-presents-rs-3-39-lakh-crore-bengal-budget-101676472381344.html); **In detail**: [Budget 2023-24](https://finance.wb.gov.in/writereaddata/Budget_Speech/2023_English.pdf)
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/lucknow/uttar-pradesh-yogi-adityanath-govt-presents-rs-6-90-lakh-crore-budget-for-2023-24/articleshow/98147425.cms); **In detail**: [Budget 2023-24](https://budget.up.nic.in/)
+
+**Odisha** announces the **State Budget 2023-24**, focusing on agriculture, health, drinking water and road infrastructure that would give impetus to the rural economy. This is the last full budget before the state heads to elections in 2024.
+
+**Source**: [Hindustan Times ](https://www.hindustantimes.com/cities/others/odisha-budget-2023-24-focuses-on-agriculture-health-and-drinking-water-101677320907357.html); **In detail**: [State Budget 2023-24](https://budget.odisha.gov.in/previous-yearly-budget/2023)
+
+**Goa** cabinet approves to issue the **Goa Regularisation of Unauthorised Construction (Amendment) Ordinance, 2023**, to save certain unauthorized constructions carried out prior to February 28, 2014, from demolition pursuant to a court order.
+
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/goa/cabinet-oks-amendment-to-save-certain-unauthorised-structures/articleshow/98131786.cms); **In detail**: [The Goa Regularisation of Unauthorized Construction (Amendment) Act, 2023](https://goaprintingpress.gov.in/downloads/2223/2223-46-SI-EOG-1.pdf)
+
+**Punjab** cabinet approves the **Punjab Food Grains Transportation Policy 2023** for the consolidating the state procurement agencies’ infrastructure.
+
+**Source**: [PTC News](https://www.ptcnews.tv/punjab-2/punjab-makes-it-mandatory-for-every-establishment-to-have-name-board-in-punjabi-language-719731); **In detail**: [Punjab Food Grains Transportation Policy 2023](http://foodsuppb.gov.in/sites/default/files/The%20Punjab%20Food%20Grains%20Transportation%20Policy%20-%202023-24.pdf)
+
+**Assam** approves the **Assam Public Safety (Measures) Enforcement Bill, 2023**, to ensure the safety of citizens by mandating the use of surveillance equipment like CCTVs, in spaces that see large congregations of people by the owners of such spaces.
+
+**Source**: [Sentinelassam](https://www.sentinelassam.com/topheadlines/assam-cabinet-approves-bill-for-public-safety-638601); **In detail**: [CMO Twitter](https://twitter.com/himantabiswa/status/1628346580880461824)
+
+**Climate Change**
+
+Nothing critical to report this week.
 
 **Oil & Gas**
 
@@ -62,36 +95,20 @@ Nothing critical to report this week.
 
 **Power & Renewable Energy**
 
-**Andhra Pradesh Electricity Regulatory Commission (APERC)** announces a levelized tariff of \~$0.032/kWh for wind power projects operating between 11 to 20 years in the state. The Commission added that the distribution companies (DISCOMs) would have the first right of refusal of power purchase if the projects continue to operate after 20 years from the commercial operation date. 
-
-**Source**: [Mercom](https://mercomindia.com/andhra-sets-%e2%82%b92-64-kwh-tariff-11-20-year-wind-projects/); **In detail**: [Tariff Order](https://aperc.gov.in/admin/upload/Commontarifforderwindprojects11thto20thyear06.02.23.pdf)
-
-**Tamil Nadu** launches the new **Electric Vehicles Policy 2023**, with an aim to increase the usage of electric vehicles and transform the state into a preferred destination for EV manufacturing. 
-
-**Source**: [The Print](https://theprint.in/economy/tamil-nadu-launches-new-ev-policy-aims-to-attract-rs-50000-cr-investments/1370863/); **In detail**: [Tamil Nadu Electric Vehicles Policy 2023](https://www.thehindu.com/news/national/tamil-nadu/66507714-TN-Electric-Vehicles-Policy-2023.pdf)
+Nothing critical to report this week.
 
 **Health**
 
-**Maharashtra** passes the **Medical Procurement Authority Act**, paving the way for the formation of an independent entity for the procurement of medicines in state-run hospitals, including all municipal corporations in the state. 
+**Assam** cabinet approved a **Statement of Purpose** for providing millet under **Supplementary Nutrition Programme (SNP)**, to ensure proper nutrition for children and women, and combat malnutrition in the state.
 
-**Source**: [India Today](https://www.indiatoday.in/india/story/maharashtra-cabinet-approves-single-authority-for-procurement-of-medicines-for-state-run-hospitals-2334870-2023-02-15)
+**Source**: [Guwahatiplus](https://www.guwahatiplus.com/assam/assam-government-approves-sop-for-tackling-malnutrition); **In detail**: [CMO Twitter](https://twitter.com/himantabiswa/status/1628346580880461824)
 
 **Center – State Relations**
 
-**Goods and Services Tax (GST) Council** approves the proposal for the creation of an appellate tribunal for recourse of conflicts arising due to the levy, after the recommendations of a ministerial group report. 
+**Economic Advisory Council to the Prime Minister (EAC-PM)** releases the second edition of the **Foundational Literacy and Numeracy Report**. Prepared by the Institute for Competitiveness, the report measures literacy among children below 10 years of age . West Bengal led the table while Uttar Pradesh stood at the bottom among large states. Among smaller states, Punjab was at the top of the index while Telangana was at the bottom. Puducherry topped the index among union territories while Ladakh was the worst performer.
 
-**Source**: [Financial Express](https://www.financialexpress.com/economy/gst-council-gives-nod-to-appellate-tribunal/2985622/); **In detail**: [Press Release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1900376)
-
-**Haryana** received $1.2 billion from the central government for the developmental work of cooperative societies across the state. 
-
-**Source**: [The Print](https://theprint.in/india/rs-10000-cr-released-to-haryana-govt-for-development-of-cooperative-societies-amit-shah/1371814/); **In detail**: [Press Release](https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1899224)
+**Source**: [Economic Times ](https://economictimes.indiatimes.com/news/india/west-bengal-on-top-uttar-pradesh-at-bottom-of-index-for-literacy-among-children-below-10-years/articleshow/98206090.cms); **In detail**: [Foundational Literacy and Numeracy Report](https://eacpm.gov.in/wp-content/uploads/2023/02/FLN-report-For-Web.pdf)
 
 **Any Other**
 
-**Ministry of New and Renewable Energy (MNRE)** issues a circular announcing that renewable energy companies that fail to meet the commissioning date of projects awarded by central government agencies will be blacklisted from future government tenders. 
-
-**Source**: [Business Standard](https://www.business-standard.com/article/economy-policy/centre-to-blacklist-renewable-energy-companies-delaying-project-completion-123021601092_1.html)
-
-**Union Cabinet** approves the **“Vibrant Villages Programme” (VVP)** for FY 2022-2026. The scheme with an outlay of $580 million aims to provide funds for the development of essential infrastructure and creation of livelihood opportunities in 19 Districts and 46 Border blocks in 4 states and 1 UT along the northern land border of the country. 
-
-**Source**: [Firstpost](https://www.firstpost.com/india/vibrant-villages-programme-central-govt-approves-key-scheme-to-develop-border-regions-12159822.html); **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1899446)
+Nothing critical to report this week.

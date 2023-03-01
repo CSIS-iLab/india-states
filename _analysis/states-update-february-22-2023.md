@@ -14,7 +14,7 @@ excerpt: Karnataka and West Bengal announces State Budgets for 2023-2024; Tamil 
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
