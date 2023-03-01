@@ -99,7 +99,7 @@ Nothing critical to report this week.
 
 **Health**
 
-**Assam** cabinet approved a **Statement of Purpose** for providing millet under **Supplementary Nutrition Programme (SNP)**, to ensure proper nutrition for children and women, and combat malnutrition in the state.
+**Assam** cabinet approves a **Statement of Purpose** for providing millet under **Supplementary Nutrition Programme (SNP)**, to ensure proper nutrition for children and women, and combat malnutrition in the state.
 
 **Source**: [Guwahatiplus](https://www.guwahatiplus.com/assam/assam-government-approves-sop-for-tackling-malnutrition); **In detail**: [CMO Twitter](https://twitter.com/himantabiswa/status/1628346580880461824)
 
