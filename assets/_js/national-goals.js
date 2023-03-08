@@ -33,7 +33,7 @@ const NationalGoals = () => {
         // let progressTotal = percent * getProgressWrapWidth
         // let totalWidth
 
-        if (percent >= 100) {
+        if (percent >= 95) {
           bar.children[0].style.width = '100%'
           bar.classList.add('over-100')
         } else {
