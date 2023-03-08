@@ -3,7 +3,7 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: March 1, 2023'
+title: 'States Update: March 8, 2023'
 date: 2023-03-01 05:00:00 +0000
 tags: []
 excerpt: 'Karnataka amends Factories Act to allow women to work night shifts at factories;
@@ -14,13 +14,14 @@ excerpt: 'Karnataka amends Factories Act to allow women to work night shifts at 
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
 author:
 - Richard M. Rossow
+published: false
 
 ---
 **Big News:**
