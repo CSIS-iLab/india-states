@@ -34,7 +34,7 @@ const NationalGoals = () => {
         // let totalWidth
 
         if (percent >= 95) {
-          bar.children[0].style.width = '100%'
+          bar.children[0].style.width = percent
           bar.classList.add('over-100')
         } else {
           bar.children[0].style.width = `${percent}%`
@@ -45,7 +45,7 @@ const NationalGoals = () => {
         //       ? progressTotal - 150
         //       : progressTotal - 50
         // } else {
-        //   totalWidth = progressTotal
+        //   totalWidth = progressTotalgit 
         // }
         // if (progressTotal > 500) {
         //   totalWidth =
