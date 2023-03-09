@@ -35,6 +35,13 @@ sections:
   templates:
   - analysis
 - type: directory
+  path: _events
+  label: Events
+  create: all
+  match: "**/*"
+  templates:
+  - event
+- type: directory
   path: _posts
   label: Articles
   create: all
@@ -48,6 +55,13 @@ sections:
   match: "**/*"
   templates:
   - author
+- type: directory
+  path: _post-types
+  label: Post Types
+  create: all
+  match: "**/*"
+  templates:
+  - post-type
 - type: directory
   path: _national-goals
   label: National goals

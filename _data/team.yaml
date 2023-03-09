@@ -1,17 +1,21 @@
 ---
-- name: Yatin Jain
-  title: Program Coordinator & Research Assistant
-  image: "/uploads/yatin-jain-headshot-min.jpg"
+- name: Richard M. Rossow
+  title: Senior Adviser and Chair in U.S.-India Policy Studies
+  image: "/uploads/headshots/rick-rossow-headshot.jpg"
   current: true
 - name: Neelima Jain
   title: Senior Fellow and Deputy Director
   image: "/uploads/Neelima_Jain-002.jpg"
   current: true
-- name: Richard M. Rossow
-  title: Senior Adviser and Wadhwani Chair in U.S.-India Policy Studies
-  image: "/uploads/headshots/rick-rossow-headshot.jpg"
-  current: true
 - name: Afeena Ashfaque
   title: Associate Director
   image: "/uploads/afeena_ashfaque.jpg"
+  current: true
+- name: Akshat Singh
+  title: 'Research Associate '
+  image: "/uploads/5akshat.png"
+  current: true
+- name: Yatin Jain
+  title: Program Coordinator & Research Assistant
+  image: "/uploads/yatin-jain-headshot-min.jpg"
   current: true

@@ -8,7 +8,7 @@
   },
   {
     "state": "Andhra Pradesh",
-    "national_contribution": "10.43",
+    "national_contribution": "6.82",
     "state_target": 8100,
     "state_achieved": "4096.65",
     "state_percentage": 50.58
@@ -78,10 +78,10 @@
   },
   {
     "state": "Gujarat",
-    "national_contribution": "21.81",
+    "national_contribution": "16.43",
     "state_target": 8800,
-    "state_achieved": "8561.82",
-    "state_percentage": "97.29"
+    "state_achieved": "9860.62",
+    "state_percentage": "112.05"
   },
   {
     "state": "Haryana",
@@ -113,16 +113,16 @@
   },
   {
     "state": "Karnataka",
-    "national_contribution": "12.58",
+    "national_contribution": "8.78",
     "state_target": 6200,
-    "state_achieved": "4938.6",
-    "state_percentage": "79.65"
+    "state_achieved": "5268.15",
+    "state_percentage": "84.97"
   },
   {
     "state": "Kerala",
-    "national_contribution": "0.15",
+    "national_contribution": "0.1",
     "state_target": 0,
-    "state_achieved": 62.5,
+    "state_achieved": "62.5",
     "state_percentage": 0
   },
   {
@@ -134,17 +134,17 @@
   },
   {
     "state": "Madhya Pradesh",
-    "national_contribution": "6.42",
+    "national_contribution": "4.74",
     "state_target": 6200,
-    "state_achieved": 2519.89,
-    "state_percentage": 40.64
+    "state_achieved": "2844.29",
+    "state_percentage": "45.87"
   },
   {
     "state": "Maharashtra",
-    "national_contribution": "12.74",
+    "national_contribution": "8.35",
     "state_target": 7600,
-    "state_achieved": 5000.33,
-    "state_percentage": 65.79
+    "state_achieved": "5012.83",
+    "state_percentage": "65.95"
   },
   {
     "state": "Manipur",
@@ -197,10 +197,10 @@
   },
   {
     "state": "Rajasthan",
-    "national_contribution": "11.02",
+    "national_contribution": "7.8",
     "state_target": 8600,
-    "state_achieved": "4326.82",
-    "state_percentage": 50.31
+    "state_achieved": "4681.82",
+    "state_percentage": "54.43"
   },
   {
     "state": "Sikkim",
@@ -211,17 +211,17 @@
   },
   {
     "state": "Tamil Nadu",
-    "national_contribution": "24.48",
+    "national_contribution": "16.56",
     "state_target": 11900,
-    "state_achieved": "9608.04",
-    "state_percentage": "80.73"
+    "state_achieved": "9936.02",
+    "state_percentage": "83.49"
   },
   {
     "state": "Telangana",
-    "national_contribution": "0.32",
+    "national_contribution": "0.21",
     "state_target": 2000,
     "state_achieved": 128.1,
-    "state_percentage": 6.41
+    "state_percentage": "6.4"
   },
   {
     "state": "Tripura",

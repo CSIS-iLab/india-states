@@ -8,7 +8,7 @@ states:
 sectors:
 - Energy
 subsectors:
-- Power
+- Power and Renewable Energy
 sources:
 - name: Mercom
   url: https://mercomindia.com/gujarat-net-metering-rooftop-solar-10/

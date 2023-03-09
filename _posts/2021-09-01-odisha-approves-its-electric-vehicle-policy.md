@@ -2,11 +2,11 @@
 content_type: articles
 breadcrumbs: articles
 title: Odisha approves its electric vehicle policy
-date: 2021-09-01 04:00:00 +0000
+date: 2021-09-01T04:00:00.000+00:00
 states:
 - Odisha
 sectors:
-- Energy
+- Industrial Policy and Business Regulations
 subsectors:
 - Energy-related Transportation
 sources:

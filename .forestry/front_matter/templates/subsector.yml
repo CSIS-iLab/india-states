@@ -17,3 +17,5 @@ fields:
   label: Content Type
   default: subsector
   hidden: true
+pages:
+- _subsectors/power-renewable-energy.md

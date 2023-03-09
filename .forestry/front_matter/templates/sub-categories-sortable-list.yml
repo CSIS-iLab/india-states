@@ -45,6 +45,8 @@ fields:
     - Union Territory of Lakshadweep
     - Union Territory of the Andaman and Nicobar Islands
     - West Bengal
+    - Union Territory of Daman and Diu
+    - Union Territory of Chandigarh
 - type: list
   name: sectors
   label: Sectors
@@ -55,6 +57,11 @@ fields:
     options:
     - Energy
     - Health
+    - Industrial Policy and Business Regulations
+    - Infrastructure and Governance
+    - Land & Labor Laws
+    - Water & Sanitation
+    - Climate Change
 - type: list
   name: subsectors
   label: Subsectors
@@ -78,3 +85,4 @@ fields:
     - " Healthcare Workforce"
     - " Pharmaceuticals and Devices"
     - " Social Determinants of Health"
+    - Power and Renewable Energy

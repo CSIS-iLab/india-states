@@ -26,6 +26,7 @@
   <!-- Typekit -->
   <link rel="stylesheet" href="https://use.typekit.net/xxu0xvd.css" />
 
+  {% if site.google_analytics_4 %} {% include google-analytics-4.html %} {% endif %}
   {% if site.google_analytics %} {% include google-analytics.html %} {% endif %}
   {% if page.layout == "home" %}
   <title>{{ site.title }} | {{ site.description }}</title>

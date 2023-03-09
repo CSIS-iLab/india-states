@@ -1,0 +1,63 @@
+---
+label: Event
+hide_body: false
+fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: Date
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: Tags
+- type: textarea
+  name: excerpt
+  label: Excerpt
+- type: include
+  name: subsectors
+  label: Subsectors
+  template: sub-categories-sortable-list
+- type: boolean
+  name: is_featured
+  label: Is_Featured
+- type: file
+  name: feature_image
+  label: Feature Image
+- type: text
+  name: feature_image_credit
+  label: Feature Image Credit
+- type: field_group_list
+  name: details
+  label: Details
+  fields:
+  - type: text
+    name: name
+    label: Name
+  - type: text
+    name: url
+    label: Url
+- type: text
+  hidden: true
+  label: Breadcrumbs
+  name: breadcrumbs
+  default: events
+- type: boolean
+  name: is_analysis
+  label: Is Analysis
+  default: false
+  hidden: true
+- type: text
+  name: content_type
+  label: Content_Type
+  hidden: true
+  default: events
+- name: sectors
+  type: include
+  config: {}
+  template: sub-categories-dropdown
+  label: Sectors

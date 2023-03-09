@@ -9,9 +9,17 @@ collections:
   posts:
     title: Articles
     output: true
+  events:
+    title: Events
+    output: true
+    path: '/:path/:title/'
   authors:
     title: Authors
     output: false
+  post-type:
+    title: Post Type
+    output: true
+    path: '/:path/:title/'
   national-goals:
     title: National Goals
     output: true
@@ -76,6 +84,31 @@ defaults:
       breadcrumbs: analysis
       content_type: Analysis
       is_analysis: true
+  - scope:
+      path: ''
+      type: events
+    values:
+      layout: event
+      excerpt:
+      states: []
+      sectors: []
+      subsectors: []
+      is_featured: false
+      feature_image:
+      feature_image_credit:
+      details:
+        - name:
+          url:
+      breadcrumbs: events
+      content_type: Event
+      is_analysis: false
+  - scope:
+      path: ''
+      type: post-type
+    values:
+      description:
+      feature_image:
+      feature_image_credit:
   - scope:
       path: ''
       type: states
@@ -163,6 +196,7 @@ date_format: '%B %-d, %Y'
 post_meta_limit: 5
 post_meta_sector_limit: 3
 google_analytics: UA-70098597-2
+google_analytics_4: G-4KVQVPR7MQ
 facebook: CsisIndiaChair
 facebook_default_image: '/assets/img/facebook-standard-image-min.jpg'
 twitter_default_image: '/assets/img/twitter-standard-image-min.jpg'
