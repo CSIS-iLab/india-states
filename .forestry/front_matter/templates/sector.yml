@@ -18,3 +18,9 @@ fields:
   label: Breadcrumbs
   default: sectors
   hidden: true
+pages:
+- _sectors/climate-change.md
+- _sectors/industrial-policy-and-business-regulations.md
+- _sectors/infrastructure-and-governance.md
+- _sectors/land-labor-laws.md
+- _sectors/water-sanitation.md

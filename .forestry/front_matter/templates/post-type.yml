@@ -1,0 +1,23 @@
+---
+label: Post Types
+hide_body: true
+fields:
+- type: text
+  name: title
+  config:
+    required: true
+  label: Post Type
+- type: textarea
+  name: description
+  label: Description
+- type: file
+  name: feature_image
+  label: Feature Image
+- type: text
+  name: feature_image_credit
+  label: Feature Image Credit
+pages:
+- _post-types/india-states-quarterly.md
+- _post-types/india-states-weekly.md
+- _post-types/partnership-matrices.md
+- _post-types/reports.md

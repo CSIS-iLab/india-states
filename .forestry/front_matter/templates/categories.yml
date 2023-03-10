@@ -1,9 +1,0 @@
----
-label: Categories
-hide_body: true
-fields:
-- name: category_name
-  type: text
-  config:
-    required: true
-  label: Category Name

@@ -8,12 +8,12 @@ states:
 sectors:
 - Energy
 subsectors:
-- Energy Efficiency
+- Power and Renewable Energy
 sources:
 - name: Mercom
   url: https://mercomindia.com/smart-grid-cell-established-in-telangana/
 details:
-- name: Smart Grid Regulations
+- name: Regulation
   url: https://tserc.gov.in/file_upload/uploads/Regulations/Final/tserc/2021/Smart%20Grid%20%20Regulation.pdf
 is_analysis: false
 

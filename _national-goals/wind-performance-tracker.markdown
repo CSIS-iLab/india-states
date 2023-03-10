@@ -1,6 +1,6 @@
 ---
 title: Wind Performance Tracker
-date: 2017-09-15T12:55:00.000+00:00
+date: '2017-09-15T12:55:00.000+00:00'
 sectors: Energy
 subsectors: Renewables
 data_source: wind-performance-tracker
@@ -8,7 +8,7 @@ data_label: MW
 data_missing_message: There is no data available for
 map:
   description: Eight Indian states has been assigned a wind power capacity target
-    that they need to achieve in order for India as a whole to reach 60 GW of solar
+    that they need to achieve in order for India as a whole to reach 60 GW of wind
     power by 2022. State targets are based on their potential to produce wind power,
     including land area, geographical location and achievable wind velocity, and thus
     vary widely. This map represents state wind capacity target as a percentage of
