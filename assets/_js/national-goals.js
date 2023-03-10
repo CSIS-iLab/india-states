@@ -19,39 +19,40 @@ const NationalGoals = () => {
 
     allData.push(100)
 
-    let max = allData.reduce(function(a, b) {
-      return Math.max(parseInt(a), parseInt(b))
-    })
+    // let max = allData.reduce(function(a, b) {
+    //   return Math.max(parseInt(a), parseInt(b))
+    // })
 
     Array.from(document.getElementsByClassName('progress-wrap')).forEach(
       function(bar) {
-        let percent = bar.getAttribute('data-progress-percent') / parseInt(max)
+        // let percent = bar.getAttribute('data-progress-percent') / parseInt(max)
+        let percent = bar.getAttribute('data-progress-percent')
 
-        let getProgressWrapWidth = bar.clientWidth
+        // let getProgressWrapWidth = bar.clientWidth
 
-        let progressTotal = percent * getProgressWrapWidth
-        let totalWidth
+        // let progressTotal = percent * getProgressWrapWidth
+        // let totalWidth
 
-        if (progressTotal > 500) {
-          totalWidth =
-            window.innerWidth > 1000 ? progressTotal - 150 : progressTotal - 50
+        if (percent >= 95) {
+          bar.children[0].style.width = percent
+          bar.classList.add('over-100')
         } else {
-          totalWidth = progressTotal
+          bar.children[0].style.width = `${percent}%`
         }
-
-        bar.children[0].style.width = `${totalWidth}px`
-
-        // on page load, animate percentage bar to data percentage length
-        // .stop() used to prevent animation queueing
-        // $(this)
-        //   .children('.progress-bar')
-        //   .stop()
-        //   .animate(
-        //     {
-        //       width: totalWidth
-        //     },
-        //     animationLength
-        //   )
+        // if (progressTotal > 500) {
+        //   totalWidth =
+        //     window.innerWidth > 1000
+        //       ? progressTotal - 150
+        //       : progressTotal - 50
+        // } else {
+        //   totalWidth = progressTotalgit 
+        // }
+        // if (progressTotal > 500) {
+        //   totalWidth =
+        //     window.innerWidth > 1000 ? progressTotal - 150 : progressTotal - 50
+        // } else {
+        //   totalWidth = progressTotal
+        // }
       }
     )
   }
