@@ -45,7 +45,7 @@ const NationalGoals = () => {
         //       ? progressTotal - 150
         //       : progressTotal - 50
         // } else {
-        //   totalWidth = progressTotalgit 
+        //   totalWidth = progressTotal
         // }
         // if (progressTotal > 500) {
         //   totalWidth =
