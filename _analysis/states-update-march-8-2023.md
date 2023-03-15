@@ -4,7 +4,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: March 8, 2023'
-date: 2023-03-08 05:00:00 +0000
+date: 2023-03-08T05:00:00.000+00:00
 tags: []
 excerpt: 'Governments in Meghalaya, Nagaland, and Tripura all win re-election; Bihar,
   Chhattisgarh, Madhya Pradesh, and Jharkhand present their annual budgets; Uttar
@@ -14,7 +14,7 @@ excerpt: 'Governments in Meghalaya, Nagaland, and Tripura all win re-election; B
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
