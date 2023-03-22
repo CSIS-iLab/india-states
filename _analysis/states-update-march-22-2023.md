@@ -4,13 +4,13 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: March 22, 2023'
-date: 2023-03-15 04:00:00 +0000
+date: 2023-03-22 04:00:00 +0000
 tags: []
-excerpt: Maharashtra, Arunachal Pradesh, Punjab, and Puducherry present their annual
-  budgets; Uttar Pradesh accepts the recommendations of commission looking at OBC
-  reservations in municipal elections; Himachal Pradesh announces new Excise Policy
-  2023-24; Karnataka approves the Karnataka Minor Mineral Concession (Amendment) Rules,
-  2022; and more.
+excerpt: 'Punjab approves the Punjab Excise Policy 2023, and the Punjab State Minor
+  Mineral Policy 2023; Andhra Pradesh, Assam, Himachal Pradesh, and Uttarakhand present
+  their State Budgets 2023-24; Ministry of Finance announces annual budget allocation
+  for Jammu and Kashmir; Tamil Nadu releases the Tamil Nadu Organic Farming Policy
+  2023; and more.  '
 states: []
 sectors: []
 subsectors: []
@@ -21,42 +21,65 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
 **Big News:**
 
-**Maharashtra**, **Arunachal Pradesh**, **Punjab**, and **Puducherry** present the **Budgets 2023-24**; **Uttar Pradesh** accepts the recommendations of the commission looking at OBC reservations in municipal elections; **Himachal Pradesh** announces the new **Excise Policy 2023-24**; **Karnataka** approves the **Karnataka Minor Mineral Concession (Amendment) Rules, 2022**; and more.
+**Punjab** approves the **Punjab Excise Policy 2023**, and the **Punjab State Minor Mineral Policy 2023**; **Andhra Pradesh**, **Assam**, **Himachal Pradesh**, and **Uttarakhand** present their **State Budgets 2023-24**; **Ministry of Finance** announces annual budget allocation for **Jammu and Kashmir**; **Tamil Nadu** releases the **Tamil Nadu Organic Farming Policy 2023**; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Himachal Pradesh** approves the **Himachal Pradesh Excise Policy 2023-24**. The new excise policy aims to bolster horticulture in the state by permitting the production of a new category of liquor made by the fermentation and distillation of fruits. **Source**: [Outlook India](https://www.outlookindia.com/business/cabinet-nod-to-himachal-pradesh-excise-policy-state-to-get-new-category-of-liquor-news-267985); **In detail**: [Cabinet Decision](http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=27015)
+**Punjab** approves the **Punjab Excise Policy 2023-24** with a target to collect $1.18 billion in revenue. The policy has increased the cost of licensing which will lead to an increase in the price of liquor in the state. 
 
-**Tamil Nadu** announces the **M-Sand Policy 2023** to ensure zero waste from quarrying in the state. The policy is aimed at preventing damage to river ecosystems by promoting the use of river sand in a conservative manner. **Source**: [Hindu Business Line](https://www.thehindubusinessline.com/news/real-estate/tn-government-announces-m-sand-policy-2023/article66600837.ece); **In detail**: [M-Sand Policy 2023](https://www.thehindu.com/news/national/tamil-nadu/66598818-Tamil-Nadu-M-Sand-Policy-2023.pdf)
+**Source**: [The Tribune](https://www.tribuneindia.com/news/punjab/new-excise-policy-out-liquor-dearer-486881); **In detail**: [Twitter](https://twitter.com/PunjabGovtIndia/status/1634223938627837952)
 
-**Karnataka** approves the **Karnataka Minor Mineral Concession (Amendment) Rules, 2022**. The policy is aimed at facilitating ease of doing business for the jelly crushing units and stone quarries. **Source**: [Deccan Herald](https://www.deccanherald.com/state/top-karnataka-stories/karnataka-cabinet-approves-revamped-minor-mineral-policy-1198378.html); **In detail**: [Karnataka Minor Mineral Concession (Amendment) Rules, 2022](https://dpal.karnataka.gov.in/storage/pdf-files/67%20of%201957%20Minor%20Mineral%20Concession%20(Amendment)%20Rules,%202022.pdf)
+**Punjab** approves the **Punjab State Minor Mineral Policy-2023** to ensure the provision of sand and gravel at affordable rates. 
+
+**Source**: [Business Standard](https://www.business-standard.com/article/current-affairs/punjab-cabinet-approves-excise-policy-2023-24-with-rs-9-754-cr-target-123031001320_1.html); **In detail**: [Punjab State Mineral Policy 2023](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:bbc8c531-b97f-4304-93c7-55a840c4703d)
+
+**Tamil Nadu** releases the **Tamil Nadu Ethanol Blending Policy 2023**, with the objective to improve farmer income, revive the sugar industry and attract investments worth $605.8 billion to increase the molasses/grain-based Ethanol production capacity. 
+
+**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/oil-and-gas/tamil-nadu-unveils-ethanol-blending-policy-2023-to-attract-rs-5000-cr-investments/98764631); **In detail**: [Press release](http://cms.tn.gov.in/sites/default/files/press_release/pr180323_571.pdf) (In Tamil)
+
+**Kerala** approves recommendations of a committee to monetise the Kerala Fiber Optic Network (KFON) project. The project is aimed at providing affordable internet connection in the state. 
+
+**Source**: [New Indian Express](https://www.newindianexpress.com/states/kerala/2023/mar/16/cabinet-nod-for-kerala-fiber-optic-network-project-terms-2556468.html)
 
 **Land Acquisition & Labor Regulations**
 
-**Goa** amends the **Goa Land Revenue (Record of Rights and Register of Cultivators) Rules, 1969**. The amendment aims to bring private forests under record. **Source**: [Times of India](https://timesofindia.indiatimes.com/city/goa/in-a-first-pvt-forests-to-be-on-govt-records/articleshowprint/98550860.cms); **In detail**: [Goa Land Revenue (Record of Rights and Register of Cultivators) Rules, 1969](https://goaprintingpress.gov.in/downloads/2223/2223-40-SI-OG-0.pdf)
+Nothing critical to report this week.
 
 **Infrastructure & Governance**
 
-**Uttar Pradesh** cabinet accepts the recommendations of a five-member commission set up to look into the issue of reservation to other backward classes (OBCs) in urban local body elections. **Source**: [Hindustan Times](https://www.hindustantimes.com/india-news/up-cabinet-accepts-report-on-obc-quota-in-civic-elections-101678473320278.html); **In detail**: [Twitter](https://twitter.com/UPGovt/status/1634088193577426948)
+**Andhra Pradesh** presents the **State** **Budget 2023-24** with an outlay of $33.8 billion. The budget is focused on healthcare and education. 
 
-**Rajasthan** approves a financial proposal of $1.2 billion for the construction of the East Rajasthan Canal Project (ERCP). The ERCP is aimed at improving irrigation and drinking water access in 13 districts of eastern Rajasthan. **Source**: [Outlook India](https://www.outlookindia.com/national/cm-gehlot-approves-financial-proposal-for-construction-of-east-rajasthan-canal-project-news-269288/amp); **In detail**: [Press Release](https://cmo.rajasthan.gov.in/pressreleasedetail/83526) (In Hindi)
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-tables-rs-2-79-lakh-crore-budget-focus-on-health-education/articleshow/98718701.cms); **In detail**: [Budget 2023-24](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f9eb07eb-5404-4d77-91e2-17f014a0eaa6)
 
-**Maharashtra** presents the **State Budget 2023-24**. The budget is focused on farmers, women, youth affairs, employment and the environment. **Source**: [India Today](https://www.indiatoday.in/india/story/maharashtra-budget-highlights-devendra-fadnavis-farmers-women-employment-environment-2344445-2023-03-09); **In detail**: [Budget 2023-24](https://mahagst.gov.in/en/budget/state/111052)
+**Assam** presents the **State Budget 2023-24** with an outlay of \~$14.5 billion. The budget is focused on promoting micro-entrepreneurship and creating opportunities for the youth. 
 
-**Arunachal Pradesh** presents **State Budget 2023-24**. The budget is focused on creating employment opportunities, and youth affairs. **Source**: [The Sentinel](https://www.sentinelassam.com/north-east-india-news/arunachal-news/arunachal-pradesh-deputy-cm-chowna-mein-presents-rs-75826-cr-deficit-budget-for-2023-24-640437); **In detail**: [Budget 2023-24](http://www.arunachalbudget.in/docs/speech.pdf)
+**Source**: [Economic Times](https://economictimes.indiatimes.com/news/india/in-assam-budget-funds-for-creating-2-lakh-entrepreneurs-40000-fresh-govt-hirings/articleshow/98689181.cms); **In detail**: [Budget 2023-24](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8de8baab-5326-4df8-9272-81b38aee9064) (In Assamese)
 
-**Puducherry** announces the **State Budget 2023-24**. The budget includes a $15.36 million LPG subsidy. **Source**: [India.com](https://www.india.com/business/puducherry-announces-hefty-lpg-subsidy-of-rs-300-for-all-families-puducherry-budget-2023-5942179/); **In detail**: [Budget 2023-24](https://www.py.gov.in/sites/default/files/cmbudgetspeech2023eng.pdf)
+**Himachal Pradesh** presents the **State Budget 2023-24** with an outlay of $6.47 billion. The budget is focused on clean energy promotion, and women empowerment. 
 
-**Punjab** presents the **State Budget 2023-24** with a $24 billion outlay. The budget is focused on agriculture, education and health. **Source**: [Indian Express](https://indianexpress.com/article/cities/chandigarh/punjab-budget-no-new-taxes-focus-on-agri-education-health-8490089/); **In detail**: [Budget 2023-24](https://finance.punjab.gov.in/uploads/10Mar2023/Budget_Speech_English.pdf)
+**Source**: [CNBC](https://www.cnbctv18.com/economy/himachal-pradesh-budget-2023-top-announcements-cm-sukhvinder-singh-sukhu-electrical-vehicle-schemes-policy-taxes-women-youth-employment-farmers-16195441.htm); **In detail**: [Budget 2023-24](https://ebudget.hp.nic.in/BudHome.aspx)
+
+**Uttarakhand** presents the **State Budget 2023-24** with an outlay of $9.37 billion. The budget is focused on education, youth welfare and health infrastructure development. 
+
+**Source**: [The Hindu](https://www.thehindu.com/news/national/other-states/uttarakhand-govt-presents-77407-crore-budget-for-fy24/article66623119.ece); **In detail**: [Budget 2023-24](https://budget.uk.gov.in/pages/display/132-budget-2023-24)
+
+**Haryana** alters the **E-tendering Policy** to allow village heads to approve development projects up to $6,058 up from the existing limit of $2,423 directly. 
+
+**Source**: [Outlook](https://www.outlookindia.com/national/amid-sarpanches-protests-in-haryana-limit-under-e-tendering-policy-to-approve-development-work-hiked-to-rs-5-lakh-news-270354); **In detail**: [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:639243da-26ba-47bf-a9bc-2c0d3f884d6b)
+
+**Rajasthan** announces the creation of 19 new districts and 3 divisional headquarters to increase the access to public services for the citizens.
+
+**Source**: [NDTV](https://www.ndtv.com/india-news/rajasthan-creates-19-new-districts-in-election-year-bjp-says-political-move-3870979); **In detail**: [Press release](https://cmo.rajasthan.gov.in/pressreleasedetail/84272)
 
 **Climate Change**
 
-Nothing critical to report this week.
+**Tamil Nadu** releases the **Tamil Nadu Organic Farming Policy 2023**, aimed at conserving soil health, agroecology, and biodiversity in addition to providing safe, healthier, and environment-friendly food. 
+
+**Source**: [New Indian Express](https://www.newindianexpress.com/states/tamil-nadu/2023/mar/15/cm-stalin-unveils-policy-to-boost-organic-farming-in-tamil-nadu-2556186.html); **In detail**: [Tamil Nadu Organic Farming Policy 2023](http://www.agritech.tnau.ac.in/pdf/66617733-Tamil-Nadu-Organic-Farming-Policy-2023_230315_093042.pdf)
 
 **Oil & Gas**
 
@@ -72,20 +95,28 @@ Nothing critical to report this week.
 
 **Health**
 
-**Telangana** launches the **Arogya Mahila** initiative aimed at increasing medical access for women in the state. Under the scheme, the government will provide eight types of services for women and reserve clinics exclusively for female patients every Tuesday. **Source**: [Telangana Today](https://telanganatoday.com/harish-rao-launches-arogya-mahila-telanganas-latest-scheme-for-women); **In detail**: [Twitter](https://mobile.twitter.com/TelanganaHealth/status/1633419847953522688)
-
-**Haryana** announces a new initiative to eradicate tuberculosis. The initiative includes the creation of a state task force to improve cooperation between government and private sector medical institutes and doctors. The state initiative is in line with the Prime Minister’s campaign to make India tuberculosis free by 2025. **Source**: [The Print](https://theprint.in/india/haryana-has-set-target-to-become-first-tb-free-state-in-country-khattar-2/1425765/); **In detail**: [Press Release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:2f9efd67-e113-4807-9653-4790d68191c4)
-
-**Karnataka** announces a new project aimed at increasing telehealth access by establishing 28 smart virtual clinics in Bengaluru. The $2.56 million project has been co-designed by Bengaluru Smart City Limited and Bruhat Bengaluru Mahanagara Palike (BBMP). **Source**: [Times of India](https://timesofindia.indiatimes.com/city/bengaluru/28-smart-virtual-clinics-launched-in-bengaluru/articleshow/98571183.cms); **In detail**: [Twitter](https://twitter.com/CMofKarnataka/status/1634522907652280321)
+Nothing critical to report this week.
 
 **Center – State Relations**
 
-**Ministry Of Ports, Shipping, and Waterways** provides in-principle approval to four floating jetty projects in **Karnataka** and in-principle approval to four floating jetty projects in **Tamil Nadu**. **Source**: [Economic Times](https://economictimes.indiatimes.com/industry/transportation/shipping-/-transport/centre-sanctions-eight-floating-jetty-projects-in-karnataka-tamil-nadu/articleshow/98514525.cms); **In detail**: [Press Release](https://pib.gov.in/PressReleasePage.aspx?PRID=1905206)
+**Ministry of Textiles** notifies the **PM MITRA Scheme** under which mega textile parks will be established in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya Pradesh and Uttar Pradesh. The textile parks are aimed at boosting end-to-end garment manufacturing in the country.
+
+**Source**: [News 18](https://www.news18.com/business/pm-mitra-mega-textile-parks-to-be-set-up-in-7-states-pm-narendra-modi-7316125.html); **In detail**: [Gazette notification](http://texmin.gov.in/sites/default/files/PM_MITRA_Notification_0.pdf)
+
+**Ministry of Jal Shakti** allocates $242.3 million to **Tripura** under the Jal Jeevan Mission to increase the access to safe water in the state. 
+
+**Source**: [Business Standard](https://www.business-standard.com/article/current-affairs/centre-has-sanctioned-rs-2-000-cr-for-tripura-under-jal-jeevan-mission-cm-123031900572_1.html); **In detail**: [CM’s Twitter](https://twitter.com/DrManikSaha2/status/1637300261994782721)
+
+**Ministry of Finance** announces an allocation of $14.3 billion to **Jammu and Kashmir** for the **Budget 2023-24**. The budget is focused on increasing access to housing and providing safe water in rural areas.
+
+**Source**: [India TV](https://www.indiatvnews.com/business/news/jammu-and-kashmir-budget-2023-24-fm-presents-rs-1-18-lakh-crore-budget-aims-to-double-ut-s-gdp-within-five-years-2023-03-14-854396); **In detail**: [Budget 2023-24](https://www.jakfinance.nic.in/budget/budget2324/J&K%20Budget%20Speech%202023-24.pdf)
 
 **Any Other**
 
-**Uttar Pradesh** approves the **New Sports Policy, 2023**. The policy is aimed at fostering a culture of sports and encouraging young athletes in the state. **Source**: [Business Standard](https://www.business-standard.com/article/current-affairs/uttar-pradesh-cabinet-approves-new-sports-policy-2023-encourage-athletes-123031001063_1.html); **In detail**: [Twitter](https://twitter.com/UPGovt/status/1634221566983819265)
+**Haryana** launches the **Dayalu Yojana** with an aim to provide financial assistance in the event of the death of a person. The financial assistance will vary depending on the age of the beneficiary. 
 
-**Madhya Pradesh** launches the **Laadli Behna** scheme under which eligible women will be provided $12.2 in monthly assistance. **Source**: [Hindustan Times](https://www.hindustantimes.com/cities/bhopal-news/madhya-pradesh-cm-launches-laadli-behna-scheme-for-women-details-here-101678027308157.html); **In detail**: [Launch Video](https://youtu.be/CFTnvUa-ubY)
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/dayalu-yojana-launched-to-provide-aid-in-case-of-death/articleshow/98721049.cms); **In detail**: [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f07de991-ea14-4763-b114-a44fc544c62d)
 
-**Kerala** increases the loan limit for women from $30,475.3 to $60,950.5 at 5% interest under the Kerala State Industrial Development Corporation’s “We Mission Kerala” initiative. **Source**: [India Today](https://www.indiatoday.in/education-today/news/story/kerala-govt-announces-slew-of-schemes-and-initiatives-to-support-women-entrepreneurs-2344433-2023-03-09); **In detail**: [Launch video](https://www.youtube.com/watch?v=ZSu3H-7n8JE)
+**Uttarakhand** government approves the **Tourism Policy 2023**. The policy is aimed at increasing tourism related investments in the state. 
+
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-to-give-capital-subsidy-of-up-to-50-for-investment-in-tourism-sector/articleshow/98718370.cms); **In detail**: [Assembly Session Video](https://urldefense.com/v3/__https:/fb.watch/jpPMVEWF_D/__;!!KRhing!a0yDbtBi0SlnDQB8dIs0s2FwXceYIxctIvrxAanwOvQ2tgoCpnnaRqUfJAurhdm-ZyuoGk64p3QKIfAFj8fV$)
