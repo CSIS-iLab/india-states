@@ -8,7 +8,10 @@ states:
 - Telangana
 sectors:
 - Health
-subsectors: []
+subsectors:
+- " Health IT"
+- " Healthcare Regulation"
+- Health Areas
 sources:
 - name: Telangana Today
   url: https://telanganatoday.com/harish-rao-launches-arogya-mahila-telanganas-latest-scheme-for-women
