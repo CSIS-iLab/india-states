@@ -3,7 +3,7 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: March 22, 2023'
+title: 'States Update: March 29, 2023'
 date: 2023-03-22 04:00:00 +0000
 tags: []
 excerpt: 'Punjab approves the Punjab Excise Policy 2023, and the Punjab State Minor
@@ -14,13 +14,14 @@ excerpt: 'Punjab approves the Punjab Excise Policy 2023, and the Punjab State Mi
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
 author:
 - Richard M. Rossow
+published: false
 
 ---
 **Big News:**
