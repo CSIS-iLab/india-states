@@ -4,13 +4,12 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: March 29, 2023'
-date: 2023-03-22 04:00:00 +0000
+date: 2023-03-29 04:00:00 +0000
 tags: []
-excerpt: 'Punjab approves the Punjab Excise Policy 2023, and the Punjab State Minor
-  Mineral Policy 2023; Andhra Pradesh, Assam, Himachal Pradesh, and Uttarakhand present
-  their State Budgets 2023-24; Ministry of Finance announces annual budget allocation
-  for Jammu and Kashmir; Tamil Nadu releases the Tamil Nadu Organic Farming Policy
-  2023; and more.  '
+excerpt: 'Tamil Nadu, Delhi, and Meghalaya present their annual budgets; Tamil Nadu
+  releases the Tamil Nadu Logistics Policy 2023; Andhra Pradesh announces the Industrial
+  Development Policy (IDP) 2023-27; Rajasthan passes the Rajasthan Right to Health
+  (RTH) Bill 2022; and more. '
 states: []
 sectors: []
 subsectors: []
@@ -21,70 +20,57 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
 **Big News:**
 
-**Punjab** approves the **Punjab Excise Policy 2023**, and the **Punjab State Minor Mineral Policy 2023**; **Andhra Pradesh**, **Assam**, **Himachal Pradesh**, and **Uttarakhand** present their **State Budgets 2023-24**; **Ministry of Finance** announces annual budget allocation for **Jammu and Kashmir**; **Tamil Nadu** releases the **Tamil Nadu Organic Farming Policy 2023**; and more.
+**Tamil Nadu**, **Delhi**, and **Meghalaya** present their annual budgets; **Tamil Nadu** releases the **Tamil Nadu Logistics Policy 2023**; **Andhra Pradesh** announces the **Industrial Development Policy (IDP) 2023-27**; **Rajasthan** passes the **Rajasthan Right to Health (RTH) Bill 2022**; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Punjab** approves the **Punjab Excise Policy 2023-24** with a target to collect $1.18 billion in revenue. The policy has increased the cost of licensing which will lead to an increase in the price of liquor in the state.
+**Andhra Pradesh** notifies the **Industrial Development Policy (IDP) 2023-2027**. The policy covers various sectors including MSMEs, manufacturing, startup, and logistics. 
 
-**Source**: [The Tribune](https://www.tribuneindia.com/news/punjab/new-excise-policy-out-liquor-dearer-486881); **In detail**: [Twitter](https://twitter.com/PunjabGovtIndia/status/1634223938627837952)
+**Source**: [The Hindu](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-notifies-new-industrial-development-policy-identifies-12-sectors-as-thrust-areas/article66652028.ece); **In detail**: [Andhra Pradesh Industrial Development Policy 2023-27](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:043475dd-94ca-4c13-a8d9-1b7b2854ecdb)
 
-**Punjab** approves the **Punjab State Minor Mineral Policy-2023** to ensure the provision of sand and gravel at affordable rates.
+**Rajasthan** approves the **Rajasthan Micro, Small, and Medium Enterprises (Facilitation of Establishment and Operations) (Amendment) Bill, 2023**. The amendment is aimed at increasing the period of exemption for government inspection from the current period of 3 years to 5 years. 
 
-**Source**: [Business Standard](https://www.business-standard.com/article/current-affairs/punjab-cabinet-approves-excise-policy-2023-24-with-rs-9-754-cr-target-123031001320_1.html); **In detail**: [Punjab State Mineral Policy 2023](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:bbc8c531-b97f-4304-93c7-55a840c4703d)
+**Source**: [KNN](https://knnindia.co.in/news/newsdetails/state/rajasthan-assembly-passes-msme-bill-increases-approvalinspection-exemption-period-to-5-years); **In detail**: [Rajasthan Micro, Small and Medium Enterprises (Facilitation of Establishment and Operation) (Amendment) Bill, 2023](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e4e8295e-f286-4948-ad87-9161cdaf5f62)
 
-**Tamil Nadu** releases the **Tamil Nadu Ethanol Blending Policy 2023**, with the objective to improve farmer income, revive the sugar industry and attract investments worth $605.8 billion to increase the molasses/grain-based Ethanol production capacity.
+**Tamil Nadu** releases the **Tamil Nadu Logistics Policy 2023** to improve the logistics infrastructure in the state. The policy is aimed at reducing the cost of logistics and promoting private participation. 
 
-**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/oil-and-gas/tamil-nadu-unveils-ethanol-blending-policy-2023-to-attract-rs-5000-cr-investments/98764631); **In detail**: [Press release](http://cms.tn.gov.in/sites/default/files/press_release/pr180323_571.pdf) (In Tamil)
-
-**Kerala** approves recommendations of a committee to monetise the Kerala Fiber Optic Network (KFON) project. The project is aimed at providing affordable internet connection in the state.
-
-**Source**: [New Indian Express](https://www.newindianexpress.com/states/kerala/2023/mar/16/cabinet-nod-for-kerala-fiber-optic-network-project-terms-2556468.html)
+**Source**: [Logistics Insider](https://www.logisticsinsider.in/tamil-nadu-government-unveil-state-logistics-policy-2023/); **In detail**: [Tamil Nadu Logistics Policy & Integrated Logistics Plan 2023](http://cms.tn.gov.in/sites/default/files/go/ind_e_73_2023.pdf)
 
 **Land Acquisition & Labor Regulations**
 
-Nothing critical to report this week.
+**Maharashtra** gives assent to the rules formed under the **Industrial Relations Code 2020**, passed by the central government in 2020. Provisions mandate workers to give two months’ notice for a strike instead of the current 14 days and allows industries with less than 300 workers to lay off employees without government approval, among others. 
+
+**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/mumbai-news/strikerelated-rules-stricter-layoff-norms-eased-in-new-labour-rules-101679253586881.html)
 
 **Infrastructure & Governance**
 
-**Andhra Pradesh** presents the **State** **Budget 2023-24** with an outlay of $33.8 billion. The budget is focused on healthcare and education.
+**Tamil Nadu** announces the **Budget 2023-24**, with an outlay of \~$37.4 billion. The budget is aimed at strengthening financial assistance schemes and building mega power projects. 
 
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/vijayawada/andhra-pradesh-tables-rs-2-79-lakh-crore-budget-focus-on-health-education/articleshow/98718701.cms); **In detail**: [Budget 2023-24](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f9eb07eb-5404-4d77-91e2-17f014a0eaa6)
+**Source**: [Times Now](https://www.timesnownews.com/business-economy/economy/tamil-nadu-budget-2023-24-highlights-new-schemes-money-related-announcements-all-you-need-to-know-article-98804387); **In detail**: [State Budget 2023-24](http://cms.tn.gov.in/sites/default/files/documents/budget_speech_e_2023_2024.pdf)
 
-**Assam** presents the **State Budget 2023-24** with an outlay of \~$14.5 billion. The budget is focused on promoting micro-entrepreneurship and creating opportunities for the youth.
+**Delhi** presents the annual **Budget 2023-24**, with an outlay of $9.56 billion. The budget is focused on infrastructure, health, and energy sectors.
 
-**Source**: [Economic Times](https://economictimes.indiatimes.com/news/india/in-assam-budget-funds-for-creating-2-lakh-entrepreneurs-40000-fresh-govt-hirings/articleshow/98689181.cms); **In detail**: [Budget 2023-24](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8de8baab-5326-4df8-9272-81b38aee9064) (In Assamese)
+**Source**: [CNBC](https://www.cnbctv18.com/economy/delhi-budget-2023-live-updates-kailash-gehlot-arvind-kejriwal-tax-revenue-education-infra-health-subsidies-pensions-schemes-manish-sisodia-16229921.htm); **In detail**: [State Budget 2023-24](http://delhiplanning.nic.in/content/budget-delhi-2023-24)
 
-**Himachal Pradesh** presents the **State Budget 2023-24** with an outlay of $6.47 billion. The budget is focused on clean energy promotion, and women empowerment.
+**Meghalaya** presents the **Budget 2023-24** with an outlay of \~$2.7 billion. The budget is focused on addressing climate change and has allocated $414 million (\~15%) to climate action.
 
-**Source**: [CNBC](https://www.cnbctv18.com/economy/himachal-pradesh-budget-2023-top-announcements-cm-sukhvinder-singh-sukhu-electrical-vehicle-schemes-policy-taxes-women-youth-employment-farmers-16195441.htm); **In detail**: [Budget 2023-24](https://ebudget.hp.nic.in/BudHome.aspx)
-
-**Uttarakhand** presents the **State Budget 2023-24** with an outlay of $9.37 billion. The budget is focused on education, youth welfare and health infrastructure development.
-
-**Source**: [The Hindu](https://www.thehindu.com/news/national/other-states/uttarakhand-govt-presents-77407-crore-budget-for-fy24/article66623119.ece); **In detail**: [Budget 2023-24](https://budget.uk.gov.in/pages/display/132-budget-2023-24)
-
-**Haryana** alters the **E-tendering Policy** to allow village heads to approve development projects up to $6,058 up from the existing limit of $2,423 directly.
-
-**Source**: [Outlook](https://www.outlookindia.com/national/amid-sarpanches-protests-in-haryana-limit-under-e-tendering-policy-to-approve-development-work-hiked-to-rs-5-lakh-news-270354); **In detail**: [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:639243da-26ba-47bf-a9bc-2c0d3f884d6b)
-
-**Rajasthan** announces the creation of 19 new districts and 3 divisional headquarters to increase the access to public services for the citizens.
-
-**Source**: [NDTV](https://www.ndtv.com/india-news/rajasthan-creates-19-new-districts-in-election-year-bjp-says-political-move-3870979); **In detail**: [Press release](https://cmo.rajasthan.gov.in/pressreleasedetail/84272)
+**Source**: [Syllad](https://www.syllad.com/meghalaya-govt-presented-climate-action-budget-for-the-first-time/); **In detail**: [State Budget 2023-24](https://megfinance.gov.in/budget_documents/2023-2024/others/highlight_budget.pdf)
 
 **Climate Change**
 
-**Tamil Nadu** releases the **Tamil Nadu Organic Farming Policy 2023**, aimed at conserving soil health, agroecology, and biodiversity in addition to providing safe, healthier, and environment-friendly food.
+**Assam** receives a loan worth $108 million from the **World Bank** for improving disaster preparedness and enhance flood forecasting. The project will benefit \~6 million people and is part of a larger $500 million investment program for Assam.
 
-**Source**: [New Indian Express](https://www.newindianexpress.com/states/tamil-nadu/2023/mar/15/cm-stalin-unveils-policy-to-boost-organic-farming-in-tamil-nadu-2556186.html); **In detail**: [Tamil Nadu Organic Farming Policy 2023](http://www.agritech.tnau.ac.in/pdf/66617733-Tamil-Nadu-Organic-Farming-Policy-2023_230315_093042.pdf)
+**Source**: [Economic Times](https://economictimes.indiatimes.com/news/india/world-bank-approves-108-mn-for-assam-to-improve-disaster-preparedness/articleshow/98985851.cms); **In detail**: [Press release](https://www.worldbank.org/en/news/press-release/2023/03/24/world-bank-approves-108-million-to-improve-disaster-preparedness-for-flood-prone-districts-of-assam)
 
 **Oil & Gas**
 
-Nothing critical to report this week.
+**Tamil Nadu** releases the **Tamil Nadu City Gas Distribution Policy 2023** with the aim to speed up the supply of piped natural gas to homes. Under the policy, the government aims to establish 228,000 domestic connections and 2,785 compressed natural gas (CNG) stations within eight years.
+
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-govt-unveils-policy-for-natural-gas-supply-to-households/articleshow/98763931.cms); **In detail**: [Tamil Nadu City Gas Distribution Policy 2023](http://cms.tn.gov.in/sites/default/files/go/ind_e_72_2023.pdf)
 
 **Water & Sanitation**
 
@@ -92,32 +78,44 @@ Nothing critical to report this week.
 
 **Power & Renewable Energy**
 
-Nothing critical to report this week.
+**Bihar Electricity Regulatory Commission** announces a 24.1% hike in the electricity rates by in the state. The decision comes after the electricity companies had proposed to increase the rates by 40% in the light of increasing power supply costs.
+
+**Source**: [Mint](https://www.livemint.com/news/india/electricity-rates-go-up-in-bihar-state-board-raises-fixed-charges-details-here-11679621580818.html); **In detail**: [Tariff order](https://berc.co.in/orders/tariff/distribution/nbpdcl/2619-tariff-order-of-strong-span-style-color-000000-north-bihar-power-distribution-company-ltd-nbpdcl-south-bihar-power-distribution-company-ltd-sbpdcl-span-strong-for-fy-2023-24)
 
 **Health**
 
-Nothing critical to report this week.
+**Madhya Pradesh** launches the **Boat Ambulance initiative** in the districts of Dhar, Alirajpur and Barwani with the aim to provide better health services to the tribal population living on the banks of the Narmada River in Madhya Pradesh.
+
+**Source**: [Free Press Journal](https://www.freepressjournal.in/indore/madhya-pradesh-boat-ambulance-starts-in-tribal-areas-to-provide-better-health-services)
+
+**Madhya Pradesh** approves the establishment and upgradation of 184 health institutions with an aim to improve the health facilities in the state. The health institutions include 10 civil hospitals, 6 community health centers, 11 primary health centers, and 157 sub health centers.
+
+**Source**: [Business Standard](https://www.business-standard.com/article/current-affairs/mp-cabinet-approves-establishment-upgradation-of-184-health-institutions-123032200331_1.html); **In detail**: [Cabinet decisions](https://www.mpinfo.org/Home/CabinetDetails?newsid=230321S18&fontname=FontEnglish&LocID=32&pubdate=03/21/2023)
+
+**Rajasthan** passes the **Rajasthan Right to Health (RTH) Bill 2022**, aimed at ensuring access to quality health care in the state. Under the bill, the residents will be entitled to receive emergency care in hospitals without pre-payment. The state government will compensate the hospitals if patients are unable to pay. 
+
+**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/jaipur-news/right-to-health-bill-passed-in-rajasthan-assembly-101679403249335.html); **In detail**: [Rajasthan Right to Health Bill, 2022](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ba2dad2d-f6ec-4800-af5a-201d009a21bd)
+
+**Chhattisgarh** announces free tests, treatment, and medicines at government-run health facilities in Chhattisgarh beginning June 1, 2023.
+
+**Source**: [Vibes of India](https://www.vibesofindia.com/chhattisgarh-test-treatment-medicines-to-be-free-at-govt-hospitals/); **In detail**: [Chhattisgarh Health and Family Welfare Minister’s Twitter](https://twitter.com/TS_SinghDeo/status/1638507581470834688)
+
+**Kerala** passes the **Kerala Public Health Bill 2023**. The bill is aimed at addressing health concerns arising due to climate change and improving holistic development of citizens in the state.
+
+**Source**: [India Today](https://www.indiatoday.in/india/story/kerala-assembly-passes-new-bill-on-public-health-focusing-on-holistic-development-2350200-2023-03-22); **In detail**: [Kerala Public Health Bill 2023](http://www.niyamasabha.org/codes/15kla/bills/Public%20Health%20Select%20Committee%20Report.pdf)(In Malayalam)
 
 **Center – State Relations**
 
-**Ministry of Textiles** notifies the **PM MITRA Scheme** under which mega textile parks will be established in Tamil Nadu, Telangana, Karnataka, Maharashtra, Gujarat, Madhya Pradesh and Uttar Pradesh. The textile parks are aimed at boosting end-to-end garment manufacturing in the country.
+**Ministry of Electronics & IT** sanctions the creation of a new greenfield electronics hub in Dhanwad, Karnataka. The project worth $21.8 million is expected to create over 18,000 jobs.
 
-**Source**: [News 18](https://www.news18.com/business/pm-mitra-mega-textile-parks-to-be-set-up-in-7-states-pm-narendra-modi-7316125.html); **In detail**: [Gazette notification](http://texmin.gov.in/sites/default/files/PM_MITRA_Notification_0.pdf)
-
-**Ministry of Jal Shakti** allocates $242.3 million to **Tripura** under the Jal Jeevan Mission to increase the access to safe water in the state.
-
-**Source**: [Business Standard](https://www.business-standard.com/article/current-affairs/centre-has-sanctioned-rs-2-000-cr-for-tripura-under-jal-jeevan-mission-cm-123031900572_1.html); **In detail**: [CM’s Twitter](https://twitter.com/DrManikSaha2/status/1637300261994782721)
-
-**Ministry of Finance** announces an allocation of $14.3 billion to **Jammu and Kashmir** for the **Budget 2023-24**. The budget is focused on increasing access to housing and providing safe water in rural areas.
-
-**Source**: [India TV](https://www.indiatvnews.com/business/news/jammu-and-kashmir-budget-2023-24-fm-presents-rs-1-18-lakh-crore-budget-aims-to-double-ut-s-gdp-within-five-years-2023-03-14-854396); **In detail**: [Budget 2023-24](https://www.jakfinance.nic.in/budget/budget2324/J&K%20Budget%20Speech%202023-24.pdf)
+**Source**: [Business Today](https://www.businesstoday.in/latest/economy/story/rs-180-crore-electronics-manufacturing-cluster-approved-at-dharwad-in-karnataka-374765-2023-03-24); **In detail**: [Press release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1910454)
 
 **Any Other**
 
-**Haryana** launches the **Dayalu Yojana** with an aim to provide financial assistance in the event of the death of a person. The financial assistance will vary depending on the age of the beneficiary.
+**Madhya Pradesh** launches the **Madhya Pradesh Youth Policy**. The policy is aimed at improving education and skill development for the youth and promoting employment and entrepreneurship opportunities.
 
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/dayalu-yojana-launched-to-provide-aid-in-case-of-death/articleshow/98721049.cms); **In detail**: [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:f07de991-ea14-4763-b114-a44fc544c62d)
+**Source**: [NDTV](https://www.ndtv.com/india-news/skill-earning-scheme-student-innovation-fund-as-madhya-pradesh-launches-youth-policy-3888019); **In detail**: [CM’s Twitter](https://twitter.com/CMMadhyaPradesh/status/1638891082288099331)
 
-**Uttarakhand** government approves the **Tourism Policy 2023**. The policy is aimed at increasing tourism related investments in the state.
+**Tamil Nadu** releases the **Tamil Nadu State Disaster Management Policy 2023**, and the **Tamil Nadu State Disaster Management Plan 2023**. The policy and the plan are aimed at improving the state’s disaster resilience, and ensuring safeguards for critical infrastructure such as electricity, and health in the state.
 
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/dehradun/uttarakhand-to-give-capital-subsidy-of-up-to-50-for-investment-in-tourism-sector/articleshow/98718370.cms); **In detail**: [Assembly Session Video](https://urldefense.com/v3/__https:/fb.watch/jpPMVEWF_D/__;!!KRhing!a0yDbtBi0SlnDQB8dIs0s2FwXceYIxctIvrxAanwOvQ2tgoCpnnaRqUfJAurhdm-ZyuoGk64p3QKIfAFj8fV$)
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-new-policy-to-minimise-loss-of-lives-property-during-disaster/articleshow/98981805.cms); **In detail**: [Tamil Nadu State Disaster Management Plan 2023](https://www.thehindu.com/news/resources/66656729-Disaster-Management-Plan-Book.pdf); [Tamil Nadu State Disaster Management Policy 2023](https://www.thehindu.com/news/resources/66656735-TAMIL-NADU-STATE-DISASTER-Policy-Inner.pdf)
