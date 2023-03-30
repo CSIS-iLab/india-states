@@ -1,8 +1,8 @@
 ---
 title: Kartikeya Singh
-job_title: Deputy Director and Fellow, Wadhwani Chair in U.S.-India Policy Studies
+job_title: Senior Associate (Non-resident), Chair in U.S.-India Policy Studies
 image: "/uploads/kartikeya-singh-headshot.jpg"
 current_staff: true
 
 ---
-At CSIS, Dr. Singh is charged with leading the Wadhwani Chair’s work on India’s states, including a new project on energy. Prior to joining CSIS, he worked at the U.S. Department of Energy supporting and managing U.S.-India and U.S.-Pakistan bilateral energy cooperation.
+Dr. Kartikeya Singh is director of programmes at the SED Fund, where he manages the portfolio to support energy transition efforts around the world. To inform his strategies, he leverages his extensive experience being in or engaging with government, research institutions, intergovernmental organizations, civil society, and industries in the sustainable development sector. He has also traveled from the Arctic to the Antarctic exploring the challenges of energy geopolitics in a changing climate.
