@@ -4,12 +4,12 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: April 5, 2023'
-date: 2023-03-29 04:00:00 +0000
+date: 2023-04-05 04:00:00 +0000
 tags: []
-excerpt: 'Tamil Nadu, Delhi, and Meghalaya present their annual budgets; Tamil Nadu
-  releases the Tamil Nadu Logistics Policy 2023; Andhra Pradesh announces the Industrial
-  Development Policy (IDP) 2023-27; Rajasthan passes the Rajasthan Right to Health
-  (RTH) Bill 2022; and more. '
+excerpt: 'Goa announces a plan to do 100% renewables with the draft Goa State Energy
+  Vision 2050; Kerala approves the Kerala Industrial & Commercial Policy 2023; Maharashtra,
+  Himachal Pradesh, and Uttarakhand announce updated power tariffs for FY24; Odisha
+  announces the Odisha Excise Policy 2023-24; and more. '
 states: []
 sectors: []
 subsectors: []
@@ -20,103 +20,80 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
 **Big News:**
 
-**Tamil Nadu**, **Delhi**, and **Meghalaya** present their annual budgets; **Tamil Nadu** releases the **Tamil Nadu Logistics Policy 2023**; **Andhra Pradesh** announces the **Industrial Development Policy (IDP) 2023-27**; **Rajasthan** passes the **Rajasthan Right to Health (RTH) Bill 2022**; and more.
+**Goa** announces a plan to do 100% renewables with the draft **Goa State Energy Vision 2050**; **Kerala** approves the **Kerala Industrial & Commercial Policy 2023**; **Maharashtra**, **Himachal Pradesh**, and **Uttarakhand** announce updated power tariffs for FY24; **Odisha** announces the **Odisha** **Excise Policy 2023-24**; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Andhra Pradesh** notifies the **Industrial Development Policy (IDP) 2023-2027**. The policy covers various sectors including MSMEs, manufacturing, startup, and logistics. 
+**Kerala** government approves the **Kerala Industrial & Commercial Policy 2023**. The new policy is focused on attracting Environmental Social Governance (ESG) investments, setting up new academic institutions, and developing cooperative and private industrial parks.
 
-**Source**: [The Hindu](https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-notifies-new-industrial-development-policy-identifies-12-sectors-as-thrust-areas/article66652028.ece); **In detail**: [Andhra Pradesh Industrial Development Policy 2023-27](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:043475dd-94ca-4c13-a8d9-1b7b2854ecdb)
+**Source**: [Business Standard](https://www.business-standard.com/india-news/kerala-approves-new-industrial-policy-to-become-hub-of-developed-industries-123032900987_1.html); **In detail**: [Kerala Industrial & Commercial Policy (Draft) 2022](https://keralaindustry.org/images/2022/policy_book_V2_english.pdf)
 
-**Rajasthan** approves the **Rajasthan Micro, Small, and Medium Enterprises (Facilitation of Establishment and Operations) (Amendment) Bill, 2023**. The amendment is aimed at increasing the period of exemption for government inspection from the current period of 3 years to 5 years. 
+**Odisha** Excise Department approves the new **Odisha Excise Policy 2023-24**. As per the policy, the liquor prices in Odisha are posited to increase by 5-10%. Additionally, the excise duty for Indian Made Foreign Liquor has also been marginally increased.
 
-**Source**: [KNN](https://knnindia.co.in/news/newsdetails/state/rajasthan-assembly-passes-msme-bill-increases-approvalinspection-exemption-period-to-5-years); **In detail**: [Rajasthan Micro, Small and Medium Enterprises (Facilitation of Establishment and Operation) (Amendment) Bill, 2023](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:e4e8295e-f286-4948-ad87-9161cdaf5f62)
-
-**Tamil Nadu** releases the **Tamil Nadu Logistics Policy 2023** to improve the logistics infrastructure in the state. The policy is aimed at reducing the cost of logistics and promoting private participation. 
-
-**Source**: [Logistics Insider](https://www.logisticsinsider.in/tamil-nadu-government-unveil-state-logistics-policy-2023/); **In detail**: [Tamil Nadu Logistics Policy & Integrated Logistics Plan 2023](http://cms.tn.gov.in/sites/default/files/go/ind_e_73_2023.pdf)
+**Source**: [Business World](https://www.businessworld.in/article/Odisha-Announces-Excise-Policy-For-2023-24-Liquor-Prices-To-Go-Up-Beach-Shacks-To-Promote-Tourism-/31-03-2023-471262/); **In detail**: [Excise Policy 2023-24](https://excise.odisha.gov.in/sites/default/files/2023-03/Excise%20Policy%202023-24%20%282%29.pdf)
 
 **Land Acquisition & Labor Regulations**
 
-**Maharashtra** gives assent to the rules formed under the **Industrial Relations Code 2020**, passed by the central government in 2020. Provisions mandate workers to give two months’ notice for a strike instead of the current 14 days and allows industries with less than 300 workers to lay off employees without government approval, among others. 
+**Chhattisgarh** announces a new unemployment allowance for the youth in the state. Under the scheme, the educated unemployed youth in the state will receive INR 2500 (\~$30.44) per month.
 
-**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/mumbai-news/strikerelated-rules-stricter-layoff-norms-eased-in-new-labour-rules-101679253586881.html)
+**Source**: [The Week](https://www.theweek.in/news/india/2023/04/01/chhattisgarh-cm-baghel-launches-unemployment-allowance-scheme-socio-economic-survey.html); **In detail**: [Press release](https://acrobat.adobe.com/id/urn%3Aaaid%3Asc%3AVA6C2%3Aecb19f6d-1e7d-4fde-a0e3-c6f1d82482b7/?locale=en-US&viewer%21megaVerb=group-discover&filetype=application%2Fpdf)
 
 **Infrastructure & Governance**
 
-**Tamil Nadu** announces the **Budget 2023-24**, with an outlay of \~$37.4 billion. The budget is aimed at strengthening financial assistance schemes and building mega power projects. 
+**Goa** announces the **Budget 2023-24**, with an outlay of $3.3 billion. The budget is focused on reforming the education sector and revamping the mining sector in the state.
 
-**Source**: [Times Now](https://www.timesnownews.com/business-economy/economy/tamil-nadu-budget-2023-24-highlights-new-schemes-money-related-announcements-all-you-need-to-know-article-98804387); **In detail**: [State Budget 2023-24](http://cms.tn.gov.in/sites/default/files/documents/budget_speech_e_2023_2024.pdf)
-
-**Delhi** presents the annual **Budget 2023-24**, with an outlay of $9.56 billion. The budget is focused on infrastructure, health, and energy sectors.
-
-**Source**: [CNBC](https://www.cnbctv18.com/economy/delhi-budget-2023-live-updates-kailash-gehlot-arvind-kejriwal-tax-revenue-education-infra-health-subsidies-pensions-schemes-manish-sisodia-16229921.htm); **In detail**: [State Budget 2023-24](http://delhiplanning.nic.in/content/budget-delhi-2023-24)
-
-**Meghalaya** presents the **Budget 2023-24** with an outlay of \~$2.7 billion. The budget is focused on addressing climate change and has allocated $414 million (\~15%) to climate action.
-
-**Source**: [Syllad](https://www.syllad.com/meghalaya-govt-presented-climate-action-budget-for-the-first-time/); **In detail**: [State Budget 2023-24](https://megfinance.gov.in/budget_documents/2023-2024/others/highlight_budget.pdf)
-
-**Climate Change**
-
-**Assam** receives a loan worth $108 million from the **World Bank** for improving disaster preparedness and enhance flood forecasting. The project will benefit \~6 million people and is part of a larger $500 million investment program for Assam.
-
-**Source**: [Economic Times](https://economictimes.indiatimes.com/news/india/world-bank-approves-108-mn-for-assam-to-improve-disaster-preparedness/articleshow/98985851.cms); **In detail**: [Press release](https://www.worldbank.org/en/news/press-release/2023/03/24/world-bank-approves-108-million-to-improve-disaster-preparedness-for-flood-prone-districts-of-assam)
+**Source**: [The Print](https://theprint.in/india/goa-budget-banks-on-mining-resumption-to-up-income-focus-on-tourism-education/1482138/); **In detail**: [Goa Budget 2023-24](http://goabudget.gov.in/)
 
 **Oil & Gas**
 
-**Tamil Nadu** releases the **Tamil Nadu City Gas Distribution Policy 2023** with the aim to speed up the supply of piped natural gas to homes. Under the policy, the government aims to establish 228,000 domestic connections and 2,785 compressed natural gas (CNG) stations within eight years.
-
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-govt-unveils-policy-for-natural-gas-supply-to-households/articleshow/98763931.cms); **In detail**: [Tamil Nadu City Gas Distribution Policy 2023](http://cms.tn.gov.in/sites/default/files/go/ind_e_72_2023.pdf)
+Nothing Critical to report this week
 
 **Water & Sanitation**
 
-Nothing critical to report this week.
+Nothing Critical to report this week
 
 **Power & Renewable Energy**
 
-**Bihar Electricity Regulatory Commission** announces a 24.1% hike in the electricity rates by in the state. The decision comes after the electricity companies had proposed to increase the rates by 40% in the light of increasing power supply costs.
+**Maharashtra** State Electricity Regulatory Commission announces new power tariffs for 2023-24. According to the tariff, the state has hiked residential power tariffs by 5-10%. Additionally, the order has also rationalised the tariff for electric vehicle charging at $0.088 per unit for power utilities.
 
-**Source**: [Mint](https://www.livemint.com/news/india/electricity-rates-go-up-in-bihar-state-board-raises-fixed-charges-details-here-11679621580818.html); **In detail**: [Tariff order](https://berc.co.in/orders/tariff/distribution/nbpdcl/2619-tariff-order-of-strong-span-style-color-000000-north-bihar-power-distribution-company-ltd-nbpdcl-south-bihar-power-distribution-company-ltd-sbpdcl-span-strong-for-fy-2023-24)
+**Source**: [Times of India ](https://timesofindia.indiatimes.com/city/mumbai/power-to-be-5-10-dearer-across-mumbai-from-today/articleshow/99157803.cms); **In detail**: [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:3dd69bf0-5694-4075-aca6-ea834c1f5f03)
+
+**Uttarakhand Electricity Regulatory Commission** announces new power tariffs for 2023-24. According to the announcement, there will be a 9.64% overall increase in power tariffs, and 11% rise in industrial tariffs.
+
+**Source**: [Money Control](https://www.moneycontrol.com/news/india/double-whammy-for-power-water-consumers-in-uttarakhand-10346701.html); **In detail**: [Tariff order](https://uerc.gov.in/Tariff_Orders.html#2023-24)
+
+**Himachal Pradesh Electricity Regulatory Commission** announces new power tariffs for 2023-24. According to the tariff, the state has hiked energy charges by $0.0026 per unit for all categories of consumers, except electrical vehicle-charging stations.
+
+**Source**: [Tribune](https://www.tribuneindia.com/news/himachal/power-tariff-up-22-paise-unit-in-hp-493087); **In detail**: [Tariff order](https://hperc.org/new1/File/tohpsebl23.pdf)
+
+**Uttar Pradesh** approves the construction of power sub-stations under the green energy corridor (Phase-2) to evacuate electricity from non-conventional energy resources. The project aims to bring down carbon emissions by tapping non-conventional sources like solar and biogas.
+
+**Source**: [Economic Times ](https://energy.economictimes.indiatimes.com/news/power/uttar-pradesh-state-cabinet-nod-to-new-power-sub-stations/99111407); **In detail**: [Press note (Invest UP)](https://invest.up.gov.in/wp-content/uploads/2023/03/Government_300323.pdf)
+
+**Goa** releases the draft **Goa State Energy Vision 2050** with an aim to make Goa the first 100% renewable energy state in the country. The government aims to ensure that 50% of all ferries by 2025 are electric and 30% of all the new vehicles are electric vehicles (EVs) by 2030. The policy also aims to create 10,000 additional jobs.
+
+**Source**: [Herald](https://www.heraldgoa.in/Goa/Draft-%E2%80%98Goa-State-Energy-Vision-2050%E2%80%99-released/203033)
+
+**Goa** launches an online portal for consumers to submit applications to install solar rooftop panels. The portal has been developed by the Goa Energy Development Agency (GEDA) in association with the departments of new and renewable energy and electricity.
+
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/goa/soon-click-to-install-rooftop-solar-panels/articleshow/99155570.cms); **In detail**: [Press release](https://pib.gov.in/PressReleseDetailm.aspx?PMO=3&PRID=1912992)
 
 **Health**
 
-**Madhya Pradesh** launches the **Boat Ambulance initiative** in the districts of Dhar, Alirajpur and Barwani with the aim to provide better health services to the tribal population living on the banks of the Narmada River in Madhya Pradesh.
-
-**Source**: [Free Press Journal](https://www.freepressjournal.in/indore/madhya-pradesh-boat-ambulance-starts-in-tribal-areas-to-provide-better-health-services)
-
-**Madhya Pradesh** approves the establishment and upgradation of 184 health institutions with an aim to improve the health facilities in the state. The health institutions include 10 civil hospitals, 6 community health centers, 11 primary health centers, and 157 sub health centers.
-
-**Source**: [Business Standard](https://www.business-standard.com/article/current-affairs/mp-cabinet-approves-establishment-upgradation-of-184-health-institutions-123032200331_1.html); **In detail**: [Cabinet decisions](https://www.mpinfo.org/Home/CabinetDetails?newsid=230321S18&fontname=FontEnglish&LocID=32&pubdate=03/21/2023)
-
-**Rajasthan** passes the **Rajasthan Right to Health (RTH) Bill 2022**, aimed at ensuring access to quality health care in the state. Under the bill, the residents will be entitled to receive emergency care in hospitals without pre-payment. The state government will compensate the hospitals if patients are unable to pay. 
-
-**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/jaipur-news/right-to-health-bill-passed-in-rajasthan-assembly-101679403249335.html); **In detail**: [Rajasthan Right to Health Bill, 2022](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ba2dad2d-f6ec-4800-af5a-201d009a21bd)
-
-**Chhattisgarh** announces free tests, treatment, and medicines at government-run health facilities in Chhattisgarh beginning June 1, 2023.
-
-**Source**: [Vibes of India](https://www.vibesofindia.com/chhattisgarh-test-treatment-medicines-to-be-free-at-govt-hospitals/); **In detail**: [Chhattisgarh Health and Family Welfare Minister’s Twitter](https://twitter.com/TS_SinghDeo/status/1638507581470834688)
-
-**Kerala** passes the **Kerala Public Health Bill 2023**. The bill is aimed at addressing health concerns arising due to climate change and improving holistic development of citizens in the state.
-
-**Source**: [India Today](https://www.indiatoday.in/india/story/kerala-assembly-passes-new-bill-on-public-health-focusing-on-holistic-development-2350200-2023-03-22); **In detail**: [Kerala Public Health Bill 2023](http://www.niyamasabha.org/codes/15kla/bills/Public%20Health%20Select%20Committee%20Report.pdf)(In Malayalam)
+Nothing critical to report this week.
 
 **Center – State Relations**
 
-**Ministry of Electronics & IT** sanctions the creation of a new greenfield electronics hub in Dhanwad, Karnataka. The project worth $21.8 million is expected to create over 18,000 jobs.
+**Election Commission of India** announces the dates for **Karnataka** assembly elections. The elections will be held in a single phase on May 10 and the counting will take place on May 13.
 
-**Source**: [Business Today](https://www.businesstoday.in/latest/economy/story/rs-180-crore-electronics-manufacturing-cluster-approved-at-dharwad-in-karnataka-374765-2023-03-24); **In detail**: [Press release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1910454)
+**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/bengaluru-news/karnataka-election-2023-check-out-list-of-key-candidates-101680079817350.html); **In detail**: [Press release](https://eci.gov.in/files/file/14863-general-election-to-legislative-assembly-of-karnataka-2023/)
 
 **Any Other**
 
-**Madhya Pradesh** launches the **Madhya Pradesh Youth Policy**. The policy is aimed at improving education and skill development for the youth and promoting employment and entrepreneurship opportunities.
+**Punjab** cabinet increases the compensation allowance for farmers whose crops have been harmed due to natural calamities. Accordingly, the concerned farmers will receive a 25% hike in compensation per acre.
 
-**Source**: [NDTV](https://www.ndtv.com/india-news/skill-earning-scheme-student-innovation-fund-as-madhya-pradesh-launches-youth-policy-3888019); **In detail**: [CM’s Twitter](https://twitter.com/CMMadhyaPradesh/status/1638891082288099331)
-
-**Tamil Nadu** releases the **Tamil Nadu State Disaster Management Policy 2023**, and the **Tamil Nadu State Disaster Management Plan 2023**. The policy and the plan are aimed at improving the state’s disaster resilience, and ensuring safeguards for critical infrastructure such as electricity, and health in the state.
-
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/chennai/tamil-nadu-new-policy-to-minimise-loss-of-lives-property-during-disaster/articleshow/98981805.cms); **In detail**: [Tamil Nadu State Disaster Management Plan 2023](https://www.thehindu.com/news/resources/66656729-Disaster-Management-Plan-Book.pdf); [Tamil Nadu State Disaster Management Policy 2023](https://www.thehindu.com/news/resources/66656735-TAMIL-NADU-STATE-DISASTER-Policy-Inner.pdf)
+**Source**: [Tribune](https://www.tribuneindia.com/news/punjab/cabinet-approves-25-hike-in-relief-to-farmers-493023); **In detail**: [Press release](http://diprpunjab.gov.in/?q=content/bhagwant-mann-government-swings-action-compensate-farmers-crop-loss)
