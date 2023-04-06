@@ -8,7 +8,7 @@ states:
 sectors:
 - Health
 subsectors:
-- " Healthcare Workforce"
+- Delivery Systems
 - " Healthcare Regulation"
 - Health Areas
 sources:
