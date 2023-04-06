@@ -6,7 +6,6 @@ date: 2023-03-29 04:00:00 +0000
 states:
 - Andhra Pradesh
 sectors:
-- Infrastructure and Governance
 - Industrial Policy and Business Regulations
 subsectors: []
 sources:
