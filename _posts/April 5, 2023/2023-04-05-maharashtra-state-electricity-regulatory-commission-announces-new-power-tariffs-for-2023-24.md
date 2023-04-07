@@ -11,7 +11,6 @@ sectors:
 - Energy
 subsectors:
 - Power
-- Renewables
 - Power and Renewable Energy
 sources:
 - name: " Times of India"

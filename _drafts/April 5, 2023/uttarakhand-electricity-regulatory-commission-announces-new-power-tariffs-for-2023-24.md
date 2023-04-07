@@ -10,7 +10,6 @@ sectors:
 - Industrial Policy and Business Regulations
 - Energy
 subsectors:
-- Energy Efficiency
 - Power
 - Power and Renewable Energy
 sources:
