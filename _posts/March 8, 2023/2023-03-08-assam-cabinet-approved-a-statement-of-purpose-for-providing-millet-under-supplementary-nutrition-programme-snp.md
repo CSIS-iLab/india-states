@@ -7,8 +7,11 @@ date: 2023-03-08 05:00:00 +0000
 states:
 - Assam
 sectors:
-- Infrastructure and Governance
-subsectors: []
+- Health
+subsectors:
+- " Healthcare Regulation"
+- Health Areas
+- " Social Determinants of Health"
 sources:
 - name: Guwahatiplus
   url: https://www.guwahatiplus.com/assam/assam-government-approves-sop-for-tackling-malnutrition
