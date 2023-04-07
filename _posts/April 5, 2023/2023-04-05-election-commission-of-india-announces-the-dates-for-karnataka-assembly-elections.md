@@ -6,7 +6,8 @@ date: 2023-04-05 04:00:00 +0000
 states:
 - Karnataka
 - Center-State Relations
-sectors: []
+sectors:
+- Infrastructure and Governance
 subsectors: []
 sources:
 - name: Hindustan Times
