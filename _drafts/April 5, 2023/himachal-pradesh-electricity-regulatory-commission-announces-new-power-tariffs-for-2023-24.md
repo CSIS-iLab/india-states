@@ -7,6 +7,7 @@ date: 2023-04-05 04:00:00 +0000
 states:
 - Himachal Pradesh
 sectors:
+- Industrial Policy and Business Regulations
 - Energy
 subsectors:
 - Power
