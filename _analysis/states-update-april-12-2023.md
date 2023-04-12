@@ -26,7 +26,7 @@ author:
 
 **Industrial Policy & Business Regulations**
 
-**Telangana** amends its **Telangana Shops and Establishments Act, 1988**, to allow shops to remain open 24×7 in the state. To be eligible for the exemption, shops must fulfil certain conditions including providing their employees ID cards, weekly holidays, overtime wages, and ensuring adequate safety of female employees, among others. 
+**Telangana** amends its **Telangana Shops and Establishments Act, 1988**, to allow shops to remain open 24×7 in the state. To be eligible for the exemption, shops must fulfil certain conditions including providing their employees ID cards, weekly holidays, overtime wages, and ensuring adequate safety of female employees, among others.
 
 **Source**: [Siasat](https://www.siasat.com/shops-establishments-to-be-open-247-in-telangana-guidelines-issued-2562849/); **In detail**: [Government Order](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:0d0f2083-3b84-4403-8b1b-e735d8fd65a2)
 
@@ -34,35 +34,35 @@ author:
 
 **Source**: [News18](https://www.news18.com/india/up-cabinet-okays-scheme-for-powerloom-handloom-weavers-7476931.html)
 
-**Chhattisgarh** implements the **Rural and Cottage Industries Policy-2022**, to invigorate small-scale industries in the state. This policy aims to provide employment to the rural population through small cottage industries in rural areas and increase their incomes. 
+**Chhattisgarh** implements the **Rural and Cottage Industries Policy-2022**, to invigorate small-scale industries in the state. This policy aims to provide employment to the rural population through small cottage industries in rural areas and increase their incomes.
 
 **Source**: [Times of India](https://timesofindia.indiatimes.com/city/raipur/training-10-additional-incentive-to-women-sc-st/articleshowprint/99283043.cms); **In detail**: [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b0e31bb6-a615-4ecd-8106-e199a3e56cbf) (in Hindi)
 
-**Maharashtra** cabinet clears a new sand mining policy to crack down on the illegal extraction of sand. The policy has banned auctions, introduced tendering for sand extraction and capped sand price at $1.6 per metric ton on a pilot basis for a year to make it more affordable. 
+**Maharashtra** cabinet clears a new sand mining policy to crack down on the illegal extraction of sand. The policy has banned auctions, introduced tendering for sand extraction and capped sand price at $1.6 per metric ton on a pilot basis for a year to make it more affordable.
 
 **Source**: [Times of India](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-cabinet-clears-sand-mining-policy-no-more-auctions-price-capped-for-a-year/articleshow/99280546.cms?from=mdr)
 
 **Land Acquisition & Labor Regulations**
 
-**Haryana** announces an increase in the employment generation subsidy under the **Haryana Enterprises and Employment Policy (HEEP)-2020**. The subsidy has been increased from $440 to $586 per employee per annum for 10 years. 
+**Haryana** announces an increase in the employment generation subsidy under the **Haryana Enterprises and Employment Policy (HEEP)-2020**. The subsidy has been increased from $440 to $586 per employee per annum for 10 years.
 
 **Source**: [Millennium Post](https://www.millenniumpost.in/nation/haryana-cabinet-accords-approval-to-various-schemes-for-welfare-of-citizens-514158?infinitescroll=1); **In detail**: [Press Release](https://manoharlalkhattar.in/node/30556)
 
-**Chhattisgarh** announces a new unemployment allowance for the youth in the state. Under the scheme, the educated unemployed youth in the state will receive INR 2500 (\~$30.44) per month. 
+**Chhattisgarh** announces a new unemployment allowance for the youth in the state. Under the scheme, the educated unemployed youth in the state will receive INR 2500 (\~$30.44) per month.
 
 **Source**: [The Week](https://www.theweek.in/news/india/2023/04/01/chhattisgarh-cm-baghel-launches-unemployment-allowance-scheme-socio-economic-survey.html); **In detail**: [Press release](https://acrobat.adobe.com/id/urn%3Aaaid%3Asc%3AVA6C2%3Aecb19f6d-1e7d-4fde-a0e3-c6f1d82482b7/?locale=en-US&viewer%21megaVerb=group-discover&filetype=application%2Fpdf)
 
-**Chhattisgarh** introduces the **State Women Entrepreneurship Policy 2023-28**. The policy is aimed at providing financial assistance, incentives, and subsidies to enable women entrepreneurs to start and expand their businesses. 
+**Chhattisgarh** introduces the **State Women Entrepreneurship Policy 2023-28**. The policy is aimed at providing financial assistance, incentives, and subsidies to enable women entrepreneurs to start and expand their businesses.
 
 **Source**: [Outlook India](https://www.outlookindia.com/national/chhattisgarh-govt-launches-policy-to-provide-financial-aid-incentives-to-women-run-businesses-start-ups-news-276724); **In detail**: [CM’s Tweet](https://twitter.com/bhupeshbaghel/status/1644286724644929538), [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8d6cc33c-627c-4680-94fd-ae6e537db6aa) (in Hindi)
 
 **Infrastructure & Governance**
 
-**Maharashtra** announces the provision of 1% reservation for orphans in education and government jobs. Under the resolution, the children who lost both parents before turning 18 will be eligible for the reservation. 
+**Maharashtra** announces the provision of 1% reservation for orphans in education and government jobs. Under the resolution, the children who lost both parents before turning 18 will be eligible for the reservation.
 
 **Source**: [Times of India](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-government-issues-order-for-1-education-jobs-quota-for-orphans/articleshowprint/99327903.cms); **In detail**: [Government Resolution](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:45f1db69-0b19-400e-98af-fc84fdb369b5) (Marathi)
 
-**Goa** announces a hike in the state-levied infrastructure tax. As per the announcement, all constructions higher than 101 square meters will need to pay a revised tax of $4.2/ sq. meter of built-up area from $2.4 in in coastal panchayat regions and five towns namely Panaji, Mapusa, Ponda, Margao and Mormugao. 
+**Goa** announces a hike in the state-levied infrastructure tax. As per the announcement, all constructions higher than 101 square meters will need to pay a revised tax of $4.2/ sq. meter of built-up area from $2.4 in in coastal panchayat regions and five towns namely Panaji, Mapusa, Ponda, Margao and Mormugao.
 
 **Source**: [Free Press Journal](https://www.freepressjournal.in/goa/goa-govt-hikes-infrastructure-tax-housing-cost-to-rise); **In detail**: [Gazette Notification](https://goaprintingpress.gov.in/downloads/2324/2324-52-SI-EOG-3.pdf)
 
@@ -72,7 +72,7 @@ Nothing critical to report this week.
 
 **Water & Sanitation**
 
-**Karnataka** receives approval for a $363 million loan from the **World Bank**. The loan is aimed at providing clean drinking water supply to two million rural households in the state through door to door piped water connections. 
+**Karnataka** receives approval for a $363 million loan from the **World Bank**. The loan is aimed at providing clean drinking water supply to two million rural households in the state through door to door piped water connections.
 
 **Source**: [Business World](https://www.businessworld.in/article/World-Bank-Gives-Approval-To-363-Mn-Loan-For-Rural-Water-Supply-In-Karnataka-/29-03-2023-470995/); **In detail**: [World Bank Press Release](https://www.worldbank.org/en/news/press-release/2023/03/28/world-bank-approves-363-million-to-improve-water-supply-to-2-million-rural-households-in-the-indian-state-of-karnataka)
 
@@ -104,11 +104,11 @@ Nothing critical to report this week.
 
 **Any Other**
 
-**Haryana** launches the **Drone Imaging and Information Service of Haryana Limited (DRIISHYA)** for surveying infrastructure projects, monitoring agriculture and horticulture crops, and surveilling sensitive areas for security purposes. 
+**Haryana** launches the **Drone Imaging and Information Service of Haryana Limited (DRIISHYA)** for surveying infrastructure projects, monitoring agriculture and horticulture crops, and surveilling sensitive areas for security purposes.
 
 **Source**: [Daily Pioneer](https://www.dailypioneer.com/2023/state-editions/drones-for-surveying-infrastructure-projects--monitoring-of-crops-in-haryana.html); **In detail**: [Press Release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6ac65bee-b186-457b-b00f-1d62c8056c01)
 
-**Himachal Pradesh** introduces the **Himachal Pradesh Sukhasharya (Care, Protection and Self- Reliance of Children of State) Bill 2023**. The bill is aimed at ensuring legal protection, care, development, and vocational training for children lodged at shelter homes in Himachal Pradesh. 
+**Himachal Pradesh** introduces the **Himachal Pradesh Sukhasharya (Care, Protection and Self- Reliance of Children of State) Bill 2023**. The bill is aimed at ensuring legal protection, care, development, and vocational training for children lodged at shelter homes in Himachal Pradesh.
 
 **Source**: [Millennium Post](https://www.millenniumpost.in/nation/children-of-state-bill-introduced-in-himachal-pradesh-assembly-514168); **In detail**: [Press release](http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=27090)
 
