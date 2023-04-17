@@ -4,12 +4,12 @@
   "description": "The website for the Engaging Indian States project by the CSIS Wadhwani Chair.",
   "main": "gulpfile.js",
   "scripts": {
-    "start": "gulp",
+    "start": "npx tinacms dev -c \"gulp\"",
     "start-limit": "gulp --limit_posts 10",
     "browsersync": "gulp browsersync",
     "browsersync-production": "gulp browsersync --jekyllEnv='production'",
-    "build": "gulp build --jekyllEnv='production'",
-    "netlify:build": "gulp build --jekyllEnv='production'",
+    "build": "npx tinacms build && gulp build --jekyllEnv='production'",
+    "netlify:build": "npx tinacms build && gulp build --jekyllEnv='production'",
     "eslint": "gulp eslint",
     "imagemin": "gulp imagemin",
     "production": "gulp --jekyllEnv='production'",
@@ -64,6 +64,8 @@
   "dependencies": {
     "jquery": "^3.6.0",
     "uglify-js": "^3.8.0",
+    "@tinacms/cli": "^1.5.3",
+    "tinacms": "^1.4.3",
     "uglifyjs": "^2.4.11"
   }
 }
