@@ -4,12 +4,13 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Update: April 19, 2023'
-date: 2023-04-12 04:00:00 +0000
+date: 2023-04-19 04:00:00 +0000
 tags: []
-excerpt: Telangana amends its Shops and Establishments Act to allow 24x7 business;
-  Gujarat announces a tariff hike for sourcing electricity through open access; Delhi
-  announces the extension of its power subsidy scheme till April 2024; Chhattisgarh
-  introduces the State Women Entrepreneurship Policy 2023-28; and more.
+excerpt: 'Tamil Nadu bans online gambling in the state; Asian Development Bank (ADB)
+  and Tata Power Delhi Distribution Limited sign an agreement to improve the electricity
+  distribution network in the city; Delhi Electricity Regulatory Commission (DERC)
+  revises its renewable purchase obligations (RPO) and compliance regulations; Ministry
+  of Power releases the 2021-22 State Energy Efficiency Index; and more. '
 states: []
 sectors: []
 subsectors: []
@@ -20,52 +21,29 @@ sources: []
 details: []
 author:
 - Richard M. Rossow
-published: false
 
 ---
-**Big News**: **Telangana** amends its **Shops and Establishments Act** to allow 24x7 business; **Gujarat** announces a tariff hike for sourcing electricity through open access; **Delhi** announces the extension of its power subsidy scheme till April 2024; **Chhattisgarh** introduces the **State Women Entrepreneurship Policy 2023-28;** and more.
+**Big News**: **Tamil Nadu** bans online gambling in the state; **Asian Development Bank (ADB)** and **Tata Power Delhi Distribution Limited** sign an agreement to improve the electricity distribution network in the city; **Delhi Electricity Regulatory Commission (DERC)** revises its renewable purchase obligations (RPO) and compliance regulations; **Ministry of Power** releases the **2021-22 State Energy Efficiency Index**; and more.
 
 **Industrial Policy & Business Regulations**
 
-**Telangana** amends its **Telangana Shops and Establishments Act, 1988**, to allow shops to remain open 24×7 in the state. To be eligible for the exemption, shops must fulfil certain conditions including providing their employees ID cards, weekly holidays, overtime wages, and ensuring adequate safety of female employees, among others.
+**Tamil Nadu** governor gives assent to the **Tamil Nadu Prohibition of Online Gambling and Regulation of Online Games Bill**, thereby banning online gambling in the state. 
 
-**Source**: [Siasat](https://www.siasat.com/shops-establishments-to-be-open-247-in-telangana-guidelines-issued-2562849/); **In detail**: [Government Order](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:0d0f2083-3b84-4403-8b1b-e735d8fd65a2)
-
-**Uttar Pradesh** cabinet approves the **Chief Minister Handloom and Powerloom Industry Development Scheme (General)**. The scheme is aimed at incentivizing powerloom and handloom weavers in the state to upgrade their facilities and increase youth participation in the industry.
-
-**Source**: [News18](https://www.news18.com/india/up-cabinet-okays-scheme-for-powerloom-handloom-weavers-7476931.html)
-
-**Chhattisgarh** implements the **Rural and Cottage Industries Policy-2022**, to invigorate small-scale industries in the state. This policy aims to provide employment to the rural population through small cottage industries in rural areas and increase their incomes.
-
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/raipur/training-10-additional-incentive-to-women-sc-st/articleshowprint/99283043.cms); **In detail**: [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:b0e31bb6-a615-4ecd-8106-e199a3e56cbf) (in Hindi)
-
-**Maharashtra** cabinet clears a new sand mining policy to crack down on the illegal extraction of sand. The policy has banned auctions, introduced tendering for sand extraction and capped sand price at $1.6 per metric ton on a pilot basis for a year to make it more affordable.
-
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-cabinet-clears-sand-mining-policy-no-more-auctions-price-capped-for-a-year/articleshow/99280546.cms?from=mdr)
+**Source**: [Mint](https://www.livemint.com/news/india/tamil-nadu-bans-online-gaming-imposes-fine-up-to-rs-10-lakh-or-3-year-jail-11681195033226.html); **In detail**: [Gazette Notification](http://www.stationeryprinting.tn.gov.in/extraordinary/2023/116_Ex_IV_2_2023.pdf)
 
 **Land Acquisition & Labor Regulations**
 
-**Haryana** announces an increase in the employment generation subsidy under the **Haryana Enterprises and Employment Policy (HEEP)-2020**. The subsidy has been increased from $440 to $586 per employee per annum for 10 years.
-
-**Source**: [Millennium Post](https://www.millenniumpost.in/nation/haryana-cabinet-accords-approval-to-various-schemes-for-welfare-of-citizens-514158?infinitescroll=1); **In detail**: [Press Release](https://manoharlalkhattar.in/node/30556)
-
-**Chhattisgarh** announces a new unemployment allowance for the youth in the state. Under the scheme, the educated unemployed youth in the state will receive INR 2500 (\~$30.44) per month.
-
-**Source**: [The Week](https://www.theweek.in/news/india/2023/04/01/chhattisgarh-cm-baghel-launches-unemployment-allowance-scheme-socio-economic-survey.html); **In detail**: [Press release](https://acrobat.adobe.com/id/urn%3Aaaid%3Asc%3AVA6C2%3Aecb19f6d-1e7d-4fde-a0e3-c6f1d82482b7/?locale=en-US&viewer%21megaVerb=group-discover&filetype=application%2Fpdf)
-
-**Chhattisgarh** introduces the **State Women Entrepreneurship Policy 2023-28**. The policy is aimed at providing financial assistance, incentives, and subsidies to enable women entrepreneurs to start and expand their businesses.
-
-**Source**: [Outlook India](https://www.outlookindia.com/national/chhattisgarh-govt-launches-policy-to-provide-financial-aid-incentives-to-women-run-businesses-start-ups-news-276724); **In detail**: [CM’s Tweet](https://twitter.com/bhupeshbaghel/status/1644286724644929538), [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:8d6cc33c-627c-4680-94fd-ae6e537db6aa) (in Hindi)
+Nothing critical to report this week.
 
 **Infrastructure & Governance**
 
-**Maharashtra** announces the provision of 1% reservation for orphans in education and government jobs. Under the resolution, the children who lost both parents before turning 18 will be eligible for the reservation.
+**Arunachal Pradesh** launches the **Golden Jubilee Border Village Illumination Program** aimed at building 50 mini hydropower projects along the border with China. The program being implemented at an estimated cost of $24.43 million is aimed at the electrification of remote villages that are facing challenges of poor connectivity. 
 
-**Source**: [Times of India](https://timesofindia.indiatimes.com/city/mumbai/maharashtra-government-issues-order-for-1-education-jobs-quota-for-orphans/articleshowprint/99327903.cms); **In detail**: [Government Resolution](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:45f1db69-0b19-400e-98af-fc84fdb369b5) (Marathi)
+**Source**: [Nagaland Post](https://nagalandpost.com/index.php/khandu-government-building-mini-power-projects-along-china-border-in-arunachal/); **In detail**: [Press release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1915417)
 
-**Goa** announces a hike in the state-levied infrastructure tax. As per the announcement, all constructions higher than 101 square meters will need to pay a revised tax of $4.2/ sq. meter of built-up area from $2.4 in in coastal panchayat regions and five towns namely Panaji, Mapusa, Ponda, Margao and Mormugao.
+**Odisha** and the **World Bank** sign a **$100 million** loan agreement. The agreement is aimed at helping Odisha strengthen its early forecasting systems for improved disaster response and enhancing its social protection coverage for poor and vulnerable households through digital platforms. 
 
-**Source**: [Free Press Journal](https://www.freepressjournal.in/goa/goa-govt-hikes-infrastructure-tax-housing-cost-to-rise); **In detail**: [Gazette Notification](https://goaprintingpress.gov.in/downloads/2324/2324-52-SI-EOG-3.pdf)
+**Source**: [Telegraph](https://www.telegraphindia.com/india/world-bank-approves-100-million-loan-to-odisha/cid/1930161); **In detail**: [Press release](https://www.worldbank.org/en/news/press-release/2023/03/28/world-bank-approves-100-million-to-increase-social-protection-and-disaster-resilience-in-odisha)
 
 **Oil & Gas**
 
@@ -73,52 +51,50 @@ Nothing critical to report this week.
 
 **Water & Sanitation**
 
-**Karnataka** receives approval for a $363 million loan from the **World Bank**. The loan is aimed at providing clean drinking water supply to two million rural households in the state through door to door piped water connections.
+**Rajasthan** releases the policy for providing drinking water connections to multistorey buildings aimed to support over 2.5 million families across the state. 
 
-**Source**: [Business World](https://www.businessworld.in/article/World-Bank-Gives-Approval-To-363-Mn-Loan-For-Rural-Water-Supply-In-Karnataka-/29-03-2023-470995/); **In detail**: [World Bank Press Release](https://www.worldbank.org/en/news/press-release/2023/03/28/world-bank-approves-363-million-to-improve-water-supply-to-2-million-rural-households-in-the-indian-state-of-karnataka)
+**Source**: [Times of India](https://timesofindia.indiatimes.com/city/jaipur/raj-announces-policy-for-water-connections-to-high-rise-bldgs/articleshow/99480322.cms)
 
 **Power & Renewable Energy**
 
-**Delhi** extends the **Free Bijili Scheme** till April 2024. Under the scheme, the government will provide free electricity to households consuming up to 200 units of electricity per month and will offer a 50% subsidy to households consuming between 201-400 units per month.
+**Asian Development Bank (ADB)** and **Tata Power Delhi Distribution Limited (TPDDL)** enter into an agreement to enhance Delhi’s power distribution. Under the agreement, the ADB will subscribe to non-convertible debentures for $18.32 million for grid enhancements and provide a $2 million grant to partially finance the purchase and integration of a pilot battery energy storage system (BESS). 
 
-**Source**: [Times Now](https://www.timesnownews.com/delhi/delhis-free-bijili-scheme-extended-till-april-2024-cabinet-approves-decision-key-highlights-article-99252891); **In detail**: [Delhi Power Minister’s tweet](https://twitter.com/AtishiAAP/status/1643227389101502464)
+**Source**: [Economic Times](https://energy.economictimes.indiatimes.com/news/power/adb-tata-power-sign-deal-to-enhance-delhis-power-distribution/99376480); **In detail**: [Press release](https://www.adb.org/news/adb-tata-power-sign-deal-enhance-delhi-s-power-distribution-through-grid-enhancements-and)
 
-**Gujarat Electricity Regulatory Commission (GERC)** approves an additional power surcharge of \~$0.0092/ kWh, which will apply to consumers availing power through open access from April 1, 2023, to September 30, 2023.
+**Delhi Electricity Regulatory Commission (DERC)** revises its renewable purchase obligations (RPO) and compliance regulations, establishing the RPO trajectory for the national capital territory until the financial year (FY) 2025-26. 
 
-**Source**: [Mercom](https://www.mercomindia.com/gujarat-additional-surcharge-open-access-2); **In detail**: [Tariff order](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:ae3855ed-8127-4b9d-9a91-ac1642a0f51e)
+**Source**: [Mercom](https://www.mercomindia.com/delhi-power-purchase-obligation-fy26); **In detail**: [Gazette Notification](https://www.derc.gov.in/sites/default/files/DERC%20%28Renewable%20Purchase%20Obligation%20and%20Renewable%20Energy%20Certificate%20Framework%20Implementation%29%20%28First%20Amendment%29%20Regulations%2C%202023.pdf)
 
 **Climate Change**
 
-**Telangana** introduces the **Cool Roof Policy 2023-2028**, with the objective of making the state heat resilient and cutting down energy consumption. The policy will be effective from April 1, 2023.
-
-**Source**: [Telangana Today](https://telanganatoday.com/indias-first-cool-roof-policy-launched-in-telangana); **In detail**: [Cool Roof Policy 2023-2028](https://www.telangana.gov.in/PDFDocuments/Telangana-Cool-Roof-Policy-2023-2028.pdf)
+Nothing critical to report this week.
 
 **Health**
 
-**Andhra Pradesh** launches the **CM’s Family Doctor Program**, under which the state will extend preventive healthcare in 10,032 village health clinics across the state.
+**Assam** announces the opening of the **All-India Institute of Medical Sciences, Guwahati**, the **Assam Advanced Health Care Innovation Institute (AAHII)**, and three other medical colleges in the state. 
 
-**Source**: [Indian Express](https://indianexpress.com/article/cities/hyderabad/andhra-pradesh-family-doctor-programme-provide-healthcare-doorstep-8542848/); **In detail**: [CM’s Family Doctor Program launch](https://www.youtube.com/watch?v=CaUsvQ8A50k) (Video)
+**Source**: [The Statesman](https://www.thestatesman.com/india/pm-launches-projects-worth-over-rs-3400-cr-in-assam-1503172174.html); **In detail**: [Press release](https://www.pib.gov.in/PressReleasePage.aspx?PRID=1916529)
 
-**Center-State Relations**
+**Center – State Relations**
 
-Nothing critical to report this week.
+**Ministry of Power** announces that electricity from the central pool will not be allocated to states and Union Territories that impose taxes on clean energy projects, impede the inter-state flow of power, and have not cleared subsidy dues on electricity tariff. 
+
+**Source**: [Economic Times](https://economictimes.indiatimes.com/industry/energy/power/govt-sets-criteria-for-allocation-of-power-from-central-pool-to-states-uts/articleshow/99297037.cms?from=mdr); **In detail**: [Ministry of Power order](https://powerline.net.in/wp-content/uploads/2023/04/Allocation-of-Power-from-Unallocated-quota-to-States-UTs-reg.pdf)
+
+**Ministry of Power** releases the **2021-22 State Energy Efficiency Index** with Andhra Pradesh, Karnataka, Kerala, Rajasthan, and Telangana topping the rankings. The index has various parameters to assess state-level energy efficiency initiatives. 
+
+**Source**: [Mint](https://www.livemint.com/industry/energy/andhra-pradesh-karnataka-kerala-rajasthan-telangana-front-runners-in-state-energy-efficiency-index-202122-11681138453303.html); **In detail**: [State Energy Efficiency Index 2021-22](https://stateenergyefficiencyindex.in/wp-content/uploads/2023/04/State-Energy-Efficiency-Index-2021-22-Report.pdf)
 
 **Any Other**
 
-**Haryana** launches the **Drone Imaging and Information Service of Haryana Limited (DRIISHYA)** for surveying infrastructure projects, monitoring agriculture and horticulture crops, and surveilling sensitive areas for security purposes.
+**Haryana** announces the implementation of a **“zero dropout policy”** to ensure all children in the state attend school. Under the policy initiative, the educational status of nearly 4.8 million children aged between 6-18 years in the state will be tracked. 
 
-**Source**: [Daily Pioneer](https://www.dailypioneer.com/2023/state-editions/drones-for-surveying-infrastructure-projects--monitoring-of-crops-in-haryana.html); **In detail**: [Press Release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:6ac65bee-b186-457b-b00f-1d62c8056c01)
+**Source**: [Hindustan Times](https://www.hindustantimes.com/cities/gurugram-news/haryana-cm-implements-zero-dropout-policy-to-track-48-lakh-children-s-education-nep-to-be-implemented-by-2025-101681040952357.html); **In detail**: [Press release](https://prharyana.gov.in/en/haryana-chief-minister-sh-manohar-lal-said-that-the-state-government-has-successfully-implemented)
 
-**Himachal Pradesh** introduces the **Himachal Pradesh Sukhasharya (Care, Protection and Self- Reliance of Children of State) Bill 2023**. The bill is aimed at ensuring legal protection, care, development, and vocational training for children lodged at shelter homes in Himachal Pradesh.
+**Himachal Pradesh** launches **Project Sanjeevani** aimed at empowering small dairy farmers and livestock owners by providing them with access to telemedicine and technology enabled solutions for livestock wellness at their doorsteps. 
 
-**Source**: [Millennium Post](https://www.millenniumpost.in/nation/children-of-state-bill-introduced-in-himachal-pradesh-assembly-514168); **In detail**: [Press release](http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=27090)
+**Source**: [Business Standard](https://www.business-standard.com/economy/news/himachal-pradesh-launches-project-sanjeevani-to-empower-dairy-farmers-123040900416_1.html); **In detail**: [Press release](http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=27092)
 
-**Rajasthan** approves a financial proposal of $90 million to provide farmers in the state interest-free crop loans. The proposal includes a grant of $68 million for farmers under the interest-free crop loan subsidy scheme and $21 million under the compensatory interest subsidy scheme.
+**Himachal Pradesh** announces **discounted education loans** to students at **1 percent interest**. The decision is aimed at empowering low-income students and encouraging them to pursue higher education and professional studies. 
 
-**Source**: [Business Standard](https://www.business-standard.com/india-news/ashok-gehlot-approves-rs-736-cr-for-interest-free-crop-loans-to-farmers-123040401012_1.html); **In detail**: [Press Release](https://cmo.rajasthan.gov.in/pressreleasedetail/85606)
-
-**Updates**
-
-**Goa** releases the draft **Goa State Energy Vision 2050** with an aim to make Goa the first 100% renewable energy state in the country. The government aims to ensure that 50% of all ferries by 2025 are electric and 30% of all the new vehicles are electric vehicles (EVs) by 2030. The policy also aims to create 10,000 additional jobs.
-
-**Source**: [Herald](https://www.heraldgoa.in/Goa/Draft-%E2%80%98Goa-State-Energy-Vision-2050%E2%80%99-released/203033); **In detail**: [Goa State Energy Vision 2050](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:c400a559-df5c-4445-a74a-7df1652d91b0)
+**Source**: [India Today](https://www.indiatoday.in/education-today/news/story/himachal-pradesh-government-to-provide-education-loan-to-students-at-1-interest-2358426-2023-04-11); **In detail**: [Press release](http://himachalpr.gov.in/OneNews.aspx?Language=1&ID=27095)
