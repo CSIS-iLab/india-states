@@ -95,6 +95,6 @@ Nothing critical to report this week.
 
 **Source**: [Business Standard](https://www.business-standard.com/economy/news/himachal-pradesh-launches-project-sanjeevani-to-empower-dairy-farmers-123040900416_1.html); **In detail**: [Press release](http://himachalpr.gov.in/OnePressRelease.aspx?Language=1&ID=27092)
 
-**Himachal Pradesh** announces **discounted education loans** to students at **1 percent interest**. The decision is aimed at empowering low-income students and encouraging them to pursue higher education and professional studies. 
+**Himachal Pradesh** announces **discounted education loans** to students at **1 percent interest rate**. The decision is aimed at empowering low-income students and encouraging them to pursue higher education and professional studies. 
 
 **Source**: [India Today](https://www.indiatoday.in/education-today/news/story/himachal-pradesh-government-to-provide-education-loan-to-students-at-1-interest-2358426-2023-04-11); **In detail**: [Press release](http://himachalpr.gov.in/OneNews.aspx?Language=1&ID=27095)
