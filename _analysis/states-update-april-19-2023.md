@@ -3,7 +3,7 @@ post_type: _post-types/india-states-weekly.md
 breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
-title: 'States Update: April 12, 2023'
+title: 'States Update: April 19, 2023'
 date: 2023-04-12 04:00:00 +0000
 tags: []
 excerpt: Telangana amends its Shops and Establishments Act to allow 24x7 business;
@@ -13,13 +13,14 @@ excerpt: Telangana amends its Shops and Establishments Act to allow 24x7 busines
 states: []
 sectors: []
 subsectors: []
-is_featured: false
+is_featured: true
 feature_image: ''
 feature_image_credit: ''
 sources: []
 details: []
 author:
 - Richard M. Rossow
+published: false
 
 ---
 **Big News**: **Telangana** amends its **Shops and Establishments Act** to allow 24x7 business; **Gujarat** announces a tariff hike for sourcing electricity through open access; **Delhi** announces the extension of its power subsidy scheme till April 2024; **Chhattisgarh** introduces the **State Women Entrepreneurship Policy 2023-28;** and more.
