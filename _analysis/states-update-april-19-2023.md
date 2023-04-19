@@ -6,11 +6,11 @@ content_type: analysis
 title: 'States Update: April 19, 2023'
 date: 2023-04-19 04:00:00 +0000
 tags: []
-excerpt: 'Tamil Nadu bans online gambling in the state; Asian Development Bank (ADB)
+excerpt: Tamil Nadu bans online gambling in the state; Asian Development Bank (ADB)
   and Tata Power Delhi Distribution Limited sign an agreement to improve the electricity
   distribution network in the city; Delhi Electricity Regulatory Commission (DERC)
   revises its renewable purchase obligations (RPO) and compliance regulations; Ministry
-  of Power releases the 2021-22 State Energy Efficiency Index; and more. '
+  of Power releases the 2021-22 State Energy Efficiency Index; and more.
 states: []
 sectors: []
 subsectors: []
