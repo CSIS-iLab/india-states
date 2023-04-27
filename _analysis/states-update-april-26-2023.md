@@ -6,11 +6,7 @@ content_type: analysis
 title: 'States Update: April 26, 2023'
 date: 2023-04-26 04:00:00 +0000
 tags: []
-excerpt: Tamil Nadu bans online gambling in the state; Asian Development Bank (ADB)
-  and Tata Power Delhi Distribution Limited sign an agreement to improve the electricity
-  distribution network in the city; Delhi Electricity Regulatory Commission (DERC)
-  revises its renewable purchase obligations (RPO) and compliance regulations; Ministry
-  of Power releases the 2021-22 State Energy Efficiency Index; and more.
+excerpt: Ministry of Home Affairs facilitates the resolution of a border dispute between Assam and Arunachal Pradesh; Uttar Pradesh announces 100% stamp duty exemption on land purchase for solar plants, and IT and logistics parks; Delhi raises the minimum wage for workers in the unorganized sector; Karnataka Electricity Regulatory Commission (KERC) releases the Wheeling and Banking Agreement Format for Renewable Energy Projects Under the KERC (Terms and Conditions for Green Energy Open Access) Regulations, 2022; and more.
 states: []
 sectors: []
 subsectors: []
