@@ -50,11 +50,11 @@ Nothing critical to report this week.
 **Source**: [Economic Times](https://economictimes.indiatimes.com/news/india/ai-cameras-to-check-traffic-violations-in-kerala-fully-automated-system-can-issue-30000-challans-in-a-day/articleshow/99631637.cms); **In detail**: [Press release (in Malayalam)](https://prdlive.kerala.gov.in/news/294177)
 
 **Oil & Gas**
-  
-Nothing critical to report this week.  
-  
-**Water & Sanitation**  
-  
+
+Nothing critical to report this week.
+
+**Water & Sanitation**
+
 **Kerala** adopts a **Water Budget** with an aim to resolve the water scarcity in the state. The first phase of the project will cover 94 grama panchayats in 15 block panchayats. 
 
 **Source**: [Onmanorama](https://www.onmanorama.com/news/kerala/2023/04/18/kerala-water-budget-summer-crisis-pinarayi-vijayan-water-scarcity.html); **In detail**: [Press release (In Malayalam)](https://prd.kerala.gov.in/ml/node/211633)
@@ -93,6 +93,6 @@ Nothing critical to report this week. 
 
 **Source**: [News on Air](https://newsonair.com/2023/04/23/centre-launches-over-250-network-towers-to-provide-4g-mobile-connectivity-in-border-areas-of-arunachal-pradesh/); **In detail**: [Press release](https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1918789)
 
-**Ministry of Home Affairs** facilitates a boundary agreement between *Assam* and *Arunachal Pradesh*, thereby resolving 51-year-old border disputes between the states. 
+**Ministry of Home Affairs** facilitates a boundary agreement between **Assam** and **Arunachal Pradesh**, thereby resolving 51-year-old border disputes between the states. 
 
 **Source**: [Times Now](https://www.timesnownews.com/india/assam-and-arunachal-pradesh-ends-longest-running-border-dispute-pact-signed-in-amit-shahs-presence-article-99648361); **In detail**: [Press release](https://pib.gov.in/PressReleseDetailm.aspx?PRID=1918376)
