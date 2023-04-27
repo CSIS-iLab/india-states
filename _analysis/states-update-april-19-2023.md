@@ -14,7 +14,7 @@ excerpt: Tamil Nadu bans online gambling in the state; Asian Development Bank (A
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
