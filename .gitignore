@@ -37,3 +37,5 @@ doc/
 .history/
 Gemfile
 Gemfile.lock
+
+.env

@@ -5,7 +5,7 @@ Users will be able to access data via two avenues of focus: by State or by secto
 
 ## Setup
 1. Copy repo to desktop and navigate to folder in Terminal `$ cd [project folder]`
-2. Update bundler dependencies `$ bundler install`
+2. Update bundler dependencies `$ bundle install`
 3. Start development server `$ bundle exec jekyll serve`
 
 ### Bundle JavaScript files
