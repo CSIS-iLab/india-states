@@ -5,8 +5,7 @@ tags:
 - UDAY Distribution
 author:
 - Richard M. Rossow
-states:
-- 
+states: []
 sectors:
 - Energy
 subsectors:

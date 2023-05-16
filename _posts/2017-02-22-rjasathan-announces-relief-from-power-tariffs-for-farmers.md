@@ -1,6 +1,6 @@
 ---
 title: Rajasthan announces relief from power tariffs for farmers
-date: 2017-02-22 00:00:00 Z
+date: 2017-02-22
 tags:
 - Power Tariff
 - RERC

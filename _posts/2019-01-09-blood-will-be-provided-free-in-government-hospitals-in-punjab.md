@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: The Tribune
   url: https://www.tribuneindia.com/news/punjab/free-of-cost-blood-in-punjab-hospitals-from-jan-1/706669.html
-details:
+details: []
 ---
 
 Punjab health and family welfare minister Brahm Mohindra announced that blood will be provided free of cost in government hospitals across the state, and that the government will ensure that blood is available around the clock in all the hospitals.

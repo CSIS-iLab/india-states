@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Healthcare Regulation
-tags:
-- 
+tags: []
 sources:
 - name: Times of India
   url: http://timesofindia.indiatimes.com/city/bengaluru/karnataka-govt-to-determine-cost-of-treatment-in-private-hospitals/articleshow/59131760.cms
-details:
+details: []
 ---
 
 The Karnataka government has tabled a bill, The Karnataka Private Medical Establishments (Amendment) Bill-2017, that will empower the government to set prices private hospitals can charge for procedures and medications.

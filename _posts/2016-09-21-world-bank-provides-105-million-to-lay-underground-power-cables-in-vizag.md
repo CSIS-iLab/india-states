@@ -1,6 +1,6 @@
 ---
 title: World Bank provides $105 million to lay underground power cables in Vizag
-date: 2016-09-21 00:00:00 Z
+date: 2016-09-21
 tags:
 - World Bank
 - Vishakapatnam

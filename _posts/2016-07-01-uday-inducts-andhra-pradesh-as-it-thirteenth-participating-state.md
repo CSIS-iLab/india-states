@@ -1,6 +1,6 @@
 ---
 title: UDAY inducts Andhra Pradesh as it thirteenth participating state
-date: 2016-07-01 00:00:00 Z
+date: 2016-07-01
 tags:
 - UDAY
 - Distribution

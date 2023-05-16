@@ -7,8 +7,7 @@ tags:
 author:
 - Richard M. Rossow
 - Sarah Watson
-states:
-- 
+states: []
 sectors:
 - Energy
 subsectors:
@@ -36,8 +35,8 @@ RPO targets were evaluated based on the government of India’s suggested solar 
 <strong>Highlights from the Data</strong>
 
 <ul>
-	<li>Three states (Andhra Pradesh, Delhi, and Kerala) received the top possible score for their net-metering policies. Top scorers in this category do not restrict rooftop solar capacity on the state, local (transformer), or household level, beyond limits necessary for safe functioning of the grid. They allow customers to bank electricity ejected into the grid by rooftop solar units from month to month (allowing the owner of the unit to profit from sunny days during the rainy season), and they pay cash for production in excess of consumption on a monthly or yearly basis.</li>
-	<li>Rajasthan was the clear front-runner when it came to RPO commitments. Its target—6.75 percent of total production must come from solar sources by 2019—was well above the second-place finisher, Tamil Nadu (6 percent). And Rajasthan, unlike Tamil Nadu, requires all power producers in the state—even privately owned ones—to meet RPO targets, netting it a bonus point.</li>
-	<li>Haryana won maximum bonus points for its wide-ranging solar rooftop unit requirements. Haryana requires the units to be installed on private buildings with a connected load of more than 50 kilowatts, all private buildings on plots larger than 4,500 square feet, and all new housing developments.</li>
+ <li>Three states (Andhra Pradesh, Delhi, and Kerala) received the top possible score for their net-metering policies. Top scorers in this category do not restrict rooftop solar capacity on the state, local (transformer), or household level, beyond limits necessary for safe functioning of the grid. They allow customers to bank electricity ejected into the grid by rooftop solar units from month to month (allowing the owner of the unit to profit from sunny days during the rainy season), and they pay cash for production in excess of consumption on a monthly or yearly basis.</li>
+ <li>Rajasthan was the clear front-runner when it came to RPO commitments. Its target—6.75 percent of total production must come from solar sources by 2019—was well above the second-place finisher, Tamil Nadu (6 percent). And Rajasthan, unlike Tamil Nadu, requires all power producers in the state—even privately owned ones—to meet RPO targets, netting it a bonus point.</li>
+ <li>Haryana won maximum bonus points for its wide-ranging solar rooftop unit requirements. Haryana requires the units to be installed on private buildings with a connected load of more than 50 kilowatts, all private buildings on plots larger than 4,500 square feet, and all new housing developments.</li>
 </ul>
 <img alt="Score Breakdown for Top 10 States" src="https://csis-prod.s3.amazonaws.com/s3fs-public/170215_bt_index_2.jpg?I83lyLghjciN0N_VnNcqUY6WSjno14GI" typeof="foaf:Image">

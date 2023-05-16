@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: Indian Express
   url: http://indianexpress.com/article/india/maharashtra-passes-bill-to-ban-hookah-bars-5115307/
-details:
+details: []
 ---
 
 The Maharashtra government approved a ban on hookah smoking parlours in the state under the Cigarettes and Other Tobacco Products (Prohibition of Advertisement and Regulation of Trade and Commerce, Production, Supply, and Distribution) Act.

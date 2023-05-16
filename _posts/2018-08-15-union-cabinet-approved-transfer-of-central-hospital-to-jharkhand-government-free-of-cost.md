@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Education Medical Dialogues
   url: https://education.medicaldialogues.in/cabinet-nod-to-convert-jharkhand-hospital-into-medical-college/

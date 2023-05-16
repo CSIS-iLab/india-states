@@ -1,6 +1,6 @@
 ---
 title: ACME receives largest share of solar energy projects in Andhra
-date: 2016-05-12 00:00:00 Z
+date: 2016-05-12
 tags:
 - Solar
 - ACME

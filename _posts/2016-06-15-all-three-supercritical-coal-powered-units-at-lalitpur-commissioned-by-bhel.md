@@ -1,6 +1,6 @@
 ---
 title: All three supercritical coal-powered units at Lalitpur commissioned by BHEL
-date: 2016-06-15 00:00:00 Z
+date: 2016-06-15
 tags:
 - BHEL
 - Lalitpur
@@ -15,7 +15,7 @@ subsectors:
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/bhel-commissions-3-supercritical-thermal-units-in-uttar-pradesh/articleshow/52622232.cms
-details: 
+details: []
 ---
 
 State-owned power equipment manufacturer, Bharat Heavy Electric Limited commissioned all three supercritical units at the coal-powered Lalitpur Super Thermal Power Projects over the past 3 months.

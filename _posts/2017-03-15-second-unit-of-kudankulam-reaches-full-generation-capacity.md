@@ -1,6 +1,6 @@
 ---
 title: Second unit of Kudankulam reaches full generation capacity
-date: 2017-03-15 00:00:00 Z
+date: 2017-03-15
 tags:
 - Kudankulam
 states:

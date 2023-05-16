@@ -1,6 +1,6 @@
 ---
 title: Maharashtra considers charging for power from open parket
-date: 2016-03-31 00:00:00 Z
+date: 2016-03-31
 tags:
 - MSEDCL
 - tariff

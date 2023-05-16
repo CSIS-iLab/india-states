@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Health IT
-tags:
-- 
+tags: []
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/industry/healthcare/biotech/healthcare/samsung-to-set-up-15-smart-healthcare-centres-in-tamil-nadu/articleshow/62984224.cms
-details:
+details: []
 ---
 
 Korean-based Samsung is partnering with Tamil Nadu to set up 15 smart healthcare centers in the state.

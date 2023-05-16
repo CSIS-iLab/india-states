@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: Hindustan Times
   url: http://www.hindustantimes.com/jaipur/infant-mortality-in-rajasthan-declined-by-two-points-in-2016/story-mAeasMs5fGRfQbWjFEeyyK.html

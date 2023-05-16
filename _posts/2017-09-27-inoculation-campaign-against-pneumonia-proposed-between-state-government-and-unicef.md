@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Health Areas
-tags:
-- 
+tags: []
 sources:
 - name: The Hindu
   url: http://www.thehindu.com/news/national/andhra-pradesh/us-firms-keen-on-investing-in-state/article19738496.ece
-details:
+details: []
 ---
 
 Pfizer executives meeting with Chief Minister Chandrababu Naidu proposed to organize an inoculation campaign against pneumonia in partnership with the state government and UNICEF. Pneumonia is the number one cause of infant mortality in the state. Minister Naidu approved the proposal.

@@ -1,6 +1,6 @@
 ---
 title: Haryana introduces new incentives for solar rooftop implementation
-date: 2016-05-05 00:00:00 Z
+date: 2016-05-05
 tags:
 - Solar rooftop
 states:

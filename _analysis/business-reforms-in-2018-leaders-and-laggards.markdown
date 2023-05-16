@@ -16,11 +16,7 @@ feature_image_credit: CSIS
 sources:
 - name: Livemint
   url: https://www.livemint.com/Opinion/fFB9WTbA8khgmvxfkC5eBN/Business-reforms-in-2018-leaders-and-laggards.html
-details:
-- name: 
-  url: 
-- name: 
-  url: 
+details: []
 author:
 - Kartikeya Singh
 layout: post

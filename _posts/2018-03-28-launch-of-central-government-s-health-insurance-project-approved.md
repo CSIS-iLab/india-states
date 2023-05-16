@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: Hindustan Times
   url: https://www.hindustantimes.com/india-news/govt-kicks-off-groundwork-for-ayushman-bharat-to-cover-1-347-treatments-aadhaar-not-mandatory/story-Lmcy2VogSGu6ShnHO7pN2M.html

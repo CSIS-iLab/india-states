@@ -1,6 +1,6 @@
 ---
 title: Rays Experts commission distributed solar rooftop for Delhi Metro
-date: 2017-04-12 00:00:00 Z
+date: 2017-04-12
 tags:
 - Solar
 - Solar Rooftop

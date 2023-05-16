@@ -1,7 +1,7 @@
 ---
 title: Engineering giant Larsen & Toubro moves on 50 percent of Chhabra thermal power
   plant
-date: 2016-10-13 00:00:00 Z
+date: 2016-10-13
 tags:
 - Larsen & Toubro
 - Chhabra

@@ -1,6 +1,6 @@
 ---
 title: Field survey on status of electrification across 1,450 villages in Uttar Pradesh
-date: 2016-08-31 00:00:00 Z
+date: 2016-08-31
 tags:
 - Electricity
 states:
@@ -13,7 +13,7 @@ subsectors:
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/electrification-of-1450-uttar-pradesh-villages-under-lens-power-ministry-to-seek-cag-audit/articleshow/53802254.cms
-details: 
+details: []
 ---
 
 The central government is undertaking a field survey across 1,450 villages that were claimed to be electrified by Uttar Pradesh to gauge whether funds for rural electrification have been used appropriately. Depending on the findings by the rural electrification engineers the center will ask the comptroller and auditor general to conduct an audit of the funds.

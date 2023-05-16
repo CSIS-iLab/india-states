@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: Live Mint
   url: http://www.livemint.com/Politics/dVHbNgA14jaCNzeG4TCJCO/Kerala-tops-health-index-Uttar-Pradesh-worst-performer.html

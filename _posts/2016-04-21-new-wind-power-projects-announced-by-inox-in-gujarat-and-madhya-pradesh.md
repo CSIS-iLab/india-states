@@ -1,6 +1,6 @@
 ---
 title: New wind power projects announced by Inox in Gujarat and Madhya Pradesh
-date: 2016-04-21 00:00:00 Z
+date: 2016-04-21
 tags:
 - Inox
 - Wind

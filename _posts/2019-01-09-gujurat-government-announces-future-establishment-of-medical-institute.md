@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Indian Express
   url: https://indianexpress.com/article/india/gujarat-aiims-to-be-set-up-near-rajkot-says-deputy-cm-nitin-patel-5522567/
-details:
+details: []
 ---
 
 The Gujarat government announced that an All India Institute of Medical Sciences will be established near Rajkot.

@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: NDTV
   url: https://www.ndtv.com/india-news/jammu-and-kashmir-revokes-government-employees-mediclaim-policy-1969375

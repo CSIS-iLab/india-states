@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/news/economy/policy/west-bengal-to-launch-ayushman-bharat-under-joint-banner/articleshow/65073556.cms
-details:
+details: []
 ---
 
 The West Bengal government signed an MOU with the National Health Agency to implement the center's health insurance scheme under the joint banner "Ayushman Bharat - Swasthya Sathi."

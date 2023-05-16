@@ -1,6 +1,6 @@
 ---
 title: ABB wins innovation award for its work on Sharavathi hydropower plant
-date: 2017-03-29 00:00:00 Z
+date: 2017-03-29
 tags:
 - Hydro
 - ABB

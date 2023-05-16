@@ -4,8 +4,7 @@ title: 'Payment Security Mechanism for Solar Power in India: Can India Secure it
 date: 2017-02-10 00:00:00 Z
 tags:
 - Solar
-states:
-- 
+states: []
 sectors:
 - Energy
 subsectors:

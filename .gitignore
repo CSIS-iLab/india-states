@@ -19,6 +19,7 @@ _site
 
 # Node.js
 node_modules/
+yarn.lock
 
 # Logfiles and tempfiles
 *.log

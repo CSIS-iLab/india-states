@@ -1,6 +1,6 @@
 ---
 title: Mizoram joins center's UDAY power bailout initiative
-date: 2017-04-05 00:00:00 Z
+date: 2017-04-05
 tags:
 - UDAY
 - Distribution
@@ -10,7 +10,7 @@ sectors:
 - Energy
 subsectors:
 - Power
-sources: 
+sources: []
 details:
 - name: Press Release
   url: http://pib.nic.in/newsite/PrintRelease.aspx?relid=160410

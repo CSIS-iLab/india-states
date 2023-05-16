@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/news/politics-and-nation/after-mamata-banerjee-karnataka-opts-out-of-centres-health-scheme/articleshow/62942114.cms
-details:
+details: []
 ---
 
 Karnataka has declined joining the central government's health insurance initiative on account of already having a universal health scheme for its citizens.

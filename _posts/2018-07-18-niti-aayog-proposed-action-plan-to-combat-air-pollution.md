@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/news/economy/policy/niti-aayog-proposes-15-point-action-plan-to-deal-with-air-pollution/articleshow/64950770.cms

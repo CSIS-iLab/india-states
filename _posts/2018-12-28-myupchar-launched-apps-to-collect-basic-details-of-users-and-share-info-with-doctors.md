@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Health IT
-tags:
-- 
+tags: []
 sources:
 - name: Economic Times
   url: https://health.economictimes.indiatimes.com/news/health-it/online-health-consultation-app-launched-in-up/67171211
-details:
+details: []
 ---
 
 India’s largest online health camp, myUpchar, launched its “Saathi” app and “Health Card” in Uttar Pradesh to provide healthcare services in rural areas of the state. myUpchar and its partners partner will collect the basic details like weight, height, blood pressure, glucose, pulse, and temperature from these areas and share those on the app with doctors.

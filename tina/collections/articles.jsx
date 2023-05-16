@@ -11,20 +11,16 @@ const articles = {
   },
   ui: {
     filename: {
+      readonly: false,
       slugify: values => {
-        return `${values?.title
+        return `${values?.date?.substr(0, 10)}-${values?.title
           ?.toLowerCase()
           .replace(/\s+/g, '-')
-          .replace(/[^\w-]+/g, '')}`
+          .replace(/[^\w\-]+/g, '')}`
       }
     }
   },
   fields: [
-    {
-      label: 'Draft',
-      name: 'draft',
-      type: 'boolean'
-    },
     {
       type: 'string',
       name: 'title',
@@ -41,19 +37,28 @@ const articles = {
       type: 'string',
       name: 'sates',
       label: 'States',
+      list: true,
       options: states
     },
     {
       type: 'string',
       name: 'sectors',
       label: 'Sectors',
+      list: true,
       options: sectors
     },
     {
       type: 'string',
       name: 'subsectors',
       label: 'Subsectors',
+      list: true,
       options: subsectors
+    },
+    {
+      type: 'string',
+      name: 'tags',
+      label: 'Tags',
+      list: true
     },
     {
       type: 'object',

@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Health IT
-tags:
-- 
+tags: []
 sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/bhubaneswar/odisha-government-launches-oehmis-project/articleshow/62573854.cms
-details:
+details: []
 ---
 
 Odisha launched a pilot implementation of its e-Hospital Management Information System (OeHMIS). The system will allow patients to register online and access their electronic health records through a web portal or mobile application.

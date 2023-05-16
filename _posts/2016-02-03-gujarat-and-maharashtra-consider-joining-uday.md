@@ -1,6 +1,6 @@
 ---
 title: Gujarat and Maharashtra consider joining UDAY
-date: 2016-02-03 00:00:00 Z
+date: 2016-02-03
 tags:
 - UDAY
 - Distribution
@@ -15,7 +15,7 @@ subsectors:
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/states-line-up-to-join-centres-uday-scheme-for-power-distribution-cos/articleshow/50749402.cms
-details: 
+details: []
 ---
 
 Gujarat and Maharashtra are considering joining the central government’s Ujwal Discom Assurance Yojana (UDAY) scheme in order to take advantage of concessional coal, power and finance rates.

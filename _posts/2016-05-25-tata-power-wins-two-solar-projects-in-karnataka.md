@@ -1,6 +1,6 @@
 ---
 title: Tata Power wins two solar projects in Karnataka
-date: 2016-05-25 00:00:00 Z
+date: 2016-05-25
 tags:
 - Tata Power
 - Solar

@@ -1,6 +1,6 @@
 ---
 title: NTPC acquires the 1000 MW Chhabra power plant in an asset-to-equity deal
-date: 2017-01-18 00:00:00 Z
+date: 2017-01-18
 tags:
 - NTPC
 - Chhabra

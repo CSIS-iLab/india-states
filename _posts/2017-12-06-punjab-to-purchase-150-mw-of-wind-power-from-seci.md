@@ -1,6 +1,6 @@
 ---
 title: Punjab to purchase 150 MW of wind power from SECI
-date: 2017-12-06 00:00:00 Z
+date: 2017-12-06
 states:
 - Punjab
 sectors:

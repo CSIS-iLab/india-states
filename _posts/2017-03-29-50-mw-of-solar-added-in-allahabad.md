@@ -1,6 +1,6 @@
 ---
 title: 50 MW of solar power added in Allahabad
-date: 2017-03-29 00:00:00 Z
+date: 2017-03-29
 tags:
 - UPNEDA
 - Allahabad

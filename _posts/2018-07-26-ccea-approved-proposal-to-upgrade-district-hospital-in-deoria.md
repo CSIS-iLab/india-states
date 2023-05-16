@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/pti-stories/centre-approves-new-medical-college-in-up-s-deoria-118071801074_1.html

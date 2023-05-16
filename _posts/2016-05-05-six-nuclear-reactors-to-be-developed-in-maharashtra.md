@@ -1,6 +1,6 @@
 ---
 title: Six nuclear reactors to be developed in Maharashtra
-date: 2016-05-05 00:00:00 Z
+date: 2016-05-05
 tags:
 - NPCL
 - Electricite De France

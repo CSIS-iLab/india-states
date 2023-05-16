@@ -21,11 +21,6 @@ const allResources = {
   },
   fields: [
     {
-      label: 'Draft',
-      name: 'draft',
-      type: 'boolean'
-    },
-    {
       type: 'string',
       name: 'type',
       label: 'Type'

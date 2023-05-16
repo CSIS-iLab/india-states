@@ -1,6 +1,6 @@
 ---
 title: Solar water heater systems to be installed in West Bengal government buildings
-date: 2017-04-12 00:00:00 Z
+date: 2017-04-12
 tags:
 - WBREDA
 - Solar
@@ -15,7 +15,7 @@ subsectors:
 sources:
 - name: Millenium Post
   url: http://www.millenniumpost.in/kolkata/soon-solar-water-heater-systems-in-89-buildings-235514
-details: 
+details: []
 ---
 
 The West Bengal Renewable Energy Development Agency (WBREDA) will install solar water heater systems in dozens of government buildings across the state.

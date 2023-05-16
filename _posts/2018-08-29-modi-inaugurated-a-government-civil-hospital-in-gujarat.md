@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: India Today
   url: https://www.indiatoday.in/india/story/pm-modi-inaugurates-multiple-development-projects-in-gujarat-s-junagadh-1321611-2018-08-23

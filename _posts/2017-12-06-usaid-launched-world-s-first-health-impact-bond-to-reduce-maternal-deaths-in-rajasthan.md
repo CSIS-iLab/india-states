@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: The Hindu
   url: http://www.thehindu.com/news/cities/Hyderabad/usaid-launches-bond-to-reduce-maternal-neo-natal-deaths-in-rajasthan/article21218821.ece

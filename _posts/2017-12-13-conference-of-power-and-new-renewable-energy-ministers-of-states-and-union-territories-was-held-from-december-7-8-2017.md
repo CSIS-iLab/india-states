@@ -1,7 +1,7 @@
 ---
 title: Conference of power and new & renewable energy ministers of states and union
   territories was held from December 7-8, 2017
-date: 2017-12-13 00:00:00 Z
+date: 2017-12-13
 states:
 - Center-State Relations
 sectors:

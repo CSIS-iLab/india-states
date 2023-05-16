@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: NDTV
   url: https://www.ndtv.com/kolkata-news/west-bengal-gives-waiver-of-10-property-tax-for-senior-citizens-1925260
-details:
+details: []
 ---
 
 In celebration of the International Day for Older Persons, West Bengal chief minister Mamata Banerjee announced that the state government will waive the 10 percent property tax for senior citizens, set up a helpline for their use, and open geriatric care units at state-run district hospitals.

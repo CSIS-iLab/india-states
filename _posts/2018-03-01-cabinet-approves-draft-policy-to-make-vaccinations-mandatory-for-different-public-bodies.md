@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Healthcare Regulation
-tags:
-- 
+tags: []
 sources:
 - name: News Minute
   url: https://www.thenewsminute.com/article/draft-medical-policy-kerala-makes-vaccinations-compulsory-school-admissions-76765'

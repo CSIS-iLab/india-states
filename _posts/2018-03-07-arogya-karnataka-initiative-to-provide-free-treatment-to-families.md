@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: Economic Times
   url: https://health.economictimes.indiatimes.com/news/policy/karnataka-unveils-healthcare-scheme/63143040
-details:
+details: []
 ---
 
 Karnataka chief minister Siddaramaiah announced the ‘Arogya Karnataka’ healthcare initiative to provide free and subsidized quality treatment to below-poverty-line and above-poverty-line families in the state.

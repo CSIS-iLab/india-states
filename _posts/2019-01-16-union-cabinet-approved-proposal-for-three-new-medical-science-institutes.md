@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Business Today
   url: https://www.businesstoday.in/current/economy-politics/cabinet-approves-two-new-aiims-for-jammu-and-kashmir-one-for-gujarat/story/309206.html

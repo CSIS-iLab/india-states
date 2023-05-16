@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/current-affairs/epca-drafts-mega-plan-to-fight-delhi-s-air-pollution-117031900318_1.html

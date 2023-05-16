@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Pharmaceuticals and Devices
-tags:
-- 
+tags: []
 sources:
 - name: The Shillong Times
   url: http://www.theshillongtimes.com/2018/08/08/meghalaya-govt-approves-free-drug-policy/
-details:
+details: []
 ---
 
 The state government of Meghalaya approved the free drug policy through which the government will provide 72 medications free to the people of the state.

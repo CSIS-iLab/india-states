@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Health Areas
-tags:
-- 
+tags: []
 sources:
 - name: North East Now
   url: https://nenow.in/north-east-news/meghalaya-aims-cover-13-lakh-children-mr-vaccine.html

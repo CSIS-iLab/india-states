@@ -1,6 +1,6 @@
 ---
 title: Delhi government introduces new solar policy, incentives for residential producers
-date: 2016-06-15 00:00:00 Z
+date: 2016-06-15
 tags:
 - Solar Policy
 - VAT

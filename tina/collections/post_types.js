@@ -17,11 +17,6 @@ const post_types = {
   },
   fields: [
     {
-      label: 'Draft',
-      name: 'draft',
-      type: 'boolean'
-    },
-    {
       type: 'string',
       name: 'title',
       label: 'Post Type',

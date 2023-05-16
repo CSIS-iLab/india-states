@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Devdiscourse
   url: https://devdiscourse.com/Article/49416-adb-to-invest-in-dcdc-for-critical-healthcare-services-in-india-sri-lanka

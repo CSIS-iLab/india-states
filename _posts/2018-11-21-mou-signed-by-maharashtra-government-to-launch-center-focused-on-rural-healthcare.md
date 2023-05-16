@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Bio Spectrum
   url: https://www.biospectrumindia.com/news/75/12041/maharashtra-govt-launches-ai-centre-for-rural-healthcare.html

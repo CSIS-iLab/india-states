@@ -1,6 +1,6 @@
 ---
 title: Goa announces new solar power policy
-date: 2017-12-13 00:00:00 Z
+date: 2017-12-13
 states:
 - Goa
 sectors:
@@ -15,4 +15,4 @@ details:
   url: https://www.goa.gov.in/wp-content/uploads/2017/03/Draft-of-solar-policy-for-Goa-2017.pdf
 ---
 
-The cabinet approved Goa’s new Solar Power Policy, under which the state expects to generate 150 MW of solar power by 2021. The state will develop small to medium-scale solar parks on private land and will seek to ensure that all solar power bought by the state’s discoms is generated within the state. The policy will come into effect by the end of the current financial year. 
+The cabinet approved Goa’s new Solar Power Policy, under which the state expects to generate 150 MW of solar power by 2021. The state will develop small to medium-scale solar parks on private land and will seek to ensure that all solar power bought by the state’s discoms is generated within the state. The policy will come into effect by the end of the current financial year.

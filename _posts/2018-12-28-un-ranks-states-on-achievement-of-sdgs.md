@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Healthcare Regulation
-tags:
-- 
+tags: []
 sources:
 - name: Live Mint
   url: https://www.livemint.com/Politics/FctE2j3URJCeP3qXim8RWI/Himachal-Kerala-Tamil-Nadu-top-UN-SDG-India-index.html

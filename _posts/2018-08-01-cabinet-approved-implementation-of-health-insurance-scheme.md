@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: Bio Spectrum
   url: https://www.biospectrumindia.com/news/22/11367/meghalaya-cabinet-approves-health-plan.html
-details:
+details: []
 ---
 
 The Meghalaya cabinet has approved the implementation of Meghalaya Health Insurance Scheme (MHIS) phase-IV, converging with the health protection scheme of the center, which was launched under the Ayushman Bharat Programme.

@@ -1,6 +1,6 @@
 ---
 title: Power Minister Piyush Goyal launces new e-bidding and e-reverse auction portal
-date: 2016-04-21 00:00:00 Z
+date: 2016-04-21
 tags:
 - Piyush Goyal
 - DEEP

@@ -22,11 +22,6 @@ const analysis = {
   },
   fields: [
     {
-      label: 'Draft',
-      name: 'draft',
-      type: 'boolean'
-    },
-    {
       type: 'string',
       name: 'title',
       label: 'Title',

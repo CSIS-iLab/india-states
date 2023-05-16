@@ -1,6 +1,6 @@
 ---
 title: Azure commissioned for solar power projects in three states, totalling 88 MW
-date: 2016-05-12 00:00:00 Z
+date: 2016-05-12
 tags:
 - Solar
 - Azure

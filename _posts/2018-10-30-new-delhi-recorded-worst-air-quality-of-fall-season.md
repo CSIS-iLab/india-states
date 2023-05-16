@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: Economic Times
   url: https://economictimes.indiatimes.com/news/politics-and-nation/delhi-records-worst-air-quality-of-season-as-haze-engulfs-national-capital-authorities/articleshow/66400280.cms

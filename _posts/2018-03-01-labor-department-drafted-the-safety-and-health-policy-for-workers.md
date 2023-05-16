@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Healthcare Workforce
-tags:
-- 
+tags: []
 sources:
 - name: Indian Express
   url: http://indianexpress.com/article/cities/mumbai/maharashtra-drafts-workers-safety-health-policy-5078288/

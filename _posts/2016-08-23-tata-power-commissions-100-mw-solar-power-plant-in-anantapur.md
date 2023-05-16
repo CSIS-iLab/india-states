@@ -1,6 +1,6 @@
 ---
 title: Tata Power commissions 100 MW solar power plant in Anantapur
-date: 2016-08-23 00:00:00 Z
+date: 2016-08-23
 tags:
 - Anantapur
 - Solar
@@ -14,7 +14,7 @@ subsectors:
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/tata-power-solar-commissions-indias-largest-solar-plant-in-andhra-pradesh/articleshow/53721882.cms
-details: 
+details: []
 ---
 
 Tata Power Solar has successfully commissioned a 100 megawatt (MW) solar plant in Anantapur. The project used domestically produced solar cells and modules and is expected to generate nearly 160 million units of energy per year.

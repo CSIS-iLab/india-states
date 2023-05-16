@@ -1,6 +1,6 @@
 ---
 title: In Rajasthan, 1,000 acres of uncultivable land to be used for solar power plant
-date: 2016-05-05 00:00:00 Z
+date: 2016-05-05
 tags:
 - Solar
 states:

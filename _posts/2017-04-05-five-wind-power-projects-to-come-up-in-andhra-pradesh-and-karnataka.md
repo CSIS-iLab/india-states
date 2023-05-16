@@ -1,6 +1,6 @@
 ---
 title: Five wind power projects to come up in Andhra Pradesh and Karnataka
-date: 2017-04-05 00:00:00 Z
+date: 2017-04-05
 tags:
 - Wind
 - PTC Energy
@@ -14,7 +14,7 @@ subsectors:
 sources:
 - name: Business Standard
   url: http://www.business-standard.com/article/pti-stories/ptc-energy-commissions-wind-projects-in-karnataka-andhra-117040200242_1.html
-details: 
+details: []
 ---
 
 PTC Energy announced it had commissioned five wind power projects with an aggregate capacity of 240 megawatts (MW) in Andhra Pradesh and Karnataka, with nearly 190 MW located in Andhra Pradesh.
