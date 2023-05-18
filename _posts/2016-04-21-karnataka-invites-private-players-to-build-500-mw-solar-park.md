@@ -1,6 +1,6 @@
 ---
 title: Karnataka invites private players to build 500 MW solar park
-date: 2016-04-21 00:00:00 Z
+date: 2016-04-21
 tags:
 - Solar
 - Yarrow

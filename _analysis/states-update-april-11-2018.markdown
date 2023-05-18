@@ -8,8 +8,7 @@ excerpt: JICA signs $1.8 billion loan agreements with India for projects in Tami
   power distribution in three more cities, while Uttar Pradesh rescinds privatization;
   Harvard publishes study on urban air pollution in Delhi; Jharkhand first to use
   Oral Pentavalent vaccine to eradicate rotavirus; and more.
-states:
-- 
+states: []
 author:
 - Sidhanta Mehra
 ---

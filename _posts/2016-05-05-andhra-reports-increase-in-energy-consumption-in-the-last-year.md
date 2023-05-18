@@ -1,6 +1,6 @@
 ---
 title: Andhra reports increase in energy consumption in the last year
-date: 2016-05-05 00:00:00 Z
+date: 2016-05-05
 tags:
 - Consumption
 states:
@@ -12,7 +12,7 @@ subsectors:
 sources:
 - name: Hindu Business Line
   url: http://www.thehindubusinessline.com/news/national/per-capita-energy-consumption-in-andhra-pradesh-up-by-33/article8520189.ece
-details: 
+details: []
 ---
 
 Per-capita energy consumption in Andhra Pradesh has gone up 3.3 percent in 2015-16 as a result of the availability of round-the-clock power.

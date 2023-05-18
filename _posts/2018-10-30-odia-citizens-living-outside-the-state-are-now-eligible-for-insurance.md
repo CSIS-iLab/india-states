@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: Indian Express
   url: https://indianexpress.com/article/india/odisha-tweaks-its-health-scheme-to-include-more-beneficiaries-5421687/
-details:
+details: []
 ---
 
 The Odisha government announced that Odia citizens living outside the state, particularly migrant workers, are now eligible for the state’s health insurance scheme, Biju Swasthya Kalyan Yojana.

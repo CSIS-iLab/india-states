@@ -1,6 +1,6 @@
 ---
 title: Chhattisgarh to install solar water purification systems across the state
-date: 2017-10-25 00:00:00 Z
+date: 2017-10-25
 states:
 - Chhattisgarh
 sectors:
@@ -11,7 +11,7 @@ subsectors:
 sources:
 - name: Daily Pioneer
   url: http://www.dailypioneer.com/state-editions/raipur/creda-to-install-solar-based-water-purification-systems.html
-details: 
+details: []
 ---
 
-The Chhattisgarh Renewable Energy Development Authority will install solar-powered water purification systems throughout the state. 
+The Chhattisgarh Renewable Energy Development Authority will install solar-powered water purification systems throughout the state.

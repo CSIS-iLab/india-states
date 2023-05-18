@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/national/uttar-pradesh-govt-presents-479-lakh-crore-budget-for-2019-20/article26203003.ece

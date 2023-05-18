@@ -1,6 +1,6 @@
 ---
 title: Gujarats falls short of renewable RPO targets
-date: 2016-05-05 00:00:00 Z
+date: 2016-05-05
 tags:
 - RPO
 states:
@@ -12,7 +12,7 @@ subsectors:
 sources:
 - name: Business Standard
   url: http://www.business-standard.com/article/economy-policy/renewable-power-purchase-hits-a-wall-in-gujarat-116042500622_1.html
-details: 
+details: []
 ---
 
 Gujarat has fallen short on its renewable power purchase obligation for the fifth year in a row and has now reduced its commitment by 22 percent.

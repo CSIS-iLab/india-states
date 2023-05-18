@@ -1,7 +1,7 @@
 ---
 title: Karnataka sets the amount of power a solar rooftop owner can sell back to the
   grid
-date: 2016-05-18 00:00:00 Z
+date: 2016-05-18
 tags:
 - Solar rooftop
 states:

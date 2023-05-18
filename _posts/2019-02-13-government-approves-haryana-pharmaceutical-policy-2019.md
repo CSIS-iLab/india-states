@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Pharmaceuticals and Devices
-tags:
-- 
+tags: []
 sources:
 - name: The Hindu
   url: https://www.thehindu.com/news/national/other-states/haryana-govt-approves-new-pharma-policy/article26177798.ece

@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Health Areas
-tags:
-- 
+tags: []
 sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/pti-stories/odisha-signs-mou-with-us-based-agencies-to-eradicate-malaria-118082801248_1.html

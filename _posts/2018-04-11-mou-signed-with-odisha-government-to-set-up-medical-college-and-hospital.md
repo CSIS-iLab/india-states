@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: The Hindu
   url: http://www.thehindu.com/todays-paper/tp-national/odisha-govt-vedanta-sign-mou-to-set-up-medical-college/article23368716.ece
-details:
+details: []
 ---
 
 Vedanta group signed a MOU with the Odisha government for setting up of a medical college and hospital at Bhangabari in Bhawanipatna, with an investment of $15.3 million.

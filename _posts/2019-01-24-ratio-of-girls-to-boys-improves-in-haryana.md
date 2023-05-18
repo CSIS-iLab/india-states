@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/chandigarh/in-haryana-its-now-924-girls-for-every-1000-boys/articleshowprint/67581169.cms

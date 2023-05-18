@@ -1,6 +1,6 @@
 ---
 title: Suzlon wins an order for 59 MW wind project in Madhya Pradesh
-date: 2016-07-27 00:00:00 Z
+date: 2016-07-27
 tags:
 - Wind
 - Dewas

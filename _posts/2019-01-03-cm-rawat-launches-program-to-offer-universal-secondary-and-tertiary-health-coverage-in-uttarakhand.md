@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: Economic Times
   url: https://health.economictimes.indiatimes.com/news/policy/uttarakhand-cm-launches-universal-health-coverage-scheme/67254533

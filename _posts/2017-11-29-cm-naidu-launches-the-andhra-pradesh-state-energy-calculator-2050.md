@@ -1,6 +1,6 @@
 ---
 title: CM Naidu launches the Andhra Pradesh State Energy Calculator 2050
-date: 2017-11-29 00:00:00 Z
+date: 2017-11-29
 states:
 - Andhra Pradesh
 sectors:

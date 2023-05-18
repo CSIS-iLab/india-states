@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Health IT
-tags:
-- 
+tags: []
 sources:
 - name: Times of India
   url: http://timesofindia.indiatimes.com/city/thiruvananthapuram/e-health-kerala-scheme-launched-at-peroorkada-hosp/articleshow/56785762.cms
-details:
+details: []
 ---
 
 Chief Minister Pinarayi Vijayan launched e-Health Kerala, an initiative to create an effective IT-enabled integrated framework to ensure quality health care and create a centralized database of healthcare information.

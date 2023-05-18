@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: The Statesman
   url: https://www.thestatesman.com/cities/haryana-govt-signs-moa-with-undp-for-sdgcc-1502670521.html

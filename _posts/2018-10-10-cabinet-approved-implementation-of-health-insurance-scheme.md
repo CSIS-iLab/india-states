@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: The Tribune
   url: https://www.tribuneindia.com/news/punjab/punjab-cabinet-approves-pmjay-health-insurance-scheme-to-cover-42-lakh-families/662600.html

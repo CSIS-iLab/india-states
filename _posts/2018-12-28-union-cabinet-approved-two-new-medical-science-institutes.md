@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Financial Express
   url: https://www.financialexpress.com/education-2/narendra-modi-cabinet-approves-two-new-aiims-for-tamil-nadu-telangana-at-cost-of-over-rs-2000-crore/1417474/

@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: Scroll.in
   url: https://scroll.in/latest/911076/southern-states-show-sharp-decline-in-child-sex-ratio-at-birth-andhra-pradesh-and-karnataka-worst

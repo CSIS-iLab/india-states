@@ -1,6 +1,6 @@
 ---
 title: Andhra Pradesh hikes energy charges for industry and commerce categories
-date: 2016-04-07 00:00:00 Z
+date: 2016-04-07
 tags:
 - Regulatory Commission
 - APERC

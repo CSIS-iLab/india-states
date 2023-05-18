@@ -1,7 +1,7 @@
 ---
 title: BHEL begins setting up of the Yadadri supercritical thermal power project in
   Telangana
-date: 2017-11-01 00:00:00 Z
+date: 2017-11-01
 states:
 - Telangana
 - Center-State Relations
@@ -12,7 +12,7 @@ subsectors:
 sources:
 - name: Livemint
   url: http://www.livemint.com/Industry/D4sJSre3I2YvWcyWowfQpO/Bhel-starts-execution-of-Rs20400-crore-Yadadri-plant-in-Tel.html
-details: 
+details: []
 ---
 
-State-run power equipment maker Bharat Heavy Electricals Ltd said it has commenced work on the $3.13 billion Yadadri supercritical thermal power project for the Telangana State Power Generation Corporation. 
+State-run power equipment maker Bharat Heavy Electricals Ltd said it has commenced work on the $3.13 billion Yadadri supercritical thermal power project for the Telangana State Power Generation Corporation.

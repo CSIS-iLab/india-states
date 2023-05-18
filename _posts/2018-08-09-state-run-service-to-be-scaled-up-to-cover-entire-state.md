@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: The Hindu
   url: https://www.thehindu.com/todays-paper/tp-national/tp-telangana/telangana-diagnostics-to-come-up-across-state/article24588393.ece
-details:
+details: []
 ---
 
 Telangana Diagnostics, a center-funded state-run service which falls under the center's National Health Mission, will be scaled up to cover the entire state following successful runs in Hyderabad.

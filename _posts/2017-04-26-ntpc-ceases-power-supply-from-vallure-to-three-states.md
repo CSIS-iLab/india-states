@@ -1,6 +1,6 @@
 ---
 title: NTPC ceases power supply from Vallur to three states
-date: 2017-04-26 00:00:00 Z
+date: 2017-04-26
 tags:
 - NTPC
 states:

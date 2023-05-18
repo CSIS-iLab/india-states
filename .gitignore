@@ -19,6 +19,7 @@ _site
 
 # Node.js
 node_modules/
+yarn.lock
 
 # Logfiles and tempfiles
 *.log
@@ -37,3 +38,5 @@ doc/
 .history/
 Gemfile
 Gemfile.lock
+
+.env

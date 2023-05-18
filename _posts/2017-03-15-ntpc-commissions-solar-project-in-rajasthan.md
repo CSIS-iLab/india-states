@@ -1,6 +1,6 @@
 ---
 title: NTPC commissions solar project in Rajasthan
-date: 2017-03-15 00:00:00 Z
+date: 2017-03-15
 tags:
 - Solar
 - NTPC

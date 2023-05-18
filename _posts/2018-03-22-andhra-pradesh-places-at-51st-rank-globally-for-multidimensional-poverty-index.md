@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: The Hindu
   url: http://www.thehindu.com/news/cities/Vijayawada/mpi-state-secures-rank-equivalent-to-51st-globally/article23232904.ece
-details:
+details: []
 ---
 
 The Andhra Pradesh Multidimensional Poverty (MPI) Index Report 2017 places the state at the 51st rank globally, 15 positions ahead of India's average index score.

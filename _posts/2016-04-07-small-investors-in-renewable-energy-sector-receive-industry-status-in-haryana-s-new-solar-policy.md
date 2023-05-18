@@ -1,7 +1,7 @@
 ---
 title: Small investors in renewable energy sector receive industry status in Haryana's
   new solar policy
-date: 2016-04-07 00:00:00 Z
+date: 2016-04-07
 tags:
 - Solar Policy
 states:

@@ -1,7 +1,7 @@
 ---
 title: Andhra Pradesh gives green light to the 960 MW Polavaram hydroelectric power
   project
-date: 2017-12-13 00:00:00 Z
+date: 2017-12-13
 states:
 - Andhra Pradesh
 sectors:
@@ -16,4 +16,4 @@ details:
   url: http://goir.ap.gov.in/Reports.aspx
 ---
 
-The Andhra Pradesh government issued an order allowing the state's generation utility to begin the 960 megawatt (MW) Polavaram hydroelectric power project. The government stipulated several changes to the original proposal to bring down the projected cost of electricity produced by the project. 
+The Andhra Pradesh government issued an order allowing the state's generation utility to begin the 960 megawatt (MW) Polavaram hydroelectric power project. The government stipulated several changes to the original proposal to bring down the projected cost of electricity produced by the project.

@@ -1,7 +1,7 @@
 ---
 title: Haryana makes energy conservation building code mandatory for some government
   departments
-date: 2016-12-30 00:00:00 Z
+date: 2016-12-30
 tags:
 - Building Code
 states:

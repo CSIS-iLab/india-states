@@ -10,11 +10,7 @@ excerpt: Center has increased the renewable purchase obligation target for large
   Health Protection Mission; Haryana introduces new power subsidy to benefit small
   and medium enterprises; Kerala launches comprehensive new-born health screening
   program; Chattisgarh gets a smarter capital; and more.
-details:
-- name: 
-  url: 
-- name: 
-  url: 
+details: []
 author:
 - Afeena Ashfaque
 ---

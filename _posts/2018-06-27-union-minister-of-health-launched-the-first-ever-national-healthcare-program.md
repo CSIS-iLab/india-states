@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Healthcare Regulation
-tags:
-- 
+tags: []
 sources:
 - name: Jagran Josh
   url: https://www.jagranjosh.com/current-affairs/health-ministry-launches-indias-first-national-healthcare-facility-registry-1529485862-1

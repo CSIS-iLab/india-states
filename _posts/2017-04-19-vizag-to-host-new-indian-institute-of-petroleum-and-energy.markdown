@@ -8,8 +8,7 @@ states:
 - Andhra Pradesh
 sectors:
 - Energy
-subsectors:
-- 
+subsectors: []
 sources:
 - name: 'Business Standard
 
@@ -19,4 +18,4 @@ sources:
 '
 ---
 
-The Union Cabinet approved an act to establish the Indian Institute of Petroleum and Energy at Visakhapatnam. If passed, the act will create a new institution modeled on the Indian Institutes of Technology and a Center of Excellence in petroleum and energy studies. 
+The Union Cabinet approved an act to establish the Indian Institute of Petroleum and Energy at Visakhapatnam. If passed, the act will create a new institution modeled on the Indian Institutes of Technology and a Center of Excellence in petroleum and energy studies.

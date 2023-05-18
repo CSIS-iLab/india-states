@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Daily Pioneer
   url: https://www.dailypioneer.com/2018/state-editions/capt-inaugurates-100-bedded-cancer-hospital.html

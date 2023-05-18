@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Healthcare Regulation
-tags:
-- 
+tags: []
 sources:
 - name: Indian Express
   url: http://indianexpress.com/article/india/karnataka-passes-diluted-law-bill-to-regulate-hospital-policies-fees-passed-4950342/

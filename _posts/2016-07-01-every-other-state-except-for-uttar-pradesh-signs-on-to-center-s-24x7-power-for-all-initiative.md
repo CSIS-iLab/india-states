@@ -1,7 +1,7 @@
 ---
 title: Every other state except for Uttar Pradesh signs on to center's '24X7 Power
   for All' initiative
-date: 2016-07-01 00:00:00 Z
+date: 2016-07-01
 tags:
 - Power for All
 - Electricity

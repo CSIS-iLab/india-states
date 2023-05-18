@@ -1,7 +1,7 @@
 ---
 title: Karnataka's electricity regulator body will not honor previously agreed upon
   power purchase agreement
-date: 2017-10-18 00:00:00 Z
+date: 2017-10-18
 states:
 - Karnataka
 - Center-State Relations
@@ -17,4 +17,4 @@ details:
   url: http://www.karnataka.gov.in/kerc/Downloads/Tariff%202017/Dated%2004.09.2917-Wind%20Tariff%20Order-DT_MA.pdf
 ---
 
-Despite pressure from the center, the Karnataka Electricity Regulatory Commission (KERC) is sticking to its earlier decision not to honor unsigned power purchase unless the producer agrees to sell power at the state’s new, lower rate. KERC passed an order on September 4 lowering the feed-in tariff for wind power at to 5 cents per kilowatt-hour (kWh), down from 7 cents per kWh, the previous rate. 
+Despite pressure from the center, the Karnataka Electricity Regulatory Commission (KERC) is sticking to its earlier decision not to honor unsigned power purchase unless the producer agrees to sell power at the state’s new, lower rate. KERC passed an order on September 4 lowering the feed-in tariff for wind power at to 5 cents per kilowatt-hour (kWh), down from 7 cents per kWh, the previous rate.

@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Social Determinants of Health
-tags:
-- 
+tags: []
 sources:
 - name: Financial Express
   url: http://www.financialexpress.com/india-news/delhi-pollution-narendra-modi-government-finalises-12-point-air-action-plan-to-tackle-smog/991414/

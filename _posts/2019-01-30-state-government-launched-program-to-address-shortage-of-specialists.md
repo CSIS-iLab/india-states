@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Healthcare Workforce
-tags:
-- 
+tags: []
 sources:
 - name: The Sentinel Assam
   url: https://www.sentinelassam.com/news/adarsh-mou-signed-in-meghalaya/

@@ -1,6 +1,6 @@
 ---
 title: BHEL commissions third unit of Teesta hydroelectrict project in West Bengal
-date: 2016-07-27 00:00:00 Z
+date: 2016-07-27
 tags:
 - Hydro
 - Teesta
@@ -14,7 +14,7 @@ subsectors:
 sources:
 - name: Economic Times
   url: http://economictimes.indiatimes.com/industry/energy/power/bhel-commissions-40-mw-hydro-power-unit-in-west-bengal/articleshow/53298921.cms
-details: 
+details: []
 ---
 
 Bharat Heavy Electricals Ltd has commissioned the third unit of the 4×40 MW Teesta Low Dam hydroelectric project stage-IV in West Bengal.

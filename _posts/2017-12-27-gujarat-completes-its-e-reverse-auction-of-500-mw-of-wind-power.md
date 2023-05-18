@@ -1,6 +1,6 @@
 ---
 title: Gujarat completes its e-reverse auction of 500 MW of wind power
-date: 2017-12-27 00:00:00 Z
+date: 2017-12-27
 states:
 - Gujarat
 sectors:

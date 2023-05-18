@@ -7,12 +7,11 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Telegraph India
   url: https://www.telegraphindia.com/states/north-east/sikkim-gets-india-s-2nd-biggest-govt-hospital/cid/1681803
-details:
+details: []
 ---
 
 Sikkim opened a 1,002-bed hospital, named the New Sir Thutob Namgyal Memorial Multi-Speciality Hospital, which will be the second-largest healthcare facility in the country after the All India Institute of Medical Sciences in New Delhi.

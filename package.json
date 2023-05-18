@@ -4,12 +4,12 @@
   "description": "The website for the Engaging Indian States project by the CSIS Wadhwani Chair.",
   "main": "gulpfile.js",
   "scripts": {
-    "start": "gulp",
+    "start": "npx tinacms dev -c \"gulp\"",
     "start-limit": "gulp --limit_posts 10",
     "browsersync": "gulp browsersync",
     "browsersync-production": "gulp browsersync --jekyllEnv='production'",
-    "build": "gulp build --jekyllEnv='production'",
-    "netlify:build": "gulp build --jekyllEnv='production'",
+    "build": "npx tinacms build && gulp build --jekyllEnv='production'",
+    "netlify:build": "npx tinacms build && gulp build --jekyllEnv='production'",
     "eslint": "gulp eslint",
     "imagemin": "gulp imagemin",
     "production": "gulp --jekyllEnv='production'",
@@ -50,11 +50,12 @@
     "gulp-newer": "^1.4.0",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^8.0.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "gulp-watch": "^5.0.1",
     "imagemin-pngquant": "^6.0.0",
     "prettier": "^1.14.3",
     "require-dir": "^1.1.0",
+    "sass": "^1.59.2",
     "through2": "^3.0.1",
     "vinyl-named": "^1.1.0",
     "webpack": "^4.23.1",
@@ -62,7 +63,9 @@
     "yargs": "^12.0.2"
   },
   "dependencies": {
+    "@tinacms/cli": "^1.5.3",
     "jquery": "^3.6.0",
+    "tinacms": "^1.4.3",
     "uglify-js": "^3.8.0",
     "uglifyjs": "^2.4.11"
   }

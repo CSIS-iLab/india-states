@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Healthcare Regulation
-tags:
-- 
+tags: []
 sources:
 - name: North East Today
   url: https://thenortheasttoday.com/nagaland-govt-signs-mou-to-set-up-disease-control-centre-in-the-state/

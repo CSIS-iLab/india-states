@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Health Areas
-tags:
-- 
+tags: []
 sources:
 - name: eHealth
   url: http://ehealth.eletsonline.com/2018/08/health-department-enters-into-pact-with-australian-government/

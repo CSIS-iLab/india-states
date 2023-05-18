@@ -1,6 +1,6 @@
 ---
 title: Tamil Nadu, Telangana and Assam join UDAY, bring total to 21
-date: 2017-01-12 00:00:00 Z
+date: 2017-01-12
 tags:
 - UDAY
 - Distribution

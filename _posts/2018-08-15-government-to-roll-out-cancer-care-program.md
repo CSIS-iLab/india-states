@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: The Telegraph
   url: https://www.telegraphindia.com/states/north-east/nagaland-tata-ink-pact-to-boost-cancer-care-250981

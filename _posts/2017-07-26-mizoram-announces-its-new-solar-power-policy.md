@@ -1,6 +1,6 @@
 ---
 title: Mizoram announces its new solar power policy
-date: 2017-07-26 00:00:00 Z
+date: 2017-07-26
 states:
 - Mizoram
 sectors:
@@ -15,4 +15,4 @@ details:
   url: https://zeda.mizoram.gov.in/uploads/qms/92a333a70cf6493407a9abc911563ba2/solar-power-policy-of-mizoram-2017.pdf
 ---
 
-Mizoram announced its new solar power policy, with a target of 80 MW of solar capacity by 2022. 
+Mizoram announced its new solar power policy, with a target of 80 MW of solar capacity by 2022.

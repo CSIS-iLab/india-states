@@ -1,7 +1,7 @@
 ---
 title: Rajasthan receives $250 million in support from World Bank to reform its power
   sector
-date: 2016-04-07 00:00:00 Z
+date: 2016-04-07
 tags:
 - Reform
 - World Bank

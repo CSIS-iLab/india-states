@@ -4,9 +4,12 @@ The Wadhwani Chair in U.S. India Policy Studies has commissioned a new website t
 Users will be able to access data via two avenues of focus: by State or by sector/subsector. In addition to being a compact source of comparative data, the site offers users access to a curated collection of new articles and reports that support and extend their understanding of the State/sector relationship.
 
 ## Setup
-1. Copy repo to desktop and navigate to folder in Terminal `$ cd [project folder]`
-2. Update bundler dependencies `$ bundler install`
-3. Start development server `$ bundle exec jekyll serve`
+
+1. Clone the repo `$ git clone <git@github.com>:CSIS-iLab/india-states.git`
+2. cd into the folder `$ cd india-states`
+3. Install bunlde dependencies `$ bundle install`
+4. Install npm dependencies `$ npm install`
+5. Start development server `$ npm start`
 
 ### Bundle JavaScript files
 In project root directory, run `cat ./assets/js/* | uglifyjs -o ./assets/bundle.min.js` (to be automated in Phase 2)

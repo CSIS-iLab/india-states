@@ -1,7 +1,7 @@
 ---
 title: The Ministry of New and Renewable Energy specifies stiff penalties for breaching
   solar power purchase agreements
-date: 2017-09-13 00:00:00 Z
+date: 2017-09-13
 states:
 - Center-State Relations
 sectors:

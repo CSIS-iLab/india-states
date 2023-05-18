@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: Times of India
   url: https://timesofindia.indiatimes.com/city/shimla/5-states-1-ut-sign-mous-for-ayushman-bharat-scheme/articleshow/64166262.cms

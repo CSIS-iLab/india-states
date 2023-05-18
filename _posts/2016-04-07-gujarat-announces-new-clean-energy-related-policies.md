@@ -1,6 +1,6 @@
 ---
 title: Gujarat announces new clean energy related policies
-date: 2016-04-07 00:00:00 Z
+date: 2016-04-07
 tags:
 - Hydro
 - Waste to Energy

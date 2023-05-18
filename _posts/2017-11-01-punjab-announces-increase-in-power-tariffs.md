@@ -1,6 +1,6 @@
 ---
 title: Punjab announces increase in power tariffs
-date: 2017-11-01 00:00:00 Z
+date: 2017-11-01
 states:
 - Punjab
 sectors:
@@ -17,4 +17,4 @@ details:
   url: http://pserc.nic.in/pages/PSPCL-Tariff-Order-Vol-1-2017-18.pdf
 ---
 
-The Punjab State Electricity Regulatory Commission raised power tariffs by an average of 9.33 percent for the current fiscal year. The tariff for domestic consumers has increased by 7 to 12 percent, industrial tariffs will rise 8.50 to 12 percent, and commercial tariffs will go up 8 to 11 percent. 
+The Punjab State Electricity Regulatory Commission raised power tariffs by an average of 9.33 percent for the current fiscal year. The tariff for domestic consumers has increased by 7 to 12 percent, industrial tariffs will rise 8.50 to 12 percent, and commercial tariffs will go up 8 to 11 percent.

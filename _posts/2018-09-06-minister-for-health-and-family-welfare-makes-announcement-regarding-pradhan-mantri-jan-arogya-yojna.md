@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Financing and Payment
-tags:
-- 
+tags: []
 sources:
 - name: Medical Dialogues
   url: https://medicaldialogues.in/the-pilot-launch-of-the-mission-has-started-in-16-states-uts-j-p-nadda/

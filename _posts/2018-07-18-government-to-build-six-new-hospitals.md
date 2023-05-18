@@ -7,8 +7,7 @@ sectors:
 - Health
 subsectors:
 - Delivery Systems
-tags:
-- 
+tags: []
 sources:
 - name: Business Standard
   url: https://www.business-standard.com/article/economy-policy/chhattisgarh-to-build-six-100-bed-multi-specialty-hospitals-on-ppp-model-118071300863_1.html

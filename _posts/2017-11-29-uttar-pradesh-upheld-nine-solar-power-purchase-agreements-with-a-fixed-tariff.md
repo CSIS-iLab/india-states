@@ -1,6 +1,6 @@
 ---
 title: Uttar Pradesh upheld nine solar power purchase agreements with a fixed tariff
-date: 2017-11-29 00:00:00 Z
+date: 2017-11-29
 states:
 - Uttar Pradesh
 sectors:

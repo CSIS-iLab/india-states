@@ -1,6 +1,6 @@
 ---
 title: Azure to add solar power to defense establishments in Maharashtra
-date: 2017-04-05 00:00:00 Z
+date: 2017-04-05
 tags:
 - Solar
 states:

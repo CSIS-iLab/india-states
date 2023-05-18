@@ -1,6 +1,6 @@
 ---
 title: New wind project commissioned in Dwarka
-date: 2017-04-05 00:00:00 Z
+date: 2017-04-05
 tags:
 - Wind
 - THDC India
