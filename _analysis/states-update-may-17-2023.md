@@ -10,7 +10,7 @@ excerpt: Karnataka state assembly elections see the emergence of the Indian Nati
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
