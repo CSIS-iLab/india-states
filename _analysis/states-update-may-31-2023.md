@@ -6,7 +6,7 @@ content_type: analysis
 title: 'States Update: May 31, 2023'
 date: 2023-05-31 04:00:00 +0000
 tags: []
-excerpt: Karnataka Chief Minister Siddaramaiah takes oath; Haryana reduces barriers to developing industrial hubs; Andhra Pradesh relaxes restrictions on farm sales; Telangana makes 132,000 acres land available for real estate development; Maharashtra Electricity Regulatory Commission** approves the tariff of $0.03/kWh for long term procurement for 500 MW solar power projects; Punjab State Electricity Regulatory Commission** approves an increase of 8.64% in power tariffs; and more.
+excerpt: Goa approves the Goa State Logistics and Warehouse Policy, 2023; Kerala drafts the Domestic Workers (Regulation and Welfare) Act to provide minimum wages domestic workers in the state; Maharashtra Electricity Regulatory Commission approves the tariff of ~$0.037/kWh for the procurement of 117.5 MW of solar power on a long-term basis; Uttar Pradesh Electricity Regulatory Commission (UPERC) keeps the power tariff for 2023-24 unchanged; and more.
 states: []
 sectors: []
 subsectors: []
