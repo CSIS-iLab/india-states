@@ -74,7 +74,7 @@ const allResources = {
     },
     {
       type: 'string',
-      name: 'sates',
+      name: 'states',
       label: 'States',
       options: states
     },

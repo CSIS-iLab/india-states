@@ -28,14 +28,19 @@ const articles = {
       required: true
     },
     {
-      type: 'datetime',
-      name: 'Date',
+      // component: 'date',
+      type: 'string',
+      name: 'date',
       label: 'Date',
-      required: true
+      required: true,
+      dateFormat: 'YYYY-MM-DD',
+      ui: {
+        component: 'date'
+      }
     },
     {
       type: 'string',
-      name: 'sates',
+      name: 'states',
       label: 'States',
       list: true,
       options: states
