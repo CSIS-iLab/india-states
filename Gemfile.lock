@@ -68,6 +68,7 @@ GEM
     webrick (1.8.1)
 
 PLATFORMS
+  x86_64-darwin-17
   x86_64-darwin-20
 
 DEPENDENCIES
@@ -77,7 +78,7 @@ DEPENDENCIES
   tzinfo-data
 
 RUBY VERSION
-   ruby 3.1.3p185
+   ruby 2.6.3p62
 
 BUNDLED WITH
-   2.3.26
+   2.4.10
