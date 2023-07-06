@@ -10,7 +10,7 @@ excerpt: Karnataka leads on budgeted to actual capital expenditure by states, ha
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
