@@ -19,7 +19,7 @@ author:
 - Richard M. Rossow
 
 ---
-**Big News**:**Jharkhand** releases the **Sustainable Just Transition Vision Document**; **Andhra Pradesh Electricity Regulatory Commission (APERC)** introduces amendments to the **Renewable Power Purchase Obligation (RPO) Compliance by Purchase of Renewable Energy/Renewable Energy Certificates Regulations, 2022**, aiming to promote the use of open access electricity; **Odisha** approves the **Odisha Semiconductor Manufacturing & Fabless Policy**; **NITI Aayog** releases the **National Multidimensional Poverty Index: A Progress of Review 2023**; and more.
+**Big News**: **Jharkhand** releases the **Sustainable Just Transition Vision Document**; **Andhra Pradesh Electricity Regulatory Commission (APERC)** introduces amendments to the **Renewable Power Purchase Obligation (RPO) Compliance by Purchase of Renewable Energy/Renewable Energy Certificates Regulations, 2022**, aiming to promote the use of open access electricity; **Odisha** approves the **Odisha Semiconductor Manufacturing & Fabless Policy**; **NITI Aayog** releases the **National Multidimensional Poverty Index: A Progress of Review 2023**; and more.
 
 **Health**
 
