@@ -10,7 +10,7 @@ excerpt: Telangana announces a 11-15% road tax on electric vehicles; Jharkhand, 
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
