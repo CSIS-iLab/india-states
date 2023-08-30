@@ -4,7 +4,7 @@ breadcrumbs: analysis
 is_analysis: true
 content_type: analysis
 title: 'States Weekly: August 30, 2023'
-date: 2023-08-23 04:00:00 +0000
+date: 2023-08-30 04:00:00 +0000
 tags: []
 excerpt: Assam approves the Assam Electronics Policy 2023, aiming to attract semiconductor manufacturing in the state; Rajasthan decides to divert electricity from non-essential industries to farmers and consumers, amidst power shortage in the state; Odisha Electricity Regulatory Commission (OERC) unveils the draft Green Energy Open Access Regulations, 2023; Madhya Pradesh releases the Madhya Pradesh Naxalite Surrender, Rehabilitation cum Relief Policy; and more. 
 states: []
