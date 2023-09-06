@@ -10,7 +10,7 @@ excerpt: Assam approves the Assam Electronics Policy 2023, aiming to attract sem
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
