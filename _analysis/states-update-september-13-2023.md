@@ -10,7 +10,7 @@ excerpt: Telangana releases the Draft Telangana State Electricity Regulatory Com
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
