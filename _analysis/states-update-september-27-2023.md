@@ -27,7 +27,7 @@ author:
 
 **Source**: [Millennium Post](https://www.millenniumpost.in/nation/haryana-govt-to-offer-four-cashless-healthcare-to-employees-533611)
 
-**Tripura**launches the **"Mukhyamantri Susthyo Shoishab, Sustho Koishore Abhiyan"**, a state-level health drive aiming to cover 1.111 million children and adolescents between the age groups 0-19 years. 
+**Tripura** launches the **"Mukhyamantri Susthyo Shoishab, Sustho Koishore Abhiyan"**, a state-level health drive aiming to cover 1.111 million children and adolescents between the age groups 0-19 years. 
 
 **Source**: [ANI news](https://aninews.in/news/national/general-news/tripura-cm-launches-special-health-drive-mukhyamantri-susthyo-shoishab-sustho-koishore-abhiyan-5020230919220600/); **In detail**: [Operational guidelines for MSSSKA 5.0](https://www.scribd.com/document/672448018/Operational-guideline-for-MSSSKA-5-0)
 
@@ -87,7 +87,9 @@ Nothing critical to report this week.
 
 **Any Other**
 
-**Andhra Pradesh** signs a Memorandum of Understanding with the American educational agency International Baccalaureate (IB), aiming to introduce students to emerging and future technologies. **Source**: [Sakshipost](https://www.sakshipost.com/news/andhrapradesh/andhra-govt-signs-mou-international-baccalaureate-230737); **In detail**: [Press release](https://ipr.ap.nic.in/images/press-releases/%E0%B0%90%E0%B0%AC%E0%B1%80%20%E0%B0%B8%E0%B0%82%E0%B0%B8%E0%B1%8D%E0%B0%A5%E0%B0%A4%E0%B1%8B%20%E0%B0%B0%E0%B0%BE%E0%B0%B7%E0%B1%8D%E0%B0%9F%E0%B1%8D%E0%B0%B0%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AD%E0%B1%81%E0%B0%A4%E0%B1%8D%E0%B0%B5%E0%B0%82%20%E0%B0%8F%E0%B0%82%E0%B0%93%E0%B0%AF%E0%B1%82%20%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AF%E0%B0%95%E0%B1%8D%E0%B0%B0%E0%B0%AE%E0%B0%82_20.09.2023.pdf) (In Telugu)
+**Andhra Pradesh** signs a Memorandum of Understanding with the American educational agency International Baccalaureate (IB), aiming to introduce students to emerging and future technologies. 
+
+**Source**: [Sakshipost](https://www.sakshipost.com/news/andhrapradesh/andhra-govt-signs-mou-international-baccalaureate-230737); **In detail**: [Press release](https://ipr.ap.nic.in/images/press-releases/%E0%B0%90%E0%B0%AC%E0%B1%80%20%E0%B0%B8%E0%B0%82%E0%B0%B8%E0%B1%8D%E0%B0%A5%E0%B0%A4%E0%B1%8B%20%E0%B0%B0%E0%B0%BE%E0%B0%B7%E0%B1%8D%E0%B0%9F%E0%B1%8D%E0%B0%B0%20%E0%B0%AA%E0%B1%8D%E0%B0%B0%E0%B0%AD%E0%B1%81%E0%B0%A4%E0%B1%8D%E0%B0%B5%E0%B0%82%20%E0%B0%8F%E0%B0%82%E0%B0%93%E0%B0%AF%E0%B1%82%20%E0%B0%95%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%AF%E0%B0%95%E0%B1%8D%E0%B0%B0%E0%B0%AE%E0%B0%82_20.09.2023.pdf) (In Telugu)
 
 **Tamil Nadu** releases the **Tamil Nadu Tourism Policy 2023** aiming to attract an investment of $2.4 billion in the sector over the next five years. 
 
