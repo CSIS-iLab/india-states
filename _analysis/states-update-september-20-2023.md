@@ -10,7 +10,7 @@ excerpt: Tamil Nadu releases the revamped Tamil Nadu Startup and Innovation Poli
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
