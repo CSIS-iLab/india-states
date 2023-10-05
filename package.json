@@ -37,7 +37,7 @@
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
-    "autoprefixer": "^9.3.1",
+    "autoprefixer": "^10.4.16",
     "browser-sync": "^2.26.5",
     "eslint-config-prettier": "^3.1.0",
     "eslint-loader": "^2.1.1",
@@ -49,7 +49,7 @@
     "gulp-imagemin": "^6.0.0",
     "gulp-newer": "^1.4.0",
     "gulp-plumber": "^1.2.1",
-    "gulp-postcss": "^8.0.0",
+    "gulp-postcss": "^9.0.1",
     "gulp-sass": "^4.0.2",
     "gulp-watch": "^5.0.1",
     "imagemin-pngquant": "^6.0.0",
