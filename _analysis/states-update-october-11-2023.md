@@ -16,7 +16,7 @@ feature_image_credit: ''
 sources: []
 details: []
 author:
-- Richard M. Rossow
+- Akshat Singh
 
 ---
 
