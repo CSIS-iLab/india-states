@@ -70,6 +70,7 @@ GEM
 PLATFORMS
   x86_64-darwin-17
   x86_64-darwin-20
+  x86_64-darwin-22
 
 DEPENDENCIES
   algoliasearch (= 1.27.5)
@@ -78,7 +79,7 @@ DEPENDENCIES
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.6.3p62
+   ruby 3.2.2p53
 
 BUNDLED WITH
    2.4.10

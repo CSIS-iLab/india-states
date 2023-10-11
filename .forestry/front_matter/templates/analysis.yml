@@ -2,371 +2,368 @@
 label: Analysis
 hide_body: false
 fields:
+- type: text
+  label: Title
+  name: title
+  config:
+    required: true
+- type: datetime
+  name: date
+  label: date
+  config:
+    required: true
+- type: tag_list
+  name: tags
+  label: Tags
+- type: textarea
+  name: excerpt
+  label: Excerpt
+- type: include
+  name: subsectors
+  label: Subsectors
+  template: sub-categories-sortable-list
+- type: select
+  name: post_type
+  default: []
+  config:
+    required: false
+    source:
+      type: pages
+      section: post-types
+  label: Post Type
+  description: Select the type of post (eg, Partnership Matrices, Reports, India States
+    Weekly, etc.)
+- type: boolean
+  name: is_featured
+  label: Is_Featured
+- type: file
+  name: feature_image
+  label: Feature Image
+- type: text
+  name: feature_image_credit
+  label: Feature Image Credit
+- type: field_group_list
+  name: sources
+  label: Sources
+  fields:
   - type: text
-    label: Title
-    name: title
-    config:
-      required: true
-  - type: datetime
-    name: date
-    label: date
-    config:
-      required: true
-  - type: tag_list
-    name: tags
-    label: Tags
-  - type: textarea
-    name: excerpt
-    label: Excerpt
-  - type: include
-    name: subsectors
-    label: Subsectors
-    template: sub-categories-sortable-list
-  - type: select
-    name: post_type
-    default: []
-    config:
-      required: false
-      source:
-        type: pages
-        section: post-types
-    label: Post Type
-    description:
-      Select the type of post (eg, Partnership Matrices, Reports, India States
-      Weekly, etc.)
-  - type: boolean
-    name: is_featured
-    label: Is_Featured
-  - type: file
-    name: feature_image
-    label: Feature Image
+    name: name
+    label: Name
   - type: text
-    name: feature_image_credit
-    label: Feature Image Credit
-  - type: field_group_list
-    name: sources
-    label: Sources
-    fields:
-      - type: text
-        name: name
-        label: Name
-      - type: text
-        name: url
-        label: Url
-  - type: field_group_list
-    name: details
-    label: Details
-    fields:
-      - type: text
-        name: name
-        label: Name
-      - type: text
-        name: url
-        label: Url
-  - type: list
-    config:
-      use_select: true
-      source:
-        type: simple
-      options:
-        - Sidhanta Mehra
-        - Sarah Watson
-        - Natalie Tecimer
-        - Aman Thakker
-        - Kartikeya Singh
-        - Afeena Ashfaque
-        - Sharmila Bellur
-        - Sarah Ladislaw
-        - Jane Nakano
-        - Richard M. Rossow
-        - Neelima Jain
-        - Akshat Singh
-    label: Author
-    name: author
+    name: url
+    label: Url
+- type: field_group_list
+  name: details
+  label: Details
+  fields:
   - type: text
-    hidden: true
-    label: Breadcrumbs
-    name: breadcrumbs
-    default: analysis
-  - type: boolean
-    name: is_analysis
-    label: Is Analysis
-    default: true
-    hidden: true
+    name: name
+    label: Name
   - type: text
-    name: content_type
-    label: Content_Type
-    hidden: true
-    default: analysis
+    name: url
+    label: Url
+- type: list
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Sidhanta Mehra
+    - Sarah Watson
+    - Natalie Tecimer
+    - Aman Thakker
+    - Kartikeya Singh
+    - Afeena Ashfaque
+    - Sharmila Bellur
+    - Sarah Ladislaw
+    - Jane Nakano
+    - Richard M. Rossow
+    - Neelima Jain
+  label: Author
+  name: author
+- type: text
+  hidden: true
+  label: Breadcrumbs
+  name: breadcrumbs
+  default: analysis
+- type: boolean
+  name: is_analysis
+  label: Is Analysis
+  default: true
+  hidden: true
+- type: text
+  name: content_type
+  label: Content_Type
+  hidden: true
+  default: analysis
 pages:
-  - _analysis/india-s-state-level-reforms-first-quarter-2020.md
-  - _analysis/india-s-state-level-reforms-fourth-quarter-2019.md
-  - _analysis/indian-state-level-business-reforms-fourth-quarter-2020.md
-  - _analysis/indian-state-level-business-reforms-fourth-quarter-2021.md
-  - _analysis/indian-state-level-business-reforms-third-quarter-2020.md
-  - _analysis/indian-state-level-business-reforms-third-quarter-2021.md
-  - _analysis/state-update-april-15-2020.md
-  - _analysis/states-quarterly-september-10-2020.md
-  - _analysis/states-update-april-07-2021.md
-  - _analysis/states-update-april-1-2020.md
-  - _analysis/states-update-april-10-2019.md
-  - _analysis/states-update-april-12-2023.md
-  - _analysis/states-update-april-13-2022.md
-  - _analysis/states-update-april-14-2021.md
-  - _analysis/states-update-april-17-2019.md
-  - _analysis/states-update-april-19-2023.md
-  - _analysis/states-update-april-20-2022.md
-  - _analysis/states-update-april-21-2021.md
-  - _analysis/states-update-april-22-2020.md
-  - _analysis/states-update-april-24-2019.md
-  - _analysis/states-update-april-26-2023.md
-  - _analysis/states-update-april-27-2022.md
-  - _analysis/states-update-april-28-2021.md
-  - _analysis/states-update-april-29-2020.md
-  - _analysis/states-update-april-3-2019.md
-  - _analysis/states-update-april-5-2023.md
-  - _analysis/states-update-april-6-2022.md
-  - _analysis/states-update-april-8-2020.md
-  - _analysis/states-update-august-03-2021.md
-  - _analysis/states-update-august-10-2022.md
-  - _analysis/states-update-august-11-2021.md
-  - _analysis/states-update-august-12-2020.md
-  - _analysis/states-update-august-14-2019.md
-  - _analysis/states-update-august-16-2023.md
-  - _analysis/states-update-august-17-2021.md
-  - _analysis/states-update-august-17-2022.md
-  - _analysis/states-update-august-18-2020.md
-  - _analysis/states-update-august-2-2023.md
-  - _analysis/states-update-august-21-2019-1.md
-  - _analysis/states-update-august-21-2019.md
-  - _analysis/states-update-august-23-2023.md
-  - _analysis/states-update-august-24-2021.md
-  - _analysis/states-update-august-24-2022.md
-  - _analysis/states-update-august-25-2020.md
-  - _analysis/states-update-august-28-2019.md
-  - _analysis/states-update-august-3-2022.md
-  - _analysis/states-update-august-30-2023.md
-  - _analysis/states-update-august-31-2022.md
-  - _analysis/states-update-august-5-2020.md
-  - _analysis/states-update-august-8-2019.md
-  - _analysis/states-update-august-8-2023.md
-  - _analysis/states-update-dec-24-2019-1.md
-  - _analysis/states-update-dec-24-2019.md
-  - _analysis/states-update-december-01-2021.md
-  - _analysis/states-update-december-02-2020.md
-  - _analysis/states-update-december-08-2021.md
-  - _analysis/states-update-december-09-2020.md
-  - _analysis/states-update-december-12-2018.md
-  - _analysis/states-update-december-14-2022.md
-  - _analysis/states-update-december-15-2020.md
-  - _analysis/states-update-december-15-2021.md
-  - _analysis/states-update-december-19-2018.md
-  - _analysis/states-update-december-21-2022.md
-  - _analysis/states-update-december-22-2020.md
-  - _analysis/states-update-december-22-2021.md
-  - _analysis/states-update-december-28-2018.md
-  - _analysis/states-update-december-28-2022.md
-  - _analysis/states-update-december-29-2021.md
-  - _analysis/states-update-december-30-2020.md
-  - _analysis/states-update-december-4-2019.md
-  - _analysis/states-update-december-5-2018.md
-  - _analysis/states-update-december-7-2022.md
-  - _analysis/states-update-february-03-2021.md
-  - _analysis/states-update-february-10-2021.md
-  - _analysis/states-update-february-12-2020.md
-  - _analysis/states-update-february-13-2019.md
-  - _analysis/states-update-february-15-2023.md
-  - _analysis/states-update-february-16-2022.md
-  - _analysis/states-update-february-17-2021.md
-  - _analysis/states-update-february-19-2020.md
-  - _analysis/states-update-february-2-2022.md
-  - _analysis/states-update-february-2-2023.md
-  - _analysis/states-update-february-21-2019.md
-  - _analysis/states-update-february-22-2023.md
-  - _analysis/states-update-february-23-2022.md
-  - _analysis/states-update-february-24-2021.md
-  - _analysis/states-update-february-26-2020.md
-  - _analysis/states-update-february-27-2019.md
-  - _analysis/states-update-february-29-2023.md
-  - _analysis/states-update-february-5-2020.md
-  - _analysis/states-update-february-6-2019.md
-  - _analysis/states-update-february-8-2023.md
-  - _analysis/states-update-february-9-2022.md
-  - _analysis/states-update-january-05-2021.md
-  - _analysis/states-update-january-12-2021.md
-  - _analysis/states-update-january-13-2022.md
-  - _analysis/states-update-january-15-2020.md
-  - _analysis/states-update-january-16-2019.md
-  - _analysis/states-update-january-18-2023.md
-  - _analysis/states-update-january-19-2021.md
-  - _analysis/states-update-january-19-2022.md
-  - _analysis/states-update-january-2-2020.md
-  - _analysis/states-update-january-22-2020.md
-  - _analysis/states-update-january-24-2019.md
-  - _analysis/states-update-january-25-2023.md
-  - _analysis/states-update-january-26-2022.md
-  - _analysis/states-update-january-27-2021.md
-  - _analysis/states-update-january-29-2020.md
-  - _analysis/states-update-january-3-2018.md
-  - _analysis/states-update-january-30-2019.md
-  - _analysis/states-update-january-4-2023-1.md
-  - _analysis/states-update-january-4-2023.md
-  - _analysis/states-update-january-5-2022.md
-  - _analysis/states-update-january-9-2019.md
-  - _analysis/states-update-july-08-2021.md
-  - _analysis/states-update-july-1-2020.md
-  - _analysis/states-update-july-10-2019.md
-  - _analysis/states-update-july-12-2023.md
-  - _analysis/states-update-july-13-2022.md
-  - _analysis/states-update-july-14-2021.md
-  - _analysis/states-update-july-14-2023.md
-  - _analysis/states-update-july-15-2020.md
-  - _analysis/states-update-july-17-2019.md
-  - _analysis/states-update-july-19-2023.md
-  - _analysis/states-update-july-21-2021.md
-  - _analysis/states-update-july-21-2022.md
-  - _analysis/states-update-july-22-2020.md
-  - _analysis/states-update-july-24-2019.md
-  - _analysis/states-update-july-26-2022.md
-  - _analysis/states-update-july-26-2023.md
-  - _analysis/states-update-july-27-2021.md
-  - _analysis/states-update-july-28-2020.md
-  - _analysis/states-update-july-3-2019.md
-  - _analysis/states-update-july-31-2019.md
-  - _analysis/states-update-july-5-2023.md
-  - _analysis/states-update-july-6-2022.md
-  - _analysis/states-update-july-8-2020.md
-  - _analysis/states-update-june-02-2021.md
-  - _analysis/states-update-june-09-2021.md
-  - _analysis/states-update-june-1-2022.md
-  - _analysis/states-update-june-10-2020.md
-  - _analysis/states-update-june-12-2019.md
-  - _analysis/states-update-june-16-2021.md
-  - _analysis/states-update-june-16-2022.md
-  - _analysis/states-update-june-17-2020.md
-  - _analysis/states-update-june-19-2019.md
-  - _analysis/states-update-june-21-2023.md
-  - _analysis/states-update-june-22-2022.md
-  - _analysis/states-update-june-23-2021.md
-  - _analysis/states-update-june-24-2020.md
-  - _analysis/states-update-june-26-2019.md
-  - _analysis/states-update-june-28-2023.md
-  - _analysis/states-update-june-29-2021.md
-  - _analysis/states-update-june-29-2022.md
-  - _analysis/states-update-june-3-2020.md
-  - _analysis/states-update-june-5-2019.md
-  - _analysis/states-update-june-7-2023.md
-  - _analysis/states-update-june-9-2022.md
-  - _analysis/states-update-march-03-2021.md
-  - _analysis/states-update-march-10-2021.md
-  - _analysis/states-update-march-11-2020.md
-  - _analysis/states-update-march-14-2019.md
-  - _analysis/states-update-march-15-2023.md
-  - _analysis/states-update-march-16-2022.md
-  - _analysis/states-update-march-17-2021.md
-  - _analysis/states-update-march-18-2020.md
-  - _analysis/states-update-march-2-2022.md
-  - _analysis/states-update-march-20-2019.md
-  - _analysis/states-update-march-22-2023.md
-  - _analysis/states-update-march-23-2022.md
-  - _analysis/states-update-march-24-2021.md
-  - _analysis/states-update-march-25-2020.md
-  - _analysis/states-update-march-27-test.md
-  - _analysis/states-update-march-29-2023.md
-  - _analysis/states-update-march-30-2022.md
-  - _analysis/states-update-march-31-2021.md
-  - _analysis/states-update-march-4-2020.md
-  - _analysis/states-update-march-6-2019.md
-  - _analysis/states-update-march-8-2023.md
-  - _analysis/states-update-march-9-2022.md
-  - _analysis/states-update-may-04-2020.md
-  - _analysis/states-update-may-1-2019.md
-  - _analysis/states-update-may-10-2023.md
-  - _analysis/states-update-may-12-2021.md
-  - _analysis/states-update-may-12-2022.md
-  - _analysis/states-update-may-13-2020.md
-  - _analysis/states-update-may-15-2019.md
-  - _analysis/states-update-may-17-2023.md
-  - _analysis/states-update-may-18-2022.md
-  - _analysis/states-update-may-19-2021.md
-  - _analysis/states-update-may-20-2020.md
-  - _analysis/states-update-may-22-2019.md
-  - _analysis/states-update-may-24-2023.md
-  - _analysis/states-update-may-25-2021.md
-  - _analysis/states-update-may-25-2022.md
-  - _analysis/states-update-may-27-2020.md
-  - _analysis/states-update-may-29-2019.md
-  - _analysis/states-update-may-3-2023.md
-  - _analysis/states-update-may-31-2023.md
-  - _analysis/states-update-may-4-2022.md
-  - _analysis/states-update-may-6-2020.md
-  - _analysis/states-update-may-8-2019.md
-  - _analysis/states-update-november-03-2021.md
-  - _analysis/states-update-november-04-2020.md
-  - _analysis/states-update-november-10-2021-1.md
-  - _analysis/states-update-november-10-2021.md
-  - _analysis/states-update-november-11-2020.md
-  - _analysis/states-update-november-13-2018.md
-  - _analysis/states-update-november-13-2019.md
-  - _analysis/states-update-november-16-2022.md
-  - _analysis/states-update-november-18-2020.md
-  - _analysis/states-update-november-2-2022.md
-  - _analysis/states-update-november-20-2019.md
-  - _analysis/states-update-november-21-2018.md
-  - _analysis/states-update-november-23-2022.md
-  - _analysis/states-update-november-24-2020.md
-  - _analysis/states-update-november-25-2020.md
-  - _analysis/states-update-november-27-2019.md
-  - _analysis/states-update-november-28-2018.md
-  - _analysis/states-update-november-30-2022.md
-  - _analysis/states-update-november-6-2019.md
-  - _analysis/states-update-november-7-2018.md
-  - _analysis/states-update-november-9-2022.md
-  - _analysis/states-update-octobe-26-2022.md
-  - _analysis/states-update-october-04-2023.md
-  - _analysis/states-update-october-06-2020.md
-  - _analysis/states-update-october-10-2018.md
-  - _analysis/states-update-october-11-2023.md
-  - _analysis/states-update-october-12-2022.md
-  - _analysis/states-update-october-13-2021.md
-  - _analysis/states-update-october-14-2020.md
-  - _analysis/states-update-october-16-2019.md
-  - _analysis/states-update-october-17-2018.md
-  - _analysis/states-update-october-19-2022.md
-  - _analysis/states-update-october-20-2021.md
-  - _analysis/states-update-october-21-2020.md
-  - _analysis/states-update-october-23-2019.md
-  - _analysis/states-update-october-24-2018.md
-  - _analysis/states-update-october-27-2021.md
-  - _analysis/states-update-october-28-2020.md
-  - _analysis/states-update-october-3-2019.md
-  - _analysis/states-update-october-30-2018.md
-  - _analysis/states-update-october-30-2019.md
-  - _analysis/states-update-october-5-2022.md
-  - _analysis/states-update-october-6-2021.md
-  - _analysis/states-update-october-9-2019.md
-  - _analysis/states-update-september-02-2020.md
-  - _analysis/states-update-september-09-2020.md
-  - _analysis/states-update-september-1-2021.md
-  - _analysis/states-update-september-11-2019.md
-  - _analysis/states-update-september-14-2021.md
-  - _analysis/states-update-september-14-2022.md
-  - _analysis/states-update-september-16-2020.md
-  - _analysis/states-update-september-18-2019.md
-  - _analysis/states-update-september-20-2023.md
-  - _analysis/states-update-september-21-2022.md
-  - _analysis/states-update-september-22-2021.md
-  - _analysis/states-update-september-23-2020.md
-  - _analysis/states-update-september-25-2019.md
-  - _analysis/states-update-september-27-2023.md
-  - _analysis/states-update-september-28-2022.md
-  - _analysis/states-update-september-30-2020.md
-  - _analysis/states-update-september-30-2021.md
-  - _analysis/states-update-september-13-2023.md
-  - _analysis/states-update-september-4-2019-1.md
-  - _analysis/states-update-september-4-2019.md
-  - _analysis/states-update-september-6-2023.md
-  - _analysis/states-update-september-7-2021.md
-  - _analysis/states-update-september-7-2022.md
-  - _analysis/test.md
-  - _analysis/west-bengal-reduces-tax-on-petrol-and-diesel.md
+- _analysis/india-s-state-level-reforms-first-quarter-2020.md
+- _analysis/india-s-state-level-reforms-fourth-quarter-2019.md
+- _analysis/indian-state-level-business-reforms-fourth-quarter-2020.md
+- _analysis/indian-state-level-business-reforms-fourth-quarter-2021.md
+- _analysis/indian-state-level-business-reforms-third-quarter-2020.md
+- _analysis/indian-state-level-business-reforms-third-quarter-2021.md
+- _analysis/state-update-april-15-2020.md
+- _analysis/states-quarterly-september-10-2020.md
+- _analysis/states-update-april-07-2021.md
+- _analysis/states-update-april-1-2020.md
+- _analysis/states-update-april-10-2019.md
+- _analysis/states-update-april-12-2023.md
+- _analysis/states-update-april-13-2022.md
+- _analysis/states-update-april-14-2021.md
+- _analysis/states-update-april-17-2019.md
+- _analysis/states-update-april-19-2023.md
+- _analysis/states-update-april-20-2022.md
+- _analysis/states-update-april-21-2021.md
+- _analysis/states-update-april-22-2020.md
+- _analysis/states-update-april-24-2019.md
+- _analysis/states-update-april-26-2023.md
+- _analysis/states-update-april-27-2022.md
+- _analysis/states-update-april-28-2021.md
+- _analysis/states-update-april-29-2020.md
+- _analysis/states-update-april-3-2019.md
+- _analysis/states-update-april-5-2023.md
+- _analysis/states-update-april-6-2022.md
+- _analysis/states-update-april-8-2020.md
+- _analysis/states-update-august-03-2021.md
+- _analysis/states-update-august-10-2022.md
+- _analysis/states-update-august-11-2021.md
+- _analysis/states-update-august-12-2020.md
+- _analysis/states-update-august-14-2019.md
+- _analysis/states-update-august-16-2023.md
+- _analysis/states-update-august-17-2021.md
+- _analysis/states-update-august-17-2022.md
+- _analysis/states-update-august-18-2020.md
+- _analysis/states-update-august-2-2023.md
+- _analysis/states-update-august-21-2019-1.md
+- _analysis/states-update-august-21-2019.md
+- _analysis/states-update-august-23-2023.md
+- _analysis/states-update-august-24-2021.md
+- _analysis/states-update-august-24-2022.md
+- _analysis/states-update-august-25-2020.md
+- _analysis/states-update-august-28-2019.md
+- _analysis/states-update-august-3-2022.md
+- _analysis/states-update-august-30-2023.md
+- _analysis/states-update-august-31-2022.md
+- _analysis/states-update-august-5-2020.md
+- _analysis/states-update-august-8-2019.md
+- _analysis/states-update-august-8-2023.md
+- _analysis/states-update-dec-24-2019-1.md
+- _analysis/states-update-dec-24-2019.md
+- _analysis/states-update-december-01-2021.md
+- _analysis/states-update-december-02-2020.md
+- _analysis/states-update-december-08-2021.md
+- _analysis/states-update-december-09-2020.md
+- _analysis/states-update-december-12-2018.md
+- _analysis/states-update-december-14-2022.md
+- _analysis/states-update-december-15-2020.md
+- _analysis/states-update-december-15-2021.md
+- _analysis/states-update-december-19-2018.md
+- _analysis/states-update-december-21-2022.md
+- _analysis/states-update-december-22-2020.md
+- _analysis/states-update-december-22-2021.md
+- _analysis/states-update-december-28-2018.md
+- _analysis/states-update-december-28-2022.md
+- _analysis/states-update-december-29-2021.md
+- _analysis/states-update-december-30-2020.md
+- _analysis/states-update-december-4-2019.md
+- _analysis/states-update-december-5-2018.md
+- _analysis/states-update-december-7-2022.md
+- _analysis/states-update-february-03-2021.md
+- _analysis/states-update-february-10-2021.md
+- _analysis/states-update-february-12-2020.md
+- _analysis/states-update-february-13-2019.md
+- _analysis/states-update-february-15-2023.md
+- _analysis/states-update-february-16-2022.md
+- _analysis/states-update-february-17-2021.md
+- _analysis/states-update-february-19-2020.md
+- _analysis/states-update-february-2-2022.md
+- _analysis/states-update-february-2-2023.md
+- _analysis/states-update-february-21-2019.md
+- _analysis/states-update-february-22-2023.md
+- _analysis/states-update-february-23-2022.md
+- _analysis/states-update-february-24-2021.md
+- _analysis/states-update-february-26-2020.md
+- _analysis/states-update-february-27-2019.md
+- _analysis/states-update-february-29-2023.md
+- _analysis/states-update-february-5-2020.md
+- _analysis/states-update-february-6-2019.md
+- _analysis/states-update-february-8-2023.md
+- _analysis/states-update-february-9-2022.md
+- _analysis/states-update-january-05-2021.md
+- _analysis/states-update-january-12-2021.md
+- _analysis/states-update-january-13-2022.md
+- _analysis/states-update-january-15-2020.md
+- _analysis/states-update-january-16-2019.md
+- _analysis/states-update-january-18-2023.md
+- _analysis/states-update-january-19-2021.md
+- _analysis/states-update-january-19-2022.md
+- _analysis/states-update-january-2-2020.md
+- _analysis/states-update-january-22-2020.md
+- _analysis/states-update-january-24-2019.md
+- _analysis/states-update-january-25-2023.md
+- _analysis/states-update-january-26-2022.md
+- _analysis/states-update-january-27-2021.md
+- _analysis/states-update-january-29-2020.md
+- _analysis/states-update-january-3-2018.md
+- _analysis/states-update-january-30-2019.md
+- _analysis/states-update-january-4-2023-1.md
+- _analysis/states-update-january-4-2023.md
+- _analysis/states-update-january-5-2022.md
+- _analysis/states-update-january-9-2019.md
+- _analysis/states-update-july-08-2021.md
+- _analysis/states-update-july-1-2020.md
+- _analysis/states-update-july-10-2019.md
+- _analysis/states-update-july-12-2023.md
+- _analysis/states-update-july-13-2022.md
+- _analysis/states-update-july-14-2021.md
+- _analysis/states-update-july-14-2023.md
+- _analysis/states-update-july-15-2020.md
+- _analysis/states-update-july-17-2019.md
+- _analysis/states-update-july-19-2023.md
+- _analysis/states-update-july-21-2021.md
+- _analysis/states-update-july-21-2022.md
+- _analysis/states-update-july-22-2020.md
+- _analysis/states-update-july-24-2019.md
+- _analysis/states-update-july-26-2022.md
+- _analysis/states-update-july-26-2023.md
+- _analysis/states-update-july-27-2021.md
+- _analysis/states-update-july-28-2020.md
+- _analysis/states-update-july-3-2019.md
+- _analysis/states-update-july-31-2019.md
+- _analysis/states-update-july-5-2023.md
+- _analysis/states-update-july-6-2022.md
+- _analysis/states-update-july-8-2020.md
+- _analysis/states-update-june-02-2021.md
+- _analysis/states-update-june-09-2021.md
+- _analysis/states-update-june-1-2022.md
+- _analysis/states-update-june-10-2020.md
+- _analysis/states-update-june-12-2019.md
+- _analysis/states-update-june-16-2021.md
+- _analysis/states-update-june-16-2022.md
+- _analysis/states-update-june-17-2020.md
+- _analysis/states-update-june-19-2019.md
+- _analysis/states-update-june-21-2023.md
+- _analysis/states-update-june-22-2022.md
+- _analysis/states-update-june-23-2021.md
+- _analysis/states-update-june-24-2020.md
+- _analysis/states-update-june-26-2019.md
+- _analysis/states-update-june-28-2023.md
+- _analysis/states-update-june-29-2021.md
+- _analysis/states-update-june-29-2022.md
+- _analysis/states-update-june-3-2020.md
+- _analysis/states-update-june-5-2019.md
+- _analysis/states-update-june-7-2023.md
+- _analysis/states-update-june-9-2022.md
+- _analysis/states-update-march-03-2021.md
+- _analysis/states-update-march-10-2021.md
+- _analysis/states-update-march-11-2020.md
+- _analysis/states-update-march-14-2019.md
+- _analysis/states-update-march-15-2023.md
+- _analysis/states-update-march-16-2022.md
+- _analysis/states-update-march-17-2021.md
+- _analysis/states-update-march-18-2020.md
+- _analysis/states-update-march-2-2022.md
+- _analysis/states-update-march-20-2019.md
+- _analysis/states-update-march-22-2023.md
+- _analysis/states-update-march-23-2022.md
+- _analysis/states-update-march-24-2021.md
+- _analysis/states-update-march-25-2020.md
+- _analysis/states-update-march-27-test.md
+- _analysis/states-update-march-29-2023.md
+- _analysis/states-update-march-30-2022.md
+- _analysis/states-update-march-31-2021.md
+- _analysis/states-update-march-4-2020.md
+- _analysis/states-update-march-6-2019.md
+- _analysis/states-update-march-8-2023.md
+- _analysis/states-update-march-9-2022.md
+- _analysis/states-update-may-04-2020.md
+- _analysis/states-update-may-1-2019.md
+- _analysis/states-update-may-10-2023.md
+- _analysis/states-update-may-12-2021.md
+- _analysis/states-update-may-12-2022.md
+- _analysis/states-update-may-13-2020.md
+- _analysis/states-update-may-15-2019.md
+- _analysis/states-update-may-17-2023.md
+- _analysis/states-update-may-18-2022.md
+- _analysis/states-update-may-19-2021.md
+- _analysis/states-update-may-20-2020.md
+- _analysis/states-update-may-22-2019.md
+- _analysis/states-update-may-24-2023.md
+- _analysis/states-update-may-25-2021.md
+- _analysis/states-update-may-25-2022.md
+- _analysis/states-update-may-27-2020.md
+- _analysis/states-update-may-29-2019.md
+- _analysis/states-update-may-3-2023.md
+- _analysis/states-update-may-31-2023.md
+- _analysis/states-update-may-4-2022.md
+- _analysis/states-update-may-6-2020.md
+- _analysis/states-update-may-8-2019.md
+- _analysis/states-update-november-03-2021.md
+- _analysis/states-update-november-04-2020.md
+- _analysis/states-update-november-10-2021-1.md
+- _analysis/states-update-november-10-2021.md
+- _analysis/states-update-november-11-2020.md
+- _analysis/states-update-november-13-2018.md
+- _analysis/states-update-november-13-2019.md
+- _analysis/states-update-november-16-2022.md
+- _analysis/states-update-november-18-2020.md
+- _analysis/states-update-november-2-2022.md
+- _analysis/states-update-november-20-2019.md
+- _analysis/states-update-november-21-2018.md
+- _analysis/states-update-november-23-2022.md
+- _analysis/states-update-november-24-2020.md
+- _analysis/states-update-november-25-2020.md
+- _analysis/states-update-november-27-2019.md
+- _analysis/states-update-november-28-2018.md
+- _analysis/states-update-november-30-2022.md
+- _analysis/states-update-november-6-2019.md
+- _analysis/states-update-november-7-2018.md
+- _analysis/states-update-november-9-2022.md
+- _analysis/states-update-octobe-26-2022.md
+- _analysis/states-update-october-04-2023.md
+- _analysis/states-update-october-06-2020.md
+- _analysis/states-update-october-10-2018.md
+- _analysis/states-update-october-12-2022.md
+- _analysis/states-update-october-13-2021.md
+- _analysis/states-update-october-14-2020.md
+- _analysis/states-update-october-16-2019.md
+- _analysis/states-update-october-17-2018.md
+- _analysis/states-update-october-19-2022.md
+- _analysis/states-update-october-20-2021.md
+- _analysis/states-update-october-21-2020.md
+- _analysis/states-update-october-23-2019.md
+- _analysis/states-update-october-24-2018.md
+- _analysis/states-update-october-27-2021.md
+- _analysis/states-update-october-28-2020.md
+- _analysis/states-update-october-3-2019.md
+- _analysis/states-update-october-30-2018.md
+- _analysis/states-update-october-30-2019.md
+- _analysis/states-update-october-5-2022.md
+- _analysis/states-update-october-6-2021.md
+- _analysis/states-update-october-9-2019.md
+- _analysis/states-update-september-02-2020.md
+- _analysis/states-update-september-09-2020.md
+- _analysis/states-update-september-1-2021.md
+- _analysis/states-update-september-11-2019.md
+- _analysis/states-update-september-14-2021.md
+- _analysis/states-update-september-14-2022.md
+- _analysis/states-update-september-16-2020.md
+- _analysis/states-update-september-18-2019.md
+- _analysis/states-update-september-20-2023.md
+- _analysis/states-update-september-21-2022.md
+- _analysis/states-update-september-22-2021.md
+- _analysis/states-update-september-23-2020.md
+- _analysis/states-update-september-25-2019.md
+- _analysis/states-update-september-27-2023.md
+- _analysis/states-update-september-28-2022.md
+- _analysis/states-update-september-30-2020.md
+- _analysis/states-update-september-30-2021.md
+- _analysis/states-update-september-13-2023.md
+- _analysis/states-update-september-4-2019-1.md
+- _analysis/states-update-september-4-2019.md
+- _analysis/states-update-september-6-2023.md
+- _analysis/states-update-september-7-2021.md
+- _analysis/states-update-september-7-2022.md
+- _analysis/test.md
+- _analysis/west-bengal-reduces-tax-on-petrol-and-diesel.md
