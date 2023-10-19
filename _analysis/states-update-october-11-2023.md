@@ -10,7 +10,7 @@ excerpt: Election Commission of India announces poll dates for Rajasthan, Chhatt
 states: []
 sectors: []
 subsectors: []
-is_featured: true
+is_featured: false
 feature_image: ''
 feature_image_credit: ''
 sources: []
