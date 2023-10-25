@@ -24,7 +24,7 @@ author:
 
 **Health**
 
-**Haryana** unveils a comprehensive plan to provide timely ambulance assistance to patients in the state. Under the plan, the government aims to create a unified pool of government and private ambulances across the state, ensuring that patients receive swift assistance from the nearest available ambulance. 
+**Haryana** unveils a comprehensive plan to provide timely ambulance assistance to patients in the state. Under the plan, the government aims to create a unified pool of government and private ambulances across the state, ensuring that patients receive swift assistance from the nearest available ambulance.  
 
 **Source**: [Times of India](https://timesofindia.indiatimes.com/city/chandigarh/haryana-cm-unveils-ambulance-assistance-system-for-timely-patient-care/articleshow/104502069.cms); **In detail**: [Press release](https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:d7422af0-dc43-4d00-b85c-12e49e30d35f)
 
